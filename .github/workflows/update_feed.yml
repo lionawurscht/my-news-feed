@@ -1,10 +1,9 @@
-name: Update News Feed
+name: Update RSS feeds
 
 on:
   schedule:
-    # Runs at minute 0 past every hour
-    - cron: '0 * * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub web UI
+    - cron: "0 * * * *"   # hourly
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,24 +12,45 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.12"
 
-      - name: Install Dependencies
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      # --fail-on-error is deliberately NOT set: a single dead source should
+      # not stop the other feeds from publishing. The report below is how you
+      # find out something broke.
+      - name: Build feeds
+        run: python build_feed.py --verbose
+
+      # Puts the per-source table on the run summary page, so you can see why
+      # a source was excluded without opening the raw log.
+      - name: Publish source report to job summary
+        if: always()
         run: |
-          pip install -r requirements.txt
+          {
+            echo '## Source report'
+            echo '| feed | section | source | status | entries | newest | added |'
+            echo '|---|---|---|---|---|---|---|'
+            python - <<'PY'
+          import json
+          for r in json.load(open("build_report.json")):
+              newest = r["newest_age_hours"]
+              newest = f"{newest:.1f}h" if isinstance(newest, (int, float)) else "-"
+              print(f'| {r["feed_file"]} | {r["section"]} | {r["name"]} | '
+                    f'{r["status"]} | {r["entries_seen"]} | {newest} | '
+                    f'{r["episodes_added"]} |')
+          PY
+          } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Run Feed Parser Script
-        run: python build_feed.py
-
-      - name: Commit and Push Updated Feed
+      - name: Commit and push updated feeds
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update feed.xml" && git push)
+          git add *.xml build_report.json
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "Update RSS feeds" && git push)

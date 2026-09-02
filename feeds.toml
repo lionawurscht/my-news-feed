@@ -1,6 +1,21 @@
 # ==============================================================================
-# FEED 1: MAIN NEWS DIGEST (ACTIVE)
-# Outputs: main.xml
+# ORDERING MODEL
+#
+#   1. Sections play in the order they are declared below.
+#   2. Inside a section, sources with an explicit `order` come first, ascending.
+#   3. Then everything else, by `lang_order`, then newest first.
+#   4. Inside one source, newest episode first.
+#
+# `max_age_hours` and `max_episodes` resolve source -> section -> feed.meta.
+#
+# URL STATUS LEGEND
+#   VERIFIED   - confirmed against the publisher or the Podnews directory
+#   UNVERIFIED - plausible but not confirmed; run `--dry-run` to test
+#   DEAD       - show has stopped publishing
+# ==============================================================================
+
+# ==============================================================================
+# FEED 1: MAIN NEWS DIGEST -> main.xml
 # ==============================================================================
 
 [[feed]]
@@ -8,91 +23,167 @@
 filename = "main.xml"
 enabled = true
 title = "My Daily News Digest"
-description = "Automated daily audio news bulletins sorted by priority and language."
-image_url = "https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"
+description = "Audio news bulletins, ordered overview -> primary -> local -> in-depth."
+link = "https://YOUR_USERNAME.github.io/YOUR_REPO/"
+language = "de"
+image_url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"
 
-# --- GERMAN (DE) ---
+lang_order = ["de", "en", "he", "it"]
 
+max_age_hours = 24
+max_episodes_per_source = 1
+timeout_seconds = 20
+retries = 2
+
+# --- SECTIONS, in playback order ---------------------------------------------
+
+[[feed.sections]]
+name = "overview"
+label = "Overview"
+max_age_hours = 6           # short headline bulletins go stale fast
+
+[[feed.sections]]
+name = "primary"
+label = "Primary"
+max_age_hours = 24
+
+[[feed.sections]]
+name = "local"
+label = "Local"
+max_age_hours = 24
+
+[[feed.sections]]
+name = "in-depth"
+label = "In-Depth"
+max_age_hours = 36          # a twice-daily long-form show can lag
+
+# --- OVERVIEW ----------------------------------------------------------------
+
+# VERIFIED. Old /infoservices/podcast/ path is gone; this is the current one.
+# order = 1 so this always plays first, whatever its timestamp.
 [[feed.sources]]
 name = "Tagesschau in 100 Sekunden"
-url = "https://www.tagesschau.de/infoservices/podcast/podcast-ts100-audio~podcast.xml"
+url = "https://www.tagesschau.de/multimedia/sendung/tagesschau_in_100_sekunden/podcast-ts100-audio-100~podcast.xml"
 lang = "de"
-priority = "primary"
+section = "overview"
+order = 1
 enabled = true
 
-[[feed.sources]]
-name = "Tagesschau 20 Uhr"
-url = "https://www.tagesschau.de/infoservices/podcast/podcast-ts2000-audio~podcast.xml"
-lang = "de"
-priority = "primary"
-enabled = true
-
-[[feed.sources]]
-name = "Deutschlandfunk Nachrichten"
-url = "https://www.deutschlandfunk.de/nachrichten-100.rss"
-lang = "de"
-priority = "primary"
-enabled = true
-
-[[feed.sources]]
-name = "BR24 Nachrichten"
-url = "https://www.br-online.de/podcast/br24-nachrichten/cast.xml"
-lang = "de"
-priority = "secondary"
-enabled = true
-
-[[feed.sources]]
-name = "Ö1 Journal um acht"
-url = "https://oe1.orf.at/podcast/journal800.xml"
-lang = "de"
-priority = "secondary"
-enabled = true
-
-# --- ENGLISH (EN) ---
-
-[[feed.sources]]
-name = "BBC Minute"
-url = "https://podcasts.files.bbci.co.uk/p02nq0gn.rss"
-lang = "en"
-priority = "primary"
-enabled = true
-
+# VERIFIED. Hourly 5-minute US/world bulletin. Closest live equivalent to what
+# BBC Minute used to be.
 [[feed.sources]]
 name = "NPR News Now"
 url = "https://feeds.npr.org/500005/podcast.xml"
 lang = "en"
-priority = "primary"
+section = "overview"
 enabled = true
 
-# --- ITALIAN (IT) ---
+# UNVERIFIED. Third-party mirror of the Kan Reshet Bet hourly 5-minute bulletin
+# (Apple id 1749878673, "Kan Hourly News"). Not simple Hebrew, but it is the
+# only short, regular, public Hebrew bulletin with a real RSS feed I could find.
+# Find its RSS via the Apple/Spotify listing and paste it here.
+[[feed.sources]]
+name = "Kan Reshet Bet - Hourly News"
+url = ""
+lang = "he"
+section = "overview"
+enabled = false
 
+# --- PRIMARY -----------------------------------------------------------------
+
+# VERIFIED. Same path correction as the 100-Sekunden feed.
+[[feed.sources]]
+name = "Tagesschau 20 Uhr"
+url = "https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/podcast-ts2000-audio-100~podcast.xml"
+lang = "de"
+section = "primary"
+order = 1
+enabled = true
+
+# UNVERIFIED. The old URL was an ARTICLE feed, not a podcast feed: it parses
+# fine but has no <enclosure>, so every entry was silently dropped. DLF podcast
+# feeds follow the pattern deutschlandfunk.de/<slug>-1NN.xml (confirmed via
+# computer-und-kommunikation-102.xml). Open the "Die Nachrichten" show page and
+# copy its RSS link.
+[[feed.sources]]
+name = "Deutschlandfunk - Die Nachrichten"
+url = "https://www.deutschlandfunk.de/nachrichten-100.rss"
+lang = "de"
+section = "primary"
+enabled = false
+
+# UNVERIFIED. ORF has restructured podcast hosting, and some ORF audio is
+# geo-restricted, which matters because GitHub runners are US-based.
+[[feed.sources]]
+name = "Ö1 Journal um acht"
+url = "https://oe1.orf.at/podcast/journal800.xml"
+lang = "de"
+section = "primary"
+enabled = false
+
+# UNVERIFIED. RaiPlay Sound serves feeds from a different host/path than this.
 [[feed.sources]]
 name = "Rai Radio 1 - GR1"
 url = "https://www.raiplaysound.it/programmi/gr1.xml"
 lang = "it"
-priority = "primary"
+section = "primary"
+enabled = false
+
+# --- LOCAL -------------------------------------------------------------------
+
+# UNVERIFIED. br-online.de is BR's legacy domain; they moved to br.de years ago.
+[[feed.sources]]
+name = "BR24 Nachrichten (Bayern)"
+url = "https://www.br-online.de/podcast/br24-nachrichten/cast.xml"
+lang = "de"
+section = "local"
+enabled = false
+
+# UNVERIFIED. rbb24 Inforadio is the Berlin/Brandenburg equivalent; find the
+# podcast RSS on rbb24.de and paste it here.
+[[feed.sources]]
+name = "rbb24 Inforadio (Berlin)"
+url = ""
+lang = "de"
+section = "local"
+enabled = false
+
+# --- IN-DEPTH ----------------------------------------------------------------
+
+# VERIFIED, and a correction: p02nq0gn.rss is NOT BBC Minute. It is the BBC
+# World Service Global News Podcast, ~30 min, twice daily on weekdays. This URL
+# was live in your original config, just mislabelled. BBC Minute itself is dead.
+[[feed.sources]]
+name = "BBC Global News Podcast"
+url = "https://podcasts.files.bbci.co.uk/p02nq0gn.rss"
+lang = "en"
+section = "in-depth"
 enabled = true
 
+# UNVERIFIED. WordPress-style URL; may be an article feed without enclosures.
+# Radio Popolare is Milan-based and left-leaning, which fits.
 [[feed.sources]]
-name = "Radio Popolare"
+name = "Radio Popolare - Notiziari"
 url = "https://www.radiopopolare.it/feed/podcast/notiziari/"
 lang = "it"
-priority = "secondary"
-enabled = true
+section = "in-depth"
+enabled = false
 
-# --- HEBREW (HE) ---
-
-[[feed.sources]]
-name = "KAN Easy Hebrew News"
-url = "https://www.kan.org.il/rss/podcast/easy-hebrew-news.xml"
-lang = "he"
-priority = "primary"
-enabled = true
+# Example of why per-source max_age exists: a weekly show would never survive
+# the 36h section default.
+#
+# [[feed.sources]]
+# name = "Some Weekly Review"
+# url = "https://example.com/weekly.xml"
+# lang = "en"
+# section = "in-depth"
+# enabled = false
+# max_age_hours = 192       # 8 days, so a late episode still counts
 
 
 # ==============================================================================
-# FEED 2: TECH & SCIENCE (DISABLED EXAMPLE)
-# Outputs: tech.xml
+# FEED 2: TECH & SCIENCE -> tech.xml
+# Different sections entirely, to show they are per-feed.
 # ==============================================================================
 
 [[feed]]
@@ -100,12 +191,26 @@ enabled = true
 filename = "tech.xml"
 enabled = false
 title = "Tech & Science Briefing"
-description = "Latest technology updates and scientific discoveries."
-image_url = "https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover_tech.png"
+description = "Technology and science, headlines first then long-form."
+link = "https://YOUR_USERNAME.github.io/YOUR_REPO/"
+language = "en"
+lang_order = ["en", "de"]
+max_age_hours = 168
+max_episodes_per_source = 1
+
+[[feed.sections]]
+name = "headlines"
+label = "Headlines"
+max_age_hours = 48
+
+[[feed.sections]]
+name = "features"
+label = "Features"
+max_age_hours = 240
 
 [[feed.sources]]
 name = "BBC Tech Life"
-url = "https://podcasts.files.bbci.co.uk/p02n2150.rss"
+url = "https://podcasts.files.bbci.co.uk/w13xtvg9.rss"
 lang = "en"
-priority = "primary"
+section = "features"
 enabled = true
