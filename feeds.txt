@@ -1,0 +1,8 @@
+# --- German Radio News ---
+https://www.deutschlandfunk.de/nachrichten-108.xml
+# https://example.com/ignored-podcast.xml
+
+# --- English Radio News ---
+https://feeds.npr.org/500005/podcast.xml
+https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+https://rss.dw.com/xml/podcast_news-audio
