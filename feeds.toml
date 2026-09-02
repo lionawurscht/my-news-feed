@@ -1,0 +1,111 @@
+# ==============================================================================
+# FEED 1: MAIN NEWS DIGEST (ACTIVE)
+# Outputs: main.xml
+# ==============================================================================
+
+[[feed]]
+[feed.meta]
+filename = "main.xml"
+enabled = true
+title = "My Daily News Digest"
+description = "Automated daily audio news bulletins sorted by priority and language."
+image_url = "https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"
+
+# --- GERMAN (DE) ---
+
+[[feed.sources]]
+name = "Tagesschau in 100 Sekunden"
+url = "https://www.tagesschau.de/infoservices/podcast/podcast-ts100-audio~podcast.xml"
+lang = "de"
+priority = "primary"
+enabled = true
+
+[[feed.sources]]
+name = "Tagesschau 20 Uhr"
+url = "https://www.tagesschau.de/infoservices/podcast/podcast-ts2000-audio~podcast.xml"
+lang = "de"
+priority = "primary"
+enabled = true
+
+[[feed.sources]]
+name = "Deutschlandfunk Nachrichten"
+url = "https://www.deutschlandfunk.de/nachrichten-100.rss"
+lang = "de"
+priority = "primary"
+enabled = true
+
+[[feed.sources]]
+name = "BR24 Nachrichten"
+url = "https://www.br-online.de/podcast/br24-nachrichten/cast.xml"
+lang = "de"
+priority = "secondary"
+enabled = true
+
+[[feed.sources]]
+name = "Ö1 Journal um acht"
+url = "https://oe1.orf.at/podcast/journal800.xml"
+lang = "de"
+priority = "secondary"
+enabled = true
+
+# --- ENGLISH (EN) ---
+
+[[feed.sources]]
+name = "BBC Minute"
+url = "https://podcasts.files.bbci.co.uk/p02nq0gn.rss"
+lang = "en"
+priority = "primary"
+enabled = true
+
+[[feed.sources]]
+name = "NPR News Now"
+url = "https://feeds.npr.org/500005/podcast.xml"
+lang = "en"
+priority = "primary"
+enabled = true
+
+# --- ITALIAN (IT) ---
+
+[[feed.sources]]
+name = "Rai Radio 1 - GR1"
+url = "https://www.raiplaysound.it/programmi/gr1.xml"
+lang = "it"
+priority = "primary"
+enabled = true
+
+[[feed.sources]]
+name = "Radio Popolare"
+url = "https://www.radiopopolare.it/feed/podcast/notiziari/"
+lang = "it"
+priority = "secondary"
+enabled = true
+
+# --- HEBREW (HE) ---
+
+[[feed.sources]]
+name = "KAN Easy Hebrew News"
+url = "https://www.kan.org.il/rss/podcast/easy-hebrew-news.xml"
+lang = "he"
+priority = "primary"
+enabled = true
+
+
+# ==============================================================================
+# FEED 2: TECH & SCIENCE (DISABLED EXAMPLE)
+# Outputs: tech.xml
+# ==============================================================================
+
+[[feed]]
+[feed.meta]
+filename = "tech.xml"
+enabled = false
+title = "Tech & Science Briefing"
+description = "Latest technology updates and scientific discoveries."
+image_url = "https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover_tech.png"
+
+[[feed.sources]]
+name = "BBC Tech Life"
+url = "https://podcasts.files.bbci.co.uk/p02n2150.rss"
+lang = "en"
+priority = "primary"
+enabled = true
