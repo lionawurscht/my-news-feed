@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Personal News Digest</title>
+    <description>Latest audio news bulletins updated hourly (within 24h).</description>
+    <link>https://github.com</link>
+    <language>en</language>
+    <item>
+      <title>[Die Nachrichten] Die Nachrichten vom 02.09.2026, 09:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-40886.html</link>
+      <pubDate>Wed, 02 Sep 2026 07:30:00 +0000</pubDate>
+      <guid>https://www.deutschlandfunk.de/6c8a944a-f1df-5094-879d-564276ca05e6</guid>
+      <description>Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/02/nachrichten_dlf_20260902_0930_4306582d.mp3?refId=nachrichten-108" length="5010264" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[NPR News Now] NPR News: 09-02-2026 4AM EDT</title>
+      <link/>
+      <pubDate>Wed, 02 Sep 2026 08:10:22 +0000</pubDate>
+      <guid>c792872e-2db9-46fe-97e8-98cdba9db8f5</guid>
+      <description>NPR News: 09-02-2026 4AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.npr.org/about-npr/179878450/privacy-policy"&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0b685632-3d33-4009-b050-df2056201f09/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0b685632-3d33-4009-b050-df2056201f09&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260902-0400-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[Global News Podcast] US accused of hitting a wedding in Iran</title>
+      <link>http://www.bbc.co.uk/programmes/p0p7g11q</link>
+      <pubDate>Wed, 02 Sep 2026 04:28:00 +0000</pubDate>
+      <guid>urn:bbc:podcast:p0p7g11q</guid>
+      <description>&lt;p&gt;The Iranian Red Crescent says four people including a child were killed by US strikes on a wedding in southern Iran as fighting escalates. It said over 50 people were wounded when shrapnel hit a residence in Sirik county, which lies on the Strait of Hormuz. The US military said it was aware of the reports but that it never targeted civilians. Iran launched retaliatory attacks at US bases in the region, with strikes reported in Bahrain, Kuwait and Jordan. Also, President Putin accuses Germany's leader of trying to shore up his position by blaming Russia for a series of hybrid attacks on infrastructure. A new law in Austria that bans girls under the age of 14 from wearing an Islamic headscarf in schools comes into force. Why Chinese electric vehicles are so cheap. And the drone technology being used to save people from shark attacks.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href="mailto:globalpodcast@bbc.co.uk"&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Image description: A military aircraft ready to take off as US forces carry out strikes on Iranian military target. 
+Credit: US Central Command via Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7g0w7.mp3" length="14416000" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
