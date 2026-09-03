@@ -2,33 +2,70 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>My Daily News Digest</title>
-    <description>Automated daily audio news bulletins sorted by priority and language.</description>
-    <link>https://github.com</link>
-    <language>en</language>
+    <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
+    <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
+    <language>de</language>
+    <lastBuildDate>Thu, 03 Sep 2026 07:18:52 +0000</lastBuildDate>
     <image>
-      <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
+      <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
-      <link>https://github.com</link>
+      <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     </image>
-    <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
-      <title>[EN|PRIMARY] BBC Minute: US accused of hitting a wedding in Iran</title>
-      <link>http://www.bbc.co.uk/programmes/p0p7g11q</link>
-      <pubDate>Wed, 02 Sep 2026 04:28:00 +0000</pubDate>
-      <guid>urn:bbc:podcast:p0p7g11q</guid>
-      <description>&lt;p&gt;The Iranian Red Crescent says four people including a child were killed by US strikes on a wedding in southern Iran as fighting escalates. It said over 50 people were wounded when shrapnel hit a residence in Sirik county, which lies on the Strait of Hormuz. The US military said it was aware of the reports but that it never targeted civilians. Iran launched retaliatory attacks at US bases in the region, with strikes reported in Bahrain, Kuwait and Jordan. Also, President Putin accuses Germany's leader of trying to shore up his position by blaming Russia for a series of hybrid attacks on infrastructure. A new law in Austria that bans girls under the age of 14 from wearing an Islamic headscarf in schools comes into force. Why Chinese electric vehicles are so cheap. And the drone technology being used to save people from shark attacks.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href="mailto:globalpodcast@bbc.co.uk"&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Image description: A military aircraft ready to take off as US forces carry out strikes on Iranian military target. 
-Credit: US Central Command via Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7g0w7.mp3" length="14416000" type="audio/mpeg"/>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3455122.html</link>
+      <pubDate>Thu, 03 Sep 2026 07:06:00 +0000</pubDate>
+      <guid isPermaLink="false">f59060f0-2095-4235-9d3a-92067540b5fd</guid>
+      <description>tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0903/AU-20260903-0906-0600.mp3" length="2677771" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|PRIMARY] NPR News Now: NPR News: 09-02-2026 9AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-03-2026 3AM EDT</title>
       <link/>
-      <pubDate>Wed, 02 Sep 2026 13:10:35 +0000</pubDate>
-      <guid>f40bad19-9fff-488d-bba5-24169281aace</guid>
-      <description>NPR News: 09-02-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.npr.org/about-npr/179878450/privacy-policy"&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c4c6d944-fc4a-47a3-8788-697964be12d3/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c4c6d944-fc4a-47a3-8788-697964be12d3&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260902-0900-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Sep 2026 07:11:01 +0000</pubDate>
+      <guid isPermaLink="false">49a80dbf-3196-479f-a9a9-083c9203d23c</guid>
+      <description>NPR News: 09-03-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d9aacfdf-c870-44ff-a9ef-e39543c6542b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d9aacfdf-c870-44ff-a9ef-e39543c6542b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260903-0300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה: חדשון בעברית קלה — 03/09/2026</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Thu, 03 Sep 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/3-9-26.m4a</guid>
+      <description>• דלג ל
+• משרד החינוך
+• כּוֵויית הוֹדִיעָה: אִיראן שִיגרָה אֵלֵינוּ לִפנוֹת בּוֹקֶר טִילִים וכַטבָּ&quot;מים
+• דִיווּחַ בּ&quot;ווֹל סְטרִיט ג'וֹרנַל&quot;: נשׂיא ארה&quot;ב טראמפּ שוֹקֵל להַכרִיז שֶהמִלחָמה בּאִירַאן נִגמְרָה
+• שַׂר המִלחָמה האָמֵרִיקָני פִּיט הֶגסֶת' הֶאֱרִיך את פְּרִיסַת הכּוֹחוֹת האָמֵריקָנִיִים בּמִזרָח התִיכוֹן לתוֹך שנַת 2027
+• כּ-30 יהוּדים, בֵּינֵיהם שנֵי ישׂראלים, הם בֵּין 4,400 הנֶעֱדָרים בּשִיטפוֹנוֹת בּגבוּל סִין-נֶפַּאל. בֵּית חַבַּ&quot;ד בּקַטמַנדוּ הָפך למֶרכָּז לתֵיאוּם החִיפּוּשׂים אַחרֵי הנֶעֱדָרים בָּאָסוֹן
+• הלמ&quot;ס: רק 16% מהעוֹבדים מַגִיעים לעֲבוֹדה בּתַחבּוּרָה צִיבּוּרִית
+• בַּשָבוּעַ הַבָּא יָחוּל רֹאש השָנה – יוֹם של דִין וּתפִילָה, של חֶשבּוֹן נֶפֶש ותִקוָוה
+• התִַחֲזית: ירידה קַלה בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/3-9-26.m4a" length="1475842" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 02.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3454356.html</link>
+      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">50beeabd-cdaf-4cf9-ac2e-e72e0187469a-SENDUNGSAUDIO</guid>
+      <description>Versuchter Drohnenanschlag am Flughafen Leipzig/Halle: Ermittler identifizieren mutmaßliche Täter, EU und NATO unterstützen deutsches Vorgehen gegen Russland, Russlands Präsident Putin weist Vorwürfe der Bundesregierung zum Drohnenanschlag zurück, Ermittlungen nach Sabotageversuchen am Stromnetz in Brandenburg und Nordrhein-Westfalen, Bundeskabinett bringt Einkommensteuerreform auf den Weg, Gesetzentwurf von Familienministerin Prien zur Förderung frühkindlicher Bildung beschlossen, Drei Abgeordnete verlassen BSW und gründen neue Partei, Iran und USA greifen sich wieder gegenseitig an, Nach Sturzflut in Nepal und Tibet gelten rund 4.500 Menschen als vermisst, Ehemaliger DDR-Fußballer Eberhard Vogel mit 83 Jahren gestorben, Eröffnung der 83. Filmfestspiele in Venedig, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0902/AU-20260902-2033-4900.mp3" length="16367009" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast: Venezuela and the US hail new oil deal</title>
+      <link>http://www.bbc.co.uk/programmes/p0p7nwt2</link>
+      <pubDate>Thu, 03 Sep 2026 05:26:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p7nwt2</guid>
+      <description>&lt;p&gt;The United States and Venezuela have welcomed a big energy deal which they've formally signed in Caracas, along with a series of agreements involving international oil firms. The US Energy Secretary Chris Wright said the deal would unlock tens of billions of dollars in investment and thousands of jobs. He said oil production would double in a decade. Critics say the deal hands Washington control of a fifth of Venezuela’s oil reserves and entrenches the current authoritarian government. &lt;/p&gt;&lt;p&gt;Also: New York's mayor, Zohran Mamdani has announced an unprecedented one-year ban on students using artificial intelligence in public elementary and middle schools; Tens of thousands of people have demonstrated against the Spanish government's handling of the migrant crisis in the north African territory of Ceuta. They've been calling for the socialist prime minister, Pedro Sanchez to resign; More than six decades on from the Sharpeville Massacre in South Africa, survivors and relatives of those killed are challenging an apartheid-era law they say has prevented them from seeking justice; And more than nine hundred years after it was made, King Charles and Queen Camilla have had a preview of the historic Bayeux Tapestry which has been loaned to the British Museum in London by France for a year. The tapestry tells the story of the Norman conquest of Saxon England in 1066, when the English king was defeated by the invaders from France. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Venezuela's acting president Delcy Rodriguez
+Credit: AFP via Getty Images&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7nwkb.mp3" length="14624000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
