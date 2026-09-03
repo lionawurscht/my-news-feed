@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:18:21 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,36 +14,30 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3455396.html</link>
-      <pubDate>Thu, 03 Sep 2026 09:05:00 +0000</pubDate>
-      <guid isPermaLink="false">01f6d4b5-12bd-4a3e-8fc0-9ccfc93710c6</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3456566.html</link>
+      <pubDate>Thu, 03 Sep 2026 16:50:00 +0000</pubDate>
+      <guid isPermaLink="false">2eada2e4-fd68-4b54-a3a9-bd934742062f</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0903/AU-20260903-1105-0500.mp3" length="2372491" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0903/AU-20260903-1850-1200.mp3" length="1846411" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-03-2026 10AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-03-2026 2PM EDT</title>
       <link/>
-      <pubDate>Thu, 03 Sep 2026 14:11:14 +0000</pubDate>
-      <guid isPermaLink="false">b6212b8a-c34f-434a-a922-a65d44b929d0</guid>
-      <description>NPR News: 09-03-2026 10AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5d4d1f9b-4c0d-4e8c-9e5a-e4affa1922f2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5d4d1f9b-4c0d-4e8c-9e5a-e4affa1922f2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260903-1000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Sep 2026 18:11:54 +0000</pubDate>
+      <guid isPermaLink="false">9ec9e385-659a-4ff0-b164-b04936b552df</guid>
+      <description>NPR News: 09-03-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/694026a0-2800-4eee-9334-f6e4d63b7c3f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=694026a0-2800-4eee-9334-f6e4d63b7c3f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260903-1400-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 02.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3454356.html</link>
-      <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">50beeabd-cdaf-4cf9-ac2e-e72e0187469a-SENDUNGSAUDIO</guid>
-      <description>Versuchter Drohnenanschlag am Flughafen Leipzig/Halle: Ermittler identifizieren mutmaßliche Täter, EU und NATO unterstützen deutsches Vorgehen gegen Russland, Russlands Präsident Putin weist Vorwürfe der Bundesregierung zum Drohnenanschlag zurück, Ermittlungen nach Sabotageversuchen am Stromnetz in Brandenburg und Nordrhein-Westfalen, Bundeskabinett bringt Einkommensteuerreform auf den Weg, Gesetzentwurf von Familienministerin Prien zur Förderung frühkindlicher Bildung beschlossen, Drei Abgeordnete verlassen BSW und gründen neue Partei, Iran und USA greifen sich wieder gegenseitig an, Nach Sturzflut in Nepal und Tibet gelten rund 4.500 Menschen als vermisst, Ehemaliger DDR-Fußballer Eberhard Vogel mit 83 Jahren gestorben, Eröffnung der 83. Filmfestspiele in Venedig, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0902/AU-20260902-2033-4900.mp3" length="16367009" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: Venezuela and the US hail new oil deal</title>
-      <link>http://www.bbc.co.uk/programmes/p0p7nwt2</link>
-      <pubDate>Thu, 03 Sep 2026 05:26:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p7nwt2</guid>
-      <description>&lt;p&gt;The United States and Venezuela have welcomed a big energy deal which they have formally signed in Caracas, along with a series of agreements involving international oil firms. The US Energy Secretary, Chris Wright, said the deal would unlock tens of billions of dollars in investment and thousands of jobs. He said oil production would double in a decade. Critics say the deal hands Washington control of a fifth of Venezuela’s oil reserves and entrenches the current authoritarian government. &lt;/p&gt;&lt;p&gt;Also, New York's mayor, Zohran Mamdani, has announced an unprecedented one-year ban on students using artificial intelligence in public elementary and middle schools; Tens of thousands of people have demonstrated against the Spanish government's handling of the migrant crisis in the north African territory of Ceuta. They have been calling for the socialist Prime Minister, Pedro Sanchez, to resign; More than six decades on from the Sharpeville Massacre in South Africa, survivors and relatives of those killed are challenging an apartheid-era law they say has prevented them from seeking justice; And more than 900 years after it was made, King Charles and Queen Camilla have had a preview of the historic Bayeux Tapestry which has been loaned to the British Museum in London by France for a year. The tapestry tells the story of the Norman conquest of Saxon England in 1066, when the English king was defeated by the invaders from France. &lt;/p&gt;&lt;p&gt;(Photo: Venezuela's acting president Delcy Rodriguez. Credit: Getty Images)&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7nwkb.mp3" length="14624000" type="audio/mpeg"/>
+      <title>[EN|In-Depth] BBC Global News Podcast: Feminist writer and activist Gloria Steinem dies</title>
+      <link>http://www.bbc.co.uk/programmes/p0p7tpv4</link>
+      <pubDate>Thu, 03 Sep 2026 15:54:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p7tpv4</guid>
+      <description>&lt;p&gt;Gloria Steinem, a leader of the women's liberation movement in the US, has died at the age of 92. During the 1960s and 1970s, she campaigned for women’s reproductive rights and equal pay laws. She also co-founded the Ms. magazine - one of the first feminist publications in the US - and advocated for the legalisation of same-sex marriage. Steinem died peacefully at her home in New York. &lt;/p&gt;&lt;p&gt;Also: the United Nations warns of a &quot;supersized&quot; El Niño as countries prepare for the impact of the severe weather event. Britain's Prime Minister, Andy Burnham, meets President Emmanuel Macron in London, with irregular migration high on the agenda. France is deploying a new team of police officers to its western beaches to try to stop migrants on large, overcrowded vessels from crossing the English Channel. Are we one step closer to discovering dark matter - the substance that binds galaxies together? And women's tennis world number one, Aryna Sabalenka, hits back at suggestions she had been attending 'lots of parties' in the build-up to the US Open.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health - we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Gloria Steinem speaks at a women's march in Washington, US., January 21, 2017.
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7tdd1.mp3" length="12896000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
