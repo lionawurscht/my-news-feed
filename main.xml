@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:50:55 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -21,31 +21,12 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0903/AU-20260903-1105-0500.mp3" length="2372491" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-03-2026 6AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-03-2026 10AM EDT</title>
       <link/>
-      <pubDate>Thu, 03 Sep 2026 10:11:05 +0000</pubDate>
-      <guid isPermaLink="false">4be23b93-b6cb-430a-828c-a9089765740b</guid>
-      <description>NPR News: 09-03-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b8598754-603d-4a05-b19f-b0be41269cf3/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b8598754-603d-4a05-b19f-b0be41269cf3&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260903-0600-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה: חדשון בעברית קלה — 03/09/2026</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Thu, 03 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/3-9-26.m4a</guid>
-      <description>• דלג ל
-• משרד החינוך
-• כּוֵויית הוֹדִיעָה: אִיראן שִיגרָה אֵלֵינוּ לִפנוֹת בּוֹקֶר טִילִים וכַטבָּ&quot;מים
-• דִיווּחַ בּ&quot;ווֹל סְטרִיט ג'וֹרנַל&quot;: נשׂיא ארה&quot;ב טראמפּ שוֹקֵל להַכרִיז שֶהמִלחָמה בּאִירַאן נִגמְרָה
-• שַׂר המִלחָמה האָמֵרִיקָני פִּיט הֶגסֶת' הֶאֱרִיך את פְּרִיסַת הכּוֹחוֹת האָמֵריקָנִיִים בּמִזרָח התִיכוֹן לתוֹך שנַת 2027
-• כּ-30 יהוּדים, בֵּינֵיהם שנֵי ישׂראלים, הם בֵּין 4,400 הנֶעֱדָרים בּשִיטפוֹנוֹת בּגבוּל סִין-נֶפַּאל. בֵּית חַבַּ&quot;ד בּקַטמַנדוּ הָפך למֶרכָּז לתֵיאוּם החִיפּוּשׂים אַחרֵי הנֶעֱדָרים בָּאָסוֹן
-• הלמ&quot;ס: רק 16% מהעוֹבדים מַגִיעים לעֲבוֹדה בּתַחבּוּרָה צִיבּוּרִית
-• בַּשָבוּעַ הַבָּא יָחוּל רֹאש השָנה – יוֹם של דִין וּתפִילָה, של חֶשבּוֹן נֶפֶש ותִקוָוה
-• התִַחֲזית: ירידה קַלה בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/3-9-26.m4a" length="1475842" type="audio/mp4"/>
+      <pubDate>Thu, 03 Sep 2026 14:11:14 +0000</pubDate>
+      <guid isPermaLink="false">b6212b8a-c34f-434a-a922-a65d44b929d0</guid>
+      <description>NPR News: 09-03-2026 10AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5d4d1f9b-4c0d-4e8c-9e5a-e4affa1922f2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5d4d1f9b-4c0d-4e8c-9e5a-e4affa1922f2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260903-1000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 02.09.2026</title>
@@ -60,11 +41,8 @@
       <link>http://www.bbc.co.uk/programmes/p0p7nwt2</link>
       <pubDate>Thu, 03 Sep 2026 05:26:00 +0000</pubDate>
       <guid isPermaLink="false">urn:bbc:podcast:p0p7nwt2</guid>
-      <description>&lt;p&gt;The United States and Venezuela have welcomed a big energy deal which they've formally signed in Caracas, along with a series of agreements involving international oil firms. The US Energy Secretary Chris Wright said the deal would unlock tens of billions of dollars in investment and thousands of jobs. He said oil production would double in a decade. Critics say the deal hands Washington control of a fifth of Venezuela’s oil reserves and entrenches the current authoritarian government. &lt;/p&gt;&lt;p&gt;Also: New York's mayor, Zohran Mamdani has announced an unprecedented one-year ban on students using artificial intelligence in public elementary and middle schools; Tens of thousands of people have demonstrated against the Spanish government's handling of the migrant crisis in the north African territory of Ceuta. They've been calling for the socialist prime minister, Pedro Sanchez to resign; More than six decades on from the Sharpeville Massacre in South Africa, survivors and relatives of those killed are challenging an apartheid-era law they say has prevented them from seeking justice; And more than nine hundred years after it was made, King Charles and Queen Camilla have had a preview of the historic Bayeux Tapestry which has been loaned to the British Museum in London by France for a year. The tapestry tells the story of the Norman conquest of Saxon England in 1066, when the English king was defeated by the invaders from France. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Venezuela's acting president Delcy Rodriguez
-Credit: AFP via Getty Images&lt;/p&gt;</description>
+      <description>&lt;p&gt;The United States and Venezuela have welcomed a big energy deal which they have formally signed in Caracas, along with a series of agreements involving international oil firms. The US Energy Secretary, Chris Wright, said the deal would unlock tens of billions of dollars in investment and thousands of jobs. He said oil production would double in a decade. Critics say the deal hands Washington control of a fifth of Venezuela’s oil reserves and entrenches the current authoritarian government. &lt;/p&gt;&lt;p&gt;Also, New York's mayor, Zohran Mamdani, has announced an unprecedented one-year ban on students using artificial intelligence in public elementary and middle schools; Tens of thousands of people have demonstrated against the Spanish government's handling of the migrant crisis in the north African territory of Ceuta. They have been calling for the socialist Prime Minister, Pedro Sanchez, to resign; More than six decades on from the Sharpeville Massacre in South Africa, survivors and relatives of those killed are challenging an apartheid-era law they say has prevented them from seeking justice; And more than 900 years after it was made, King Charles and Queen Camilla have had a preview of the historic Bayeux Tapestry which has been loaned to the British Museum in London by France for a year. The tapestry tells the story of the Norman conquest of Saxon England in 1066, when the English king was defeated by the invaders from France. &lt;/p&gt;&lt;p&gt;(Photo: Venezuela's acting president Delcy Rodriguez. Credit: Getty Images)&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;</description>
       <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7nwkb.mp3" length="14624000" type="audio/mpeg"/>
     </item>
   </channel>
