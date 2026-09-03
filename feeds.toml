@@ -6,7 +6,9 @@
 #   3. Then everything else, by `lang_order`, then newest first.
 #   4. Inside one source, newest episode first.
 #
-# `max_age_hours` and `max_episodes` resolve source -> section -> feed.meta.
+# Each source contributes exactly one item: its newest episode, if that episode
+# is inside the source's max_age window. `max_age_hours` resolves
+# source -> section -> feed.meta.
 #
 # URL STATUS LEGEND
 #   VERIFIED   - confirmed against the publisher or the Podnews directory
@@ -31,7 +33,6 @@ image_url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cove
 lang_order = ["de", "en", "he", "it"]
 
 max_age_hours = 24
-max_episodes_per_source = 1
 timeout_seconds = 20
 retries = 2
 
@@ -78,16 +79,40 @@ lang = "en"
 section = "overview"
 enabled = true
 
-# UNVERIFIED. Third-party mirror of the Kan Reshet Bet hourly 5-minute bulletin
-# (Apple id 1749878673, "Kan Hourly News"). Not simple Hebrew, but it is the
-# only short, regular, public Hebrew bulletin with a real RSS feed I could find.
-# Find its RSS via the Apple/Spotify listing and paste it here.
+# VERIFIED by scrape. Israeli Ministry of Education, "חדשון בעברית קלה":
+# a daily news bulletin in easy Hebrew, fully vocalised, with the matching text
+# on the page. No RSS feed exists, so this is scraped (see scrapers.py).
 [[feed.sources]]
-name = "Kan Reshet Bet - Hourly News"
-url = ""
+name = "חדשון בעברית קלה"
+type = "scrape"
+scraper = "hadshon"
+variant = "daily"          # daily | weather | shabbat
 lang = "he"
 section = "overview"
-enabled = false
+enabled = true
+
+# The same page also carries a daily weather bulletin and a weekly parasha
+# reading. Each is dated from its own audio URL, so the weekly one correctly
+# ages out instead of looking fresh every day.
+#
+# [[feed.sources]]
+# name = "תחזית מזג האוויר"
+# type = "scrape"
+# scraper = "hadshon"
+# variant = "weather"
+# lang = "he"
+# section = "overview"
+# enabled = false
+#
+# [[feed.sources]]
+# name = "פרשת השבוע"
+# type = "scrape"
+# scraper = "hadshon"
+# variant = "shabbat"
+# lang = "he"
+# section = "in-depth"
+# enabled = false
+# max_age_hours = 192       # weekly: must outlive the section default
 
 # --- PRIMARY -----------------------------------------------------------------
 
@@ -196,7 +221,6 @@ link = "https://YOUR_USERNAME.github.io/YOUR_REPO/"
 language = "en"
 lang_order = ["en", "de"]
 max_age_hours = 168
-max_episodes_per_source = 1
 
 [[feed.sections]]
 name = "headlines"

@@ -5,7 +5,9 @@ Ordering, in priority order:
   1. Sections, in the order they are declared under [[feed.sections]].
   2. Within a section: sources with an explicit `order` first, ascending.
   3. Then the remaining sources, by language order, then newest first.
-  4. Within one source: newest episode first.
+
+Each source contributes at most one item: its newest episode inside that
+source's max_age window. This is not configurable.
 
 Every source produces exactly one diagnostic line so it is always visible why
 a source did or did not contribute an episode.
@@ -34,6 +36,8 @@ from xml.dom import minidom
 
 import feedparser
 import requests
+
+from scrapers import SCRAPERS, ScrapeError
 
 CONFIG_FILE = Path("feeds.toml")
 
@@ -76,6 +80,7 @@ class Status:
     NO_DATES = "NO_DATES"            # entries exist, none has a parseable date
     NO_AUDIO = "NO_AUDIO"            # entries exist, none has an audio enclosure
     TOO_OLD = "TOO_OLD"              # newest usable entry is older than max_age
+    SCRAPE_ERROR = "SCRAPE_ERR"      # page fetched, but nothing usable extracted
     ERROR = "ERROR"                  # anything unexpected
 
 
@@ -88,6 +93,7 @@ FAILURE_HINTS = {
     Status.NO_DATES: "entries have no pubDate/updated; cannot apply an age filter",
     Status.NO_AUDIO: "this is an article feed, not a podcast feed; no <enclosure>",
     Status.TOO_OLD: "raise max_age_hours for this source if it publishes weekly",
+    Status.SCRAPE_ERROR: "the scraped page's layout likely changed; see scrapers.py",
 }
 
 
@@ -251,16 +257,21 @@ def audio_enclosure(entry) -> dict | None:
     return None
 
 
-def pick_episodes(parsed, now: datetime, max_age_hours: int, max_episodes: int,
-                  result: SourceResult) -> list[tuple[datetime, dict, object]]:
-    """Return up to `max_episodes` newest usable entries, newest first."""
+def pick_latest_episode(parsed, now: datetime, max_age_hours: int,
+                        result: SourceResult) -> tuple[datetime, dict, object] | None:
+    """Return the single newest usable entry, or None.
+
+    A source contributes at most one item to a feed. That is a fixed rule, not
+    a configurable one: the whole point of the digest is the latest bulletin
+    from each source. `max_age_hours` decides whether that latest bulletin is
+    recent enough to include, nothing more."""
     entries = parsed.entries or []
     result.entries_seen = len(entries)
 
     if not entries:
         result.status = Status.EMPTY_FEED
         result.detail = f"feed title: {parsed.feed.get('title', '(none)')!r}"
-        return []
+        return None
 
     cutoff = now - timedelta(hours=max_age_hours)
     candidates: list[tuple[datetime, dict, object]] = []
@@ -302,24 +313,104 @@ def pick_episodes(parsed, now: datetime, max_age_hours: int, max_episodes: int,
     if dated_count == 0:
         result.status = Status.NO_DATES
         result.detail = f"{len(entries)} entries, none with pubDate/updated"
-        return []
+        return None
     if audio_count == 0:
         result.status = Status.NO_AUDIO
         result.detail = f"{dated_count} dated entries, none with an audio enclosure"
-        return []
+        return None
     if not candidates:
         result.status = Status.TOO_OLD
         result.detail = (
             f"newest audio entry is {result.newest_age_hours:.1f}h old, "
             f"max_age_hours is {max_age_hours}"
         )
-        return []
+        return None
 
-    # Upstream feeds are not reliably ordered newest-first, so sort explicitly.
-    # This only orders episodes *within* one source; source order is decided by
-    # section / order / lang_order below.
-    candidates.sort(key=lambda c: c[0], reverse=True)
-    return candidates[:max_episodes]
+    # Upstream feeds are not reliably ordered newest-first, so pick the newest
+    # explicitly rather than trusting position 0.
+    return max(candidates, key=lambda c: c[0])
+
+
+# --------------------------------------------------------------------------
+# Scraped sources
+# --------------------------------------------------------------------------
+
+def make_fetcher(timeout: int):
+    """HTTP callable handed to scrapers, sharing the UA and timeout policy."""
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": USER_AGENT,
+        "Accept-Language": "he,en;q=0.8",
+    })
+
+    def fetch(url: str, method: str = "get"):
+        resp = session.request(method.upper(), url, timeout=timeout,
+                               allow_redirects=True)
+        resp.raise_for_status()
+        return resp
+
+    return fetch
+
+
+def run_scraper(source: dict, timeout: int, now: datetime, max_age_hours: int,
+                result: SourceResult):
+    """Run a registered scraper and apply the same age filter as RSS sources."""
+    name = source.get("scraper")
+    if name not in SCRAPERS:
+        result.status = Status.CONFIG_ERROR
+        result.detail = (
+            f"unknown scraper {name!r}; registered: {', '.join(SCRAPERS) or 'none'}"
+        )
+        return None
+
+    started = time.monotonic()
+    try:
+        items = SCRAPERS[name](source, make_fetcher(timeout))
+    except ScrapeError as exc:
+        result.status = Status.SCRAPE_ERROR
+        result.detail = str(exc)
+        return None
+    except requests.exceptions.Timeout:
+        result.status = Status.TIMEOUT
+        result.detail = f"page did not respond within {timeout}s"
+        return None
+    except requests.exceptions.HTTPError as exc:
+        result.status = Status.HTTP_ERROR
+        result.detail = str(exc)
+        return None
+    except requests.exceptions.RequestException as exc:
+        result.status = Status.CONNECTION_ERROR
+        result.detail = f"{type(exc).__name__}: {exc}"
+        return None
+    except Exception as exc:  # noqa: BLE001 - a broken scraper must not kill the run
+        result.status = Status.SCRAPE_ERROR
+        result.detail = f"scraper raised {type(exc).__name__}: {exc}"
+        return None
+    finally:
+        result.elapsed_s = time.monotonic() - started
+
+    result.entries_seen = len(items)
+    if not items:
+        result.status = Status.EMPTY_FEED
+        result.detail = "scraper returned no items"
+        return None
+
+    items.sort(key=lambda i: i.published, reverse=True)
+    result.newest_age_hours = (now - items[0].published).total_seconds() / 3600
+
+    cutoff = now - timedelta(hours=max_age_hours)
+    fresh = [i for i in items if i.published >= cutoff]
+    if not fresh:
+        result.rejections["too_old"] = len(items)
+        result.status = Status.TOO_OLD
+        result.detail = (
+            f"newest scraped item is {result.newest_age_hours:.1f}h old, "
+            f"max_age_hours is {max_age_hours}"
+        )
+        return None
+
+    newest = fresh[0]
+    return newest.published, newest.as_enclosure(), newest.as_entry()
 
 
 # --------------------------------------------------------------------------
@@ -406,7 +497,6 @@ def build_single_feed(feed_config: dict, out_dir: Path, dry_run: bool) -> list[S
         return results
 
     feed_max_age = int(meta.get("max_age_hours", DEFAULT_MAX_AGE_HOURS))
-    feed_max_episodes = int(meta.get("max_episodes_per_source", 1))
     timeout = int(meta.get("timeout_seconds", DEFAULT_TIMEOUT))
     retries = int(meta.get("retries", DEFAULT_RETRIES))
     lang_order = [l.lower() for l in meta.get("lang_order", DEFAULT_LANG_ORDER)]
@@ -468,7 +558,9 @@ def build_single_feed(feed_config: dict, out_dir: Path, dry_run: bool) -> list[S
             result.detail = "enabled = false in feeds.toml"
             continue
 
-        if not result.url:
+        is_scraped = source.get("type") == "scrape"
+
+        if not result.url and not is_scraped:
             result.status = Status.CONFIG_ERROR
             result.detail = "no url set in feeds.toml"
             continue
@@ -479,34 +571,33 @@ def build_single_feed(feed_config: dict, out_dir: Path, dry_run: bool) -> list[S
         max_age = int(
             source.get("max_age_hours", section.get("max_age_hours", feed_max_age))
         )
-        max_episodes = int(
-            source.get("max_episodes",
-                       section.get("max_episodes_per_source", feed_max_episodes))
-        )
         result.max_age_hours = max_age
 
-        parsed = fetch_feed(result.url, timeout, retries, result)
-        if parsed is None:
-            continue
+        if is_scraped:
+            pick = run_scraper(source, timeout, now, max_age, result)
+        else:
+            parsed = fetch_feed(result.url, timeout, retries, result)
+            if parsed is None:
+                continue
+            pick = pick_latest_episode(parsed, now, max_age, result)
 
-        picks = pick_episodes(parsed, now, max_age, max_episodes, result)
-        if not picks:
+        if pick is None:
             continue
+        published, enc, entry = pick
 
         order = source.get("order")
-        for ep_idx, (published, enc, entry) in enumerate(picks):
-            sort_key = (
-                section_index[section_name],   # 1. declared section order
-                0 if order is not None else 1,  # 2. explicit overrides first
-                order if order is not None else 0,
-                lang_rank(source.get("lang", "")) if order is None else 0,
-                -published.timestamp() if order is None else ep_idx,
-                seq,                            # stable tiebreak: config order
-            )
-            collected.append((sort_key, source, section, published, enc, entry))
+        sort_key = (
+            section_index[section_name],    # 1. declared section order
+            0 if order is not None else 1,  # 2. explicit overrides first
+            order if order is not None else 0,
+            lang_rank(source.get("lang", "")) if order is None else 0,
+            -published.timestamp() if order is None else 0,
+            seq,                            # stable tiebreak: config order
+        )
+        collected.append((sort_key, source, section, published, enc, entry))
 
         result.status = Status.OK
-        result.episodes_added = len(picks)
+        result.episodes_added = 1
 
     collected.sort(key=lambda c: c[0])
     for _key, source, section, published, enc, entry in collected:

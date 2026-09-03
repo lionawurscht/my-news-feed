@@ -19,7 +19,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install feedparser requests
+        run: pip install feedparser requests beautifulsoup4
 
       # --fail-on-error is deliberately NOT set: a single dead source should
       # not stop the other feeds from publishing. The report below is how you
@@ -51,6 +51,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.xml build_report.json
+          git add *.xml
           git diff --quiet && git diff --staged --quiet || \
             (git commit -m "Update RSS feeds" && git push)
