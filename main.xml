@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 04 Sep 2026 02:38:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:39:25 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,19 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3456922.html</link>
-      <pubDate>Fri, 04 Sep 2026 00:39:00 +0000</pubDate>
-      <guid isPermaLink="false">13ed38e3-b484-4321-8ccd-8b0912c95ae1</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3457454.html</link>
+      <pubDate>Fri, 04 Sep 2026 07:08:00 +0000</pubDate>
+      <guid isPermaLink="false">0ad26a1e-d818-4073-b745-f643ec33302e</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0904/AU-20260904-0238-5200.mp3" length="2247307" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0904/AU-20260904-0908-4700.mp3" length="2584463" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-03-2026 10PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-04-2026 2AM EDT</title>
       <link/>
-      <pubDate>Fri, 04 Sep 2026 02:10:44 +0000</pubDate>
-      <guid isPermaLink="false">68f7f0d8-9472-4379-af1e-f2cd0c1a87ea</guid>
-      <description>NPR News: 09-03-2026 10PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5fad514f-7c41-4751-8146-04e7e76cfeee/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5fad514f-7c41-4751-8146-04e7e76cfeee&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260903-2200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Sep 2026 06:12:04 +0000</pubDate>
+      <guid isPermaLink="false">5cabb2fa-2d4c-46ed-a892-c902948e3092</guid>
+      <description>NPR News: 09-04-2026 2AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/770168ff-62db-4cca-9a20-a0d29ea238c2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=770168ff-62db-4cca-9a20-a0d29ea238c2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260904-0200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 03.09.2026</title>
@@ -37,15 +37,16 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0903/AU-20260903-2025-3400.mp3" length="15109411" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: Feminist writer and activist Gloria Steinem dies</title>
-      <link>http://www.bbc.co.uk/programmes/p0p7tpv4</link>
-      <pubDate>Thu, 03 Sep 2026 15:54:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p7tpv4</guid>
-      <description>&lt;p&gt;Gloria Steinem, a leader of the women's liberation movement in the US, has died at the age of 92. During the 1960s and 1970s, she campaigned for women’s reproductive rights and equal pay laws. She also co-founded the Ms. magazine - one of the first feminist publications in the US - and advocated for the legalisation of same-sex marriage. Steinem died peacefully at her home in New York. &lt;/p&gt;&lt;p&gt;Also: the United Nations warns of a &quot;supersized&quot; El Niño as countries prepare for the impact of the severe weather event. Britain's Prime Minister, Andy Burnham, meets President Emmanuel Macron in London, with irregular migration high on the agenda. France is deploying a new team of police officers to its western beaches to try to stop migrants on large, overcrowded vessels from crossing the English Channel. Are we one step closer to discovering dark matter - the substance that binds galaxies together? And women's tennis world number one, Aryna Sabalenka, hits back at suggestions she had been attending 'lots of parties' in the build-up to the US Open.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health - we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: Funerals held for Palestinian teenagers killed in occupied West Bank</title>
+      <link>http://www.bbc.co.uk/programmes/p0p7xfs9</link>
+      <pubDate>Fri, 04 Sep 2026 04:46:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p7xfs9</guid>
+      <description>&lt;p&gt;Funerals have been held for two Palestinian teenagers killed by Israeli settlers and soldiers in the village of Al-Mughayyir in the occupied West Bank. Israel's military said its forces had fired at instigators of a &quot;violent riot&quot;. The deaths come amid a recent surge in settler violence and mounting criticism of the IDF's role in attacks. Also: Argentina's President Milei threatens sanctions against oil companies working off the Falkland Islands or Las Malvinas. The UN warns of immense challenges reaching isolated Himalayan communties devastated by the Nepal-Tibet flash floods. A US jury is deadlocked in the Lindsay Clancy murder trial. The success of a genetically modified pig kidney transplant offers new hope to those on dialysis. And Amelia Dimoldenberg ends &quot;Chicken Shop Date&quot;.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Gloria Steinem speaks at a women's march in Washington, US., January 21, 2017.
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7tdd1.mp3" length="12896000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Mourners attend the funeral of Khalil Abu Aliya and Omar Mohammed Naasan in the West Bank village of Al-Mughayyir
+Credit: Atef Safadi - EPA/Shutterstock.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7xfjk.mp3" length="14120000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
