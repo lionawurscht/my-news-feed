@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:15:57 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,39 +14,36 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3458278.html</link>
-      <pubDate>Fri, 04 Sep 2026 12:42:00 +0000</pubDate>
-      <guid isPermaLink="false">34401684-256b-480a-98d6-43fdda250390</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3458894.html</link>
+      <pubDate>Fri, 04 Sep 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false">d7a9ed02-4b4d-496d-9795-07cd8fb42e7a</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0904/AU-20260904-1442-2300.mp3" length="2254989" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0904/AU-20260904-1845-1100.mp3" length="1905931" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-04-2026 12PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-04-2026 3PM EDT</title>
       <link/>
-      <pubDate>Fri, 04 Sep 2026 16:21:05 +0000</pubDate>
-      <guid isPermaLink="false">fa81578e-a3ce-42b3-9bc1-cb016acd0a65</guid>
-      <description>NPR News: 09-04-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ac3a15e7-6b8a-4d39-95ba-853f32f8b293/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ac3a15e7-6b8a-4d39-95ba-853f32f8b293&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260904-1200-long&amp;p=500005&amp;d=280&amp;size=4342155" length="4342155" type="audio/mpeg"/>
+      <pubDate>Fri, 04 Sep 2026 19:11:32 +0000</pubDate>
+      <guid isPermaLink="false">cd0ae68e-a12c-40d4-9b51-850ddbdfd32d</guid>
+      <description>NPR News: 09-04-2026 3PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3172a146-ef17-4b4d-9fc8-2c2b8b582233/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3172a146-ef17-4b4d-9fc8-2c2b8b582233&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260904-1500-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 03.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3456714.html</link>
-      <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">7a80bdeb-4086-4ddb-849b-693279b434c7-SENDUNGSAUDIO</guid>
-      <description>Diskussion über Schutz Kritischer Infrastruktur, Festnahme von zwei Verdächtigen nach versuchtem Brandanschlag in München, Prognosen für deutsche Konjunktur: Kieler Institut für Weltwirtschaft rechnet mit Wachstum, Die Börse, Russland verordnet Schließung der Goethe-Institute, Flucht ukrainischer Männer vor Rekrutierung, Landesweite Proteste in Spanien wegen Migrationskrise in Ceuta, UN warnt vor außergewöhnlich stark ausgeprägtem Klimaphänomen El Niño, Zukunftssorgen schmälern Kinderwunsch, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0903/AU-20260903-2025-3400.mp3" length="15109411" type="audio/mpeg"/>
+      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 04.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3459024.html</link>
+      <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">687a465f-d355-412b-91b3-0e30cf529d62-SENDUNGSAUDIO</guid>
+      <description>Sparplan für VW beschlossen, Erneut Sabotage am Stromnetz, Daten nach Angriff auf Berliner Landesnetz veröffentlicht, Weitere Abgeordnete verlasse nach Regierungskrise in Thüringen BSW, Wahlkampfabschluss in Sachsen-Anhalt, Russische Drohne trifft Geheimdienstzentrale in Kiew, Nach Sturzflut in Nepal zwei Arbeiter nach neun Tagen aus Tunnelsystem gerettet, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0904/AU-20260904-2025-5600.mp3" length="15352483" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: Two men rescued from tunnel in Nepal, nine days after flood</title>
-      <link>http://www.bbc.co.uk/programmes/p0p81dy7</link>
-      <pubDate>Fri, 04 Sep 2026 15:26:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p81dy7</guid>
-      <description>&lt;p&gt;Rescue crews in Nepal have freed two workers from a blocked hydropower tunnel, nine days after they were trapped by debris from flash floods that devastated an area on the border with Tibet. Shortly after the two survivors were lifted out of the tunnel, the body of a third person was found. About forty people are still thought to be inside the tunnel. Across Nepal thousands remain missing and in Tibet, tightly controlled by China, the official death toll remains low at 20 with around 500 missing.  Also, New Zealand becomes the second country, after Australia, to treat trauma patients with the active ingredient used in ecstasy. Britain's anti-immigration party faces another funding scandal.  VW cuts a further 50,000 jobs, and the Scottish eagle called Kinky, because of a crooked wing, flies high against the odds.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: A man is carried by members of a search and rescue team after they rescued alive two people who had been trapped inside a tunnel in Nepal.
-Credit:  Nepal Army/Handout via REUTERS.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p81d35.mp3" length="13168000" type="audio/mpeg"/>
+      <title>[EN|In-Depth] BBC Global News Podcast: The Happy Pod: Record pig kidney transplant brings hope</title>
+      <link>http://www.bbc.co.uk/programmes/p0p821kf</link>
+      <pubDate>Fri, 04 Sep 2026 17:16:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p821kf</guid>
+      <description>&lt;p&gt;A man in the US has survived for a record nine months with a kidney from a genetically modified pig, bringing hope to transplant patients across the world. 66-year-old Tim Andrews went on to receive a human donor kidney and is doing well. We hear from Dr Leonardo Riella who led the team. Plus, the rare flightless parrot that's been brought back from the brink of extinction. The kakapo are the world's heaviest parrot. Also in this edition, meet Ari Miller, the DJ making music with strangers on the streets of New York. The new display showing the world famous Bayeux Tapestry as it's never been seen before and the composer turning the world's underground trains into melodies.
+Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Picture: Patient Tim Andrews (centre) with Dr Tatsuo Kawai (left) and Dr Leonardo Riella (right). Credit: Kate Flock/Massachusetts General Hospital.&lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p81tnp.mp3" length="12696000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
