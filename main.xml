@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 05 Sep 2026 00:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:12:53 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,19 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3459194.html</link>
-      <pubDate>Sat, 05 Sep 2026 00:28:00 +0000</pubDate>
-      <guid isPermaLink="false">98384da0-9eac-4a56-b20c-5b114a4bce11</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3459256.html</link>
+      <pubDate>Sat, 05 Sep 2026 03:04:00 +0000</pubDate>
+      <guid isPermaLink="false">164aaa39-2d0d-49c4-9c50-a318c05c9552</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0905/AU-20260905-0228-2700.mp3" length="2212747" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0905/AU-20260905-0504-1800.mp3" length="2242699" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-04-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-05-2026 1AM EDT</title>
       <link/>
-      <pubDate>Sat, 05 Sep 2026 00:10:36 +0000</pubDate>
-      <guid isPermaLink="false">9fdd3c1f-91f7-44bb-98ae-e1cb71018a70</guid>
-      <description>NPR News: 09-04-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9e2de00b-de41-446a-a31a-4b2118265886/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9e2de00b-de41-446a-a31a-4b2118265886&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260904-2000-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Sep 2026 05:11:01 +0000</pubDate>
+      <guid isPermaLink="false">4bb7b3bf-7461-4e42-a3f0-302a355da887</guid>
+      <description>NPR News: 09-05-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6421dce7-b365-49b5-b115-bb0dfce81dc1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6421dce7-b365-49b5-b115-bb0dfce81dc1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260905-0100-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 04.09.2026</title>
@@ -37,13 +37,16 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0904/AU-20260904-2025-5600.mp3" length="15352483" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: The Happy Pod: Record pig kidney transplant brings hope</title>
-      <link>http://www.bbc.co.uk/programmes/p0p821kf</link>
-      <pubDate>Fri, 04 Sep 2026 17:16:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p821kf</guid>
-      <description>&lt;p&gt;A man in the US has survived for a record nine months with a kidney from a genetically modified pig, bringing hope to transplant patients across the world. 66-year-old Tim Andrews went on to receive a human donor kidney and is doing well. We hear from Dr Leonardo Riella who led the team. Plus, the rare flightless parrot that's been brought back from the brink of extinction. The kakapo are the world's heaviest parrot. Also in this edition, meet Ari Miller, the DJ making music with strangers on the streets of New York. The new display showing the world famous Bayeux Tapestry as it's never been seen before and the composer turning the world's underground trains into melodies.
-Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Picture: Patient Tim Andrews (centre) with Dr Tatsuo Kawai (left) and Dr Leonardo Riella (right). Credit: Kate Flock/Massachusetts General Hospital.&lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p81tnp.mp3" length="12696000" type="audio/mpeg"/>
+      <title>[EN|In-Depth] BBC Global News Podcast: Clancy trial ends in deadlock</title>
+      <link>http://www.bbc.co.uk/programmes/p0p83fvf</link>
+      <pubDate>Sat, 05 Sep 2026 03:52:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p83fvf</guid>
+      <description>&lt;p&gt;After a week of deliberation, jurors have failed to reach a unanimous verdict in the trial of Lindsay Clancy, the Massachusetts mother accused of murdering her three young children. The 12-person jury was made up of nine women and three men and was reportedly split 11 to one. Ms Clancy doesn’t deny killing her children but says she was suffering from postpartum psychosis at the time. The court will reconvene at the end of the month to decide what happens next. Also: a Russian drone has struck the headquarters of Ukraine’s security service, the SBU, in central Kyiv; OpenAI hijacks a German website, raising questions around AI safety; the UN General Assembly passes a resolution to replace the traditional world map with one that more accurately reflects the size of Africa; Houthi fighters and pro-government forces in Yemen battle each other in some of the worst clashes in years; Naomi Osaka has urged social media influencers attending the US Open to respect tennis &quot;etiquette&quot;; and as Giorgia Meloni celebrates her government becoming the longest-serving in Italy's postwar history, we hear why she has outlasted her predecessors.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Lindsay Clancy listening to testimony at her trial, in Plymouth, Massachusetts, US, August 26, 2026. 
+Credit: Greg Derr/Pool via REUTERS&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p83fh2.mp3" length="14360000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
