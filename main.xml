@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 05 Sep 2026 16:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:45:24 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,27 +14,27 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3460116.html</link>
-      <pubDate>Sat, 05 Sep 2026 15:10:00 +0000</pubDate>
-      <guid isPermaLink="false">55f5fdfa-711f-4d60-8953-c11f46c58b92</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3460252.html</link>
+      <pubDate>Sat, 05 Sep 2026 17:36:00 +0000</pubDate>
+      <guid isPermaLink="false">67e44bf3-d33c-4bb1-9a7e-07ea1022317b</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0905/AU-20260905-1710-3800.mp3" length="1955851" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0905/AU-20260905-1936-4500.mp3" length="1939339" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-05-2026 12PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-05-2026 2PM EDT</title>
       <link/>
-      <pubDate>Sat, 05 Sep 2026 16:10:50 +0000</pubDate>
-      <guid isPermaLink="false">972ee337-3dcb-40ca-966f-0b151db46d58</guid>
-      <description>NPR News: 09-05-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d88133ad-37bb-405a-9baf-3b0d458e3b97/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d88133ad-37bb-405a-9baf-3b0d458e3b97&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260905-1200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+      <pubDate>Sat, 05 Sep 2026 18:10:45 +0000</pubDate>
+      <guid isPermaLink="false">1d3ce59b-4834-4b3d-861d-62dcd40f4363</guid>
+      <description>NPR News: 09-05-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0e0641fe-d4a0-42bb-87d8-8339a7bc93e2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0e0641fe-d4a0-42bb-87d8-8339a7bc93e2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260905-1400-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 04.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3459024.html</link>
-      <pubDate>Fri, 04 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">687a465f-d355-412b-91b3-0e30cf529d62-SENDUNGSAUDIO</guid>
-      <description>Sparplan für VW beschlossen, Erneut Sabotage am Stromnetz, Daten nach Angriff auf Berliner Landesnetz veröffentlicht, Weitere Abgeordnete verlasse nach Regierungskrise in Thüringen BSW, Wahlkampfabschluss in Sachsen-Anhalt, Russische Drohne trifft Geheimdienstzentrale in Kiew, Nach Sturzflut in Nepal zwei Arbeiter nach neun Tagen aus Tunnelsystem gerettet, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0904/AU-20260904-2025-5600.mp3" length="15352483" type="audio/mpeg"/>
+      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 05.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3460302.html</link>
+      <pubDate>Sat, 05 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d0a509b2-c017-492c-be41-42c780e767f9-SENDUNGSAUDIO</guid>
+      <description>Hacker veröffentlichen sensible Daten im Darknet nach Cyberangriff auf Berliner Landesverwaltung, Nach Sabotageakten gegen deutsche Stromnetze sucht Polizei weiter den Tatverdächtigen, Vereinte Nationen stimmen für neue Darstellung der Weltkarte, US-Sondergesandte Witkoff und Kushner bemühen sich in Moskau um Vermittlung im Ukraine-Krieg, Ukrainische Getreide-Exporte stocken durch heftige russische Angriffe auf Hafenstadt Odessa, Helfer finden weiteren Überlebenden zehn Tage nach Sturzflut in Nepal, Magdeburg veranstaltet einen Tag vor der Landtagswahl ein sogenanntes &quot;Demokratie-Festival&quot;, Etwa 11.000 Menschen demonstrieren in Berlin gegen steigende Mieten, Schauspieler Michael Mendl im Alter von 82 Jahren gestorben, Ergebnisse vom 2. Spieltag der Fußball-Bundesliga, Deutsche Basketballerinnen gewinnen bei WM gegen Japan mit 74:58, Das Wetter Hinweis: Die Beiträge zur Fußball-Bundesliga dürfen aus rechtlichen Gründen auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0905/AU-20260905-2027-3000.mp3" length="15127064" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast: Clancy trial ends in deadlock</title>
