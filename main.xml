@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 06 Sep 2026 00:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 05:27:19 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,19 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3460322.html</link>
-      <pubDate>Sat, 05 Sep 2026 19:19:00 +0000</pubDate>
-      <guid isPermaLink="false">d0afa424-7b9d-46bf-92a1-a979d9111514</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3460482.html</link>
+      <pubDate>Sun, 06 Sep 2026 02:46:00 +0000</pubDate>
+      <guid isPermaLink="false">a267db44-11f7-47fa-a53e-f86fef0a1d91</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0905/AU-20260905-2119-1000.mp3" length="2030731" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0906/AU-20260906-0446-2900.mp3" length="2080267" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-05-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-06-2026 1AM EDT</title>
       <link/>
-      <pubDate>Sun, 06 Sep 2026 00:10:33 +0000</pubDate>
-      <guid isPermaLink="false">2940525a-91ca-4581-8216-1a1eb1f0ff30</guid>
-      <description>NPR News: 09-05-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/22546623-1065-4804-badf-c853c797acb8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=22546623-1065-4804-badf-c853c797acb8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260905-2000-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Sep 2026 05:10:10 +0000</pubDate>
+      <guid isPermaLink="false">fa0f4273-d0a3-4c60-b62f-8a0ae6610b36</guid>
+      <description>NPR News: 09-06-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/27bdfb85-8fc8-486d-af83-79f040e6b459/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=27bdfb85-8fc8-486d-af83-79f040e6b459&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260906-0100-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 05.09.2026</title>
@@ -37,16 +37,16 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0905/AU-20260905-2027-3000.mp3" length="15127064" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: Clancy trial ends in deadlock</title>
-      <link>http://www.bbc.co.uk/programmes/p0p83fvf</link>
-      <pubDate>Sat, 05 Sep 2026 03:52:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p83fvf</guid>
-      <description>&lt;p&gt;After a week of deliberation, jurors have failed to reach a unanimous verdict in the trial of Lindsay Clancy, the Massachusetts mother accused of murdering her three young children. The 12-person jury was made up of nine women and three men and was reportedly split 11 to one. Ms Clancy doesn’t deny killing her children but says she was suffering from postpartum psychosis at the time. The court will reconvene at the end of the month to decide what happens next. Also: a Russian drone has struck the headquarters of Ukraine’s security service, the SBU, in central Kyiv; OpenAI hijacks a German website, raising questions around AI safety; the UN General Assembly passes a resolution to replace the traditional world map with one that more accurately reflects the size of Africa; Houthi fighters and pro-government forces in Yemen battle each other in some of the worst clashes in years; Naomi Osaka has urged social media influencers attending the US Open to respect tennis &quot;etiquette&quot;; and as Giorgia Meloni celebrates her government becoming the longest-serving in Italy's postwar history, we hear why she has outlasted her predecessors.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: US brings 'proposal to end war' to Russia and Ukraine</title>
+      <link>http://www.bbc.co.uk/programmes/p0p872fr</link>
+      <pubDate>Sun, 06 Sep 2026 03:44:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p872fr</guid>
+      <description>&lt;p&gt;The US is bringing a &quot;proposal to end the war&quot; to Russia and Ukraine - but hopes for progress towards peace are not high. President Trump's top envoys are visiting Kyiv after a &quot;constructive&quot; meeting with Vladimir Putin in Moscow. Also: evidence grows of Sudanese army using chemical weapons in civil war against RSF; the US ambassador to Israel visits Palestinian-Americans in the occupied West Bank; the White House releases retro arcade games with MAGA agenda; how habitat loss forces animals into our homes instead; Oman's bagpipers showcase their musical heritage; and gravediggers dig deep for world championship. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Lindsay Clancy listening to testimony at her trial, in Plymouth, Massachusetts, US, August 26, 2026. 
-Credit: Greg Derr/Pool via REUTERS&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p83fh2.mp3" length="14360000" type="audio/mpeg"/>
+Photo: Russian President Vladimir Putin meets US special envoy Steve Witkoff and Jared Kushner, Donald Trump's son-in-law, at the Kremlin in Moscow.
+Credit: Mikhail Metzel/Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p872cf.mp3" length="13280000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
