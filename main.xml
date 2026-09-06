@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:54:27 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -21,31 +21,12 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0906/AU-20260906-1139-5200.mp3" length="1889419" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-06-2026 5AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-06-2026 9AM EDT</title>
       <link/>
-      <pubDate>Sun, 06 Sep 2026 09:10:41 +0000</pubDate>
-      <guid isPermaLink="false">64e25d0b-4313-4a22-804a-c42287d9b99f</guid>
-      <description>NPR News: 09-06-2026 5AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b649b14b-44ca-48b3-92b0-6ff7c5a7edd3/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b649b14b-44ca-48b3-92b0-6ff7c5a7edd3&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260906-0500-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה: חדשון בעברית קלה — 06/09/2026</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Sun, 06 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/6-9-26.m4a</guid>
-      <description>• דלג ל
-• משרד החינוך
-• חיזבּאללה שִיגֵר הבּוקר שנֵי רַחפָנֵי נֵפֶץ לעֵבר כּוֹחוֹת צה&quot;ל בּדרוֹם לבָנוֹן. הרַחפָנים יוֹרטוּ ולא היוּ נִפגָעִים. חֵיל האֲוִויר תוֹקֵף בּתגוּבָה
-• דוֹבֵר צַה&quot;ל הוֹדִיעַ: בּהַנחָיַית הרַמטכַּ&quot;ל אֱיָיל זָמיר הִתחִיל לִפנוֹת בּוֹקֶר תַרגִיל פֶּתַע נִרחָב, לבדִיקַת המוּכָנוּת בּצה&quot;ל לתַרחִיש רַב-זִירָתִי. בּרַחֲבֵי האָרץ מוּרגֶשֶת תְנוּעָה עֵרָה של כּוֹחוֹת בִּיטָחוֹן וכְלֵי טַיִס. אין חֲשָש לאֵירוּעַ בִּיטחוֹנִי
-• לוֹחֵם בּמִשמַר הגְבוּל בּן 20 נֶהֱרַג אֶמֶש בּאֵירוּעַ יֶרִי בּנתַניָה. הוא פָּתַח בּאֵש לעֵבר שוֹטרים והם הֵגִיבוּ בּיֶרִי והָרגוּ אוֹתוֹ
-• אתמול נִפגַש בּמוֹסקבָה נשׂיא רוּסיה וְלַדִימִיר פּוּטִין עִם סְטִיב וִויטקוֹף וג'ארֶד קוּשנֶר, שְלִיחָיו של נשׂיא ארה&quot;ב דוֹנלד טראמפּ
-• מָחר, 7 בּסֶפּטמבֶּר, יֵיעָרֵך טֶקֶס חֲגִיגי שֶבּוֹ יַעֲנִיק שַׂר החִינוּך יוֹאָב קִיש את פְּרָסֵי החינוּך האַרצִיִים לשְנַת תשפ״ו. אַחַד הזוֹכִים הוא אוּלפּן ״גוֹרדוֹן״ בּתֵל אָביב
-• אַחד המַאֲכָלִים שֶנָהוּג לֶאֱכוֹל בּרֹאש השָנה הוא הדְבַש. ארץ ישׂראל היא ארץ של דבַש, בִּזכוּתָם של אַנשֵי הדבַש
-• התִַחֲזית: ירידה קַלה בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/6-9-26.m4a" length="1770433" type="audio/mp4"/>
+      <pubDate>Sun, 06 Sep 2026 13:10:46 +0000</pubDate>
+      <guid isPermaLink="false">9e74d27b-2a53-4fc8-910f-e607b4bdae34</guid>
+      <description>NPR News: 09-06-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7a96c5d9-f2ad-4d48-8c78-86e6cbc7d62f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7a96c5d9-f2ad-4d48-8c78-86e6cbc7d62f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260906-0900-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 05.09.2026</title>
