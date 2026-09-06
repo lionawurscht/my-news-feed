@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:49:17 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -21,20 +21,20 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0906/AU-20260906-1633-5100.mp3" length="1876747" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-06-2026 12PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-06-2026 2PM EDT</title>
       <link/>
-      <pubDate>Sun, 06 Sep 2026 16:11:05 +0000</pubDate>
-      <guid isPermaLink="false">ea94620a-443b-417b-bf52-56e65710460d</guid>
-      <description>NPR News: 09-06-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5955eccf-b81a-49c1-99dc-f1371d877485/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5955eccf-b81a-49c1-99dc-f1371d877485&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260906-1200-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Sep 2026 18:12:08 +0000</pubDate>
+      <guid isPermaLink="false">0ea0609c-91e2-48ea-a454-9aa795f57de1</guid>
+      <description>NPR News: 09-06-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2529cf28-2366-4aa8-ae6f-1c2db9fa4d2f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2529cf28-2366-4aa8-ae6f-1c2db9fa4d2f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260906-1400-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 05.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3460302.html</link>
-      <pubDate>Sat, 05 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">d0a509b2-c017-492c-be41-42c780e767f9-SENDUNGSAUDIO</guid>
-      <description>Hacker veröffentlichen sensible Daten im Darknet nach Cyberangriff auf Berliner Landesverwaltung, Nach Sabotageakten gegen deutsche Stromnetze sucht Polizei weiter den Tatverdächtigen, Vereinte Nationen stimmen für neue Darstellung der Weltkarte, US-Sondergesandte Witkoff und Kushner bemühen sich in Moskau um Vermittlung im Ukraine-Krieg, Ukrainische Getreide-Exporte stocken durch heftige russische Angriffe auf Hafenstadt Odessa, Helfer finden weiteren Überlebenden zehn Tage nach Sturzflut in Nepal, Magdeburg veranstaltet einen Tag vor der Landtagswahl ein sogenanntes &quot;Demokratie-Festival&quot;, Etwa 11.000 Menschen demonstrieren in Berlin gegen steigende Mieten, Schauspieler Michael Mendl im Alter von 82 Jahren gestorben, Ergebnisse vom 2. Spieltag der Fußball-Bundesliga, Deutsche Basketballerinnen gewinnen bei WM gegen Japan mit 74:58, Das Wetter Hinweis: Die Beiträge zur Fußball-Bundesliga dürfen aus rechtlichen Gründen auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0905/AU-20260905-2027-3000.mp3" length="15127064" type="audio/mpeg"/>
+      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 06.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3461384.html</link>
+      <pubDate>Sun, 06 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d3f9f6da-9895-4e0e-9f68-7af48b5bc5bf-SENDUNGSAUDIO</guid>
+      <description>Landtagswahl Sachsen-Anhalt: AfD wird stärkste Kraft, Gewinner und Verlierer der Landtagswahl, Ehemalige Parteimitglieder des Bündnisses Sahra Wagenknecht gründen in Thüringen neue Partei, Trotz Großaufgebot der Polizei: Erfolglose Suche nach Sabotage-Tatverdächtigen im Hambacher Forst, US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew mit ukrainischem Präsidenten Selenskyj, Deutsches Start-Up-Unternehmen Isar Aerospace schickt erfolgreich Trägerrakete ins All, Fußball-Bundesliga: HSV unterliegt Mainz mit 0:5, Das Wetter Hinweis: Der Beitrag zur Fußball-Bundesliga darf aus rechtlilchen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0906/AU-20260906-2043-2300.mp3" length="22567064" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast: US brings 'proposal to end war' to Russia and Ukraine</title>
