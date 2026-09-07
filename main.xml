@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 07 Sep 2026 02:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:50:29 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,38 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3461560.html</link>
-      <pubDate>Sun, 06 Sep 2026 23:29:00 +0000</pubDate>
-      <guid isPermaLink="false">7304d408-e523-4c7a-882b-84dad7fac019</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3461950.html</link>
+      <pubDate>Mon, 07 Sep 2026 06:06:00 +0000</pubDate>
+      <guid isPermaLink="false">1ac47fec-9b28-4a7c-ab8f-ae61a8454700</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-0129-2800.mp3" length="2089867" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-0806-3600.mp3" length="2539531" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-06-2026 10PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-07-2026 3AM EDT</title>
       <link/>
-      <pubDate>Mon, 07 Sep 2026 02:10:48 +0000</pubDate>
-      <guid isPermaLink="false">0a6753e0-29ff-4d7c-9b98-ddf4b8f7b6f3</guid>
-      <description>NPR News: 09-06-2026 10PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/816077d7-ef10-4770-ad17-0269968387a8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=816077d7-ef10-4770-ad17-0269968387a8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260906-2200-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Sep 2026 07:11:01 +0000</pubDate>
+      <guid isPermaLink="false">e4068154-a5aa-40c0-9e50-dfd1f75a81e8</guid>
+      <description>NPR News: 09-07-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4cbbd7c7-5c75-4eaa-b95f-b0df06addbd1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4cbbd7c7-5c75-4eaa-b95f-b0df06addbd1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260907-0300-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה: חדשון בעברית קלה — 07/09/2026</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/7-9-26.m4a</guid>
+      <description>• דלג ל
+• משרד החינוך
+• צַהַ&quot;ל פִּרסֵם הלַילה הַתרָעַת פִּינוּי לתוֹשָבִים בּדרוֹם לבָנוֹן: &quot;בּעִקבוֹת ההֲפָרָה החֲמוּרה של הַפסָקַת האֵש, אַחרֵי שֶחיזבַּאללה שִיגֵר רַחפַן נֵפֶץ לעֵבר כּוֹחוֹת צַה&quot;ל, אנו נֶאֱלָצים להָגִיב ולִתקוֹף&quot;, נִמסַר. &quot;האֶזרָחים בָּאֵזור צְרִיכים להִתפַּנוֹת מִייָד&quot;
+• הרַמטכַּ&quot;ל רַב-אלוּף אֱיָיל זָמיר אָמר בּמִסגֶרת תַרגיל הפֶּתַע שֶנֶעֱרַך אתמול: &quot;התַרגיל הוא גם מֶסֶר לאוֹיבֵינוּ: צה&quot;ל כָּשִיר, עָרוּך ודָרוּך להָגֵן על מדִינת ישׂראל, ומוּכָן גם לִיזוֹם ולִתקוֹף כּל מי שֶינַסֶה לִפגוֹעַ בּנוּ&quot;
+• נִיצָחוֹןַּ גָדוֹל למִפלֶגֶת היָמִין הקִיצוֹני &quot;אַלטֶרנָטִיבָה לגֶרמַניה&quot;, שֶקִיבּלה בּבּחִירוֹת לפַּרלָמֶנט של מדִינַת המָחוֹז סַקסוֹניָה-אַנהַלט כִּמעַט 44% מהַקוֹלוֹת
+• סְטִיב וִויטקוֹף וג'ארֶד קוּשנֶר, שְלִיחָיו של נשׂיא ארה&quot;ב דוֹנלד טראמפּ, נִפגְשוּ אתמול בּקִייֶב עִם נשׂיא אוּקרַאינה, וולוֹדִימִיר זַלֶנסקי. בּמַהֲלַך הבִּיקוּר, פּוּטין וזַלֶנסקי הוֹדיעוּ על הַפסָקת אֵש בּת שלוֹשָה ימים בּתְקִיפוֹת האֲוִויריוֹת
+• כַּלַת פּרַס ישׂראל עֲדִי אַלטשוּלֶר הִצטָרפָה למִפלֶגֶת &quot;יָשָר!&quot; של אַיזֶנקוֹט
+• בּסוֹף השָבוּעַ יָחוּל רֹאש הַשָנה. המִצוָוה החֲשוּבָה בּחַג זה היא התְקִיעָה בּשוֹפָר
+• התִַחֲזית: עלייה קַלה בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/7-9-26.m4a" length="1835692" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 06.09.2026</title>
@@ -37,16 +56,16 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0906/AU-20260906-2043-2300.mp3" length="22567064" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: US brings 'proposal to end war' to Russia and Ukraine</title>
-      <link>http://www.bbc.co.uk/programmes/p0p872fr</link>
-      <pubDate>Sun, 06 Sep 2026 03:44:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p872fr</guid>
-      <description>&lt;p&gt;The US is bringing a &quot;proposal to end the war&quot; to Russia and Ukraine - but hopes for progress towards peace are not high. President Trump's top envoys are visiting Kyiv after a &quot;constructive&quot; meeting with Vladimir Putin in Moscow. Also: evidence grows of Sudanese army using chemical weapons in civil war against RSF; the US ambassador to Israel visits Palestinian-Americans in the occupied West Bank; the White House releases retro arcade games with MAGA agenda; how habitat loss forces animals into our homes instead; Oman's bagpipers showcase their musical heritage; and gravediggers dig deep for world championship. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: Historic win for far-right in Germany</title>
+      <link>http://www.bbc.co.uk/programmes/p0p8b9hf</link>
+      <pubDate>Mon, 07 Sep 2026 04:18:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p8b9hf</guid>
+      <description>&lt;p&gt;Germany's Alternative for Germany (AfD) party is heading for a dramatic victory in the eastern state of Saxony-Anhalt, far ahead of its mainstream rivals. Although it is projected to fall short of a majority, the AfD says it has won a mandate to govern. Commentators and political opponents speak of the outcome as a watershed and break with the past. No far-right party has won control of a German state since World War Two.&lt;/p&gt;&lt;p&gt;Also: Ukraine's President Volodymyr Zelensky says he expects the war with Russia to continue into the winter, following talks with Donald Trump's top envoys in Kyiv. The BBC investigates the claim that individuals working for the Saudi government may have been involved in the 9/11 attacks. Iran warns of &quot;a faster, heavier, and more painful response&quot; to US attacks, as hostilities between the two sides escalate. At least five people have been killed and five others injured after a cargo plane sped off a runway at Miami International Airport. Portugal gives festival-goers wristbands that can instantly detect the date-rape drug GHB. We look at how Nigeria's problems with mass abductions from schools are affecting children's access to education. A volcanic eruption in Indonesia disrupts thousands of flights, and how sleep tracking can actually make your sleep worse. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Russian President Vladimir Putin meets US special envoy Steve Witkoff and Jared Kushner, Donald Trump's son-in-law, at the Kremlin in Moscow.
-Credit: Mikhail Metzel/Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p872cf.mp3" length="13280000" type="audio/mpeg"/>
+Photo: Ulrich Siegmund during a far-right Alternative for Germany (AfD) election party following Saxony-Anhalt state election, in Magdeburg, Germany, 06 September 2026.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8b9dv.mp3" length="14088000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
