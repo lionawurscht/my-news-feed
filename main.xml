@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:33:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,39 +14,37 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3462860.html</link>
-      <pubDate>Mon, 07 Sep 2026 12:54:00 +0000</pubDate>
-      <guid isPermaLink="false">bd56a720-6adc-479b-a32d-35e7b70fdaa7</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3463382.html</link>
+      <pubDate>Mon, 07 Sep 2026 16:49:00 +0000</pubDate>
+      <guid isPermaLink="false">52c9fb09-2199-48f5-98ed-b288293b10fc</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-1454-4700.mp3" length="2259979" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-1849-4100.mp3" length="1953931" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-07-2026 9AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-07-2026 2PM EDT</title>
       <link/>
-      <pubDate>Mon, 07 Sep 2026 13:10:23 +0000</pubDate>
-      <guid isPermaLink="false">be3c1f95-5108-4ce5-ab3a-54c9a9a6a3b5</guid>
-      <description>NPR News: 09-07-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c0d4c633-ff9a-4b3a-8fd9-fa43c60211e4/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c0d4c633-ff9a-4b3a-8fd9-fa43c60211e4&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260907-0900-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Sep 2026 18:10:37 +0000</pubDate>
+      <guid isPermaLink="false">69ad8697-a327-430a-a283-7978f892467f</guid>
+      <description>NPR News: 09-07-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/068c2141-8115-4fde-a028-6c8177fd3683/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=068c2141-8115-4fde-a028-6c8177fd3683&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260907-1400-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 06.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3461384.html</link>
-      <pubDate>Sun, 06 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">d3f9f6da-9895-4e0e-9f68-7af48b5bc5bf-SENDUNGSAUDIO</guid>
-      <description>Landtagswahl Sachsen-Anhalt: AfD wird stärkste Kraft, Gewinner und Verlierer der Landtagswahl, Ehemalige Parteimitglieder des Bündnisses Sahra Wagenknecht gründen in Thüringen neue Partei, Trotz Großaufgebot der Polizei: Erfolglose Suche nach Sabotage-Tatverdächtigen im Hambacher Forst, US-Sondergesandte Witkoff und Kushner zu Gesprächen in Kiew mit ukrainischem Präsidenten Selenskyj, Deutsches Start-Up-Unternehmen Isar Aerospace schickt erfolgreich Trägerrakete ins All, Fußball-Bundesliga: HSV unterliegt Mainz mit 0:5, Das Wetter Hinweis: Der Beitrag zur Fußball-Bundesliga darf aus rechtlilchen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0906/AU-20260906-2043-2300.mp3" length="22567064" type="audio/mpeg"/>
+      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 07.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3463516.html</link>
+      <pubDate>Mon, 07 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">851da53f-eb1a-48e0-b0c3-433163885a69-SENDUNGSAUDIO</guid>
+      <description>Reaktionen der Bundesparteien auf das Wahlergebnis in Sachsen-Anhalt, AfD verzeichnet massiven Wählerzuwachs, Gemischte internationale Reaktionen auf AfD-Sieg in Sachsen-Anhalt, VW verkauft Werk in Osnabrück, Verstorbener bosnisch-serbischer Kriegsverbrecher Ratko Mladic beigesetzt, Sieg für deutsche Basketballerinnen bei der WM, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-2025-2900.mp3" length="14671651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: Historic win for far-right in Germany</title>
-      <link>http://www.bbc.co.uk/programmes/p0p8b9hf</link>
-      <pubDate>Mon, 07 Sep 2026 04:18:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p8b9hf</guid>
-      <description>&lt;p&gt;Germany's Alternative for Germany (AfD) party is heading for a dramatic victory in the eastern state of Saxony-Anhalt, far ahead of its mainstream rivals. Although it is projected to fall short of a majority, the AfD says it has won a mandate to govern. Commentators and political opponents speak of the outcome as a watershed and break with the past. No far-right party has won control of a German state since World War Two.&lt;/p&gt;&lt;p&gt;Also: Ukraine's President Volodymyr Zelensky says he expects the war with Russia to continue into the winter, following talks with Donald Trump's top envoys in Kyiv. The BBC investigates the claim that individuals working for the Saudi government may have been involved in the 9/11 attacks. Iran warns of &quot;a faster, heavier, and more painful response&quot; to US attacks, as hostilities between the two sides escalate. At least five people have been killed and five others injured after a cargo plane sped off a runway at Miami International Airport. Portugal gives festival-goers wristbands that can instantly detect the date-rape drug GHB. We look at how Nigeria's problems with mass abductions from schools are affecting children's access to education. A volcanic eruption in Indonesia disrupts thousands of flights, and how sleep tracking can actually make your sleep worse. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: Merz: Germany faces a &quot;tectonic shift&quot; after AfD victory</title>
+      <link>http://www.bbc.co.uk/programmes/p0p8f710</link>
+      <pubDate>Mon, 07 Sep 2026 15:35:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p8f710</guid>
+      <description>&lt;p&gt;Friedrich Merz says the decisive win in the eastern state of Saxony-Anhalt by the far-right Alternative for Germany, AfD, signals the need for a major reckoning. The AfD's national co-leader, Alice Weidel, says it's aiming to win at least forty per cent in the next general election. Also: the funeral of the Bosnian Serb war criminal, General Ratko Mladić, has gone ahead in the Serbian capital, Belgrade, where some people consider him a national hero. The Lebanese president, Joseph Aoun, has warned of a &quot;dangerous escalation&quot; by Israel after women and children were killed in an air strike on a residential building in southern Lebanon. A new film about the most important weather forecast in British history, which gave the go-ahead for D-Day on the sixth June 1944, is released in the UK. And the BBC speaks to the 13-year-old who has written a symphony warning about the challenges posed by artificial intelligence.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Ulrich Siegmund during a far-right Alternative for Germany (AfD) election party following Saxony-Anhalt state election, in Magdeburg, Germany, 06 September 2026.
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8b9dv.mp3" length="14088000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Description: German Chancellor and Christian Democratic Union (CDU) party leader Friedrich Merz attends a press conference the day after the Saxony-Anhalt state elections in Berlin, Germany, September 7, 2026. &lt;/p&gt;&lt;p&gt;Credit: REUTERS/Axel Schmidt&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8f6jl.mp3" length="14088000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
