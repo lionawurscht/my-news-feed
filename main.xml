@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:37:44 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -21,20 +21,20 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0908/AU-20260908-1836-5900.mp3" length="1804939" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-08-2026 12PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-08-2026 4PM EDT</title>
       <link/>
-      <pubDate>Tue, 08 Sep 2026 16:11:00 +0000</pubDate>
-      <guid isPermaLink="false">c2a8a811-dab2-4da6-bad7-eb1d5003f2da</guid>
-      <description>NPR News: 09-08-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/001c7cbb-6b67-431c-a035-16cab1ee3d96/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=001c7cbb-6b67-431c-a035-16cab1ee3d96&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260908-1200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 20:11:19 +0000</pubDate>
+      <guid isPermaLink="false">22566ee0-8e8f-4df5-86a3-c9f49b016b0c</guid>
+      <description>NPR News: 09-08-2026 4PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/60828bf0-31eb-4db1-8af0-ad5f7b849e08/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=60828bf0-31eb-4db1-8af0-ad5f7b849e08&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260908-1600-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 07.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3463516.html</link>
-      <pubDate>Mon, 07 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">851da53f-eb1a-48e0-b0c3-433163885a69-SENDUNGSAUDIO</guid>
-      <description>Reaktionen der Bundesparteien auf das Wahlergebnis in Sachsen-Anhalt, AfD verzeichnet massiven Wählerzuwachs, Gemischte internationale Reaktionen auf AfD-Sieg in Sachsen-Anhalt, VW verkauft Werk in Osnabrück, Verstorbener bosnisch-serbischer Kriegsverbrecher Ratko Mladic beigesetzt, Sieg für deutsche Basketballerinnen bei der WM, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-2025-2900.mp3" length="14671651" type="audio/mpeg"/>
+      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 08.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3465750.html</link>
+      <pubDate>Tue, 08 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">7adf32cb-cde1-4149-bbe1-9127e838a864-SENDUNGSAUDIO</guid>
+      <description>Deutschland schneidet bei Bildungsstudie PISA so schlecht wie nie zuvor ab, Auftakt der Haushaltswoche im Bundestag, Landes-CDU stellt sich nach Wahlschlappe in Sachsen-Anhalt neu auf, Experten befürchten Abschreckung von Investoren und Personal im Falle einer Landesregierung unter AfD-Führung in Sachsen-Anhalt, Nach dreitägiger Feuerpause erneut russische Angriffe auf die Ukraine, Festnahme des Tatverdächtigen nach mehreren Sabotage-Anschlägen auf das deutsche Stromnetz, Rauchen verringert Chance auf eine Schwangerschaft laut WHO-Studie, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0908/AU-20260908-2025-5900.mp3" length="15531810" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast: UK sanctions Israeli settlements in occupied West Bank</title>
