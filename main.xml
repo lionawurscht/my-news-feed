@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:02:11 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,19 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3464970.html</link>
-      <pubDate>Tue, 08 Sep 2026 12:28:00 +0000</pubDate>
-      <guid isPermaLink="false">fa811839-30ba-4051-9303-cdf4584a6140</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3465596.html</link>
+      <pubDate>Tue, 08 Sep 2026 16:37:00 +0000</pubDate>
+      <guid isPermaLink="false">f9ea0208-d8e6-48e0-a853-36bbbd58863b</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0908/AU-20260908-1428-0800.mp3" length="2326411" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0908/AU-20260908-1836-5900.mp3" length="1804939" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-08-2026 8AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-08-2026 12PM EDT</title>
       <link/>
-      <pubDate>Tue, 08 Sep 2026 12:10:36 +0000</pubDate>
-      <guid isPermaLink="false">c5faa167-07c9-4888-8e45-f1d1d869bac5</guid>
-      <description>NPR News: 09-08-2026 8AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/fc4cf8aa-363a-454d-a8c4-8606b371c999/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=fc4cf8aa-363a-454d-a8c4-8606b371c999&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260908-0800-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 16:11:00 +0000</pubDate>
+      <guid isPermaLink="false">c2a8a811-dab2-4da6-bad7-eb1d5003f2da</guid>
+      <description>NPR News: 09-08-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/001c7cbb-6b67-431c-a035-16cab1ee3d96/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=001c7cbb-6b67-431c-a035-16cab1ee3d96&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260908-1200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 07.09.2026</title>
@@ -37,15 +37,15 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0907/AU-20260907-2025-2900.mp3" length="14671651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: West Bank parents fear after settler attacks on school</title>
-      <link>http://www.bbc.co.uk/programmes/p0p8h002</link>
-      <pubDate>Tue, 08 Sep 2026 04:44:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p8h002</guid>
-      <description>&lt;p&gt;Palestinians in the occupied West Bank are terrified for their children's lives at school after an increase in attacks by Jewish extremist settlers. Three pupils at a school south of Nablus have been killed since April. Ambulance crews have been stationed on the road outside the school, while several parents have volunteered to stand outside the gates. Meanwhile, the UK is to ban Israeli goods from West Bank settlements as part of a new policy towards Israel. &lt;/p&gt;&lt;p&gt;Also: in Ukraine's third-largest city, Odesa, councillors are voting to crack down on the Russian language - even though it's spoken by most residents. Staff at the Eiffel Tower in Paris go on strike after bosses agree to make the site a women-free zone for a visit by a conservative Hindu group. King Charles makes it clear that Harry and Meghan's return to Britain doesn't make them working royals. We ask if loud influencers are ruining tennis tournaments. And in the UK, blind parents are being given 3D prints of ultrasound scans to improve their pregnancy experiences.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: UK sanctions Israeli settlements in occupied West Bank</title>
+      <link>http://www.bbc.co.uk/programmes/p0p8l8gf</link>
+      <pubDate>Tue, 08 Sep 2026 15:40:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p8l8gf</guid>
+      <description>&lt;p&gt;Twelve countries ban goods from Israeli settlements in the occupied West Bank; Britain's Foreign Secretary, Ed Miliband, says plans to build thousands of new homes there are unacceptable. Also: Canada's imposes retaliatory tariffs on various American goods; fighting escalates between Saudi Arabia and the Iran-backed Houthi group; the medical charity, Medecins sans Frontieres, warns that international funding cuts have closed healthcare facilities across Sudan; the boss of one of the world's leading computer chip makers, ARM Holdings, predicts artificial intelligence will cure cancer; masterpieces by the Impressionist painter, Pierre-Auguste Renoir, are stolen in France; and we speak to the writer of a new documentary on the English rock band, Oasis.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: School children in al-Mughayyir
-Credit: BBC&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8gzkl.mp3" length="12280000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Foreign Secretary Ed Miliband making a statement on Israel-Palestine in the House of Commons.
+Credit: House of Commons/UK Parliament/PA Wire&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8l80h.mp3" length="13120000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
