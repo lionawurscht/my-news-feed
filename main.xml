@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 07 Sep 2026 23:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 02:50:35 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,19 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3463660.html</link>
-      <pubDate>Mon, 07 Sep 2026 23:51:00 +0000</pubDate>
-      <guid isPermaLink="false">c9c0c4de-974c-428e-a0f6-7ae4fc22b1ce</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3463722.html</link>
+      <pubDate>Tue, 08 Sep 2026 02:47:00 +0000</pubDate>
+      <guid isPermaLink="false">61a16b5b-23d3-4d6e-b562-d5e7369096e6</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0908/AU-20260908-0151-1600.mp3" length="1866384" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0908/AU-20260908-0447-0400.mp3" length="1936656" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-07-2026 7PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-07-2026 10PM EDT</title>
       <link/>
-      <pubDate>Mon, 07 Sep 2026 23:10:51 +0000</pubDate>
-      <guid isPermaLink="false">55e7923b-207d-4bd4-b73e-d2f4393b9a97</guid>
-      <description>NPR News: 09-07-2026 7PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6661fc1e-6e18-43d7-9cfb-61dbe90d2359/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6661fc1e-6e18-43d7-9cfb-61dbe90d2359&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260907-1900-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2026 02:10:48 +0000</pubDate>
+      <guid isPermaLink="false">e3d4abed-5706-422a-ac5a-a19208786a40</guid>
+      <description>NPR News: 09-07-2026 10PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7b08fcd5-a679-45db-9b63-561a916369a3/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7b08fcd5-a679-45db-9b63-561a916369a3&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260907-2200-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 07.09.2026</title>
