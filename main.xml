@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:40:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:59:15 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,19 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3467176.html</link>
-      <pubDate>Wed, 09 Sep 2026 12:27:00 +0000</pubDate>
-      <guid isPermaLink="false">b397d88c-03ed-4953-a361-f77baf32ff8e</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3467764.html</link>
+      <pubDate>Wed, 09 Sep 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">a58f1eb6-c4ba-4837-9d29-8cad7defaf9e</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0909/AU-20260909-1427-0900.mp3" length="2143627" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0909/AU-20260909-1829-5700.mp3" length="2042251" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-09-2026 8AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-09-2026 12PM EDT</title>
       <link/>
-      <pubDate>Wed, 09 Sep 2026 12:11:00 +0000</pubDate>
-      <guid isPermaLink="false">749e3f07-8262-4e69-9beb-c434da5ad79b</guid>
-      <description>NPR News: 09-09-2026 8AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d71e888b-3257-4533-bd1c-060b4f91a242/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d71e888b-3257-4533-bd1c-060b4f91a242&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260909-0800-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Sep 2026 16:11:03 +0000</pubDate>
+      <guid isPermaLink="false">2dd92ab8-7bf2-4084-b737-4c8d5191eb8b</guid>
+      <description>NPR News: 09-09-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ebe988b3-ca41-4b75-8d5f-3795cc862e96/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ebe988b3-ca41-4b75-8d5f-3795cc862e96&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260909-1200-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 08.09.2026</title>
@@ -37,16 +37,15 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0908/AU-20260908-2025-5900.mp3" length="15531810" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: Israel hits back at sanctions on settlers</title>
-      <link>http://www.bbc.co.uk/programmes/p0p8n6sy</link>
-      <pubDate>Wed, 09 Sep 2026 04:12:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p8n6sy</guid>
-      <description>&lt;p&gt;The Israeli government takes retaliatory action after Britain, France and Canada impose sanctions on illegal settlements in the occupied West Bank. Israel's Foreign Minister Gideon Saar has announced countermeasures including shutting the UK's consulate in East Jerusalem. &lt;/p&gt;&lt;p&gt;Also: fighting between US and Iranian forces flares again with the Americans striking Iranian oil tankers and Tehran targeting a US military base. Newly released files show that toxic air quality was being recorded in Manhattan soon after the 9/11 attacks even as officials played down health risks to the public. A global survey finds a dramatic decline in teenagers' performance at school in the digital era. British scientists are developing a screening test that can show whether a patient has a brain tumour by analysing their tears. And fans celebrate as the legendary TV show, Star Trek, turns sixty.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: AI scientist quits Anthropic over risk to humanity</title>
+      <link>http://www.bbc.co.uk/programmes/p0p8rpdt</link>
+      <pubDate>Wed, 09 Sep 2026 15:27:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p8rpdt</guid>
+      <description>&lt;p&gt;A top safety researcher at Anthropic has warned that AI might be able to improve itself to the point where it poses an existential threat to humanity. Another former employee says that no other human activity poses this level of danger after quiting the company. There has been a growing number of voices within the industry calling for international coordination to slow AI development. Also: The British Prime Minister, Andy Burnham, defends his government's decision to impose sanctions on goods from Israeli settlements in the occupied West Bank. The killing of eight women in Cameroon over the course of a week renews calls for legislation targeting gender-based violence. Funeral ceremonies for King Harald V take place in Norway. We hear from the first Afghan woman who has climbed Mount Everest. The US Secretary of State, Marco Rubio, begins his three nation trip across Latin America. A new study by Oxford University says people who regularly have hot cups of tea or coffee are at a greater risk of developing cancer in their oesophagus. And the American television show, South Park, gets a new name.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Israeli minister of foreign affairs Gideon Saar speaks at a news conference in Jerusalem, after the UK and other countries announce sanctions on settlements in the occupied West Bank.
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8n6rd.mp3" length="12744000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Anthropic logo, a keyboard and a robotic hand 
+Credit: REUTERS/Dado Ruvic&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8rm9d.mp3" length="14872000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
