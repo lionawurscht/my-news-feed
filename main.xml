@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 09 Sep 2026 02:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:48:23 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,38 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3465926.html</link>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">ffb4bb29-4f06-45fd-808a-69fde8e24224</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3466324.html</link>
+      <pubDate>Wed, 09 Sep 2026 06:05:00 +0000</pubDate>
+      <guid isPermaLink="false">7ed58e9c-7022-4da0-95cf-6955891e2efb</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0909/AU-20260909-0200-1900.mp3" length="2163216" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0909/AU-20260909-0805-0700.mp3" length="2559499" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-08-2026 10PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-09-2026 3AM EDT</title>
       <link/>
-      <pubDate>Wed, 09 Sep 2026 02:10:43 +0000</pubDate>
-      <guid isPermaLink="false">890b5361-37a6-4c1e-9174-47ab18fd5984</guid>
-      <description>NPR News: 09-08-2026 10PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/82790095-c25c-44a5-899a-82c7a72e5755/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=82790095-c25c-44a5-899a-82c7a72e5755&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260908-2200-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Wed, 09 Sep 2026 07:10:01 +0000</pubDate>
+      <guid isPermaLink="false">e9bec033-6713-476a-8ed6-f9a229635ceb</guid>
+      <description>NPR News: 09-09-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/12e53a9e-b6ff-4d66-a57e-f32bca72254e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=12e53a9e-b6ff-4d66-a57e-f32bca72254e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260909-0300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה: חדשון בעברית קלה — 09/09/2026</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Wed, 09 Sep 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/9-9-26.m4a</guid>
+      <description>• דלג ל
+• משרד החינוך
+• ארה&quot;ב הִשמִידָה הלַילה 5 מְכָלִיוֹת נֵפט אִירַאנִיוֹת; בּתְגוּבָה שִיגרָה אִיראן 20 טִילִים לעֵבֶר בְּסִיסֵי צָבָא אָמֵרִיקָנִיִים בּיַרדֵן. רוֹב הטִילִים יוֹרטוּ ולֹא היוּ נִפגָעִים
+• מִשׂרַד רֹאש המֶמשָלָה הִכחִיש אֶמֶש רִשמִית את הפִּרסוּם בּעִיתוֹן &quot;הָאָרֶץ&quot;, שֶבּוֹ נִטעַן כי נשׂיא אִיחוּד האֱמִירוּיוֹת, מוּחֲמַד בּן זַאיד, הִזהִיר את רה&quot;מ נתניהו כּשָבוּעַ לִפנֵי 7 בּאוֹקטוֹבּר
+• אֶמֶש הִסתַיֵים הֲלִיך הַגָשַת הרְשִימוֹת לִקרַאת הבְּחִירוֹת לַכּנֶסֶת ה-26. 38 מִפלָגוֹת הִגִישוּ את הרְשִימוֹת שלָהן, והֵן מחַכּוֹת לאִישוּר של וַעֲדַת הבְּחִירוֹת המֶרכָּזית
+• בּעִקבוֹת החֵרֶם שֶהֵטִילָה בּרִיטַניָה אתמוֹל על ההִתנַחֲלוּיוֹת, הוֹרתָה ישׂראל לנְצִיגִים הבְְּרִיטִים בּמִפקֶדֶת הסִיוּעַ לעַזה בּקִריַית גַת לַעֲזוֹב את האָרץ מִייָד. הוּחלַט גם לִסגוֹר את הקוֹנסוּליָה הבְּרִיטית בּירוּשלים ולֶאֱסוֹר את כְּנִיסָתָם לאָרץ של אַנשֵי צִיבּוּר בּרִיטִים אַנטִי-ישׂראֵלים
+• השַׂר אוֹפיר סוֹפֵר על העֲלִייָה מהמַעֲרָב: &quot;כּוּלם מְבִינים מה קוֹרֶה בּאֵירוֹפּה ובאוֹסטרַליָה&quot;
+• אַחַד השִירים הפּוֹפּוּלָרִיִים לִקרַאת השָנה החדָשה הוא &quot;בַּשָנה הַבָּאה&quot; – שיר גַעֲגוּעִים אִישִי ועָצוּב שֶהָפַך לשיר שָׂמֵחַ ואוֹפּטִימִי
+• התִַחֲזית: ירִידה קַלה בּטמפּרטוּרוֹת, אך עֲדַיִין חַם מהרָגִיל
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/9-9-26.m4a" length="1936862" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 08.09.2026</title>
@@ -37,15 +56,16 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0908/AU-20260908-2025-5900.mp3" length="15531810" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: UK sanctions Israeli settlements in occupied West Bank</title>
-      <link>http://www.bbc.co.uk/programmes/p0p8l8gf</link>
-      <pubDate>Tue, 08 Sep 2026 15:40:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p8l8gf</guid>
-      <description>&lt;p&gt;Twelve countries ban goods from Israeli settlements in the occupied West Bank; Britain's Foreign Secretary, Ed Miliband, says plans to build thousands of new homes there are unacceptable. Also: Canada's imposes retaliatory tariffs on various American goods; fighting escalates between Saudi Arabia and the Iran-backed Houthi group; the medical charity, Medecins sans Frontieres, warns that international funding cuts have closed healthcare facilities across Sudan; the boss of one of the world's leading computer chip makers, ARM Holdings, predicts artificial intelligence will cure cancer; masterpieces by the Impressionist painter, Pierre-Auguste Renoir, are stolen in France; and we speak to the writer of a new documentary on the English rock band, Oasis.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: Israel hits back at sanctions on settlers</title>
+      <link>http://www.bbc.co.uk/programmes/p0p8n6sy</link>
+      <pubDate>Wed, 09 Sep 2026 04:12:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p8n6sy</guid>
+      <description>&lt;p&gt;The Israeli government takes retaliatory action after Britain, France and Canada impose sanctions on illegal settlements in the occupied West Bank. Israel's Foreign Minister Gideon Saar has announced countermeasures including shutting the UK's consulate in East Jerusalem. &lt;/p&gt;&lt;p&gt;Also: fighting between US and Iranian forces flares again with the Americans striking Iranian oil tankers and Tehran targeting a US military base. Newly released files show that toxic air quality was being recorded in Manhattan soon after the 9/11 attacks even as officials played down health risks to the public. A global survey finds a dramatic decline in teenagers' performance at school in the digital era. British scientists are developing a screening test that can show whether a patient has a brain tumour by analysing their tears. And fans celebrate as the legendary TV show, Star Trek, turns sixty.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Foreign Secretary Ed Miliband making a statement on Israel-Palestine in the House of Commons.
-Credit: House of Commons/UK Parliament/PA Wire&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8l80h.mp3" length="13120000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Israeli minister of foreign affairs Gideon Saar speaks at a news conference in Jerusalem, after the UK and other countries announce sanctions on settlements in the occupied West Bank.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8n6rd.mp3" length="12744000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
