@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Sep 2026 05:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:28:54 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,19 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3468434.html</link>
-      <pubDate>Thu, 10 Sep 2026 05:08:00 +0000</pubDate>
-      <guid isPermaLink="false">d5de2499-2b1c-4490-b578-f98ebaed1c93</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3469066.html</link>
+      <pubDate>Thu, 10 Sep 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="false">76d184bd-b1ef-49f2-9822-1bc232320d51</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-0708-2800.mp3" length="2531851" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-1130-4600.mp3" length="1928587" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 1AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 6AM EDT</title>
       <link/>
-      <pubDate>Thu, 10 Sep 2026 05:10:23 +0000</pubDate>
-      <guid isPermaLink="false">c0bedf61-868e-4455-87f7-893946c10e3b</guid>
-      <description>NPR News: 09-10-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8206fe8b-95cd-4794-b373-d9b425616308/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8206fe8b-95cd-4794-b373-d9b425616308&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-0100-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 10:10:58 +0000</pubDate>
+      <guid isPermaLink="false">a784b1f7-6207-491e-a633-3f4bab914079</guid>
+      <description>NPR News: 09-10-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e7cf1e07-10fd-4657-b91e-8a2879f05a9d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e7cf1e07-10fd-4657-b91e-8a2879f05a9d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-0600-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[HE|Overview] חדשון בעברית קלה: חדשון בעברית קלה — 10/09/2026</title>
