@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:01:10 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,39 +14,30 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3469492.html</link>
-      <pubDate>Thu, 10 Sep 2026 12:39:00 +0000</pubDate>
-      <guid isPermaLink="false">b00b8b39-a9d2-46ec-a83b-742f578d250c</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3470110.html</link>
+      <pubDate>Thu, 10 Sep 2026 16:36:00 +0000</pubDate>
+      <guid isPermaLink="false">a084f493-8c7c-4bc4-a064-eda2053d80a6</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-1439-2500.mp3" length="1956619" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-1836-2600.mp3" length="1869067" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 10AM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 1PM EDT</title>
       <link/>
-      <pubDate>Thu, 10 Sep 2026 14:10:48 +0000</pubDate>
-      <guid isPermaLink="false">f5c1349a-5c1a-43bd-875e-9cad10cd5e69</guid>
-      <description>NPR News: 09-10-2026 10AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/480cccec-fcc1-4dad-9089-edd87c0877f7/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=480cccec-fcc1-4dad-9089-edd87c0877f7&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-1000-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 17:12:58 +0000</pubDate>
+      <guid isPermaLink="false">55ac07cc-ce7f-40e1-b667-a69b640589f1</guid>
+      <description>NPR News: 09-10-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c7f97df7-fc67-413f-8fae-7ba32ce715bd/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c7f97df7-fc67-413f-8fae-7ba32ce715bd&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-1300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 09.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3467870.html</link>
-      <pubDate>Wed, 09 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">365308ed-ebd5-4db8-9510-6ec50a47b4d0-SENDUNGSAUDIO</guid>
-      <description>Schlagabtausch zwischen Kanzler Merz und AfD-Chefin Weidel bei Generaldebatte des Bundestags, Deutscher Städtetag fordert jährlich 30 Milliarden Euro vom Bund, Angriffe zwischen Iran und den USA in der Straße von Hormus, Neue Kämpfe zwischen Saudi-Arabien und der Huthi-Miliz im Jemen, Spritpreise in Deutschland steigen weiter, US-Rüstungsfirma Covenant will Marschflugkörper in Sachsen bauen, Israels Ministerpräsident Netanjahu will gegen Bericht zu Hamas-Überfall klagen, Staatsanwaltschaft Hannover ermittelt gegen Steffen Krach von der SPD, Bundesdigitalminister Wildberger stellt Pläne für digitale Brieftasche Eudi-Wallet vor, Beisetzung von Norwegens König Harald V. in Oslo, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0909/AU-20260909-2027-1200.mp3" length="15609762" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: US Republicans kick off first-ever midterm convention</title>
-      <link>http://www.bbc.co.uk/programmes/p0p8vdrv</link>
-      <pubDate>Thu, 10 Sep 2026 04:35:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p8vdrv</guid>
-      <description>&lt;p&gt;US Republicans have kicked off their first-ever midterm convention to rally voters ahead of November's elections, despite Donald Trump's low approval ratings. In a lengthy speech, the president defended his policies and promised voters a $5000 payout if the Republican party wins and holds on to Congress, although it's not clear if his pledge is legal. We speak to our correspondent at the convention in Dallas, Texas. Also: dozens of people are missing after a ferry catches fire in the Philippines; the family of a black woman found hanged on a tree demands answers; Apple unveils its foldable iPhone Duo; an Indian food inspector's crackdown in Mumbai goes viral; and time is running out for the leap second. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: Philippine ferry erupts in flames</title>
+      <link>http://www.bbc.co.uk/programmes/p0p8zc86</link>
+      <pubDate>Thu, 10 Sep 2026 15:18:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p8zc86</guid>
+      <description>&lt;p&gt;An urgent search for survivors is underway after a ferry in the Philippines catches fire. Dozens are still missing and at least five people are dead. The Philippine coastguard says it's still too dangerous to board the ferry, but they fear people are trapped inside. &lt;/p&gt;&lt;p&gt;Also: a port city in Yemen is captured by the Houthi rebel group. Donald Trump promises $5,000 to every adult American if Republicans win the midterm elections. The commander and pilot of the Artemis II space mission retire from spaceflight. Anti-immigration protesters in the UK mistake the Pakistan under-19 cricket team for migrants. Officials say August this year was the world's joint hottest month on record. And the Bayeux Tapestry goes on public display in London - the first time it has left France since the eleventh century.  &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Picture: US President Donald Trump gestures after his speech during the Republican National Midterm Convention in Dallas.
-Credit: REUTERS/Jessica Koscielniak&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8vdj9.mp3" length="12872000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: a drone view shows burned MV June Aster, after a fire broke out on the ferry, off the coast of the Philippines.
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8zb8y.mp3" length="13440000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
