@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:38:49 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -21,12 +21,12 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-2158-2000.mp3" length="1679371" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 5PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 7PM EDT</title>
       <link/>
-      <pubDate>Thu, 10 Sep 2026 21:10:18 +0000</pubDate>
-      <guid isPermaLink="false">d0ed728a-200d-4f61-b366-f5aea513a0f2</guid>
-      <description>NPR News: 09-10-2026 5PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8e24d1ce-4cb6-4a66-a1c9-465074d1abca/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8e24d1ce-4cb6-4a66-a1c9-465074d1abca&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-1700-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 23:10:38 +0000</pubDate>
+      <guid isPermaLink="false">eb80fc91-81b2-4f4b-8dbc-637150aa4699</guid>
+      <description>NPR News: 09-10-2026 7PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/134a4e0f-646f-46e5-b2f1-e496d55f2373/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=134a4e0f-646f-46e5-b2f1-e496d55f2373&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-1900-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 10.09.2026</title>
