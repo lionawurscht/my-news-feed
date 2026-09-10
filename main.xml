@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:20:59 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,27 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3470110.html</link>
-      <pubDate>Thu, 10 Sep 2026 16:36:00 +0000</pubDate>
-      <guid isPermaLink="false">a084f493-8c7c-4bc4-a064-eda2053d80a6</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3470298.html</link>
+      <pubDate>Thu, 10 Sep 2026 19:58:00 +0000</pubDate>
+      <guid isPermaLink="false">b831e03a-1fa2-4656-a69b-e79bcd479bf8</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-1836-2600.mp3" length="1869067" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-2158-2000.mp3" length="1679371" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 1PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 5PM EDT</title>
       <link/>
-      <pubDate>Thu, 10 Sep 2026 17:12:58 +0000</pubDate>
-      <guid isPermaLink="false">55ac07cc-ce7f-40e1-b667-a69b640589f1</guid>
-      <description>NPR News: 09-10-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c7f97df7-fc67-413f-8fae-7ba32ce715bd/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c7f97df7-fc67-413f-8fae-7ba32ce715bd&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-1300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 21:10:18 +0000</pubDate>
+      <guid isPermaLink="false">d0ed728a-200d-4f61-b366-f5aea513a0f2</guid>
+      <description>NPR News: 09-10-2026 5PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8e24d1ce-4cb6-4a66-a1c9-465074d1abca/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8e24d1ce-4cb6-4a66-a1c9-465074d1abca&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-1700-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 10.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3470266.html</link>
+      <pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">63d283f1-5259-44f2-b0d4-d08c0b74f963-SENDUNGSAUDIO</guid>
+      <description>Neue Debatte über ein mögliches AfD-Verbotsverfahren, BSW nimmt AfD-Einladung zu Sondierungsgesprächen in Sachsen-Anhalt an, Vereinigte Arabische Emirate planen 40-Milliarden-Investment in Deutschland, Spahn entschuldigt sich für Umgang mit Leihmutterschaft in den USA, EZB erhöht Leitzins auf 2,5 Prozent, Trump verspricht im Falle eines Wahlsiegs 5.000 Dollar für jeden Erwachsenen, Weniger Empfänger von Asylbewerberleistungen im Jahr 2025, Ermittlungen gegen Verdächtigen nach Sabotage-Angriffen auf das deutsche Stromnetz, Verband der Hausärztinnen- und Hausärzte warnt vor möglichem Zusammenbruch der Versorgung, Bundesweiter Warntag, Deutsche Basketballerinnen ziehen erstmals bei einer Weltmeisterschaft ins Halbfinale ein, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-2026-0800.mp3" length="14501921" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast: Philippine ferry erupts in flames</title>
