@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 05:31:22 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,38 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3468184.html</link>
-      <pubDate>Thu, 10 Sep 2026 00:06:00 +0000</pubDate>
-      <guid isPermaLink="false">436d486e-224e-4200-a037-069fdb3f4438</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3468434.html</link>
+      <pubDate>Thu, 10 Sep 2026 05:08:00 +0000</pubDate>
+      <guid isPermaLink="false">d5de2499-2b1c-4490-b578-f98ebaed1c93</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-0205-5800.mp3" length="1766567" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-0708-2800.mp3" length="2531851" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-09-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 1AM EDT</title>
       <link/>
-      <pubDate>Thu, 10 Sep 2026 00:10:43 +0000</pubDate>
-      <guid isPermaLink="false">bec942db-048f-4f7e-a92d-ffa890e323b8</guid>
-      <description>NPR News: 09-09-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ed1ad935-54ce-4608-ba79-7479e74cb8c1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ed1ad935-54ce-4608-ba79-7479e74cb8c1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260909-2000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Thu, 10 Sep 2026 05:10:23 +0000</pubDate>
+      <guid isPermaLink="false">c0bedf61-868e-4455-87f7-893946c10e3b</guid>
+      <description>NPR News: 09-10-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8206fe8b-95cd-4794-b373-d9b425616308/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8206fe8b-95cd-4794-b373-d9b425616308&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-0100-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה: חדשון בעברית קלה — 10/09/2026</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Thu, 10 Sep 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/10-9-26.m4a</guid>
+      <description>• דלג ל
+• משרד החינוך
+• שָנָה טוֹבָה וּמְתוּקָה!
+• דִיווּחַ בּ&quot;ווֹל סְטרִיט ג'וֹרנַל&quot;: בְּכִירִים בַּבּית הלָבן הִזהִירוּ את נשׂיא ארה&quot;ב דוֹנלד טראמפּ כי העִימוּת עִם אִיראן עָלוּל להִימָשֵך עַד סוֹף כְּהוּנָתוֹ ב-2029. טראמפּ עַצמוֹ אמר כי המִלחָמה תִסתַיֵים מִייָד אַחרֵי בּחִירוֹת האֶמצַע בּנוֹבֶמבּר
+• נשׂיא אִיחוּד האֱמִירוּיוֹת, מוּחֲמַד בּן זַאיד, סיפר בּעָבר לכַמה אִישִים בּכִירִים ישׂראֵלים ואָמֵריקָנים כי שׂוֹחֵחַ עִם רה&quot;מ נתניהו והִזהִיר אותו בּאוֹפֶן כּלָלי מִפּנֵי פּיצוּץ בֵּין ישׂראל לפַלסטִינים
+• לִקרַאת חַגֵי תִשרֵי ויוֹם השָנה השלִישִי ל-7/10, המַטֶה לבִיטָחוֹן לאוּמי פִּרסֵם השָבוּעַ לצִיבּוּר את הַעֲרָכַת האִיוּם המְעוּדכֶּנֶת לישׂראֵלים בּחוּ&quot;ל, והִזהִיר כי נִמשָכִים המַאֲמַצִים של גוֹרמֵי טֵרוֹר לִפגוֹעַ בּישׂראֵלים וביהוּדים בּרַחֲבֵי העוֹלם
+• רֹאש עִירִייַת נְיוּ יוֹרְק זוֹהרַאן מַמדָאני הוֹדִיעַ על תִגבּוּר האַבטָחָה סְבִיב בָּתֵי כּנֶסֶת ומוֹסָדוֹת יהוּדִיִים לִקרַאת חַגֵי תִשרֵי, בּעִקבוֹת העלִייה בּפִשעֵי השִׂנאָה האַנטִישֵמִיִים בּעִיר
+• מָחר, 11 בּספּטֶמבֶּר, יָחוּל יוֹם השָנה ה-25 למִתקֶפֶת הטֵרוֹר האִסלַאמִי על מִגדלֵי התְאוֹמִים בּנְיוּ יוֹרְק
+• הלמ&quot;ס: אוּכלוּסִייַת ישׂראל נֶאֱמֶדֶת בּכ-10,305,000 בּנֵי אָדם
+• מָחר בָּעֶרֶב יָחוּל רֹאש השָנה – יוֹם של דִין וּתפִילָה, של חֶשבּוֹן נֶפֶש ותִקוָוה
+• המִצוָוה החֲשוּבָה בּרֹאש השָנה היא התְקִיעָה בּשוֹפָר
+• רבּים נוֹהגים לקַיים בּרֹאש השָנה את טֶקֶס ה&quot;תַשלִיךְ&quot;</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/10-9-26.m4a" length="2426896" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 09.09.2026</title>
@@ -37,15 +56,16 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0909/AU-20260909-2027-1200.mp3" length="15609762" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: AI scientist quits Anthropic over risk to humanity</title>
-      <link>http://www.bbc.co.uk/programmes/p0p8rpdt</link>
-      <pubDate>Wed, 09 Sep 2026 15:27:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p8rpdt</guid>
-      <description>&lt;p&gt;A top safety researcher at Anthropic has warned that AI might be able to improve itself to the point where it poses an existential threat to humanity. Another former employee says that no other human activity poses this level of danger after quiting the company. There has been a growing number of voices within the industry calling for international coordination to slow AI development. Also: The British Prime Minister, Andy Burnham, defends his government's decision to impose sanctions on goods from Israeli settlements in the occupied West Bank. The killing of eight women in Cameroon over the course of a week renews calls for legislation targeting gender-based violence. Funeral ceremonies for King Harald V take place in Norway. We hear from the first Afghan woman who has climbed Mount Everest. The US Secretary of State, Marco Rubio, begins his three nation trip across Latin America. A new study by Oxford University says people who regularly have hot cups of tea or coffee are at a greater risk of developing cancer in their oesophagus. And the American television show, South Park, gets a new name.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: US Republicans kick off first-ever midterm convention</title>
+      <link>http://www.bbc.co.uk/programmes/p0p8vdrv</link>
+      <pubDate>Thu, 10 Sep 2026 04:35:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p8vdrv</guid>
+      <description>&lt;p&gt;US Republicans have kicked off their first-ever midterm convention to rally voters ahead of November's elections, despite Donald Trump's low approval ratings. In a lengthy speech, the president defended his policies and promised voters a $5000 payout if the Republican party wins and holds on to Congress, although it's not clear if his pledge is legal. We speak to our correspondent at the convention in Dallas, Texas. Also: dozens of people are missing after a ferry catches fire in the Philippines; the family of a black woman found hanged on a tree demands answers; Apple unveils its foldable iPhone Duo; an Indian food inspector's crackdown in Mumbai goes viral; and time is running out for the leap second. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Anthropic logo, a keyboard and a robotic hand 
-Credit: REUTERS/Dado Ruvic&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8rm9d.mp3" length="14872000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Picture: US President Donald Trump gestures after his speech during the Republican National Midterm Convention in Dallas.
+Credit: REUTERS/Jessica Koscielniak&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8vdj9.mp3" length="12872000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
