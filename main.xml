@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:24:08 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -21,20 +21,20 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0911/AU-20260911-1834-5900.mp3" length="1895182" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-11-2026 12PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-11-2026 3PM EDT</title>
       <link/>
-      <pubDate>Fri, 11 Sep 2026 16:10:11 +0000</pubDate>
-      <guid isPermaLink="false">922b9e70-f863-4318-84bd-7dca959ef228</guid>
-      <description>NPR News: 09-11-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/055dd58b-8fdd-4411-a398-f0d26ca895e6/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=055dd58b-8fdd-4411-a398-f0d26ca895e6&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260911-1200-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Sep 2026 19:10:43 +0000</pubDate>
+      <guid isPermaLink="false">4f79c415-42dc-436c-9cc5-580d74e86e32</guid>
+      <description>NPR News: 09-11-2026 3PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8a95285a-2d05-4972-8d80-cbda425c6f48/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8a95285a-2d05-4972-8d80-cbda425c6f48&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260911-1500-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 10.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3470266.html</link>
-      <pubDate>Thu, 10 Sep 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">63d283f1-5259-44f2-b0d4-d08c0b74f963-SENDUNGSAUDIO</guid>
-      <description>Neue Debatte über ein mögliches AfD-Verbotsverfahren, BSW nimmt AfD-Einladung zu Sondierungsgesprächen in Sachsen-Anhalt an, Vereinigte Arabische Emirate planen 40-Milliarden-Investment in Deutschland, Spahn entschuldigt sich für Umgang mit Leihmutterschaft in den USA, EZB erhöht Leitzins auf 2,5 Prozent, Trump verspricht im Falle eines Wahlsiegs 5.000 Dollar für jeden Erwachsenen, Weniger Empfänger von Asylbewerberleistungen im Jahr 2025, Ermittlungen gegen Verdächtigen nach Sabotage-Angriffen auf das deutsche Stromnetz, Verband der Hausärztinnen- und Hausärzte warnt vor möglichem Zusammenbruch der Versorgung, Bundesweiter Warntag, Deutsche Basketballerinnen ziehen erstmals bei einer Weltmeisterschaft ins Halbfinale ein, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-2026-0800.mp3" length="14501921" type="audio/mpeg"/>
+      <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 11.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3472460.html</link>
+      <pubDate>Fri, 11 Sep 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="false">e8b6c05d-0a11-427d-8393-f76219110997-SENDUNGSAUDIO</guid>
+      <description>Gedenken an die tausenden Opfer der Terroranschläge vom 11. September 2001 in den USA, Die Folgen für den Irak nach Terroranschlag in den USA 2001, Huthis greifen nach wichtiger Meerenge Bab al-Mandab, Abschluss der Haushaltswoche im Bundestag, Geschäfte sollen künftig Kartenzahlung anbieten müssen, Verleihung des Deutschen Radiopreises, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0911/AU-20260911-2025-4900.mp3" length="15088675" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast: Houthis tighten squeeze on crucial shipping route</title>
