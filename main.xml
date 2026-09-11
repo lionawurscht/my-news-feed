@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://YOUR_USERNAME.github.io/YOUR_REPO/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:42:54 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -14,19 +14,19 @@
     <itunes:image href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"/>
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden: tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3470460.html</link>
-      <pubDate>Fri, 11 Sep 2026 00:38:00 +0000</pubDate>
-      <guid isPermaLink="false">afdc6e1f-e92d-4c1c-bdec-507cc1324fd7</guid>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3471036.html</link>
+      <pubDate>Fri, 11 Sep 2026 07:33:00 +0000</pubDate>
+      <guid isPermaLink="false">03c48c5a-1220-4f70-bd74-7b88db6ad889</guid>
       <description>tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0911/AU-20260911-0238-0300.mp3" length="1564939" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0911/AU-20260911-0933-0200.mp3" length="1805707" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now: NPR News: 09-10-2026 10PM EDT</title>
+      <title>[EN|Overview] NPR News Now: NPR News: 09-11-2026 3AM EDT</title>
       <link/>
-      <pubDate>Fri, 11 Sep 2026 02:10:58 +0000</pubDate>
-      <guid isPermaLink="false">4cc1d99d-41f6-4a44-92aa-931bbe1c1cd4</guid>
-      <description>NPR News: 09-10-2026 10PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/93c954dd-c2d4-4fa9-8770-26b3c29bfd1f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=93c954dd-c2d4-4fa9-8770-26b3c29bfd1f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260910-2200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Sep 2026 07:09:57 +0000</pubDate>
+      <guid isPermaLink="false">b0b76bb6-23ea-4c9a-ba18-86bfa319485a</guid>
+      <description>NPR News: 09-11-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6a66d0f8-8821-4715-a686-f287df201188/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6a66d0f8-8821-4715-a686-f287df201188&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260911-0300-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr: tagesschau 20:00 Uhr, 10.09.2026</title>
@@ -37,15 +37,17 @@
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0910/AU-20260910-2026-0800.mp3" length="14501921" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast: Philippine ferry erupts in flames</title>
-      <link>http://www.bbc.co.uk/programmes/p0p8zc86</link>
-      <pubDate>Thu, 10 Sep 2026 15:18:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p8zc86</guid>
-      <description>&lt;p&gt;An urgent search for survivors is underway after a ferry in the Philippines catches fire. Dozens are still missing and at least five people are dead. The Philippine coastguard says it's still too dangerous to board the ferry, but they fear people are trapped inside. &lt;/p&gt;&lt;p&gt;Also: a port city in Yemen is captured by the Houthi rebel group. Donald Trump promises $5,000 to every adult American if Republicans win the midterm elections. The commander and pilot of the Artemis II space mission retire from spaceflight. Anti-immigration protesters in the UK mistake the Pakistan under-19 cricket team for migrants. Officials say August this year was the world's joint hottest month on record. And the Bayeux Tapestry goes on public display in London - the first time it has left France since the eleventh century.  &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+      <title>[EN|In-Depth] BBC Global News Podcast: Israeli military demolishes Hezbollah tunnels in Lebanon</title>
+      <link>http://www.bbc.co.uk/programmes/p0p92p8h</link>
+      <pubDate>Fri, 11 Sep 2026 04:35:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p92p8h</guid>
+      <description>&lt;p&gt;The Israeli army claims to have destroyed a series of underground tunnels used by Hezbollah in southern Lebanon. They reportedly found Iranian-made rockets, anti-tank missiles, drones and other munitions. Also: the Israeli Prime Minister, Benjamin Netanyahu, initiates defamation proceedings against an Israeli newspaper that alleged he was warned in advance that Hamas was planning the October the 7th attacks; both President Trump and his deputy JD Vance have spoken at the end of a two day Republican mid-term convention in Dallas; we hear from a New York firefighter trapped inside one of the Twin Towers on September 11th twenty five years ago; a new proposal to change the rules of tennis to remove terms like love and deuce is being debated in Australia; and, one of London's grandest hotels is locked in a legal battle over allegations a guest failed to settle a bill of hundreds of thousands of dollars.
+  &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: a drone view shows burned MV June Aster, after a fire broke out on the ferry, off the coast of the Philippines.
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8zb8y.mp3" length="13440000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Footage released by Israel which it claims shows an explosion at a Hezbollah underground complex in southern Lebanon's Ali al-Taher ridge. Date and location of the footage has not been independently verified. 
+Credit: Israeli Public Broadcasting Corporation&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p92nzd.mp3" length="14032000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
