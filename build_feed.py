@@ -33,6 +33,7 @@ from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from xml.dom import minidom
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -443,30 +444,45 @@ def resolve_sections(feed_config: dict, filename: str) -> list[dict]:
 # XML output
 # --------------------------------------------------------------------------
 
-def add_item(channel, source: dict, section: dict, published: datetime,
-             enc: dict, entry) -> None:
+def add_item(channel, source: dict, section: dict, stamped: datetime,
+             original: datetime, enc: dict, entry, position: int,
+             display_tz: ZoneInfo, restamped: bool) -> None:
+    """Add one <item>.
+
+    `stamped` is what goes in <pubDate>; `original` is when the episode really
+    came out. When the two differ, the real time is surfaced in the title,
+    because <pubDate> has been repurposed to carry playback order.
+    """
     item = ET.SubElement(channel, "item")
 
     lang = (source.get("lang") or "").upper()
     section_label = section.get("label") or section["name"].upper()
     label = f"[{lang}|{section_label}]" if lang else f"[{section_label}]"
+    local = original.astimezone(display_tz)
+    when = f" ({local:%a %H:%M})" if restamped else ""
     ET.SubElement(item, "title").text = (
-        f"{label} {source.get('name', 'Source')}: {entry.get('title', 'Audio Bulletin')}"
+        f"{label} {source.get('name', 'Source')}{when}: "
+        f"{entry.get('title', 'Audio Bulletin')}"
     )
 
     ET.SubElement(item, "link").text = entry.get("link", "")
-    ET.SubElement(item, "pubDate").text = published.strftime("%a, %d %b %Y %H:%M:%S +0000")
+    ET.SubElement(item, "pubDate").text = stamped.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+    # Position is also published as an episode number. Some apps offer sorting
+    # by it, which gives a second way to get the intended order.
+    ET.SubElement(item, f"{{{NAMESPACES['itunes']}}}episode").text = str(position)
 
     guid = ET.SubElement(item, "guid")
     guid.text = (
         entry.get("id") or entry.get("link")
-        or f"{source.get('name')}-{published.isoformat()}"
+        or f"{source.get('name')}-{original.isoformat()}"
     )
     guid.set("isPermaLink", "false")
 
-    ET.SubElement(item, "description").text = (
-        entry.get("summary") or entry.get("description") or ""
-    )
+    body = entry.get("summary") or entry.get("description") or ""
+    if restamped:
+        body = (f"Originally published {local:%a %d %b %Y %H:%M %Z}.\n\n{body}").strip()
+    ET.SubElement(item, "description").text = body
 
     ET.SubElement(
         item,
@@ -487,7 +503,37 @@ def write_xml(rss, path: Path) -> None:
 # Feed build
 # --------------------------------------------------------------------------
 
-def build_single_feed(feed_config: dict, out_dir: Path, dry_run: bool) -> list[SourceResult]:
+@dataclass
+class Site:
+    """Repo identity, declared once in the [site] table of feeds.toml."""
+    github_user: str = ""
+    repo: str = ""
+    branch: str = "main"
+
+    @property
+    def pages_url(self) -> str:
+        if not (self.github_user and self.repo):
+            return "https://github.com"
+        return f"https://{self.github_user}.github.io/{self.repo}/"
+
+    def raw(self, filename: str) -> str:
+        """Absolute raw.githubusercontent URL for a file committed in the repo."""
+        if not (self.github_user and self.repo):
+            return filename
+        return (f"https://raw.githubusercontent.com/{self.github_user}/"
+                f"{self.repo}/{self.branch}/{filename}")
+
+    def resolve(self, value: str) -> str:
+        """Pass absolute URLs through; treat anything else as a repo filename."""
+        if not value:
+            return ""
+        if value.startswith(("http://", "https://")):
+            return value
+        return self.raw(value)
+
+
+def build_single_feed(feed_config: dict, site: Site, out_dir: Path,
+                      dry_run: bool) -> list[SourceResult]:
     meta = feed_config.get("meta", {})
     filename = meta.get("filename", "feed.xml")
     results: list[SourceResult] = []
@@ -501,7 +547,7 @@ def build_single_feed(feed_config: dict, out_dir: Path, dry_run: bool) -> list[S
     retries = int(meta.get("retries", DEFAULT_RETRIES))
     lang_order = [l.lower() for l in meta.get("lang_order", DEFAULT_LANG_ORDER)]
     title = meta.get("title", "Daily News Digest")
-    link = meta.get("link", "https://github.com")
+    link = meta.get("link") or site.pages_url
 
     sections = resolve_sections(feed_config, filename)
     section_index = {s["name"]: i for i, s in enumerate(sections)}
@@ -521,7 +567,7 @@ def build_single_feed(feed_config: dict, out_dir: Path, dry_run: bool) -> list[S
         "%a, %d %b %Y %H:%M:%S +0000"
     )
 
-    image_url = meta.get("image_url")
+    image_url = site.resolve(meta.get("image") or meta.get("image_url", ""))
     if image_url:
         img = ET.SubElement(channel, "image")
         ET.SubElement(img, "url").text = image_url
@@ -600,8 +646,35 @@ def build_single_feed(feed_config: dict, out_dir: Path, dry_run: bool) -> list[S
         result.episodes_added = 1
 
     collected.sort(key=lambda c: c[0])
-    for _key, source, section, published, enc, entry in collected:
-        add_item(channel, source, section, published, enc, entry)
+
+    # Most podcast apps ignore item order in the XML and sort by <pubDate>.
+    # To make the intended order survive that, pubDate is overwritten with a
+    # synthetic descending sequence anchored at build time, one step apart.
+    # The real publication time moves into the title and description.
+    restamp = bool(meta.get("synthetic_dates", True))
+    step = int(meta.get("synthetic_interval_seconds", 60))
+    newest_first = str(meta.get("app_sort", "newest_first")) == "newest_first"
+    try:
+        display_tz = ZoneInfo(meta.get("display_timezone", "UTC"))
+    except Exception:  # noqa: BLE001 - a bad tz name must not kill the build
+        log.warning("%s: unknown display_timezone %r, falling back to UTC",
+                    filename, meta.get("display_timezone"))
+        display_tz = ZoneInfo("UTC")
+
+    anchor = now.replace(microsecond=0)
+    total = len(collected)
+
+    for idx, (_key, source, section, published, enc, entry) in enumerate(collected):
+        if restamp:
+            # newest_first apps: item 0 must be the newest, so it gets the
+            # anchor and each later item steps further back.
+            # oldest_first apps: reverse it, so item 0 is the oldest.
+            offset = idx if newest_first else (total - 1 - idx)
+            stamped = anchor - timedelta(seconds=offset * step)
+        else:
+            stamped = published
+        add_item(channel, source, section, stamped, published, enc, entry,
+                 idx + 1, display_tz, restamp)
 
     if dry_run:
         log.info("[dry-run] %s would contain %d items", filename, len(collected))
@@ -674,6 +747,11 @@ def main() -> int:
     with open(args.config, "rb") as fh:
         config = tomllib.load(fh)
 
+    site = Site(**config.get("site", {}))
+    if not (site.github_user and site.repo):
+        log.warning("No [site] table in %s; links and cover art will be wrong",
+                    args.config)
+
     feeds = config.get("feed", [])
     if not feeds:
         log.error("No [[feed]] tables found in %s", args.config)
@@ -681,7 +759,8 @@ def main() -> int:
 
     all_results: list[SourceResult] = []
     for feed_cfg in feeds:
-        all_results.extend(build_single_feed(feed_cfg, args.out_dir, args.dry_run))
+        all_results.extend(
+            build_single_feed(feed_cfg, site, args.out_dir, args.dry_run))
 
     failures = report(all_results, args.out_dir, args.dry_run)
     if args.fail_on_error and failures:

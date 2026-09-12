@@ -1,4 +1,14 @@
 # ==============================================================================
+# Repo identity. Change it here only; nothing else hardcodes the username.
+# Relative image names below resolve against raw.githubusercontent.com.
+# ==============================================================================
+
+[site]
+github_user = "lionawurscht"
+repo = "my-news-feed"
+branch = "main"
+
+# ==============================================================================
 # ORDERING MODEL
 #
 #   1. Sections play in the order they are declared below.
@@ -26,11 +36,21 @@ filename = "main.xml"
 enabled = true
 title = "My Daily News Digest"
 description = "Audio news bulletins, ordered overview -> primary -> local -> in-depth."
-link = "https://YOUR_USERNAME.github.io/YOUR_REPO/"
 language = "de"
-image_url = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/cover.png"
+image = "cover.png"
 
 lang_order = ["de", "en", "he", "it"]
+
+# Podcast apps sort by pubDate and ignore XML order, so pubDate is rewritten
+# at build time as a descending sequence that encodes the order above. Real
+# publication times move into the item titles.
+#   app_sort = "newest_first"  most apps
+#   app_sort = "oldest_first"  apps that play a feed as a chronological queue
+# Set synthetic_dates = false to publish the true times instead.
+synthetic_dates = true
+synthetic_interval_seconds = 60
+app_sort = "newest_first"
+display_timezone = "Asia/Jerusalem"
 
 max_age_hours = 24
 timeout_seconds = 20
@@ -217,7 +237,6 @@ filename = "tech.xml"
 enabled = false
 title = "Tech & Science Briefing"
 description = "Technology and science, headlines first then long-form."
-link = "https://YOUR_USERNAME.github.io/YOUR_REPO/"
 language = "en"
 lang_order = ["en", "de"]
 max_age_hours = 168

@@ -146,7 +146,7 @@ def scrape_hadshon(source: dict, fetch) -> list[ScrapedItem]:
         "weather": "תחזית מזג האוויר",
         "shabbat": "פרשת השבוע",
     }
-    title = f"{titles[variant]} — {day:02d}/{month:02d}/{year}"
+    title = f"{titles[variant]} ({day:02d}/{month:02d}/{year})"
 
     length = 0
     try:
