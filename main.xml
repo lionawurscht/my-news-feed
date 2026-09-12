@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:41:42 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 10:32): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3472944.html</link>
-      <pubDate>Sat, 12 Sep 2026 13:27:00 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 16:33): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3473386.html</link>
+      <pubDate>Sat, 12 Sep 2026 16:41:42 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">baa4c91e-2958-467b-ae2a-f4ec2ff5d14c</guid>
-      <description>Originally published Sat 12 Sep 2026 10:32 IDT.
+      <guid isPermaLink="false">265b9438-23cc-413a-8b08-b6a0f18530df</guid>
+      <description>Originally published Sat 12 Sep 2026 16:33 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0912/AU-20260912-0932-4000.mp3" length="1859851" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0912/AU-20260912-1533-2300.mp3" length="1707019" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 16:10): NPR News: 09-12-2026 9AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sat 19:10): NPR News: 09-12-2026 12PM EDT</title>
       <link/>
-      <pubDate>Sat, 12 Sep 2026 13:26:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 16:40:42 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">4adb1a56-e669-4506-a4fe-cf59a3eefe8d</guid>
-      <description>Originally published Sat 12 Sep 2026 16:10 IDT.
+      <guid isPermaLink="false">b012a977-a641-41f8-a9af-250b35b4cca7</guid>
+      <description>Originally published Sat 12 Sep 2026 19:10 IDT.
 
-NPR News: 09-12-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9c3a47ad-d769-4e57-a2dd-29d70b4b1254/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9c3a47ad-d769-4e57-a2dd-29d70b4b1254&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260912-0900-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-12-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cfd817ad-84c7-42c7-b9ba-cf9b70affd26/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cfd817ad-84c7-42c7-b9ba-cf9b70affd26&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260912-1200-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 11.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3472460.html</link>
-      <pubDate>Sat, 12 Sep 2026 13:25:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 16:39:42 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e8b6c05d-0a11-427d-8393-f76219110997-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 11 Sep 2026 21:00 IDT.
@@ -48,7 +48,7 @@ Gedenken an die tausenden Opfer der Terroranschläge vom 11. September 2001 in d
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The choir proud to admit they can't sing</title>
       <link>http://www.bbc.co.uk/programmes/p0p959gj</link>
-      <pubDate>Sat, 12 Sep 2026 13:24:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 16:38:42 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0p959gj</guid>
       <description>Originally published Sat 12 Sep 2026 14:00 IDT.
