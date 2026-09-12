@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:27:00 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 10:32): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3472944.html</link>
-      <pubDate>Sat, 12 Sep 2026 10:42:01 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 13:27:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">baa4c91e-2958-467b-ae2a-f4ec2ff5d14c</guid>
       <description>Originally published Sat 12 Sep 2026 10:32 IDT.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0912/AU-20260912-0932-4000.mp3" length="1859851" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 13:10): NPR News: 09-12-2026 6AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sat 16:10): NPR News: 09-12-2026 9AM EDT</title>
       <link/>
-      <pubDate>Sat, 12 Sep 2026 10:41:01 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 13:26:00 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">436bc413-285b-4527-9c21-61600f50b2d7</guid>
-      <description>Originally published Sat 12 Sep 2026 13:10 IDT.
+      <guid isPermaLink="false">4adb1a56-e669-4506-a4fe-cf59a3eefe8d</guid>
+      <description>Originally published Sat 12 Sep 2026 16:10 IDT.
 
-NPR News: 09-12-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/386b2f1f-e636-49b2-abe3-5d70afed11b9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=386b2f1f-e636-49b2-abe3-5d70afed11b9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260912-0600-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-12-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9c3a47ad-d769-4e57-a2dd-29d70b4b1254/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9c3a47ad-d769-4e57-a2dd-29d70b4b1254&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260912-0900-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 11.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3472460.html</link>
-      <pubDate>Sat, 12 Sep 2026 10:40:01 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 13:25:00 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e8b6c05d-0a11-427d-8393-f76219110997-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 11 Sep 2026 21:00 IDT.
@@ -46,19 +46,16 @@ Gedenken an die tausenden Opfer der Terroranschläge vom 11. September 2001 in d
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0911/AU-20260911-2025-4900.mp3" length="15088675" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:38): Houthi fighters seize control of Yemen's entire Red Sea coast</title>
-      <link>http://www.bbc.co.uk/programmes/p0p98523</link>
-      <pubDate>Sat, 12 Sep 2026 10:39:01 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The choir proud to admit they can't sing</title>
+      <link>http://www.bbc.co.uk/programmes/p0p959gj</link>
+      <pubDate>Sat, 12 Sep 2026 13:24:00 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p98523</guid>
-      <description>Originally published Sat 12 Sep 2026 06:38 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0p959gj</guid>
+      <description>Originally published Sat 12 Sep 2026 14:00 IDT.
 
-&lt;p&gt;Houthi fighters seize control of Yemen's entire Red Sea coast, following a lightning military offensive that's cemented their grip on a vital maritime corridor.  &lt;/p&gt;&lt;p&gt;Also: Despite efforts to control the Ebola outbreak in the Democratic Republic of Congo, officials have confirmed that the virus has now spread to another region in the North West of the country. &lt;/p&gt;&lt;p&gt;The British parliament votes against changing the law on assisted dying. The proposed legislation would have allowed adults, with fewer than six months to live, to apply to end their own life -- subject to certain safeguards. &lt;/p&gt;&lt;p&gt;Leaders of the BRICS group of nations are attending a summit in the Indian capital Delhi this weekend. It looks set to be dominated by the wars in the Middle East and Ukraine, as well as economic challenges. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Houthi military spokesman, Yahya Sarea, delivers a televised statement in Sana'a, Yemen
-Credit: Al Masirah TV&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p983k2.mp3" length="12416000" type="audio/mpeg"/>
+&lt;p&gt;The Off-Key Choir in Southport on Merseyside has a simple motto: just because you can't sing doesn't mean you shouldn't. Around 80 members come together every week to sing their hearts out, without the pressure to hit all the right notes. Since it was formed in 2018, the choir has also acted as a support group. It has become so popular there is now a waiting list to join.&lt;/p&gt;&lt;p&gt;Also: the successful canopy bridge project giving animals a safe way to cross roads in the vast Amazon rainforest. How a pirate ship themed video game is helping stroke survivors in Mexico to regain mobility. A pilot scheme from Guide Dogs is turning ultrasound scans into 3D printed models for expectant parents with sight loss to feel their unborn baby's features. Campaigners across Africa are celebrating after a UN vote to adopt a new world map reflecting the true size of the continent. Plus, as a new Gruffalo book is released, we hear why the original story resonates with so many children. &lt;/p&gt;&lt;p&gt;(Image: Sheila Byrne, member of the Off-Key Choir. Credit: BBC)&lt;/p&gt;&lt;p&gt;Presenter: Chantal Hartle. 
+Music: Iona Hampson&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p957p1.mp3" length="14128000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
