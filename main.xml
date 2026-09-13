@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 13 Sep 2026 17:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:12:22 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,52 +13,48 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 17:21): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3474578.html</link>
-      <pubDate>Sun, 13 Sep 2026 17:12:04 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:10): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3474836.html</link>
+      <pubDate>Sun, 13 Sep 2026 20:12:22 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">864387cf-29e8-4123-bb76-82dd660adfd8</guid>
-      <description>Originally published Sun 13 Sep 2026 17:21 IDT.
+      <guid isPermaLink="false">1e879cea-f324-4218-9982-37f35523662e</guid>
+      <description>Originally published Sun 13 Sep 2026 22:10 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-1621-0000.mp3" length="1797259" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-2109-5100.mp3" length="1690507" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 20:10): NPR News: 09-13-2026 1PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sun 23:10): NPR News: 09-13-2026 4PM EDT</title>
       <link/>
-      <pubDate>Sun, 13 Sep 2026 17:11:04 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 20:11:22 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">1bc97090-db13-42bc-92c8-f57f83b3736c</guid>
-      <description>Originally published Sun 13 Sep 2026 20:10 IDT.
+      <guid isPermaLink="false">e4fffa0a-cfdd-4767-9cad-048bbd1fe966</guid>
+      <description>Originally published Sun 13 Sep 2026 23:10 IDT.
 
-NPR News: 09-13-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/40e50d0f-75e6-4105-b0e0-79e405108b09/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=40e50d0f-75e6-4105-b0e0-79e405108b09&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260913-1300-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-13-2026 4PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/476e1bce-6d3d-4cae-b682-a0d8b4acf096/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=476e1bce-6d3d-4cae-b682-a0d8b4acf096&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260913-1600-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 12.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3473680.html</link>
-      <pubDate>Sun, 13 Sep 2026 17:10:04 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 13.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3474816.html</link>
+      <pubDate>Sun, 13 Sep 2026 20:10:22 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">90624b73-c7b7-4f93-844a-af859b9acd98-SENDUNGSAUDIO</guid>
-      <description>Originally published Sat 12 Sep 2026 21:00 IDT.
+      <guid isPermaLink="false">47506076-1ae1-4d78-aa49-2d1067ffcd3d-SENDUNGSAUDIO</guid>
+      <description>Originally published Sun 13 Sep 2026 21:00 IDT.
 
-Nach AfD-Wahlsieg in Sachsen-Anhalt protestieren bundesweit Zehntausende gegen Rechtsextremismus, Saudi-Arabien durch Erfolge der Huthi-Rebellen und Angriff auf Ölpipeline zunehmend unter Druck, BRICS-Länder rufen bei Gipfel Parteien im Nahost-Konflikt zur Mäßigung auf, Laut Medienbericht führen Ermittlungen nach Drohnenvorfall in Leipzig direkt zum russischen Militärgeheimdienst GRU, Bundesjustizministerin Hubig bringt schärfere Strafen bei Verstoß gegen Mietpreisbremse ins Spiel, Ergebnisse des 3. Spieltags der Fußball-Bundesliga, Tennisprofi Zverev erreicht Finale der US Open, Deutsches Team unterliegt im Halbfinale der Basketball-WM Frankreich, Das Wetter Hinweis: Die Beiträge zum Thema &quot;Tennis&quot;, &quot;Fußball&quot; und &quot;Basketball&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0912/AU-20260912-2027-2200.mp3" length="15382434" type="audio/mpeg"/>
+Kritik an Bundeskanzler Merz nimmt zu, OpenAI verschiebt wegen Sicherheitsbedenken Börsengang, Knappes Rennen zwischen linkem Lager und regierendem Mitte-rechts Bündnis bei Parlamentswahlen in Schweden, Mehr als 130 Vermisste nach Fährunglück in Indonesien, Über 7.000 Gebäude zum Tag des offenen Denkmals für Besucher geöffnet, Ergebnisse des 3. Spieltags der Fußball-Bundesliga, Fußball-Bundesligist Borussia Mönchengladbach trennt sich von Trainer Polanski, Frauen-Basketball-WM in Frankreich: Deutsches Team verliert Spiel um Bronzemedaille, Das Wetter Hinweis: Die Beiträge zu den Themen &quot;Fußball&quot; und &quot;Basketball&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-2029-3000.mp3" length="14625955" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:48): Dario Amodei from AI's Anthropic issues a stark warning</title>
-      <link>http://www.bbc.co.uk/programmes/p0p9cx38</link>
-      <pubDate>Sun, 13 Sep 2026 17:09:04 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: Can Dubai’s luxe image survive the war with Iran?</title>
+      <link>http://www.bbc.co.uk/programmes/p0p9493n</link>
+      <pubDate>Sun, 13 Sep 2026 20:09:22 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p9cx38</guid>
-      <description>Originally published Sun 13 Sep 2026 06:48 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0p9493n</guid>
+      <description>Originally published Sun 13 Sep 2026 22:00 IDT.
 
-&lt;p&gt;The CEO of Anthropic has warned that the increasing rate of development could lead to rogue artificial intelligence agents taking over the internet, potentially causing hundreds of billions of dollars in damage. Elon Musk and the OpenAI boss Sam Altman both said they agreed with Dario Amodei whilst a former Anthropic researcher, Jacob Coxon, has told the BBC there was a strong chance that all humans could die in the immediate future without a slowdown. Also, the Reform UK right-wing populist party receives two donations worth nearly 100 million dollars. The Indian-British novelist, Salman Rushdie, speaks to the BBC about a new film which documents his attempted murder with never-before-seen footage of the attack. Yemen says it has struck back against Houthi fighters in the strategic coastal city of Mocha. Chile is in mourning after at least sixteen elderly people were killed in a fire at a nursing home. And Kazakhstan's Elena Rybakina proves why she's the women's world number one in tennis after winning the US Open in New York. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: CEO and Co-Founder of Anthropic Dario Amodei speaks during the 56th annual World Economic Forum meeting in Davos, Switzerland
-Credit: REUTERS/Denis Balibouse&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9cwzs.mp3" length="14088000" type="audio/mpeg"/>
+&lt;p&gt;As the summer holiday season draws to a close, foreigners travelling to and from Dubai in the United Arab Emirates are facing delays, cancellations and severe travel warnings. The disruption comes as a result of the UAE’s position in the ongoing US-Israel war with Iran. Throughout the conflict, Iran has attacked the UAE more times than any other country, including Israel.&lt;/p&gt;&lt;p&gt;Until the war with Iran began, Dubai was a major tourist destination, famous for its modern skyscrapers, luxurious beaches and low crime rate. For decades, the Gulf city has promised residents and tourists alike safety, security and stability – so has that promise fallen apart? And what could that mean for the city’s future?&lt;/p&gt;&lt;p&gt;The Global Story’s Asma Khalid speaks to Sameer Hashmi, an independent journalist based in Dubai, about how Brand Dubai is weathering a major regional war.&lt;/p&gt;&lt;p&gt;The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p948k3.mp3" length="13384000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
