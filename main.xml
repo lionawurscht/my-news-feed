@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:56:48 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 05:45): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3473892.html</link>
-      <pubDate>Sun, 13 Sep 2026 02:50:17 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 10:38): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3474124.html</link>
+      <pubDate>Sun, 13 Sep 2026 07:56:48 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">6aa7327e-f3ad-45d9-a69f-95654bcedc09</guid>
-      <description>Originally published Sun 13 Sep 2026 05:45 IDT.
+      <guid isPermaLink="false">c7129140-54aa-43af-b204-2e41d1fd17cd</guid>
+      <description>Originally published Sun 13 Sep 2026 10:38 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-0445-3400.mp3" length="1920139" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-0938-0600.mp3" length="1753099" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 05:10): NPR News: 09-12-2026 10PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sun 10:10): NPR News: 09-13-2026 3AM EDT</title>
       <link/>
-      <pubDate>Sun, 13 Sep 2026 02:49:17 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 07:55:48 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">ef12708c-c84a-4f73-b80e-dfea2dec2a7d</guid>
-      <description>Originally published Sun 13 Sep 2026 05:10 IDT.
+      <guid isPermaLink="false">f4e078e5-8665-4178-bd42-c060fa3551e3</guid>
+      <description>Originally published Sun 13 Sep 2026 10:10 IDT.
 
-NPR News: 09-12-2026 10PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/78b27642-22d2-49fb-be8b-2b2b6be425bf/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=78b27642-22d2-49fb-be8b-2b2b6be425bf&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260912-2200-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-13-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/54bda077-e1bd-445b-b22a-5abe952047f0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=54bda077-e1bd-445b-b22a-5abe952047f0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260913-0300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 12.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3473680.html</link>
-      <pubDate>Sun, 13 Sep 2026 02:48:17 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 07:54:48 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">90624b73-c7b7-4f93-844a-af859b9acd98-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 12 Sep 2026 21:00 IDT.
@@ -46,16 +46,19 @@ Nach AfD-Wahlsieg in Sachsen-Anhalt protestieren bundesweit Zehntausende gegen R
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0912/AU-20260912-2027-2200.mp3" length="15382434" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The choir proud to admit they can't sing</title>
-      <link>http://www.bbc.co.uk/programmes/p0p959gj</link>
-      <pubDate>Sun, 13 Sep 2026 02:47:17 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:48): Dario Amodei from AI's Anthropic issues a stark warning</title>
+      <link>http://www.bbc.co.uk/programmes/p0p9cx38</link>
+      <pubDate>Sun, 13 Sep 2026 07:53:48 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p959gj</guid>
-      <description>Originally published Sat 12 Sep 2026 14:00 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0p9cx38</guid>
+      <description>Originally published Sun 13 Sep 2026 06:48 IDT.
 
-&lt;p&gt;The Off-Key Choir in Southport on Merseyside has a simple motto: just because you can't sing doesn't mean you shouldn't. Around 80 members come together every week to sing their hearts out, without the pressure to hit all the right notes. Since it was formed in 2018, the choir has also acted as a support group. It has become so popular there is now a waiting list to join.&lt;/p&gt;&lt;p&gt;Also: the successful canopy bridge project giving animals a safe way to cross roads in the vast Amazon rainforest. How a pirate ship themed video game is helping stroke survivors in Mexico to regain mobility. A pilot scheme from Guide Dogs is turning ultrasound scans into 3D printed models for expectant parents with sight loss to feel their unborn baby's features. Campaigners across Africa are celebrating after a UN vote to adopt a new world map reflecting the true size of the continent. Plus, as a new Gruffalo book is released, we hear why the original story resonates with so many children. &lt;/p&gt;&lt;p&gt;(Image: Sheila Byrne, member of the Off-Key Choir. Credit: BBC)&lt;/p&gt;&lt;p&gt;Presenter: Chantal Hartle. 
-Music: Iona Hampson&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p957p1.mp3" length="14128000" type="audio/mpeg"/>
+&lt;p&gt;The CEO of Anthropic has warned that the increasing rate of development could lead to rogue artificial intelligence agents taking over the internet, potentially causing hundreds of billions of dollars in damage. Elon Musk and the OpenAI boss Sam Altman both said they agreed with Dario Amodei whilst a former Anthropic researcher, Jacob Coxon, has told the BBC there was a strong chance that all humans could die in the immediate future without a slowdown. Also, the Reform UK right-wing populist party receives two donations worth nearly 100 million dollars. The Indian-British novelist, Salman Rushdie, speaks to the BBC about a new film which documents his attempted murder with never-before-seen footage of the attack. Yemen says it has struck back against Houthi fighters in the strategic coastal city of Mocha. Chile is in mourning after at least sixteen elderly people were killed in a fire at a nursing home. And Kazakhstan's Elena Rybakina proves why she's the women's world number one in tennis after winning the US Open in New York. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: CEO and Co-Founder of Anthropic Dario Amodei speaks during the 56th annual World Economic Forum meeting in Davos, Switzerland
+Credit: REUTERS/Denis Balibouse&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9cwzs.mp3" length="14088000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
