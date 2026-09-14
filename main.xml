@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:38:37 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:10): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3474836.html</link>
-      <pubDate>Sun, 13 Sep 2026 22:49:00 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 02:58): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3474960.html</link>
+      <pubDate>Mon, 14 Sep 2026 00:38:37 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1e879cea-f324-4218-9982-37f35523662e</guid>
-      <description>Originally published Sun 13 Sep 2026 22:10 IDT.
+      <guid isPermaLink="false">59138412-af5f-4460-a5d2-ab9f25a8d9ce</guid>
+      <description>Originally published Mon 14 Sep 2026 02:58 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-2109-5100.mp3" length="1690507" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-0158-4000.mp3" length="1856779" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 01:10): NPR News: 09-13-2026 6PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 03:10): NPR News: 09-13-2026 8PM EDT</title>
       <link/>
-      <pubDate>Sun, 13 Sep 2026 22:48:00 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 00:37:37 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">33f672c1-1946-4d36-82c6-27963cd0f787</guid>
-      <description>Originally published Mon 14 Sep 2026 01:10 IDT.
+      <guid isPermaLink="false">8c544755-d93d-443c-a2b2-1fc654bbe3d1</guid>
+      <description>Originally published Mon 14 Sep 2026 03:10 IDT.
 
-NPR News: 09-13-2026 6PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0b505f25-0e69-4168-baee-0a3ea2561493/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0b505f25-0e69-4168-baee-0a3ea2561493&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260913-1800-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-13-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7d4af03d-1365-4b1b-a542-4d21e8286254/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7d4af03d-1365-4b1b-a542-4d21e8286254&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260913-2000-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 13.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3474816.html</link>
-      <pubDate>Sun, 13 Sep 2026 22:47:00 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 00:36:37 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">47506076-1ae1-4d78-aa49-2d1067ffcd3d-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 13 Sep 2026 21:00 IDT.
@@ -48,7 +48,7 @@ Kritik an Bundeskanzler Merz nimmt zu, OpenAI verschiebt wegen Sicherheitsbedenk
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: Can Dubai’s luxe image survive the war with Iran?</title>
       <link>http://www.bbc.co.uk/programmes/p0p9493n</link>
-      <pubDate>Sun, 13 Sep 2026 22:46:00 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 00:35:37 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0p9493n</guid>
       <description>Originally published Sun 13 Sep 2026 22:00 IDT.
