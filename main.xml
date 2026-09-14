@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 05:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:36:49 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 05:50): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3475024.html</link>
-      <pubDate>Mon, 14 Sep 2026 05:42:26 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 14:09): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3476002.html</link>
+      <pubDate>Mon, 14 Sep 2026 11:36:49 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">a6c57164-a830-468c-a0c6-d084d83b2eb7</guid>
-      <description>Originally published Mon 14 Sep 2026 05:50 IDT.
+      <guid isPermaLink="false">77254c39-1e81-41da-be82-8127c232bb35</guid>
+      <description>Originally published Mon 14 Sep 2026 14:09 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-0450-3600.mp3" length="1874827" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-1309-1500.mp3" length="4651147" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 08:10): NPR News: 09-14-2026 1AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 14:10): NPR News: 09-14-2026 7AM EDT</title>
       <link/>
-      <pubDate>Mon, 14 Sep 2026 05:41:26 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 11:35:49 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c8574de7-057f-4e3e-8018-6c67b6d3957e</guid>
-      <description>Originally published Mon 14 Sep 2026 08:10 IDT.
+      <guid isPermaLink="false">0fcb3c0f-d512-4cf9-9018-45d002b671e5</guid>
+      <description>Originally published Mon 14 Sep 2026 14:10 IDT.
 
-NPR News: 09-14-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d85ae13c-5c50-4e22-bda0-9741e53a37e1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d85ae13c-5c50-4e22-bda0-9741e53a37e1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-0100-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Mon 08:00): חדשון בעברית קלה (14/09/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Mon, 14 Sep 2026 05:40:26 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/14-9-26.m4a</guid>
-      <description>Originally published Mon 14 Sep 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• שָנָה טוֹבָה וּמְתוּקָה!
-• לאַחַר הַשמָדַת מִנהֲרוֹת החיזבּאללה בּרֶכֶס עַלִי טַאהֶר שֶבּדרוֹם לְבָנוֹן נָסוֹגוּ כּוֹחוֹת צַה&quot;ל לאֵזוֹר הבּוֹפוֹר
-• שַגרירוּת ארה&quot;ב בּאִיחוּד האֱמִירוּיוֹת קוֹרֵאת לאֶזרָחִים אָמֵריקָנים השוֹהִים בּמְדִינָה להִיזָהֵר בּמיוּחָד בּאֲתָרִים הקְשוּרִים לקְהִילָה היְהוּדִית והישׂראֵלית, כּוֹלֵל בָּתֵי כּנֶסֶת
-• הג'וּדָאִית הישׂראֵלית רָז הֶרשקוֹ זָכתָה בּמֵדַליַית זָהָב בּתַחֲרוּת הגְרַאנְד סְלַאם בּבּוּדַפֶּשְט שֶבּהוּנגַריָה
-• שְמוּרַת הטֶבַע תֵל דָן שֶבּגָלִיל נִסגְרָה אֶתמוֹל בּעִקבוֹת שְׂרֵפָה
-• היום, ג' בּתִשרֵי, חָל צוֹם גְדַליָה – לזִכרוֹ של גדַליָה בּן אחִיקָם, מַנהִיג העָם לאַחַר חוּרבּן בֵּית המִקדָש הרִאשוֹן, שֶנִרצַח בּידֵי מִתנַגדָיו הפּוֹלִיטִיים
-• התִַחֲזית: חם מהרָגִיל בּעוֹנָה
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/14-9-26.m4a" length="1334288" type="audio/mp4"/>
+NPR News: 09-14-2026 7AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cc8fce77-3599-4127-905b-2d58e58223c1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cc8fce77-3599-4127-905b-2d58e58223c1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-0700-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 13.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3474816.html</link>
-      <pubDate>Mon, 14 Sep 2026 05:39:26 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 14 Sep 2026 11:34:49 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">47506076-1ae1-4d78-aa49-2d1067ffcd3d-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 13 Sep 2026 21:00 IDT.
 
@@ -70,8 +48,8 @@ Kritik an Bundeskanzler Merz nimmt zu, OpenAI verschiebt wegen Sicherheitsbedenk
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:24): Centre Left coalition in Sweden on course for victory</title>
       <link>http://www.bbc.co.uk/programmes/p0p9h3m1</link>
-      <pubDate>Mon, 14 Sep 2026 05:38:26 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Mon, 14 Sep 2026 11:33:49 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0p9h3m1</guid>
       <description>Originally published Mon 14 Sep 2026 07:24 IDT.
 
