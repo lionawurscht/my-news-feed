@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:36:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:31:34 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 14:09): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3476002.html</link>
-      <pubDate>Mon, 14 Sep 2026 11:36:49 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:37): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3476758.html</link>
+      <pubDate>Mon, 14 Sep 2026 17:31:34 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">77254c39-1e81-41da-be82-8127c232bb35</guid>
-      <description>Originally published Mon 14 Sep 2026 14:09 IDT.
+      <guid isPermaLink="false">63c6bfc3-4f9f-4243-b5ed-0374149e0017</guid>
+      <description>Originally published Mon 14 Sep 2026 19:37 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-1309-1500.mp3" length="4651147" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-1837-3900.mp3" length="2067211" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 14:10): NPR News: 09-14-2026 7AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 20:11): NPR News: 09-14-2026 1PM EDT</title>
       <link/>
-      <pubDate>Mon, 14 Sep 2026 11:35:49 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 17:30:34 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">0fcb3c0f-d512-4cf9-9018-45d002b671e5</guid>
-      <description>Originally published Mon 14 Sep 2026 14:10 IDT.
+      <guid isPermaLink="false">eb4e1f6b-2ce6-4866-8307-cf93a819aa98</guid>
+      <description>Originally published Mon 14 Sep 2026 20:11 IDT.
 
-NPR News: 09-14-2026 7AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cc8fce77-3599-4127-905b-2d58e58223c1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cc8fce77-3599-4127-905b-2d58e58223c1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-0700-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-14-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/38922d23-71aa-4964-b585-34debf05af2c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=38922d23-71aa-4964-b585-34debf05af2c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-1300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 13.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3474816.html</link>
-      <pubDate>Mon, 14 Sep 2026 11:34:49 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 17:29:34 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">47506076-1ae1-4d78-aa49-2d1067ffcd3d-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 13 Sep 2026 21:00 IDT.
@@ -46,17 +46,62 @@ Kritik an Bundeskanzler Merz nimmt zu, OpenAI verschiebt wegen Sicherheitsbedenk
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-2029-3000.mp3" length="14625955" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:24): Centre Left coalition in Sweden on course for victory</title>
-      <link>http://www.bbc.co.uk/programmes/p0p9h3m1</link>
-      <pubDate>Mon, 14 Sep 2026 11:33:49 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 20:00): Die Nachrichten vom 14.09.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41736.html</link>
+      <pubDate>Mon, 14 Sep 2026 17:28:34 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p9h3m1</guid>
-      <description>Originally published Mon 14 Sep 2026 07:24 IDT.
+      <guid isPermaLink="false">9701cd53-913c-54c8-bba2-5c2d086e6f12</guid>
+      <description>Originally published Mon 14 Sep 2026 20:00 IDT.
 
-&lt;p&gt;Centre left coalition in Sweden likely to form new national government despite a slim majority. The far-right Sweden Democrats saw their support fall.&lt;/p&gt;&lt;p&gt;Also: The state railway company in Ukraine says it's &quot;quite likely&quot; that a Russian drone attack was targeting a diplomatic train which had some of Europe’s most senior security officials on board. &lt;/p&gt;&lt;p&gt;Alexander Zverev wins the men's US Open - his second Grand Slam tennis title of the year. The German beat America's Ben Shelton in four sets. &lt;/p&gt;&lt;p&gt;People are living, on average, longer that ever before, but how can we make the most of those extra years? Professor Linda Gratton suggests aging is not like climbing a ladder, but rather like weaving something that evolves with us.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Social Democrats party leader Magdalena Andersson in Stockholm, Sweden
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9h3ln.mp3" length="12384000" type="audio/mpeg"/>
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/14/nachrichten_dlf_20260914_1900_30dc8199.mp3?refId=nachrichten-108" length="4996472" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (14.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-14092026</link>
+      <pubDate>Mon, 14 Sep 2026 17:27:34 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_d66e7f1be304456bb3fe4b0b69002cf7</guid>
+      <description>Originally published Mon 14 Sep 2026 19:33 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d66e7f1be304456bb3fe4b0b69002cf7.mp3?etag=bb308eb5c3aaf407e5c7b3af7d49abf5" length="36434107" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Neue Regenbogen-Bank | Kritik an Rechenzentren | Ergebnisse U16-Wahl</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/neue-regenbogen-bank-kritik-rechenzentren-ergebnisse-u16-wahl.html</link>
+      <pubDate>Mon, 14 Sep 2026 17:26:34 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f1/9d/f19d989d-905e-486d-a256-26d4e114d628/f19d989d-905e-486d-a256-26d4e114d628_mp3-256kd.mp3</guid>
+      <description>Originally published Mon 14 Sep 2026 19:17 IDT.
+
+Der Gedenkort im Tiergarten, der an den islamistischen Anschlag auf den CSD Berlin erinnert, ist immer wieder Ziel von Angriffen. Nun hat der Gedenkort eine neue Regenbogenbank bekommen. Au&amp;#223;erdem: Umweltsch&amp;#252;tzer kritisieren Rechenzentren; Ergebnisse der U16-Wahl; Mehrweg in der Gastro - kaum genutzt?
+&amp;#160;
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/f1/9d/f19d989d-905e-486d-a256-26d4e114d628/f19d989d-905e-486d-a256-26d4e114d628_mp3-256kd.mp3" length="29590798" type="audio/x-mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 17:50): KI-Notbremse: Warum warnen Entwickler und Förderer von Künstlicher Intelligenz vor ihrer eigenen Technologie?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ki-notbremse-warum-warnen-entwickler-und-foerderer-von-kuenstlicher-intelligenz-vor-ihrer-eigenen-technologie/2122083</link>
+      <pubDate>Mon, 14 Sep 2026 17:25:34 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">3056a49b-7751-403f-a73f-ac4dd70d7c29</guid>
+      <description>Originally published Mon 14 Sep 2026 17:50 IDT.
+
+In der Tech-Branche wächst die Sorge, dass KI eine existenzielle Bedrohung für die Menschheit sein könnte.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122083/c/feed/ki-notbremse-warum-warnen-entwickler-und-foerderer-von-kuenstlicher-intelligenz-vor-ihrer-eigenen-technologie.mp3" length="9010604" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 17:40): NATO urged to intercept Russian drones after Ukraine attack</title>
+      <link>http://www.bbc.co.uk/programmes/p0p9l8qg</link>
+      <pubDate>Mon, 14 Sep 2026 17:24:34 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p9l8qg</guid>
+      <description>Originally published Mon 14 Sep 2026 17:40 IDT.
+
+&lt;p&gt;A US think tank says NATO should consider intercepting Russian drones in Ukrainian airspace, after a drone struck a train near the Polish border. The strike happened soon after a train carrying senior European officials had passed through the same station. The NATO chief, Mark Rutte, says the attack shows how &quot;desperate&quot; President Vladimir Putin has become. Also: Africa’s biggest ever share sale is launched in Nigeria by the billionaire Aliko Dangote. His oil refinery is offering more than 4bn shares. Extensive restoration work at Buckingham Palace uncovers a cluster of curious historical items. And Andrew Davies, the screenwriter behind House of Cards, Pride and Prejudice and Bridget Jones’s Diary brings out an autobiography as he turns 90 this week.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Wreckage of passenger train following a Russian drone strike near Ukraine's border with Poland.
+Credit: Telegram/Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9l6gn.mp3" length="12800000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
