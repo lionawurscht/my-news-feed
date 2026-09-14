@@ -61,7 +61,7 @@ retries = 2
 [[feed.sections]]
 name = "overview"
 label = "Overview"
-max_age_hours = 6           # short headline bulletins go stale fast
+max_age_hours = 6  # short headline bulletins go stale fast
 
 [[feed.sections]]
 name = "primary"
@@ -76,7 +76,7 @@ max_age_hours = 24
 [[feed.sections]]
 name = "in-depth"
 label = "In-Depth"
-max_age_hours = 36          # a twice-daily long-form show can lag
+max_age_hours = 36 # a twice-daily long-form show can lag
 
 # --- OVERVIEW ----------------------------------------------------------------
 
@@ -106,7 +106,7 @@ enabled = true
 name = "חדשון בעברית קלה"
 type = "scrape"
 scraper = "hadshon"
-variant = "daily"          # daily | weather | shabbat
+variant = "daily"         # daily | weather | shabbat
 lang = "he"
 section = "overview"
 enabled = true
@@ -152,19 +152,19 @@ enabled = true
 # copy its RSS link.
 [[feed.sources]]
 name = "Deutschlandfunk - Die Nachrichten"
-url = "https://www.deutschlandfunk.de/nachrichten-100.rss"
+url = "https://www.deutschlandfunk.de/nachrichten-108.xml"
 lang = "de"
 section = "primary"
-enabled = false
+enabled = true
 
 # UNVERIFIED. ORF has restructured podcast hosting, and some ORF audio is
 # geo-restricted, which matters because GitHub runners are US-based.
 [[feed.sources]]
 name = "Ö1 Journal um acht"
-url = "https://oe1.orf.at/podcast/journal800.xml"
+url = "https://podcast.orf.at/podcast/oe1/oe1_journale/oe1_journale.xml"
 lang = "de"
 section = "primary"
-enabled = false
+enabled = true
 
 # UNVERIFIED. RaiPlay Sound serves feeds from a different host/path than this.
 [[feed.sources]]
@@ -178,20 +178,20 @@ enabled = false
 
 # UNVERIFIED. br-online.de is BR's legacy domain; they moved to br.de years ago.
 [[feed.sources]]
-name = "BR24 Nachrichten (Bayern)"
-url = "https://www.br-online.de/podcast/br24-nachrichten/cast.xml"
+name = "BR24 Thema des Tages (Bayern)"
+url = "https://feeds.br.de/br24-thema-des-tages/feed.xml"
 lang = "de"
 section = "local"
-enabled = false
+enabled = true
 
 # UNVERIFIED. rbb24 Inforadio is the Berlin/Brandenburg equivalent; find the
 # podcast RSS on rbb24.de and paste it here.
 [[feed.sources]]
-name = "rbb24 Inforadio (Berlin)"
-url = ""
+name = "rbb24 Der Tag in Berlin und Brandenburg (Berlin)"
+url = "https://www.inforadio.de/podcast/feeds/der-tag-in-berlin-und-brandenburg/rbb-der-tag-in-berlin-und-brandenburg.xml/feed=podcast.xml"
 lang = "de"
 section = "local"
-enabled = false
+enabled = true
 
 # --- IN-DEPTH ----------------------------------------------------------------
 
