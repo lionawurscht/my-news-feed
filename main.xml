@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:21:41 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:37): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3476758.html</link>
-      <pubDate>Mon, 14 Sep 2026 17:31:34 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 21:21:41 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">63c6bfc3-4f9f-4243-b5ed-0374149e0017</guid>
       <description>Originally published Mon 14 Sep 2026 19:37 IDT.
@@ -24,42 +24,42 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-1837-3900.mp3" length="2067211" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 20:11): NPR News: 09-14-2026 1PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 00:10): NPR News: 09-14-2026 5PM EDT</title>
       <link/>
-      <pubDate>Mon, 14 Sep 2026 17:30:34 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 21:20:41 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">eb4e1f6b-2ce6-4866-8307-cf93a819aa98</guid>
-      <description>Originally published Mon 14 Sep 2026 20:11 IDT.
+      <guid isPermaLink="false">bf24a23f-8986-4dc6-9368-d125eb4bd7f0</guid>
+      <description>Originally published Tue 15 Sep 2026 00:10 IDT.
 
-NPR News: 09-14-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/38922d23-71aa-4964-b585-34debf05af2c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=38922d23-71aa-4964-b585-34debf05af2c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-1300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-14-2026 5PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c340f045-e82a-486e-8b67-55744360bee5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c340f045-e82a-486e-8b67-55744360bee5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-1700-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 13.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3474816.html</link>
-      <pubDate>Mon, 14 Sep 2026 17:29:34 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 14.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3476922.html</link>
+      <pubDate>Mon, 14 Sep 2026 21:19:41 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">47506076-1ae1-4d78-aa49-2d1067ffcd3d-SENDUNGSAUDIO</guid>
-      <description>Originally published Sun 13 Sep 2026 21:00 IDT.
+      <guid isPermaLink="false">f3a1c530-9944-4587-b723-157eab244a0a-SENDUNGSAUDIO</guid>
+      <description>Originally published Mon 14 Sep 2026 21:00 IDT.
 
-Kritik an Bundeskanzler Merz nimmt zu, OpenAI verschiebt wegen Sicherheitsbedenken Börsengang, Knappes Rennen zwischen linkem Lager und regierendem Mitte-rechts Bündnis bei Parlamentswahlen in Schweden, Mehr als 130 Vermisste nach Fährunglück in Indonesien, Über 7.000 Gebäude zum Tag des offenen Denkmals für Besucher geöffnet, Ergebnisse des 3. Spieltags der Fußball-Bundesliga, Fußball-Bundesligist Borussia Mönchengladbach trennt sich von Trainer Polanski, Frauen-Basketball-WM in Frankreich: Deutsches Team verliert Spiel um Bronzemedaille, Das Wetter Hinweis: Die Beiträge zu den Themen &quot;Fußball&quot; und &quot;Basketball&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-2029-3000.mp3" length="14625955" type="audio/mpeg"/>
+CDU bleibt stärkste Kraft bei Kommunalwahl in Niedersachsen, Treffen zwischen Golf-Anrainerstaaten und Iran zur Straße von Hormus vertagt, Verteidigungsminister Pistorius will erstmals Soldaten für Litauen-Brigade verpflichten, Arktis-Gipfel in Finnland: EU-Staaten beschließen mehr Engagement in der Region, Bundesanwaltschaft erhebt Anklage gegen mutmaßliche Spionin Russlands, Laut israelischer Menschenrechtsorganisation B'Tselem gehen neben Militär auch vermehrt Siedler gegen Palästinenser vor, Laut Studie des Pestel-Instituts wohnen nur 43,5 Prozent der Deutschen im Eigentum, Deutscher Tennisprofi Alexander Zverev gewinnt US Open, Das Wetter Hinweis: Der Beitrag zu den US Open darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-2028-2200.mp3" length="14642849" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 20:00): Die Nachrichten vom 14.09.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41736.html</link>
-      <pubDate>Mon, 14 Sep 2026 17:28:34 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 00:00): Die Nachrichten vom 14.09.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41744.html</link>
+      <pubDate>Mon, 14 Sep 2026 21:18:41 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">9701cd53-913c-54c8-bba2-5c2d086e6f12</guid>
-      <description>Originally published Mon 14 Sep 2026 20:00 IDT.
+      <guid isPermaLink="false">d7dabc2f-e9c6-57b3-b691-525a6dc20be9</guid>
+      <description>Originally published Tue 15 Sep 2026 00:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/14/nachrichten_dlf_20260914_1900_30dc8199.mp3?refId=nachrichten-108" length="4996472" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/14/nachrichten_dlf_20260914_2300_84b8391f.mp3?refId=nachrichten-108" length="9579812" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (14.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-14092026</link>
-      <pubDate>Mon, 14 Sep 2026 17:27:34 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 21:17:41 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_d66e7f1be304456bb3fe4b0b69002cf7</guid>
       <description>Originally published Mon 14 Sep 2026 19:33 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Neue Regenbogen-Bank | Kritik an Rechenzentren | Ergebnisse U16-Wahl</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/neue-regenbogen-bank-kritik-rechenzentren-ergebnisse-u16-wahl.html</link>
-      <pubDate>Mon, 14 Sep 2026 17:26:34 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 21:16:41 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f1/9d/f19d989d-905e-486d-a256-26d4e114d628/f19d989d-905e-486d-a256-26d4e114d628_mp3-256kd.mp3</guid>
       <description>Originally published Mon 14 Sep 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Der Gedenkort im Tiergarten, der an den islamistischen Anschlag auf den CSD Berl
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 17:50): KI-Notbremse: Warum warnen Entwickler und Förderer von Künstlicher Intelligenz vor ihrer eigenen Technologie?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ki-notbremse-warum-warnen-entwickler-und-foerderer-von-kuenstlicher-intelligenz-vor-ihrer-eigenen-technologie/2122083</link>
-      <pubDate>Mon, 14 Sep 2026 17:25:34 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 21:15:41 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">3056a49b-7751-403f-a73f-ac4dd70d7c29</guid>
       <description>Originally published Mon 14 Sep 2026 17:50 IDT.
@@ -92,7 +92,7 @@ In der Tech-Branche wächst die Sorge, dass KI eine existenzielle Bedrohung für
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 17:40): NATO urged to intercept Russian drones after Ukraine attack</title>
       <link>http://www.bbc.co.uk/programmes/p0p9l8qg</link>
-      <pubDate>Mon, 14 Sep 2026 17:24:34 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 21:14:41 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0p9l8qg</guid>
       <description>Originally published Mon 14 Sep 2026 17:40 IDT.
