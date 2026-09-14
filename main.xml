@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 00:38:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:42:26 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 02:58): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3474960.html</link>
-      <pubDate>Mon, 14 Sep 2026 00:38:37 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 05:50): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3475024.html</link>
+      <pubDate>Mon, 14 Sep 2026 05:42:26 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">59138412-af5f-4460-a5d2-ab9f25a8d9ce</guid>
-      <description>Originally published Mon 14 Sep 2026 02:58 IDT.
+      <guid isPermaLink="false">a6c57164-a830-468c-a0c6-d084d83b2eb7</guid>
+      <description>Originally published Mon 14 Sep 2026 05:50 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-0158-4000.mp3" length="1856779" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-0450-3600.mp3" length="1874827" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 03:10): NPR News: 09-13-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 08:10): NPR News: 09-14-2026 1AM EDT</title>
       <link/>
-      <pubDate>Mon, 14 Sep 2026 00:37:37 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 05:41:26 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">8c544755-d93d-443c-a2b2-1fc654bbe3d1</guid>
-      <description>Originally published Mon 14 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">c8574de7-057f-4e3e-8018-6c67b6d3957e</guid>
+      <description>Originally published Mon 14 Sep 2026 08:10 IDT.
 
-NPR News: 09-13-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7d4af03d-1365-4b1b-a542-4d21e8286254/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7d4af03d-1365-4b1b-a542-4d21e8286254&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260913-2000-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-14-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d85ae13c-5c50-4e22-bda0-9741e53a37e1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d85ae13c-5c50-4e22-bda0-9741e53a37e1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-0100-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Mon 08:00): חדשון בעברית קלה (14/09/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Mon, 14 Sep 2026 05:40:26 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/14-9-26.m4a</guid>
+      <description>Originally published Mon 14 Sep 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• שָנָה טוֹבָה וּמְתוּקָה!
+• לאַחַר הַשמָדַת מִנהֲרוֹת החיזבּאללה בּרֶכֶס עַלִי טַאהֶר שֶבּדרוֹם לְבָנוֹן נָסוֹגוּ כּוֹחוֹת צַה&quot;ל לאֵזוֹר הבּוֹפוֹר
+• שַגרירוּת ארה&quot;ב בּאִיחוּד האֱמִירוּיוֹת קוֹרֵאת לאֶזרָחִים אָמֵריקָנים השוֹהִים בּמְדִינָה להִיזָהֵר בּמיוּחָד בּאֲתָרִים הקְשוּרִים לקְהִילָה היְהוּדִית והישׂראֵלית, כּוֹלֵל בָּתֵי כּנֶסֶת
+• הג'וּדָאִית הישׂראֵלית רָז הֶרשקוֹ זָכתָה בּמֵדַליַית זָהָב בּתַחֲרוּת הגְרַאנְד סְלַאם בּבּוּדַפֶּשְט שֶבּהוּנגַריָה
+• שְמוּרַת הטֶבַע תֵל דָן שֶבּגָלִיל נִסגְרָה אֶתמוֹל בּעִקבוֹת שְׂרֵפָה
+• היום, ג' בּתִשרֵי, חָל צוֹם גְדַליָה – לזִכרוֹ של גדַליָה בּן אחִיקָם, מַנהִיג העָם לאַחַר חוּרבּן בֵּית המִקדָש הרִאשוֹן, שֶנִרצַח בּידֵי מִתנַגדָיו הפּוֹלִיטִיים
+• התִַחֲזית: חם מהרָגִיל בּעוֹנָה
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/14-9-26.m4a" length="1334288" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 13.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3474816.html</link>
-      <pubDate>Mon, 14 Sep 2026 00:36:37 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Mon, 14 Sep 2026 05:39:26 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">47506076-1ae1-4d78-aa49-2d1067ffcd3d-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 13 Sep 2026 21:00 IDT.
 
@@ -46,15 +68,17 @@ Kritik an Bundeskanzler Merz nimmt zu, OpenAI verschiebt wegen Sicherheitsbedenk
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0913/AU-20260913-2029-3000.mp3" length="14625955" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: Can Dubai’s luxe image survive the war with Iran?</title>
-      <link>http://www.bbc.co.uk/programmes/p0p9493n</link>
-      <pubDate>Mon, 14 Sep 2026 00:35:37 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p9493n</guid>
-      <description>Originally published Sun 13 Sep 2026 22:00 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:24): Centre Left coalition in Sweden on course for victory</title>
+      <link>http://www.bbc.co.uk/programmes/p0p9h3m1</link>
+      <pubDate>Mon, 14 Sep 2026 05:38:26 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p9h3m1</guid>
+      <description>Originally published Mon 14 Sep 2026 07:24 IDT.
 
-&lt;p&gt;As the summer holiday season draws to a close, foreigners travelling to and from Dubai in the United Arab Emirates are facing delays, cancellations and severe travel warnings. The disruption comes as a result of the UAE’s position in the ongoing US-Israel war with Iran. Throughout the conflict, Iran has attacked the UAE more times than any other country, including Israel.&lt;/p&gt;&lt;p&gt;Until the war with Iran began, Dubai was a major tourist destination, famous for its modern skyscrapers, luxurious beaches and low crime rate. For decades, the Gulf city has promised residents and tourists alike safety, security and stability – so has that promise fallen apart? And what could that mean for the city’s future?&lt;/p&gt;&lt;p&gt;The Global Story’s Asma Khalid speaks to Sameer Hashmi, an independent journalist based in Dubai, about how Brand Dubai is weathering a major regional war.&lt;/p&gt;&lt;p&gt;The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p948k3.mp3" length="13384000" type="audio/mpeg"/>
+&lt;p&gt;Centre left coalition in Sweden likely to form new national government despite a slim majority. The far-right Sweden Democrats saw their support fall.&lt;/p&gt;&lt;p&gt;Also: The state railway company in Ukraine says it's &quot;quite likely&quot; that a Russian drone attack was targeting a diplomatic train which had some of Europe’s most senior security officials on board. &lt;/p&gt;&lt;p&gt;Alexander Zverev wins the men's US Open - his second Grand Slam tennis title of the year. The German beat America's Ben Shelton in four sets. &lt;/p&gt;&lt;p&gt;People are living, on average, longer that ever before, but how can we make the most of those extra years? Professor Linda Gratton suggests aging is not like climbing a ladder, but rather like weaving something that evolves with us.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Social Democrats party leader Magdalena Andersson in Stockholm, Sweden
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9h3ln.mp3" length="12384000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
