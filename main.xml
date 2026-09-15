@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:28:45 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,84 +13,95 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 18:10): NPR News: 09-15-2026 11AM EDT</title>
-      <link/>
-      <pubDate>Tue, 15 Sep 2026 15:26:20 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:38): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3479022.html</link>
+      <pubDate>Tue, 15 Sep 2026 19:28:45 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">a6b1226e-b182-436a-bdb5-26eacc8c689c</guid>
-      <description>Originally published Tue 15 Sep 2026 18:10 IDT.
+      <guid isPermaLink="false">deda866c-d62d-46c5-b9e5-9ce5b5b4a13c</guid>
+      <description>Originally published Tue 15 Sep 2026 19:38 IDT.
 
-NPR News: 09-15-2026 11AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8f4fa96d-b8df-4022-9bba-c2f135b1b709/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8f4fa96d-b8df-4022-9bba-c2f135b1b709&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260915-1100-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-1838-1000.mp3" length="2215051" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 14.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3476922.html</link>
-      <pubDate>Tue, 15 Sep 2026 15:25:20 +0000</pubDate>
+      <title>[EN|Overview] NPR News Now (Tue 22:10): NPR News: 09-15-2026 3PM EDT</title>
+      <link/>
+      <pubDate>Tue, 15 Sep 2026 19:27:45 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">f3a1c530-9944-4587-b723-157eab244a0a-SENDUNGSAUDIO</guid>
-      <description>Originally published Mon 14 Sep 2026 21:00 IDT.
+      <guid isPermaLink="false">8758ac8c-d547-45ed-82b9-d9364a869e3f</guid>
+      <description>Originally published Tue 15 Sep 2026 22:10 IDT.
 
-CDU bleibt stärkste Kraft bei Kommunalwahl in Niedersachsen, Treffen zwischen Golf-Anrainerstaaten und Iran zur Straße von Hormus vertagt, Verteidigungsminister Pistorius will erstmals Soldaten für Litauen-Brigade verpflichten, Arktis-Gipfel in Finnland: EU-Staaten beschließen mehr Engagement in der Region, Bundesanwaltschaft erhebt Anklage gegen mutmaßliche Spionin Russlands, Laut israelischer Menschenrechtsorganisation B'Tselem gehen neben Militär auch vermehrt Siedler gegen Palästinenser vor, Laut Studie des Pestel-Instituts wohnen nur 43,5 Prozent der Deutschen im Eigentum, Deutscher Tennisprofi Alexander Zverev gewinnt US Open, Das Wetter Hinweis: Der Beitrag zu den US Open darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-2028-2200.mp3" length="14642849" type="audio/mpeg"/>
+NPR News: 09-15-2026 3PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/57f0e3a0-85b6-4fee-b381-ef1e9655600c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=57f0e3a0-85b6-4fee-b381-ef1e9655600c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260915-1500-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 18:13): Journal um 5 (15.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-15092026</link>
-      <pubDate>Tue, 15 Sep 2026 15:24:20 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 15.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3479160.html</link>
+      <pubDate>Tue, 15 Sep 2026 19:26:45 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_ff50d3e097134b79a7ba83f482b8ea36</guid>
-      <description>Originally published Tue 15 Sep 2026 18:13 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ff50d3e097134b79a7ba83f482b8ea36.mp3?etag=0f273e0ffefca7100e5da2afc0fcd079" length="13443709" type="audio/mpeg"/>
+      <guid isPermaLink="false">1cf5a4fc-e5ca-4e53-ae83-9cf3509e3278-SENDUNGSAUDIO</guid>
+      <description>Originally published Tue 15 Sep 2026 21:00 IDT.
+
+Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an, Huthis im Jemen kontrollieren Meerenge Bab El-Mandeb, BKA Lagebild 2025: Organisierte Kriminalität agiert digitaler und brutaler, Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter, Generalstaatsanwalt der Ukraine entlassen als Folge eines Korruptionsskandal, Ute Niklas übernimmt als erste Frau das Kommando einer Fregatte, ESA schickt zwei Satelliten zur Klimaforschung ins All, Schauspieler Ralf Richter ist tot, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-2027-3900.mp3" length="15789091" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 18:00): Die Nachrichten vom 15.09.2026, 17:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41804.html</link>
-      <pubDate>Tue, 15 Sep 2026 15:23:20 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 21:59): Die Nachrichten vom 15.09.2026, 20:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41816.html</link>
+      <pubDate>Tue, 15 Sep 2026 19:25:45 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">42c08ff3-94c1-5d5b-b948-7483e2e43aeb</guid>
-      <description>Originally published Tue 15 Sep 2026 18:00 IDT.
+      <guid isPermaLink="false">c10e67f7-6ee7-524f-baae-2d4fd6ae43fb</guid>
+      <description>Originally published Tue 15 Sep 2026 21:59 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/15/nachrichten_dlf_20260915_1700_2e95010b.mp3?refId=nachrichten-108" length="4968886" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/15/nachrichten_dlf_20260915_2059_3170b794.mp3?refId=nachrichten-108" length="5051642" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 09:20): Schulstart in Bayern: Wie gelingt die Rückkehr in den Schulalltag?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/schulstart-in-bayern-wie-gelingt-die-rueckkehr-in-den-schulalltag/2122101</link>
-      <pubDate>Tue, 15 Sep 2026 15:22:20 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (15.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-15092026</link>
+      <pubDate>Tue, 15 Sep 2026 19:24:45 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">edf06f24-8030-409c-b7e9-479121b11a03</guid>
-      <description>Originally published Tue 15 Sep 2026 09:20 IDT.
-
-Für rund 1,8 Millionen Schülerinnen und Schüler in Bayern beginnt wieder der Unterricht, doch neben der Freude auf Freunde und neue Erfahrungen bringt der Schulstart für manche auch Ängste und körperliche Beschwerden mit sich.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122101/c/feed/schulstart-in-bayern-wie-gelingt-die-rueckkehr-in-den-schulalltag.mp3" length="10625324" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_ef7bb3feaabb48edb2b3ac99f32e29fc</guid>
+      <description>Originally published Tue 15 Sep 2026 19:33 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ef7bb3feaabb48edb2b3ac99f32e29fc.mp3?etag=323e9fc31cd158957e37c35ceb44961a" length="36506179" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Neue Regenbogen-Bank | Kritik an Rechenzentren | Ergebnisse U16-Wahl</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/neue-regenbogen-bank-kritik-rechenzentren-ergebnisse-u16-wahl.html</link>
-      <pubDate>Tue, 15 Sep 2026 15:21:20 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Spritpreise | Sucht-Strategie | Sozialarbeit</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/spritpreise-sucht-strategie-sozialarbeit.html</link>
+      <pubDate>Tue, 15 Sep 2026 19:23:45 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f1/9d/f19d989d-905e-486d-a256-26d4e114d628/f19d989d-905e-486d-a256-26d4e114d628_mp3-256kd.mp3</guid>
-      <description>Originally published Mon 14 Sep 2026 19:17 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/72/09/7209c228-54a2-49b9-a1e5-04de72239f21/7209c228-54a2-49b9-a1e5-04de72239f21_mp3-256kd.mp3</guid>
+      <description>Originally published Tue 15 Sep 2026 19:17 IDT.
 
-Der Gedenkort im Tiergarten, der an den islamistischen Anschlag auf den CSD Berlin erinnert, ist immer wieder Ziel von Angriffen. Nun hat der Gedenkort eine neue Regenbogenbank bekommen. Au&amp;#223;erdem: Umweltsch&amp;#252;tzer kritisieren Rechenzentren; Ergebnisse der U16-Wahl; Mehrweg in der Gastro - kaum genutzt?
+Die Spritpreise kennen im Moment offenbar kein Limit &amp;#8211; t&amp;#228;glich l&amp;#228;sst sich das an den Tankstellen auch in Berlin und Brandenburg beobachten. Weitere Themen: Senats-PK: Berlins Sucht-Strategie; Wie Sozialarbeit Drogenabh&amp;#228;ngigen hilft; Saisonwechsel B&amp;#228;derbetriebe.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/f1/9d/f19d989d-905e-486d-a256-26d4e114d628/f19d989d-905e-486d-a256-26d4e114d628_mp3-256kd.mp3" length="29590798" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/72/09/7209c228-54a2-49b9-a1e5-04de72239f21/7209c228-54a2-49b9-a1e5-04de72239f21_mp3-256kd.mp3" length="31704331" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:39): US reveals it has deployed space weapons</title>
-      <link>http://www.bbc.co.uk/programmes/p0p9n98m</link>
-      <pubDate>Tue, 15 Sep 2026 15:20:20 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Lagebild Kriminalität: Wie kriminelle Netzwerke immer mehr Jugendliche und Kinder rekrutieren</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/lagebild-kriminalitaet-wie-kriminelle-netzwerke-immer-mehr-jugendliche-und-kinder-rekrutieren/2122120</link>
+      <pubDate>Tue, 15 Sep 2026 19:22:45 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p9n98m</guid>
-      <description>Originally published Tue 15 Sep 2026 07:39 IDT.
+      <guid isPermaLink="false">bfe5ec04-44cf-454b-b439-9c76fec13ad3</guid>
+      <description>Originally published Tue 15 Sep 2026 19:00 IDT.
 
-&lt;p&gt;US Air Force Secretary, Troy Meink, has revealed that America has weapons in space to protect its assets in orbit, but he didn't divulge which weapons were there. His comments will be seen as a warning to Russia and China, raising the prospect of warfare in space. A treaty from 1967 banned weapons of mass destruction in space but the US has, like its rivals, been developing technology that can target and defend satellites. Also: Anthropic's co-founder tells the BBC artificial intelligence may need a mandatory &quot;kill switch&quot; but President Trump says the idea of AI destroying humanity is a &quot;hoax&quot;. Turkish police fire tear gas at protesters following a crackdown on gay bars and LGBTQ activists. The US scraps limits on emissions from coal and gas power plants. How scientists and doctors have improved the fight against breast cancer over the last 50 years. Harry and Meghan change their children's school only days after they first started, as their security in the UK comes under review. And the Sydney Sweeney advert that has caused an uproar in women's sport.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: A Falcon 9 rocket carrying the USSF-36 mission launches at Kennedy Space Center, Florida, U.S., August 21, 2025. 
-Credit: US Space Force/Gwendolyn Kurzen/Handout via REUTERS&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9n94h.mp3" length="14008000" type="audio/mpeg"/>
+Die Organisierte Kriminalität greift immer mehr auf Jugendliche und Kinder als Täter zurück.  Thomas Mücke vom &quot;Violence Prevention Network&quot;  erklärt, wie kriminelle Netzwerke zunehmend junge Menschen rekrutieren. Moderation Julia Walter.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122120/c/feed/lagebild-kriminalitaet-wie-kriminelle-netzwerke-immer-mehr-jugendliche-und-kinder-rekrutieren.mp3" length="9347756" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:34): Russia and Ukraine continue strikes on energy targets</title>
+      <link>http://www.bbc.co.uk/programmes/p0p9r423</link>
+      <pubDate>Tue, 15 Sep 2026 19:21:45 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p9r423</guid>
+      <description>Originally published Tue 15 Sep 2026 18:34 IDT.
+
+&lt;p&gt;There's been no pause in fighting between Russia and Ukraine, despite President Trump's claim that both sides would temporarily stop targeting critical infrastructure. Russia says a gas pipeline was hit in the south of the country in an attack overnight, while officials in Zaporizhzhia region in Ukraine said Russian attacks had disrupted power supplies to some areas. &lt;/p&gt;&lt;p&gt;Also: a NATO fighter jet shoots down a drone which entered Lithuanian airspace. Train travel is brought to a halt in parts of the Netherlands because of what officials suspect are coordinated acts of sabotage. We hear from a UN representative in Djibouti, where thousands of Yemini civilians have fled to escape fighting. Nairobi in Kenya will be the first African city to host the World Athletics Championship, beating rival bids from London and Rome. The number of people in Japan who are aged 100 or older has passed 100,000 for the first time. “Widow’s Bay” breaks records at the Emmy television awards. And researchers at Cambridge University say reading for pleasure is linked to better mental health, lower stress levels and a reduced risk of dementia. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Workers clear up debris at the site of a Russian strike on a petrol station in Kyiv, Ukraine, 15 September 2026
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9r2wg.mp3" length="12952000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
