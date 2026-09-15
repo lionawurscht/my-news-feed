@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:43:49 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 01:42): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3477044.html</link>
-      <pubDate>Tue, 15 Sep 2026 00:12:05 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 05:46): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3477172.html</link>
+      <pubDate>Tue, 15 Sep 2026 05:43:49 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">c27a8ba1-907b-4c7e-ac38-046bcde94c88</guid>
-      <description>Originally published Tue 15 Sep 2026 01:42 IDT.
+      <guid isPermaLink="false">ecd61219-4a8c-4137-a05f-e8dc5d1edde2</guid>
+      <description>Originally published Tue 15 Sep 2026 05:46 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-0042-0100.mp3" length="1919371" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-0446-1500.mp3" length="2499979" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 03:10): NPR News: 09-14-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 08:10): NPR News: 09-15-2026 1AM EDT</title>
       <link/>
-      <pubDate>Tue, 15 Sep 2026 00:11:05 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 05:42:49 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d9529b64-dc30-41a4-86c4-a2ca2a96d915</guid>
-      <description>Originally published Tue 15 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">716d16fb-93bc-4941-ac68-e60972f879bc</guid>
+      <description>Originally published Tue 15 Sep 2026 08:10 IDT.
 
-NPR News: 09-14-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ea766021-7bf6-4c71-95ac-a92617b1868d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ea766021-7bf6-4c71-95ac-a92617b1868d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-2000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-15-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/498141a4-11dd-4a58-bf29-5ddc63b3e7d1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=498141a4-11dd-4a58-bf29-5ddc63b3e7d1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260915-0100-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Tue 08:00): חדשון בעברית קלה (15/09/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Tue, 15 Sep 2026 05:41:49 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/15-9-26.m4a</guid>
+      <description>Originally published Tue 15 Sep 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• לפִי דִיווּחִים בּרְצוּעַת עַזה: צַה&quot;ל חִיסֵל הלַילה את מפַקֵד מַטֵה הנֶשֶק בּחֲטִיבַת צְפוֹן הרְצוּעָה בּחמאס, אַחמַד אל בָּטָש. הוא היָה מִבּכִירֵי המְחַבּלִים שֶנִכנְסוּ לישׂראל ב-7/10
+• נִמשַך העִימוּת בֵּין המוֹרדים החוּת'ים לסָעוּדיָה. החות'ים מִשתַלטִים על מְצַר בַּאבּ אַל מַנדַבּ, שֶהוּא אחד מִנְתִיבֵי השַיִט המֶרכָּזִיִים בּעוֹלָם
+• מִשׂרַד הבְּריאוּת הוֹדִיעַ: חִיסוּנֵי השַפַּעַת זְמִינִים בּקוּפּוֹת החוֹלים. המִשׂרָד קוֹרֵא לצִיבּוּר, ובמְיוּחָד לאוּכלוּסִיוֹת בּסִיכּוּן, להַקדִים ולהִתחַסֵן נֶגֶד שַפּעת ולא להַמתִין לעֲלִייָה בּתַחלוּאָה
+• אָנוּ נִמצָאים כָּעֵת בּעֲשֶׂרֶת ימֵי תשוּבָה, והַשַבָּת הקְרוֹבָה נִקרֵאת &quot;שַבָּת שוּבָה&quot;
+• בּשָבוּעַ הבָּא יָחוּל יוֹם הכִּיפּוּרִים – יום של תפִילָה, תִיקוּן וסְלִיחָה
+• התִַחֲזית: בּלי שִינוּי נִיכָּר בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד
+• מדע וטכנולוגיה</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/15-9-26.m4a" length="1403345" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 14.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3476922.html</link>
-      <pubDate>Tue, 15 Sep 2026 00:10:05 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Tue, 15 Sep 2026 05:40:49 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">f3a1c530-9944-4587-b723-157eab244a0a-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 14 Sep 2026 21:00 IDT.
 
@@ -46,30 +68,30 @@ CDU bleibt stärkste Kraft bei Kommunalwahl in Niedersachsen, Treffen zwischen G
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-2028-2200.mp3" length="14642849" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 02:00): Die Nachrichten vom 15.09.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41746.html</link>
-      <pubDate>Tue, 15 Sep 2026 00:09:05 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">59b394b1-2331-5eb8-82b5-12b78c51350a</guid>
-      <description>Originally published Tue 15 Sep 2026 02:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 08:00): Die Nachrichten vom 15.09.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41764.html</link>
+      <pubDate>Tue, 15 Sep 2026 05:39:49 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">f631a90c-a0ce-5479-932e-df28dd7974b0</guid>
+      <description>Originally published Tue 15 Sep 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/15/nachrichten_dlf_20260915_0100_1f2619ab.mp3?refId=nachrichten-108" length="5005667" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/15/nachrichten_dlf_20260915_0700_f46fae1f.mp3?refId=nachrichten-108" length="4894908" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (14.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-14092026</link>
-      <pubDate>Tue, 15 Sep 2026 00:08:05 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_d66e7f1be304456bb3fe4b0b69002cf7</guid>
-      <description>Originally published Mon 14 Sep 2026 19:33 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d66e7f1be304456bb3fe4b0b69002cf7.mp3?etag=bb308eb5c3aaf407e5c7b3af7d49abf5" length="36434107" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 07:14): Frühjournal um 6 (15.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-15092026</link>
+      <pubDate>Tue, 15 Sep 2026 05:38:49 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_072b8b28413f43d082956cba8d05f19f</guid>
+      <description>Originally published Tue 15 Sep 2026 07:14 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_072b8b28413f43d082956cba8d05f19f.mp3?etag=2f7ca90a2363740273dcf270990c8977" length="14799820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Neue Regenbogen-Bank | Kritik an Rechenzentren | Ergebnisse U16-Wahl</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/neue-regenbogen-bank-kritik-rechenzentren-ergebnisse-u16-wahl.html</link>
-      <pubDate>Tue, 15 Sep 2026 00:07:05 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Tue, 15 Sep 2026 05:37:49 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f1/9d/f19d989d-905e-486d-a256-26d4e114d628/f19d989d-905e-486d-a256-26d4e114d628_mp3-256kd.mp3</guid>
       <description>Originally published Mon 14 Sep 2026 19:17 IDT.
 
@@ -81,8 +103,8 @@ Der Gedenkort im Tiergarten, der an den islamistischen Anschlag auf den CSD Berl
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 17:50): KI-Notbremse: Warum warnen Entwickler und Förderer von Künstlicher Intelligenz vor ihrer eigenen Technologie?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ki-notbremse-warum-warnen-entwickler-und-foerderer-von-kuenstlicher-intelligenz-vor-ihrer-eigenen-technologie/2122083</link>
-      <pubDate>Tue, 15 Sep 2026 00:06:05 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 15 Sep 2026 05:36:49 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">3056a49b-7751-403f-a73f-ac4dd70d7c29</guid>
       <description>Originally published Mon 14 Sep 2026 17:50 IDT.
 
@@ -90,18 +112,18 @@ In der Tech-Branche wächst die Sorge, dass KI eine existenzielle Bedrohung für
       <enclosure url="https://media.neuland.br.de/file/2122083/c/feed/ki-notbremse-warum-warnen-entwickler-und-foerderer-von-kuenstlicher-intelligenz-vor-ihrer-eigenen-technologie.mp3" length="9010604" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 17:40): NATO urged to intercept Russian drones after Ukraine attack</title>
-      <link>http://www.bbc.co.uk/programmes/p0p9l8qg</link>
-      <pubDate>Tue, 15 Sep 2026 00:05:05 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p9l8qg</guid>
-      <description>Originally published Mon 14 Sep 2026 17:40 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:39): US reveals it has deployed space weapons</title>
+      <link>http://www.bbc.co.uk/programmes/p0p9n98m</link>
+      <pubDate>Tue, 15 Sep 2026 05:35:49 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p9n98m</guid>
+      <description>Originally published Tue 15 Sep 2026 07:39 IDT.
 
-&lt;p&gt;A US think tank says NATO should consider intercepting Russian drones in Ukrainian airspace, after a drone struck a train near the Polish border. The strike happened soon after a train carrying senior European officials had passed through the same station. The NATO chief, Mark Rutte, says the attack shows how &quot;desperate&quot; President Vladimir Putin has become. Also: Africa’s biggest ever share sale is launched in Nigeria by the billionaire Aliko Dangote. His oil refinery is offering more than 4bn shares. Extensive restoration work at Buckingham Palace uncovers a cluster of curious historical items. And Andrew Davies, the screenwriter behind House of Cards, Pride and Prejudice and Bridget Jones’s Diary brings out an autobiography as he turns 90 this week.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Wreckage of passenger train following a Russian drone strike near Ukraine's border with Poland.
-Credit: Telegram/Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9l6gn.mp3" length="12800000" type="audio/mpeg"/>
+&lt;p&gt;US Air Force Secretary, Troy Meink, has revealed that America has weapons in space to protect its assets in orbit, but he didn't divulge which weapons were there. His comments will be seen as a warning to Russia and China, raising the prospect of warfare in space. A treaty from 1967 banned weapons of mass destruction in space but the US has, like its rivals, been developing technology that can target and defend satellites. Also: Anthropic's co-founder tells the BBC artificial intelligence may need a mandatory &quot;kill switch&quot; but President Trump says the idea of AI destroying humanity is a &quot;hoax&quot;. Turkish police fire tear gas at protesters following a crackdown on gay bars and LGBTQ activists. The US scraps limits on emissions from coal and gas power plants. How scientists and doctors have improved the fight against breast cancer over the last 50 years. Harry and Meghan change their children's school only days after they first started, as their security in the UK comes under review. And the Sydney Sweeney advert that has caused an uproar in women's sport.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: A Falcon 9 rocket carrying the USSF-36 mission launches at Kennedy Space Center, Florida, U.S., August 21, 2025. 
+Credit: US Space Force/Gwendolyn Kurzen/Handout via REUTERS&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9n94h.mp3" length="14008000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
