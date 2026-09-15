@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 21:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:12:05 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:37): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3476758.html</link>
-      <pubDate>Mon, 14 Sep 2026 21:21:41 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 01:42): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3477044.html</link>
+      <pubDate>Tue, 15 Sep 2026 00:12:05 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">63c6bfc3-4f9f-4243-b5ed-0374149e0017</guid>
-      <description>Originally published Mon 14 Sep 2026 19:37 IDT.
+      <guid isPermaLink="false">c27a8ba1-907b-4c7e-ac38-046bcde94c88</guid>
+      <description>Originally published Tue 15 Sep 2026 01:42 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-1837-3900.mp3" length="2067211" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-0042-0100.mp3" length="1919371" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 00:10): NPR News: 09-14-2026 5PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 03:10): NPR News: 09-14-2026 8PM EDT</title>
       <link/>
-      <pubDate>Mon, 14 Sep 2026 21:20:41 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:11:05 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">bf24a23f-8986-4dc6-9368-d125eb4bd7f0</guid>
-      <description>Originally published Tue 15 Sep 2026 00:10 IDT.
+      <guid isPermaLink="false">d9529b64-dc30-41a4-86c4-a2ca2a96d915</guid>
+      <description>Originally published Tue 15 Sep 2026 03:10 IDT.
 
-NPR News: 09-14-2026 5PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c340f045-e82a-486e-8b67-55744360bee5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c340f045-e82a-486e-8b67-55744360bee5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-1700-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-14-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ea766021-7bf6-4c71-95ac-a92617b1868d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ea766021-7bf6-4c71-95ac-a92617b1868d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260914-2000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 14.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3476922.html</link>
-      <pubDate>Mon, 14 Sep 2026 21:19:41 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:10:05 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">f3a1c530-9944-4587-b723-157eab244a0a-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 14 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ CDU bleibt stärkste Kraft bei Kommunalwahl in Niedersachsen, Treffen zwischen G
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0914/AU-20260914-2028-2200.mp3" length="14642849" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 00:00): Die Nachrichten vom 14.09.2026, 23:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41744.html</link>
-      <pubDate>Mon, 14 Sep 2026 21:18:41 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 02:00): Die Nachrichten vom 15.09.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41746.html</link>
+      <pubDate>Tue, 15 Sep 2026 00:09:05 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">d7dabc2f-e9c6-57b3-b691-525a6dc20be9</guid>
-      <description>Originally published Tue 15 Sep 2026 00:00 IDT.
+      <guid isPermaLink="false">59b394b1-2331-5eb8-82b5-12b78c51350a</guid>
+      <description>Originally published Tue 15 Sep 2026 02:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/14/nachrichten_dlf_20260914_2300_84b8391f.mp3?refId=nachrichten-108" length="9579812" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/15/nachrichten_dlf_20260915_0100_1f2619ab.mp3?refId=nachrichten-108" length="5005667" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (14.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-14092026</link>
-      <pubDate>Mon, 14 Sep 2026 21:17:41 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:08:05 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_d66e7f1be304456bb3fe4b0b69002cf7</guid>
       <description>Originally published Mon 14 Sep 2026 19:33 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Neue Regenbogen-Bank | Kritik an Rechenzentren | Ergebnisse U16-Wahl</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/neue-regenbogen-bank-kritik-rechenzentren-ergebnisse-u16-wahl.html</link>
-      <pubDate>Mon, 14 Sep 2026 21:16:41 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:07:05 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f1/9d/f19d989d-905e-486d-a256-26d4e114d628/f19d989d-905e-486d-a256-26d4e114d628_mp3-256kd.mp3</guid>
       <description>Originally published Mon 14 Sep 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Der Gedenkort im Tiergarten, der an den islamistischen Anschlag auf den CSD Berl
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 17:50): KI-Notbremse: Warum warnen Entwickler und Förderer von Künstlicher Intelligenz vor ihrer eigenen Technologie?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ki-notbremse-warum-warnen-entwickler-und-foerderer-von-kuenstlicher-intelligenz-vor-ihrer-eigenen-technologie/2122083</link>
-      <pubDate>Mon, 14 Sep 2026 21:15:41 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:06:05 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">3056a49b-7751-403f-a73f-ac4dd70d7c29</guid>
       <description>Originally published Mon 14 Sep 2026 17:50 IDT.
@@ -92,7 +92,7 @@ In der Tech-Branche wächst die Sorge, dass KI eine existenzielle Bedrohung für
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 17:40): NATO urged to intercept Russian drones after Ukraine attack</title>
       <link>http://www.bbc.co.uk/programmes/p0p9l8qg</link>
-      <pubDate>Mon, 14 Sep 2026 21:14:41 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:05:05 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0p9l8qg</guid>
       <description>Originally published Mon 14 Sep 2026 17:40 IDT.
