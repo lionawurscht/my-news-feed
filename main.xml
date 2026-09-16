@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:00:36 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 22:49): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3479226.html</link>
-      <pubDate>Tue, 15 Sep 2026 22:40:14 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 03:02): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3479376.html</link>
+      <pubDate>Wed, 16 Sep 2026 01:00:36 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">b9f8345f-088d-4764-819e-1389301cd8ca</guid>
-      <description>Originally published Tue 15 Sep 2026 22:49 IDT.
+      <guid isPermaLink="false">643cbcde-11c1-406c-847d-8338adcc49cd</guid>
+      <description>Originally published Wed 16 Sep 2026 03:02 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-2149-0800.mp3" length="2107147" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0916/AU-20260916-0202-1400.mp3" length="1985419" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 01:10): NPR News: 09-15-2026 6PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 03:10): NPR News: 09-15-2026 8PM EDT</title>
       <link/>
-      <pubDate>Tue, 15 Sep 2026 22:39:14 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 00:59:36 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">fedddaaf-17da-4cfa-885f-d4b980bff429</guid>
-      <description>Originally published Wed 16 Sep 2026 01:10 IDT.
+      <guid isPermaLink="false">5e36754c-8522-4ea0-a32e-a7889befd468</guid>
+      <description>Originally published Wed 16 Sep 2026 03:10 IDT.
 
-NPR News: 09-15-2026 6PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/63a04a2b-08f1-4314-9c8a-155be8a13455/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=63a04a2b-08f1-4314-9c8a-155be8a13455&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260915-1800-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-15-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ab1924d1-a35a-4f95-8f27-bc1ec4edf99f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ab1924d1-a35a-4f95-8f27-bc1ec4edf99f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260915-2000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 15.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3479160.html</link>
-      <pubDate>Tue, 15 Sep 2026 22:38:14 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 00:58:36 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">1cf5a4fc-e5ca-4e53-ae83-9cf3509e3278-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 15 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an, Huthis im Jemen ko
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-2027-3900.mp3" length="15789091" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 01:00): Die Nachrichten vom 16.09.2026, 00:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41820.html</link>
-      <pubDate>Tue, 15 Sep 2026 22:37:14 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 03:00): Die Nachrichten vom 16.09.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41824.html</link>
+      <pubDate>Wed, 16 Sep 2026 00:57:36 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">c6b1d2c5-14f5-5784-9836-aeffa784ea22</guid>
-      <description>Originally published Wed 16 Sep 2026 01:00 IDT.
+      <guid isPermaLink="false">231cfb94-96a1-55f9-abf7-ed4d776e75f4</guid>
+      <description>Originally published Wed 16 Sep 2026 03:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/16/nachrichten_dlf_20260916_0000_5d158661.mp3?refId=nachrichten-108" length="4784566" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/16/nachrichten_dlf_20260916_0200_e48363bc.mp3?refId=nachrichten-108" length="4974738" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (15.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-15092026</link>
-      <pubDate>Tue, 15 Sep 2026 22:36:14 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 00:56:36 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_ef7bb3feaabb48edb2b3ac99f32e29fc</guid>
       <description>Originally published Tue 15 Sep 2026 19:33 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Spritpreise | Sucht-Strategie | Sozialarbeit</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/spritpreise-sucht-strategie-sozialarbeit.html</link>
-      <pubDate>Tue, 15 Sep 2026 22:35:14 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 00:55:36 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/72/09/7209c228-54a2-49b9-a1e5-04de72239f21/7209c228-54a2-49b9-a1e5-04de72239f21_mp3-256kd.mp3</guid>
       <description>Originally published Tue 15 Sep 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Die Spritpreise kennen im Moment offenbar kein Limit &amp;#8211; t&amp;#228;glic
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Lagebild Kriminalität: Wie kriminelle Netzwerke immer mehr Jugendliche und Kinder rekrutieren</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/lagebild-kriminalitaet-wie-kriminelle-netzwerke-immer-mehr-jugendliche-und-kinder-rekrutieren/2122120</link>
-      <pubDate>Tue, 15 Sep 2026 22:34:14 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 00:54:36 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">bfe5ec04-44cf-454b-b439-9c76fec13ad3</guid>
       <description>Originally published Tue 15 Sep 2026 19:00 IDT.
@@ -92,7 +92,7 @@ Die Organisierte Kriminalität greift immer mehr auf Jugendliche und Kinder als 
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:34): Russia and Ukraine continue strikes on energy targets</title>
       <link>http://www.bbc.co.uk/programmes/p0p9r423</link>
-      <pubDate>Tue, 15 Sep 2026 22:33:14 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 00:53:36 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0p9r423</guid>
       <description>Originally published Tue 15 Sep 2026 18:34 IDT.
