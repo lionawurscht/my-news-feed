@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:07:21 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 03:02): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3479376.html</link>
-      <pubDate>Wed, 16 Sep 2026 01:00:36 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 06:02): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3479440.html</link>
+      <pubDate>Wed, 16 Sep 2026 07:07:21 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">643cbcde-11c1-406c-847d-8338adcc49cd</guid>
-      <description>Originally published Wed 16 Sep 2026 03:02 IDT.
+      <guid isPermaLink="false">4238c3db-69d2-4e37-b9aa-043c37f26ba7</guid>
+      <description>Originally published Wed 16 Sep 2026 06:02 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0916/AU-20260916-0202-1400.mp3" length="1985419" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0916/AU-20260916-0502-0600.mp3" length="2083339" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 03:10): NPR News: 09-15-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 09:09): NPR News: 09-16-2026 2AM EDT</title>
       <link/>
-      <pubDate>Wed, 16 Sep 2026 00:59:36 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 07:06:21 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">5e36754c-8522-4ea0-a32e-a7889befd468</guid>
-      <description>Originally published Wed 16 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">dc424c1d-4d2e-4e5a-bb25-5de03246b574</guid>
+      <description>Originally published Wed 16 Sep 2026 09:09 IDT.
 
-NPR News: 09-15-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ab1924d1-a35a-4f95-8f27-bc1ec4edf99f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ab1924d1-a35a-4f95-8f27-bc1ec4edf99f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260915-2000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-16-2026 2AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3e445555-b07d-4942-8f3d-fdd0f8da311d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3e445555-b07d-4942-8f3d-fdd0f8da311d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260916-0200-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Wed 08:00): חדשון בעברית קלה (16/09/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Wed, 16 Sep 2026 07:05:21 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/16-9-26.m4a</guid>
+      <description>Originally published Wed 16 Sep 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• צַה&quot;ל ושַבַּ&quot;כּ חִיסלוּ אֶמֶש בּתְקִיפָה אֲוִוירִית בּדרוֹם רְצוּעַת עַזה את מפַקֵד חֲטִיבַת רָפִיחַ בּחַמאס, נַאיֶל אַבּוּ עַבּיד
+• ישׂראל הִתחִילָה להַעֲבִיר לסָעוּדיָה, בּאֶמצָעוּת ארה&quot;ב, מֵידָע מוֹדִיעִיני על החוּת'ים בּתֵימָן
+• דִיווּחַ בּ&quot;ווֹשִינגְטוֹן פּוֹסְט&quot;: ארה&quot;ב תִמכּוֹר לישׂראל פְּצָצוֹת בּשוֹוִי 2.8 מִיליַארד דוֹלר
+• רֹאש הוַועֲדָה לאֶנֶרגיָה אָטוֹמִית בּכֶנֶס של סבא&quot;א: בּאִיראן יש כּ-9 טוֹנוֹת של חוֹמֶר גַרעִינִי שֶאֵינוֹ מְפוּקָח
+• מַדַד המְחִירִים לצַרכָן לחוֹדש אוֹגוּסט עָלה בּ-0.7%. עֲלִיוֹת מְחִירִים בּוֹלטוֹת נִרשְמוּ בּתְחוּמים הבָּאים: יְרָקוֹת טְרִיִים, תַחבּוּרָה, דִיוּר ותַרבּוּת ובִידוּר. מַדַד מְחִירֵי הדִירוֹת עָלה בּ-0.2%
+• שׂוֹרֵד השוֹאָה המְבוּגָר בּיוֹתר בּישׂראל, יהוּדה אַהרֹן וִידַבסקי, נִפטַר השָבוּעַ בּגִיל 107
+• בּשָבוּעַ הבּא יָחוּל יוֹם הכִּיפּוּרִים, וּבוֹ קוֹראִים את סֵפֶר יוֹנָה
+• התִַחֲזית: עֲדַיִין חַם מהרָגיל בּעוֹנָה
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/16-9-26.m4a" length="1643694" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 15.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3479160.html</link>
-      <pubDate>Wed, 16 Sep 2026 00:58:36 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Wed, 16 Sep 2026 07:04:21 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">1cf5a4fc-e5ca-4e53-ae83-9cf3509e3278-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 15 Sep 2026 21:00 IDT.
 
@@ -46,30 +68,30 @@ Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an, Huthis im Jemen ko
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-2027-3900.mp3" length="15789091" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 03:00): Die Nachrichten vom 16.09.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41824.html</link>
-      <pubDate>Wed, 16 Sep 2026 00:57:36 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">231cfb94-96a1-55f9-abf7-ed4d776e75f4</guid>
-      <description>Originally published Wed 16 Sep 2026 03:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 09:30): Die Nachrichten vom 16.09.2026, 08:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41846.html</link>
+      <pubDate>Wed, 16 Sep 2026 07:03:21 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">fe1b7769-1566-58c0-bb81-cc7a3d34cadf</guid>
+      <description>Originally published Wed 16 Sep 2026 09:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/16/nachrichten_dlf_20260916_0200_e48363bc.mp3?refId=nachrichten-108" length="4974738" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/16/nachrichten_dlf_20260916_0830_bae86edc.mp3?refId=nachrichten-108" length="4990202" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (15.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-15092026</link>
-      <pubDate>Wed, 16 Sep 2026 00:56:36 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_ef7bb3feaabb48edb2b3ac99f32e29fc</guid>
-      <description>Originally published Tue 15 Sep 2026 19:33 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ef7bb3feaabb48edb2b3ac99f32e29fc.mp3?etag=323e9fc31cd158957e37c35ceb44961a" length="36506179" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (16.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-16092026</link>
+      <pubDate>Wed, 16 Sep 2026 07:02:21 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_674935dc9d5d44e7868c533fab01416c</guid>
+      <description>Originally published Wed 16 Sep 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_674935dc9d5d44e7868c533fab01416c.mp3?etag=5ecc7995106f9d2a6d9b5e7f63328b8e" length="29273033" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Spritpreise | Sucht-Strategie | Sozialarbeit</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/spritpreise-sucht-strategie-sozialarbeit.html</link>
-      <pubDate>Wed, 16 Sep 2026 00:55:36 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Wed, 16 Sep 2026 07:01:21 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/72/09/7209c228-54a2-49b9-a1e5-04de72239f21/7209c228-54a2-49b9-a1e5-04de72239f21_mp3-256kd.mp3</guid>
       <description>Originally published Tue 15 Sep 2026 19:17 IDT.
 
@@ -81,8 +103,8 @@ Die Spritpreise kennen im Moment offenbar kein Limit &amp;#8211; t&amp;#228;glic
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Lagebild Kriminalität: Wie kriminelle Netzwerke immer mehr Jugendliche und Kinder rekrutieren</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/lagebild-kriminalitaet-wie-kriminelle-netzwerke-immer-mehr-jugendliche-und-kinder-rekrutieren/2122120</link>
-      <pubDate>Wed, 16 Sep 2026 00:54:36 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Wed, 16 Sep 2026 07:00:21 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">bfe5ec04-44cf-454b-b439-9c76fec13ad3</guid>
       <description>Originally published Tue 15 Sep 2026 19:00 IDT.
 
@@ -90,18 +112,19 @@ Die Organisierte Kriminalität greift immer mehr auf Jugendliche und Kinder als 
       <enclosure url="https://media.neuland.br.de/file/2122120/c/feed/lagebild-kriminalitaet-wie-kriminelle-netzwerke-immer-mehr-jugendliche-und-kinder-rekrutieren.mp3" length="9347756" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:34): Russia and Ukraine continue strikes on energy targets</title>
-      <link>http://www.bbc.co.uk/programmes/p0p9r423</link>
-      <pubDate>Wed, 16 Sep 2026 00:53:36 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p9r423</guid>
-      <description>Originally published Tue 15 Sep 2026 18:34 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:39): Should we trust tech titans to control AI?</title>
+      <link>http://www.bbc.co.uk/programmes/p0p9t2y6</link>
+      <pubDate>Wed, 16 Sep 2026 06:59:21 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p9t2y6</guid>
+      <description>Originally published Wed 16 Sep 2026 07:39 IDT.
 
-&lt;p&gt;There's been no pause in fighting between Russia and Ukraine, despite President Trump's claim that both sides would temporarily stop targeting critical infrastructure. Russia says a gas pipeline was hit in the south of the country in an attack overnight, while officials in Zaporizhzhia region in Ukraine said Russian attacks had disrupted power supplies to some areas. &lt;/p&gt;&lt;p&gt;Also: a NATO fighter jet shoots down a drone which entered Lithuanian airspace. Train travel is brought to a halt in parts of the Netherlands because of what officials suspect are coordinated acts of sabotage. We hear from a UN representative in Djibouti, where thousands of Yemini civilians have fled to escape fighting. Nairobi in Kenya will be the first African city to host the World Athletics Championship, beating rival bids from London and Rome. The number of people in Japan who are aged 100 or older has passed 100,000 for the first time. “Widow’s Bay” breaks records at the Emmy television awards. And researchers at Cambridge University say reading for pleasure is linked to better mental health, lower stress levels and a reduced risk of dementia. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;A conference in San Francisco hears from Open AI's boss, Sam Altman, who says the world should trust his industry's ability to do the right thing, amid concerns that it's developing too quickly. But speakers at a rival conference held in Washington, DC, call for greater regulation. Also: the Pentagon issues a report which says the Iran war has left the US military with a shortfall of munitions. All support acts for the British singer, Ed Sheeran, withdraw from his US tour in solidarity with Macklemore, who was dropped from the line-up for making pro-Palestinian remarks. Villagers in England voice their anger about immigration by holding a symbolic referendum to leave the UK. And the mother in the US who's been put on the child abuse and neglect register for allowing her five-year-old son to go on a walk by himself.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Workers clear up debris at the site of a Russian strike on a petrol station in Kyiv, Ukraine, 15 September 2026
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9r2wg.mp3" length="12952000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: A control unit at a semiconductor factory, used to power AI data centers.
+Credit: FILIP SINGER/EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9t2rd.mp3" length="14424000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
