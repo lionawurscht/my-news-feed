@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:54:43 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 15:36): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3480754.html</link>
-      <pubDate>Wed, 16 Sep 2026 13:02:32 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 19:43): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3481406.html</link>
+      <pubDate>Wed, 16 Sep 2026 17:54:43 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">2ef31b73-0838-4a5e-b7ec-3e459567a7b4</guid>
-      <description>Originally published Wed 16 Sep 2026 15:36 IDT.
+      <guid isPermaLink="false">ce2ae09e-2633-4956-a9d4-9f2f118b4b2b</guid>
+      <description>Originally published Wed 16 Sep 2026 19:43 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0916/AU-20260916-1436-0300.mp3" length="2292619" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0916/AU-20260916-1842-5800.mp3" length="2046859" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 15:10): NPR News: 09-16-2026 8AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 20:10): NPR News: 09-16-2026 1PM EDT</title>
       <link/>
-      <pubDate>Wed, 16 Sep 2026 13:01:32 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 17:53:43 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">db1a60e0-208e-470f-9538-48089ea918f0</guid>
-      <description>Originally published Wed 16 Sep 2026 15:10 IDT.
+      <guid isPermaLink="false">d12c9ef3-af75-46ed-873e-fca6db348bd4</guid>
+      <description>Originally published Wed 16 Sep 2026 20:10 IDT.
 
-NPR News: 09-16-2026 8AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3b7982f1-a290-479f-a4c6-0070e0e99717/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3b7982f1-a290-479f-a4c6-0070e0e99717&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260916-0800-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-16-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/618a37c2-41b8-4681-90fc-ac080396e639/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=618a37c2-41b8-4681-90fc-ac080396e639&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260916-1300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 15.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3479160.html</link>
-      <pubDate>Wed, 16 Sep 2026 13:00:32 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 17:52:43 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">1cf5a4fc-e5ca-4e53-ae83-9cf3509e3278-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 15 Sep 2026 21:00 IDT.
@@ -46,63 +46,63 @@ Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an, Huthis im Jemen ko
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0915/AU-20260915-2027-3900.mp3" length="15789091" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 15:30): Die Nachrichten vom 16.09.2026, 14:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41870.html</link>
-      <pubDate>Wed, 16 Sep 2026 12:59:32 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 20:00): Die Nachrichten vom 16.09.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41886.html</link>
+      <pubDate>Wed, 16 Sep 2026 17:51:43 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">276b9c65-d6e8-58a6-94fd-a825ae2d8414</guid>
-      <description>Originally published Wed 16 Sep 2026 15:30 IDT.
+      <guid isPermaLink="false">232ed93f-c5c9-51d1-9764-05010fb1b36f</guid>
+      <description>Originally published Wed 16 Sep 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/16/nachrichten_dlf_20260916_1430_103208f5.mp3?refId=nachrichten-108" length="5011518" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/16/nachrichten_dlf_20260916_1900_8f2939d1.mp3?refId=nachrichten-108" length="4913298" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 14:20): Mittagsjournal (16.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-16092026</link>
-      <pubDate>Wed, 16 Sep 2026 12:58:32 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:32): Abendjournal um 18 (16.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-16092026</link>
+      <pubDate>Wed, 16 Sep 2026 17:50:43 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_57d63a7c8efb426c8c4ef7c110730346</guid>
-      <description>Originally published Wed 16 Sep 2026 14:20 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_57d63a7c8efb426c8c4ef7c110730346.mp3?etag=6ff547bb8b60cf9509987fb71a8e76c5" length="86988863" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_2e4c26ed23e341cda2b2ef72f74d2927</guid>
+      <description>Originally published Wed 16 Sep 2026 19:32 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2e4c26ed23e341cda2b2ef72f74d2927.mp3?etag=483fe4339744785d07d9d2683c2c07c9" length="36409891" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 10:18): BR24 in ARD Sounds: Wie Sie unsere Audio-Angebote flexibel nutzen können</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/br24-in-ard-sounds-wie-sie-unsere-audio-angebote-flexibel-nutzen-koennen/2122140</link>
-      <pubDate>Wed, 16 Sep 2026 12:57:32 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Brandenburger Haushalt | Housing First Berlin | Parteien auf Social Media</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/brandenburger-haushalt-housing-first-berlin-social-media.html</link>
+      <pubDate>Wed, 16 Sep 2026 17:49:43 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">a477eb4a-e79a-499f-b9b4-8f7238ad4540</guid>
-      <description>Originally published Wed 16 Sep 2026 10:18 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ec/b2/ecb2b46f-8ecd-4e04-9f3d-1575aa462c71/ecb2b46f-8ecd-4e04-9f3d-1575aa462c71_mp3-256kd.mp3</guid>
+      <description>Originally published Wed 16 Sep 2026 19:17 IDT.
 
-BR24 gibt es auf vielen Kanälen: Hier im Radio, im Netz auf BR24.de, in der BR24-App oder auch auf Instagram und TikTok. Und jetzt ganz neu: BR24 in &quot;ARD Sounds&quot;, der zentralen Audio-Plattform der ARD.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122140/c/feed/br24-in-ard-sounds-wie-sie-unsere-audio-angebote-flexibel-nutzen-koennen.mp3" length="9044012" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Spritpreise | Sucht-Strategie | Sozialarbeit</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/spritpreise-sucht-strategie-sozialarbeit.html</link>
-      <pubDate>Wed, 16 Sep 2026 12:56:32 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/72/09/7209c228-54a2-49b9-a1e5-04de72239f21/7209c228-54a2-49b9-a1e5-04de72239f21_mp3-256kd.mp3</guid>
-      <description>Originally published Tue 15 Sep 2026 19:17 IDT.
-
-Die Spritpreise kennen im Moment offenbar kein Limit &amp;#8211; t&amp;#228;glich l&amp;#228;sst sich das an den Tankstellen auch in Berlin und Brandenburg beobachten. Weitere Themen: Senats-PK: Berlins Sucht-Strategie; Wie Sozialarbeit Drogenabh&amp;#228;ngigen hilft; Saisonwechsel B&amp;#228;derbetriebe.
+Die Brandenburger Landesregierung aus SPD und CDU hat ihren Entwurf f&amp;#252;r den Doppelhaushalt 2027 und 28 verteidigt. Drau&amp;#223;en vor der T&amp;#252;r wurde zeitgleich demonstriert. Au&amp;#223;erdem: Bilanz zu Housing First in Berlin. KI und Social Media in der Politik.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/72/09/7209c228-54a2-49b9-a1e5-04de72239f21/7209c228-54a2-49b9-a1e5-04de72239f21_mp3-256kd.mp3" length="31704331" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/ec/b2/ecb2b46f-8ecd-4e04-9f3d-1575aa462c71/ecb2b46f-8ecd-4e04-9f3d-1575aa462c71_mp3-256kd.mp3" length="30713611" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:39): Should we trust tech titans to control AI?</title>
-      <link>http://www.bbc.co.uk/programmes/p0p9t2y6</link>
-      <pubDate>Wed, 16 Sep 2026 12:55:32 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0p9t2y6</guid>
-      <description>Originally published Wed 16 Sep 2026 07:39 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Sicherheitskonzept 2026: Wie gut ist das Oktoberfest geschützt??</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/sicherheitskonzept-2026-wie-gut-ist-das-oktoberfest-geschuetzt/2122160</link>
+      <pubDate>Wed, 16 Sep 2026 17:48:43 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">2f5eac3a-d47f-4297-b7b9-9ba441344a8a</guid>
+      <description>Originally published Wed 16 Sep 2026 19:00 IDT.
 
-&lt;p&gt;A conference in San Francisco hears from Open AI's boss, Sam Altman, who says the world should trust his industry's ability to do the right thing, amid concerns that it's developing too quickly. But speakers at a rival conference held in Washington, DC, call for greater regulation. Also: the Pentagon issues a report which says the Iran war has left the US military with a shortfall of munitions. All support acts for the British singer, Ed Sheeran, withdraw from his US tour in solidarity with Macklemore, who was dropped from the line-up for making pro-Palestinian remarks. Villagers in England voice their anger about immigration by holding a symbolic referendum to leave the UK. And the mother in the US who's been put on the child abuse and neglect register for allowing her five-year-old son to go on a walk by himself.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Nach der Bombendrohung und mehrfachen Überfüllung des Geländes im letzten Jahr wird das Sicherheitskonzept des Oktoberfests angepasst. Details wurden heute vorgestellt.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122160/c/feed/sicherheitskonzept-2026-wie-gut-ist-das-oktoberfest-geschuetzt.mp3" length="8656556" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:27): EU chief proposes Canada as first 'associate member'</title>
+      <link>http://www.bbc.co.uk/programmes/p0p9xbyw</link>
+      <pubDate>Wed, 16 Sep 2026 17:47:43 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0p9xbyw</guid>
+      <description>Originally published Wed 16 Sep 2026 18:27 IDT.
+
+&lt;p&gt;The President of the European Commission, Ursula von der Leyen, has backed a proposal for Canada to become the EU's first &quot;associate member&quot;. Canada's Prime Minister, Mark Carney, has been seeking closer ties with Europe as relations with the United States deteriorate over trade. &lt;/p&gt;&lt;p&gt;Also: Rescuers in Gaza are searching for survivors after a war-damaged building collapsed overnight, killing more than twenty people; The former leader of Kosovo, Hashim Thaci, has been sentenced to 25 years in prison for war crimes committed during the fight for independence from Serbia; Yemen's Houthis say they've shot down a Saudi F-15 jet while also denying Saudi claims they targeted Mecca; The German Chancellor will miss the United Nations General Assembly to attend a crunch party meeting on his future; The state of women's rights in Iran four years after the death of a young woman, Mahsa Amini, after she was arrested by morality police for allegedly wearing her hijab improperly. And, the controversy surrounding singer Ed Sheeran after his support acts pull out of his US tour because of the decision to drop the rapper Macklemore for making pro-Palestinian comments on stage.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: A control unit at a semiconductor factory, used to power AI data centers.
-Credit: FILIP SINGER/EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9t2rd.mp3" length="14424000" type="audio/mpeg"/>
+Photo: Canadian PM Mark Carney arrives ahead of State of the European Union address in Strasbourg
+Credit: REUTERS&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9xbmk.mp3" length="15336000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
