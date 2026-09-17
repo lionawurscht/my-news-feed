@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:36:44 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 11:59): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3482552.html</link>
-      <pubDate>Thu, 17 Sep 2026 09:07:41 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 15:44): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3483092.html</link>
+      <pubDate>Thu, 17 Sep 2026 14:36:44 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1905b4f5-3739-4b25-8adf-d315f7c7b85d</guid>
-      <description>Originally published Thu 17 Sep 2026 11:59 IDT.
+      <guid isPermaLink="false">ab58cfc7-d632-4a2e-b8ca-881bfe796dab</guid>
+      <description>Originally published Thu 17 Sep 2026 15:44 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0917/AU-20260917-1059-2100.mp3" length="2531467" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0917/AU-20260917-1444-1300.mp3" length="2176651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 11:10): NPR News: 09-17-2026 4AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Thu 17:10): NPR News: 09-17-2026 10AM EDT</title>
       <link/>
-      <pubDate>Thu, 17 Sep 2026 09:06:41 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 14:35:44 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">16151ec6-a87f-407a-9a47-ff981d9a37d9</guid>
-      <description>Originally published Thu 17 Sep 2026 11:10 IDT.
+      <guid isPermaLink="false">2abe3071-dd52-4706-a2ca-9ffd4e568fcf</guid>
+      <description>Originally published Thu 17 Sep 2026 17:10 IDT.
 
-NPR News: 09-17-2026 4AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/758d2048-dab7-4601-a78a-09707b271a08/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=758d2048-dab7-4601-a78a-09707b271a08&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260917-0400-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Thu 08:00): חדשון בעברית קלה (17/09/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Thu, 17 Sep 2026 09:05:41 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/17-9-26.m4a</guid>
-      <description>Originally published Thu 17 Sep 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• ארה&quot;ב מְסָרֶבֶת גם השָנה לאַפשֵר ליו&quot;ר הרָשוּת הפַלסטִינית אַבּוּ-מַאזֶן ולבְכִירִים פַלסטִינים נוֹסָפִים להִיכָּנֵס לארה&quot;ב ולהִשתַתֵף בּעֲצֶרֶת הכְּלָלִית של הָאוּ&quot;ם בּניוּ יוֹרְק
-• דִיווּחַ: נשׂיא ארה&quot;ב טראמפּ צָפוּי להִיפָּגֵש בּשָבוּעַ הבּא עִם מַנהִיגִים ונְצִיגִים בְּכִירִים מִמְדינוֹת המִפרָץ (סָעוּדיה, אִיחוּד האֱמִירוּיוֹת, קַטַאר, עוֹמַאן, כּוֵויית ובַּחרֵיין) כּדֵי לָדוּן אִיתָם בּהֶמשֵך המִלחָמה בּאִירַאן
-• דוֹבֵר צה&quot;ל: הבּוֹקֶר מִתקַיֵים תַרגיל של אֲגַף הטֶכנוֹלוֹגיָה והלוגִיסטִיקָה ופִיקוּד העוֹרֶף כּדֵי לִבחוֹן את רָמַת המוּכָנוּת לתַרחִישִים מִבצָעִיִים שוֹנים. כּוֹחוֹת צָבא וכלֵי רֶכֶב יָנוּעוּ בּרַחֲבֵי האָרץ, והתַרגיל יִימָשֵך עד הצוֹהרַיִים
-• הרַמַטכַּ&quot;ל: &quot;יש נִיסיוֹנוֹת הַשחָרָה של חַיָילֵי צַהַ&quot;ל תוֹך שִימוּש בּשְקָרִים חַסרֵי בָּסִיס&quot;
-• בּיוֹם רִאשוֹן בָּעֶרב יַתחִיל יוֹם הכִּיפּוּרִים, ויִשׂראל תִיכָּנֵס לאֲוִוירָה שְקֵטָה ומיוּחֶדֶת
-• התִַחֲזית: עֲדַיִין חַם מהרָגיל בּעוֹנָה; מָחר – יְרִידָה נִיכֶּרֶת בּטמפּרטוּרוֹת
-• נָשוּב ונעַדכֵּן בּיוֹם שְלִישי, 22/09. גְמַר חֲתִימָה טוֹבָה!
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/17-9-26.m4a" length="1657210" type="audio/mp4"/>
+NPR News: 09-17-2026 10AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ffebc60d-2a21-4cb7-b443-5fd12f356d32/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ffebc60d-2a21-4cb7-b443-5fd12f356d32&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260917-1000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 16.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3481502.html</link>
-      <pubDate>Thu, 17 Sep 2026 09:04:41 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 14:34:44 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">f9a32c8d-7147-4820-8aee-78706b84bf98-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 16 Sep 2026 21:00 IDT.
 
@@ -68,30 +46,30 @@ Regierungskoalition arbeitet an schnellen Entlastungen angesichts hoher Spritpre
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0916/AU-20260916-2027-4900.mp3" length="15415843" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 11:30): Die Nachrichten vom 17.09.2026, 10:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41928.html</link>
-      <pubDate>Thu, 17 Sep 2026 09:03:41 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">af328007-cd34-5a17-be15-f57649f42bab</guid>
-      <description>Originally published Thu 17 Sep 2026 11:30 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 17:00): Die Nachrichten vom 17.09.2026, 16:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41956.html</link>
+      <pubDate>Thu, 17 Sep 2026 14:33:44 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">fbe012dd-7129-5ad8-aa93-8e477aa4c277</guid>
+      <description>Originally published Thu 17 Sep 2026 17:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/17/nachrichten_dlf_20260917_1030_ed7ca8a6.mp3?refId=nachrichten-108" length="4997726" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/17/nachrichten_dlf_20260917_1600_96aac7a1.mp3?refId=nachrichten-108" length="9810108" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:29): Morgenjournal um 8 (17.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-17092026</link>
-      <pubDate>Thu, 17 Sep 2026 09:02:41 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_eebdc95d952b47108f6290a2ddd5ec15</guid>
-      <description>Originally published Thu 17 Sep 2026 09:29 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_eebdc95d952b47108f6290a2ddd5ec15.mp3?etag=5093a6abe77ae51c2d05b91faa30bee6" length="29263808" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 14:22): Mittagsjournal (17.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-17092026</link>
+      <pubDate>Thu, 17 Sep 2026 14:32:44 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_fc5c565477764dcfbccfd0a54f774f88</guid>
+      <description>Originally published Thu 17 Sep 2026 14:22 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_fc5c565477764dcfbccfd0a54f774f88.mp3?etag=c346383cfa5db500791487e9ad762ae9" length="86974449" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 10:00): Boom bei Rechenzentren: Künftiger Klimakiller, aber Chance für die Wirtschaft?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/boom-bei-rechenzentren-kuenftiger-klimakiller-aber-chance-fuer-die-wirtschaft/2122181</link>
-      <pubDate>Thu, 17 Sep 2026 09:01:41 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 14:31:44 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">a95ad695-ef54-46ff-b5ca-0a45a6b21bcb</guid>
       <description>Originally published Thu 17 Sep 2026 10:00 IDT.
 
@@ -101,8 +79,8 @@ Auch in Deutschland werden immer mehr Rechenzentren gebaut. Sie sorgen dafür, d
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Brandenburger Haushalt | Housing First Berlin | Parteien auf Social Media</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/brandenburger-haushalt-housing-first-berlin-social-media.html</link>
-      <pubDate>Thu, 17 Sep 2026 09:00:41 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 14:30:44 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ec/b2/ecb2b46f-8ecd-4e04-9f3d-1575aa462c71/ecb2b46f-8ecd-4e04-9f3d-1575aa462c71_mp3-256kd.mp3</guid>
       <description>Originally published Wed 16 Sep 2026 19:17 IDT.
 
@@ -114,8 +92,8 @@ Die Brandenburger Landesregierung aus SPD und CDU hat ihren Entwurf f&amp;#252;r
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:27): US hikes interest rates - to Trump's annoyance</title>
       <link>http://www.bbc.co.uk/programmes/p0p9zstm</link>
-      <pubDate>Thu, 17 Sep 2026 08:59:41 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 14:29:44 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0p9zstm</guid>
       <description>Originally published Thu 17 Sep 2026 07:27 IDT.
 
