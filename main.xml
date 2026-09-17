@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 23:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:06:54 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,21 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 02:10): NPR News: 09-16-2026 7PM EDT</title>
-      <link/>
-      <pubDate>Wed, 16 Sep 2026 23:29:46 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 06:01): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3481794.html</link>
+      <pubDate>Thu, 17 Sep 2026 03:06:54 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">36b07bb1-6852-4619-ba3e-d3b47c5971a1</guid>
-      <description>Originally published Thu 17 Sep 2026 02:10 IDT.
+      <guid isPermaLink="false">481dd9a0-9088-4fe9-abf9-af79c116d2b1</guid>
+      <description>Originally published Thu 17 Sep 2026 06:01 IDT.
 
-NPR News: 09-16-2026 7PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6633e593-990b-4210-a4ba-a05077ddf727/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6633e593-990b-4210-a4ba-a05077ddf727&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260916-1900-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0917/AU-20260917-0501-3700.mp3" length="1688976" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Thu 05:10): NPR News: 09-16-2026 10PM EDT</title>
+      <link/>
+      <pubDate>Thu, 17 Sep 2026 03:05:54 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">27f4b9c3-6f9d-4eb2-b6de-935d10273c0b</guid>
+      <description>Originally published Thu 17 Sep 2026 05:10 IDT.
+
+NPR News: 09-16-2026 10PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/55d9e8fb-c2bf-4deb-ad00-5c01a9dfabfe/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=55d9e8fb-c2bf-4deb-ad00-5c01a9dfabfe&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260916-2200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 16.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3481502.html</link>
-      <pubDate>Wed, 16 Sep 2026 23:28:46 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 03:04:54 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">f9a32c8d-7147-4820-8aee-78706b84bf98-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 16 Sep 2026 21:00 IDT.
 
@@ -35,21 +46,21 @@ Regierungskoalition arbeitet an schnellen Entlastungen angesichts hoher Spritpre
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0916/AU-20260916-2027-4900.mp3" length="15415843" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 02:00): Die Nachrichten vom 17.09.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41896.html</link>
-      <pubDate>Wed, 16 Sep 2026 23:27:46 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">d453a1f3-56d8-55b5-a9eb-cbb2c4dc3b96</guid>
-      <description>Originally published Thu 17 Sep 2026 02:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 04:59): Die Nachrichten vom 17.09.2026, 03:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-41902.html</link>
+      <pubDate>Thu, 17 Sep 2026 03:03:54 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">7f55ee04-b0be-5acd-8b13-0a8553bd6bdb</guid>
+      <description>Originally published Thu 17 Sep 2026 04:59 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/17/nachrichten_dlf_20260917_0100_ed72d0e2.mp3?refId=nachrichten-108" length="5006921" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/17/nachrichten_dlf_20260917_0359_b8179637.mp3?refId=nachrichten-108" length="5028655" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:32): Abendjournal um 18 (16.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-16092026</link>
-      <pubDate>Wed, 16 Sep 2026 23:26:46 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 03:02:54 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_2e4c26ed23e341cda2b2ef72f74d2927</guid>
       <description>Originally published Wed 16 Sep 2026 19:32 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2e4c26ed23e341cda2b2ef72f74d2927.mp3?etag=483fe4339744785d07d9d2683c2c07c9" length="36409891" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Brandenburger Haushalt | Housing First Berlin | Parteien auf Social Media</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/brandenburger-haushalt-housing-first-berlin-social-media.html</link>
-      <pubDate>Wed, 16 Sep 2026 23:25:46 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 03:01:54 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ec/b2/ecb2b46f-8ecd-4e04-9f3d-1575aa462c71/ecb2b46f-8ecd-4e04-9f3d-1575aa462c71_mp3-256kd.mp3</guid>
       <description>Originally published Wed 16 Sep 2026 19:17 IDT.
 
@@ -70,8 +81,8 @@ Die Brandenburger Landesregierung aus SPD und CDU hat ihren Entwurf f&amp;#252;r
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Sicherheitskonzept 2026: Wie gut ist das Oktoberfest geschützt??</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/sicherheitskonzept-2026-wie-gut-ist-das-oktoberfest-geschuetzt/2122160</link>
-      <pubDate>Wed, 16 Sep 2026 23:24:46 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 03:00:54 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">2f5eac3a-d47f-4297-b7b9-9ba441344a8a</guid>
       <description>Originally published Wed 16 Sep 2026 19:00 IDT.
 
@@ -81,8 +92,8 @@ Nach der Bombendrohung und mehrfachen Überfüllung des Geländes im letzten Jah
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:27): EU chief proposes Canada as first 'associate member'</title>
       <link>http://www.bbc.co.uk/programmes/p0p9xbyw</link>
-      <pubDate>Wed, 16 Sep 2026 23:23:46 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Thu, 17 Sep 2026 02:59:54 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0p9xbyw</guid>
       <description>Originally published Wed 16 Sep 2026 18:27 IDT.
 
