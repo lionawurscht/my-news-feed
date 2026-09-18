@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 02:54:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:55:06 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 03:19): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3483982.html</link>
-      <pubDate>Fri, 18 Sep 2026 02:54:35 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 10:40): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3484624.html</link>
+      <pubDate>Fri, 18 Sep 2026 07:55:06 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">761c7039-1dff-4397-ab4e-0d90ecd96ed0</guid>
-      <description>Originally published Fri 18 Sep 2026 03:19 IDT.
+      <guid isPermaLink="false">6cdd7793-80b0-4921-8a9f-4c62aca104d6</guid>
+      <description>Originally published Fri 18 Sep 2026 10:40 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-0219-4500.mp3" length="2419339" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-0940-3500.mp3" length="2025739" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 05:11): NPR News: 09-17-2026 10PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 10:10): NPR News: 09-18-2026 3AM EDT</title>
       <link/>
-      <pubDate>Fri, 18 Sep 2026 02:53:35 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 07:54:06 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">08f303d9-48a4-48bc-a8e3-a3590c7df493</guid>
-      <description>Originally published Fri 18 Sep 2026 05:11 IDT.
+      <guid isPermaLink="false">e4073a80-b360-4e20-928b-77c4cf25383c</guid>
+      <description>Originally published Fri 18 Sep 2026 10:10 IDT.
 
-NPR News: 09-17-2026 10PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2687f1a6-54e3-4a7b-900a-49c842f7c774/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2687f1a6-54e3-4a7b-900a-49c842f7c774&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260917-2200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-18-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0455e25a-4eb4-45ec-8753-2fe558fb52ce/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0455e25a-4eb4-45ec-8753-2fe558fb52ce&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-0300-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 17.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3483810.html</link>
-      <pubDate>Fri, 18 Sep 2026 02:52:35 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 07:53:06 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">65fc132a-d590-434d-b2ec-f58bfc5652d9-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 17 Sep 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Bundestrainer Jürgen Klopp gibt neuen Kader der Fußball-Nationalmannschaft bek
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0917/AU-20260917-2033-5700.mp3" length="14651681" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 05:00): Die Nachrichten vom 18.09.2026, 04:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-41984.html</link>
-      <pubDate>Fri, 18 Sep 2026 02:51:35 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 10:30): Die Nachrichten vom 18.09.2026, 09:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42006.html</link>
+      <pubDate>Fri, 18 Sep 2026 07:52:06 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">0c533e2b-f121-5396-b69a-a318631cbe57</guid>
-      <description>Originally published Fri 18 Sep 2026 05:00 IDT.
+      <guid isPermaLink="false">52badf37-2742-52ca-8c99-db777e295608</guid>
+      <description>Originally published Fri 18 Sep 2026 10:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_0400_c63df592.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_0930_396c16c0.mp3?refId=nachrichten-108" length="4956348" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:34): Abendjournal um 18 (17.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-17092026</link>
-      <pubDate>Fri, 18 Sep 2026 02:50:35 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:27): Morgenjournal um 8 (18.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-18092026</link>
+      <pubDate>Fri, 18 Sep 2026 07:51:06 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_202fadd802c74c089422e43b2583d7d2</guid>
-      <description>Originally published Thu 17 Sep 2026 19:34 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_202fadd802c74c089422e43b2583d7d2.mp3?etag=8225af73bb72586c271d10429f1c8385" length="36409891" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_8276d5fcaa3d487d96609da21c32f8ff</guid>
+      <description>Originally published Fri 18 Sep 2026 09:27 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8276d5fcaa3d487d96609da21c32f8ff.mp3?etag=25877010e7e2e363d13c4721345931d2" length="29143880" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Anschlagsplan | Ärztliche Versorgung | Brand in U-Bahnhof</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/anschlagsplan-aerztliche-versorgung-brand-u-bahnhof.html</link>
-      <pubDate>Fri, 18 Sep 2026 02:49:35 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 07:50:06 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ef/5a/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1_mp3-256kd.mp3</guid>
       <description>Originally published Thu 17 Sep 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Im Landkreis Barnim hat die Polizei einen mutma&amp;#223;lichen Islamisten festg
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 17:57): EU KIDS ACT: Wie zielführend sind die geplanten Alterskontrollen?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eu-kids-act-wie-zielfuehrend-sind-die-geplanten-alterskontrollen/2122201</link>
-      <pubDate>Fri, 18 Sep 2026 02:48:35 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 07:49:06 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">02938191-926d-4643-bd13-78172710eedd</guid>
       <description>Originally published Thu 17 Sep 2026 17:57 IDT.
@@ -90,19 +90,17 @@ Die EU will Kinder und Jugendliche besser vor Social Media-Gefahren schützen - 
       <enclosure url="https://media.neuland.br.de/file/2122201/c/feed/eu-kids-act-wie-zielfuehrend-sind-die-geplanten-alterskontrollen.mp3" length="9202604" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:43): UN warns fresh water supplies under threat</title>
-      <link>http://www.bbc.co.uk/programmes/p0pb3wbt</link>
-      <pubDate>Fri, 18 Sep 2026 02:47:35 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:24): Did the US carry out war crimes in Iran?</title>
+      <link>http://www.bbc.co.uk/programmes/p0pb6y51</link>
+      <pubDate>Fri, 18 Sep 2026 07:48:06 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pb3wbt</guid>
-      <description>Originally published Thu 17 Sep 2026 18:43 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pb6y51</guid>
+      <description>Originally published Fri 18 Sep 2026 07:24 IDT.
 
-&lt;p&gt;The UN says climate change is having a serious effect on the global supply of fresh water. Rivers and lakes are drying up while glaciers are retreating according to a new report. Also: South African police have found the body of a ninth murdered woman since July, as concern grows over a string of unexplained deaths near Johannesburg; Canada's prime minister has told the European Parliament he welcomes ambitions for associate EU membership in a speech containing thinly veiled criticism of Donald Trump's America; The chief executive of Microsoft AI says that unless adequate restrictions are implemented in the development of artificial intelligence, it could lead to the emergence of a new silicone species which would compete with humans; President Putin attempts to use parliamentary elections to claim support for the war in Ukraine; Buckingham Palace hits back at accusations made by Princess Diana's brother, Earl Spencer that within days of her death - the King, then Prince Charles, told him she would be &quot;forgotten soon enough&quot;. The Palace said the King was “mindful that the pain of fraternal grief can cloud reason.&quot; And the controversy in Australia over the presence of crocodiles at the location chosen for the rowing and canoe sprints at the 2032 Brisbane Olympics. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Drought forces Indonesian villagers to collect water from dried-up creeks, Indonesia on 17th Sep 2026
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb3t36.mp3" length="12720000" type="audio/mpeg"/>
+&lt;p&gt;A UN fact-finding mission on Iran says there are reasonable grounds to believe the United States was behind two military strikes on a school and sports facility in Iran in February, and that these constituted war crimes. A State Department official said the US did not give credibility to the findings in the report. The UN experts also accused Tehran of violent repression of anti-government protesters. &lt;/p&gt;&lt;p&gt;Also: Nato secretary general, Mark Rutte, tells the BBC the Russian President, Vladimir Putin, is becoming increasingly desperate. Our health reporter finds out what caffeine does to the body. The melting of ice sheets in Greenland and Antarctica is raising sea levels - and endangering coastal communities. A new species of cat is discovered in Bolivia. And Dolly Parton, who died last month, gets a posthumous music award.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo:  The Minab school, which was damaged by a strike on February 28, in Minab, Iran, August 27, 2026. 
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb6xyg.mp3" length="13496000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
