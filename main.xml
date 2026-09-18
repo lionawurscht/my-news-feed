@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:24:55 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 19:29): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3485934.html</link>
-      <pubDate>Fri, 18 Sep 2026 16:54:24 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 19:24:55 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">05c46b10-4146-49a3-bb1d-ca3f3828c7ab</guid>
       <description>Originally published Fri 18 Sep 2026 19:29 IDT.
@@ -24,52 +24,65 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-1829-3400.mp3" length="2126347" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 19:10): NPR News: 09-18-2026 12PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 22:11): NPR News: 09-18-2026 3PM EDT</title>
       <link/>
-      <pubDate>Fri, 18 Sep 2026 16:53:24 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 19:23:55 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">56ac73e1-4c17-437d-a955-c571ad9ce491</guid>
-      <description>Originally published Fri 18 Sep 2026 19:10 IDT.
+      <guid isPermaLink="false">dbe66b86-5051-4b25-9e42-255c61e5743a</guid>
+      <description>Originally published Fri 18 Sep 2026 22:11 IDT.
 
-NPR News: 09-18-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b2ecd584-c4da-4b17-93b8-6092116ecf1a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b2ecd584-c4da-4b17-93b8-6092116ecf1a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-1200-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-18-2026 3PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b483e062-d226-49e0-943d-5de6adfc3697/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b483e062-d226-49e0-943d-5de6adfc3697&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-1500-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 17.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3483810.html</link>
-      <pubDate>Fri, 18 Sep 2026 16:52:24 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 18.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3486072.html</link>
+      <pubDate>Fri, 18 Sep 2026 19:22:55 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">65fc132a-d590-434d-b2ec-f58bfc5652d9-SENDUNGSAUDIO</guid>
-      <description>Originally published Thu 17 Sep 2026 21:00 IDT.
+      <guid isPermaLink="false">ecd15f2e-11fe-4a8b-8dbe-5493335eafed-SENDUNGSAUDIO</guid>
+      <description>Originally published Fri 18 Sep 2026 21:00 IDT.
 
-Bundestrainer Jürgen Klopp gibt neuen Kader der Fußball-Nationalmannschaft bekannt, Kanadas Premier Carney begrüßt bei Rede vor EU-Parlament engere Beziehungen mit der EU, US-Kongress beschließt schärfere Sanktionen gegen Russland, US-Notenbank Fed erhöht Leitzins wegen anhaltend hoher Inflation, Bundesanwaltschaft lässt mutmaßlichen Islamisten in Brandenburg festnehmen, Wahlkampf um Abgeordnetenhaus in Berlin im Endspurt, Weiterer Todesfall durch Malaria bei Anwohner in Nähe des Frankfurter Flughafens, EU plant mit &quot;KIDS Act&quot; neue Altersgrenzen für soziale Medien, Das Wetter Hinweis: Der Beitrag zu DFB-Trainer Jürgen Klopp darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0917/AU-20260917-2033-5700.mp3" length="14651681" type="audio/mpeg"/>
+Beratungen der Bundesregierung über Spritpreis-Entlastungen, Wahlkampfabschluss vor Landtagswahl in Mecklenburg-Vorpommern, Verteidigungsminister Pistorius in Texas: Erste Tarnkappenjets F-35 an Deutschland übergeben, Duma-Wahl in Russland, Schließung des russischen Generalkonsulats in Bonn, Polizei sucht nahe des Bundeswehrstandorts Wunstorf nach Teilen eines Flugobjekts, Finnische Zellbiologin und Medizinerin Sara Wickström erhält Körber-Preis, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-2028-5800.mp3" length="14988451" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 22:00): Die Nachrichten vom 18.09.2026, 21:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42046.html</link>
+      <pubDate>Fri, 18 Sep 2026 19:21:55 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">f164b308-4f68-55f1-bd1d-590deb287c4a</guid>
+      <description>Originally published Fri 18 Sep 2026 22:00 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_2100_5ce3cdb9.mp3?refId=nachrichten-108" length="5051642" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:32): Abendjournal um 18 (18.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18092026</link>
-      <pubDate>Fri, 18 Sep 2026 16:51:24 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Fri, 18 Sep 2026 19:20:55 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_4d4cda4588e74b33983812112017cc63</guid>
       <description>Originally published Fri 18 Sep 2026 19:32 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4d4cda4588e74b33983812112017cc63.mp3?etag=9ca9a24467f4f143b68fac32b4b9463a" length="36337819" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 19:00): Die Nachrichten vom 18.09.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42038.html</link>
-      <pubDate>Fri, 18 Sep 2026 16:50:24 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">e808c361-478d-5bc0-9b43-5373b39808e6</guid>
-      <description>Originally published Fri 18 Sep 2026 19:00 IDT.
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Wahlkampffinale | Geburtskliniken | Herzklappencheck</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/wahlkampffinale-geburtskliniken-herzklappencheck.html</link>
+      <pubDate>Fri, 18 Sep 2026 19:19:55 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ad/7d/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c_mp3-256kd.mp3</guid>
+      <description>Originally published Fri 18 Sep 2026 19:17 IDT.
 
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_1800_453f03cd.mp3?refId=nachrichten-108" length="9555153" type="audio/mpeg"/>
+Am Sonntag ist Wahltag in Berlin. Im Endspurt gab es &amp;#252;berall in der Stadt Abschlusskundgebungen der Parteien. Au&amp;#223;erdem: Fortsetzung Landtag - Debatte &amp;#252;ber Geburtskliniken; Sch&amp;#252;leraustausch Kiew &amp;#8211; Berlin; Herzklappencheck am Hauptbahnhof.
+&amp;#160;
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/ad/7d/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c_mp3-256kd.mp3" length="30810377" type="audio/x-mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:07): Baustelle Bahn: Wie läuft's nach einem Jahr mit Chefin Palla?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla/2122251</link>
-      <pubDate>Fri, 18 Sep 2026 16:49:24 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Fri, 18 Sep 2026 19:18:55 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">111158cb-5aa4-4ec4-bd52-163579148341</guid>
       <description>Originally published Fri 18 Sep 2026 19:07 IDT.
 
@@ -79,8 +92,8 @@ Von einer &quot;neuen Ära&quot; war die Rede, als Evelyn Palla Chefin der Deuts
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:15): Chaos as migrants moved off beaches in Ceuta</title>
       <link>http://www.bbc.co.uk/programmes/p0pbbt24</link>
-      <pubDate>Fri, 18 Sep 2026 16:48:24 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Fri, 18 Sep 2026 19:17:55 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pbbt24</guid>
       <description>Originally published Fri 18 Sep 2026 18:15 IDT.
 
