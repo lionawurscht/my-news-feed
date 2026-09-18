@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:39:10 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 10:40): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3484624.html</link>
-      <pubDate>Fri, 18 Sep 2026 07:55:06 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:30): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3485346.html</link>
+      <pubDate>Fri, 18 Sep 2026 12:39:10 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">6cdd7793-80b0-4921-8a9f-4c62aca104d6</guid>
-      <description>Originally published Fri 18 Sep 2026 10:40 IDT.
+      <guid isPermaLink="false">46891905-db6b-4c72-b481-5cf7abac0a5e</guid>
+      <description>Originally published Fri 18 Sep 2026 15:30 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-0940-3500.mp3" length="2025739" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-1430-1500.mp3" length="2087947" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 10:10): NPR News: 09-18-2026 3AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 15:10): NPR News: 09-18-2026 8AM EDT</title>
       <link/>
-      <pubDate>Fri, 18 Sep 2026 07:54:06 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:38:10 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">e4073a80-b360-4e20-928b-77c4cf25383c</guid>
-      <description>Originally published Fri 18 Sep 2026 10:10 IDT.
+      <guid isPermaLink="false">f0fa5731-7e27-4ea9-807f-d58bb5bc7c05</guid>
+      <description>Originally published Fri 18 Sep 2026 15:10 IDT.
 
-NPR News: 09-18-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0455e25a-4eb4-45ec-8753-2fe558fb52ce/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0455e25a-4eb4-45ec-8753-2fe558fb52ce&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-0300-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-18-2026 8AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/254186d4-b42a-4305-ba4c-85007698944b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=254186d4-b42a-4305-ba4c-85007698944b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-0800-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 17.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3483810.html</link>
-      <pubDate>Fri, 18 Sep 2026 07:53:06 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:37:10 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">65fc132a-d590-434d-b2ec-f58bfc5652d9-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 17 Sep 2026 21:00 IDT.
@@ -46,30 +46,41 @@ Bundestrainer Jürgen Klopp gibt neuen Kader der Fußball-Nationalmannschaft bek
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0917/AU-20260917-2033-5700.mp3" length="14651681" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 10:30): Die Nachrichten vom 18.09.2026, 09:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42006.html</link>
-      <pubDate>Fri, 18 Sep 2026 07:52:06 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 15:00): Die Nachrichten vom 18.09.2026, 14:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42022.html</link>
+      <pubDate>Fri, 18 Sep 2026 12:36:10 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">52badf37-2742-52ca-8c99-db777e295608</guid>
-      <description>Originally published Fri 18 Sep 2026 10:30 IDT.
+      <guid isPermaLink="false">06b847d7-b645-58ba-b4bc-84e222ad0694</guid>
+      <description>Originally published Fri 18 Sep 2026 15:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_0930_396c16c0.mp3?refId=nachrichten-108" length="4956348" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_1400_3f634706.mp3?refId=nachrichten-108" length="9811779" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:27): Morgenjournal um 8 (18.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-18092026</link>
-      <pubDate>Fri, 18 Sep 2026 07:51:06 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:20): Mittagsjournal (18.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-18092026</link>
+      <pubDate>Fri, 18 Sep 2026 12:35:10 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_8276d5fcaa3d487d96609da21c32f8ff</guid>
-      <description>Originally published Fri 18 Sep 2026 09:27 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8276d5fcaa3d487d96609da21c32f8ff.mp3?etag=25877010e7e2e363d13c4721345931d2" length="29143880" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_4a75597f599e466ba2f817128fbf35e0</guid>
+      <description>Originally published Fri 18 Sep 2026 14:20 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4a75597f599e466ba2f817128fbf35e0.mp3?etag=d92f3ee4b309f822cc9561451ce22474" length="86991746" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 11:00): Der Countdown läuft: Morgen beginnt in München das Oktoberfest</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/der-countdown-laeuft-morgen-beginnt-in-muenchen-das-oktoberfest/2122226</link>
+      <pubDate>Fri, 18 Sep 2026 12:34:10 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">fc5aeaa8-ceaa-4b23-b714-b7001f180b6b</guid>
+      <description>Originally published Fri 18 Sep 2026 11:00 IDT.
+
+Morgen beginnt das Oktoberfest - das größte Volksfest der Welt. Dazu haben wir unter anderem mit dem Sprecher der Wiesnwirte, Peter Inselkammer gesprochen.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122226/c/feed/der-countdown-laeuft-morgen-beginnt-in-muenchen-das-oktoberfest.mp3" length="8855468" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Anschlagsplan | Ärztliche Versorgung | Brand in U-Bahnhof</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/anschlagsplan-aerztliche-versorgung-brand-u-bahnhof.html</link>
-      <pubDate>Fri, 18 Sep 2026 07:50:06 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Fri, 18 Sep 2026 12:33:10 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ef/5a/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1_mp3-256kd.mp3</guid>
       <description>Originally published Thu 17 Sep 2026 19:17 IDT.
 
@@ -79,20 +90,9 @@ Im Landkreis Barnim hat die Polizei einen mutma&amp;#223;lichen Islamisten festg
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/ef/5a/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1_mp3-256kd.mp3" length="28944137" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 17:57): EU KIDS ACT: Wie zielführend sind die geplanten Alterskontrollen?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eu-kids-act-wie-zielfuehrend-sind-die-geplanten-alterskontrollen/2122201</link>
-      <pubDate>Fri, 18 Sep 2026 07:49:06 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">02938191-926d-4643-bd13-78172710eedd</guid>
-      <description>Originally published Thu 17 Sep 2026 17:57 IDT.
-
-Die EU will Kinder und Jugendliche besser vor Social Media-Gefahren schützen - und hat dazu einen Maßnahmen-Katalog vorgestellt, inklusive Altersgrenze.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122201/c/feed/eu-kids-act-wie-zielfuehrend-sind-die-geplanten-alterskontrollen.mp3" length="9202604" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:24): Did the US carry out war crimes in Iran?</title>
       <link>http://www.bbc.co.uk/programmes/p0pb6y51</link>
-      <pubDate>Fri, 18 Sep 2026 07:48:06 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:32:10 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pb6y51</guid>
       <description>Originally published Fri 18 Sep 2026 07:24 IDT.
