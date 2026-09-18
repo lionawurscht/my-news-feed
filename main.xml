@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:54:24 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:30): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3485346.html</link>
-      <pubDate>Fri, 18 Sep 2026 12:39:10 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 19:29): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3485934.html</link>
+      <pubDate>Fri, 18 Sep 2026 16:54:24 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">46891905-db6b-4c72-b481-5cf7abac0a5e</guid>
-      <description>Originally published Fri 18 Sep 2026 15:30 IDT.
+      <guid isPermaLink="false">05c46b10-4146-49a3-bb1d-ca3f3828c7ab</guid>
+      <description>Originally published Fri 18 Sep 2026 19:29 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-1430-1500.mp3" length="2087947" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-1829-3400.mp3" length="2126347" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 15:10): NPR News: 09-18-2026 8AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 19:10): NPR News: 09-18-2026 12PM EDT</title>
       <link/>
-      <pubDate>Fri, 18 Sep 2026 12:38:10 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:53:24 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">f0fa5731-7e27-4ea9-807f-d58bb5bc7c05</guid>
-      <description>Originally published Fri 18 Sep 2026 15:10 IDT.
+      <guid isPermaLink="false">56ac73e1-4c17-437d-a955-c571ad9ce491</guid>
+      <description>Originally published Fri 18 Sep 2026 19:10 IDT.
 
-NPR News: 09-18-2026 8AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/254186d4-b42a-4305-ba4c-85007698944b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=254186d4-b42a-4305-ba4c-85007698944b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-0800-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-18-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b2ecd584-c4da-4b17-93b8-6092116ecf1a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b2ecd584-c4da-4b17-93b8-6092116ecf1a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-1200-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 17.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3483810.html</link>
-      <pubDate>Fri, 18 Sep 2026 12:37:10 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:52:24 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">65fc132a-d590-434d-b2ec-f58bfc5652d9-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 17 Sep 2026 21:00 IDT.
@@ -46,61 +46,50 @@ Bundestrainer Jürgen Klopp gibt neuen Kader der Fußball-Nationalmannschaft bek
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0917/AU-20260917-2033-5700.mp3" length="14651681" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 15:00): Die Nachrichten vom 18.09.2026, 14:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42022.html</link>
-      <pubDate>Fri, 18 Sep 2026 12:36:10 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:32): Abendjournal um 18 (18.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18092026</link>
+      <pubDate>Fri, 18 Sep 2026 16:51:24 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">06b847d7-b645-58ba-b4bc-84e222ad0694</guid>
-      <description>Originally published Fri 18 Sep 2026 15:00 IDT.
+      <guid isPermaLink="false">di_oe1_journale_da1_4d4cda4588e74b33983812112017cc63</guid>
+      <description>Originally published Fri 18 Sep 2026 19:32 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4d4cda4588e74b33983812112017cc63.mp3?etag=9ca9a24467f4f143b68fac32b4b9463a" length="36337819" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 19:00): Die Nachrichten vom 18.09.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42038.html</link>
+      <pubDate>Fri, 18 Sep 2026 16:50:24 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">e808c361-478d-5bc0-9b43-5373b39808e6</guid>
+      <description>Originally published Fri 18 Sep 2026 19:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_1400_3f634706.mp3?refId=nachrichten-108" length="9811779" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_1800_453f03cd.mp3?refId=nachrichten-108" length="9555153" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:20): Mittagsjournal (18.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-18092026</link>
-      <pubDate>Fri, 18 Sep 2026 12:35:10 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_4a75597f599e466ba2f817128fbf35e0</guid>
-      <description>Originally published Fri 18 Sep 2026 14:20 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4a75597f599e466ba2f817128fbf35e0.mp3?etag=d92f3ee4b309f822cc9561451ce22474" length="86991746" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 11:00): Der Countdown läuft: Morgen beginnt in München das Oktoberfest</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/der-countdown-laeuft-morgen-beginnt-in-muenchen-das-oktoberfest/2122226</link>
-      <pubDate>Fri, 18 Sep 2026 12:34:10 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:07): Baustelle Bahn: Wie läuft's nach einem Jahr mit Chefin Palla?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla/2122251</link>
+      <pubDate>Fri, 18 Sep 2026 16:49:24 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">fc5aeaa8-ceaa-4b23-b714-b7001f180b6b</guid>
-      <description>Originally published Fri 18 Sep 2026 11:00 IDT.
+      <guid isPermaLink="false">111158cb-5aa4-4ec4-bd52-163579148341</guid>
+      <description>Originally published Fri 18 Sep 2026 19:07 IDT.
 
-Morgen beginnt das Oktoberfest - das größte Volksfest der Welt. Dazu haben wir unter anderem mit dem Sprecher der Wiesnwirte, Peter Inselkammer gesprochen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122226/c/feed/der-countdown-laeuft-morgen-beginnt-in-muenchen-das-oktoberfest.mp3" length="8855468" type="audio/mpeg"/>
+Von einer &quot;neuen Ära&quot; war die Rede, als Evelyn Palla Chefin der Deutschen Bahn wurde. Die Bahn sollte zuverlässiger, pünktlicher, sicherer und sauberer werden.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122251/c/feed/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla.mp3" length="8780204" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Anschlagsplan | Ärztliche Versorgung | Brand in U-Bahnhof</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/anschlagsplan-aerztliche-versorgung-brand-u-bahnhof.html</link>
-      <pubDate>Fri, 18 Sep 2026 12:33:10 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:15): Chaos as migrants moved off beaches in Ceuta</title>
+      <link>http://www.bbc.co.uk/programmes/p0pbbt24</link>
+      <pubDate>Fri, 18 Sep 2026 16:48:24 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ef/5a/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1_mp3-256kd.mp3</guid>
-      <description>Originally published Thu 17 Sep 2026 19:17 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pbbt24</guid>
+      <description>Originally published Fri 18 Sep 2026 18:15 IDT.
 
-Im Landkreis Barnim hat die Polizei einen mutma&amp;#223;lichen Islamisten festgenommen. Laut Bundesanwaltschaft hat der Iraker der Anschl&amp;#228;ge in Deutschland geplant. Au&amp;#223;erdem: Landtag: Aktuelle Stunde zu &amp;#228;rztlicher Versorgung; Brand am U-Bahnhof Wittenbergplatz; Adieu Berliner Parlament: Diese Abgeordneten scheiden sicher aus.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/ef/5a/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1/ef5acb4f-ca5a-41f8-8c9f-ad4ccfbbb8e1_mp3-256kd.mp3" length="28944137" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:24): Did the US carry out war crimes in Iran?</title>
-      <link>http://www.bbc.co.uk/programmes/p0pb6y51</link>
-      <pubDate>Fri, 18 Sep 2026 12:32:10 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pb6y51</guid>
-      <description>Originally published Fri 18 Sep 2026 07:24 IDT.
-
-&lt;p&gt;A UN fact-finding mission on Iran says there are reasonable grounds to believe the United States was behind two military strikes on a school and sports facility in Iran in February, and that these constituted war crimes. A State Department official said the US did not give credibility to the findings in the report. The UN experts also accused Tehran of violent repression of anti-government protesters. &lt;/p&gt;&lt;p&gt;Also: Nato secretary general, Mark Rutte, tells the BBC the Russian President, Vladimir Putin, is becoming increasingly desperate. Our health reporter finds out what caffeine does to the body. The melting of ice sheets in Greenland and Antarctica is raising sea levels - and endangering coastal communities. A new species of cat is discovered in Bolivia. And Dolly Parton, who died last month, gets a posthumous music award.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo:  The Minab school, which was damaged by a strike on February 28, in Minab, Iran, August 27, 2026. 
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb6xyg.mp3" length="13496000" type="audio/mpeg"/>
+&lt;p&gt;Police in Spain's North African territory of Ceuta fired rubber bullets into the air to control crowds as hundreds of migrants were moved from beaches to the port where a tent city has sprung up. South Korea's president says he will not be sending troops to help the US in its war in Iran - defying growing pressure from the Trump administration. People in Russia are voting in the first parliamentary election since Russia's full-scale invasion of Ukraine. South Africa's President Cyril Ramaphosa has formed a taskforce to investigate a spate of brutal killings that has sparked a nationwide debate over women's safety. Amid stark warnings from AI scientists about the growing risks of artificial intelligence going rogue, we assess some of the potential scenarios. At least 17 people have been killed in a car bomb attack in northwestern Pakistan. Protests in Nigeria after 33 people accused of illegal mining died in custody. And how drones are being used by police in England to help manage football crowds.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Police escort migrants from Benitez Beach to be relocated to the camp set up at the port of Ceuta, September 18, 2026
+Credit: REUTERS/ Anna Surinyach&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbbrnj.mp3" length="12392000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
