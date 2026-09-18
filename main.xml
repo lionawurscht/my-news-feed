@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 19:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:12:48 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 19:29): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3485934.html</link>
-      <pubDate>Fri, 18 Sep 2026 19:24:55 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 22:35): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3486110.html</link>
+      <pubDate>Fri, 18 Sep 2026 22:12:48 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">05c46b10-4146-49a3-bb1d-ca3f3828c7ab</guid>
-      <description>Originally published Fri 18 Sep 2026 19:29 IDT.
+      <guid isPermaLink="false">6b88c5b3-a0f3-43f3-9fa5-bd3098951c1b</guid>
+      <description>Originally published Fri 18 Sep 2026 22:35 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-1829-3400.mp3" length="2126347" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-2135-2000.mp3" length="2059531" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 22:11): NPR News: 09-18-2026 3PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sat 01:10): NPR News: 09-18-2026 6PM EDT</title>
       <link/>
-      <pubDate>Fri, 18 Sep 2026 19:23:55 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:11:48 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">dbe66b86-5051-4b25-9e42-255c61e5743a</guid>
-      <description>Originally published Fri 18 Sep 2026 22:11 IDT.
+      <guid isPermaLink="false">9b49785e-a37c-4a52-bd1e-f8af9dc70167</guid>
+      <description>Originally published Sat 19 Sep 2026 01:10 IDT.
 
-NPR News: 09-18-2026 3PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b483e062-d226-49e0-943d-5de6adfc3697/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b483e062-d226-49e0-943d-5de6adfc3697&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-1500-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-18-2026 6PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e661cfa9-7884-40e3-bf46-72f175551c96/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e661cfa9-7884-40e3-bf46-72f175551c96&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-1800-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 18.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3486072.html</link>
-      <pubDate>Fri, 18 Sep 2026 19:22:55 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:10:48 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">ecd15f2e-11fe-4a8b-8dbe-5493335eafed-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 18 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Beratungen der Bundesregierung über Spritpreis-Entlastungen, Wahlkampfabschluss
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-2028-5800.mp3" length="14988451" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 22:00): Die Nachrichten vom 18.09.2026, 21:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42046.html</link>
-      <pubDate>Fri, 18 Sep 2026 19:21:55 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 00:59): Die Nachrichten vom 18.09.2026, 23:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42052.html</link>
+      <pubDate>Fri, 18 Sep 2026 22:09:48 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">f164b308-4f68-55f1-bd1d-590deb287c4a</guid>
-      <description>Originally published Fri 18 Sep 2026 22:00 IDT.
+      <guid isPermaLink="false">27dc7782-39c3-54c5-9562-11ade5482d61</guid>
+      <description>Originally published Sat 19 Sep 2026 00:59 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_2100_5ce3cdb9.mp3?refId=nachrichten-108" length="5051642" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/18/nachrichten_dlf_20260918_2359_898896c0.mp3?refId=nachrichten-108" length="5011518" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:32): Abendjournal um 18 (18.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18092026</link>
-      <pubDate>Fri, 18 Sep 2026 19:20:55 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:08:48 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_4d4cda4588e74b33983812112017cc63</guid>
       <description>Originally published Fri 18 Sep 2026 19:32 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Wahlkampffinale | Geburtskliniken | Herzklappencheck</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/wahlkampffinale-geburtskliniken-herzklappencheck.html</link>
-      <pubDate>Fri, 18 Sep 2026 19:19:55 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:07:48 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ad/7d/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c_mp3-256kd.mp3</guid>
       <description>Originally published Fri 18 Sep 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Am Sonntag ist Wahltag in Berlin. Im Endspurt gab es &amp;#252;berall in der Sta
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:07): Baustelle Bahn: Wie läuft's nach einem Jahr mit Chefin Palla?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla/2122251</link>
-      <pubDate>Fri, 18 Sep 2026 19:18:55 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:06:48 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">111158cb-5aa4-4ec4-bd52-163579148341</guid>
       <description>Originally published Fri 18 Sep 2026 19:07 IDT.
@@ -92,7 +92,7 @@ Von einer &quot;neuen Ära&quot; war die Rede, als Evelyn Palla Chefin der Deuts
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:15): Chaos as migrants moved off beaches in Ceuta</title>
       <link>http://www.bbc.co.uk/programmes/p0pbbt24</link>
-      <pubDate>Fri, 18 Sep 2026 19:17:55 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:05:48 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pbbt24</guid>
       <description>Originally published Fri 18 Sep 2026 18:15 IDT.
