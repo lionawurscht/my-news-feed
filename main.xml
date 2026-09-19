@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Sep 2026 14:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:43:18 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,21 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 16:10): NPR News: 09-19-2026 9AM EDT</title>
-      <link/>
-      <pubDate>Sat, 19 Sep 2026 14:08:37 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 20:29): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3487274.html</link>
+      <pubDate>Sat, 19 Sep 2026 17:43:18 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">15685334-935b-4270-ab47-aedb4859d715</guid>
-      <description>Originally published Sat 19 Sep 2026 16:10 IDT.
+      <guid isPermaLink="false">82269a8a-4cb3-4079-bf03-4aa089c7b7a3</guid>
+      <description>Originally published Sat 19 Sep 2026 20:29 IDT.
 
-NPR News: 09-19-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d5bd975e-6786-4022-8e8a-85a7046d4fee/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d5bd975e-6786-4022-8e8a-85a7046d4fee&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260919-0900-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0919/AU-20260919-1929-4500.mp3" length="1572619" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Sat 20:10): NPR News: 09-19-2026 1PM EDT</title>
+      <link/>
+      <pubDate>Sat, 19 Sep 2026 17:42:18 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">8c2f6f77-d13b-4079-91f3-f0c526dbca57</guid>
+      <description>Originally published Sat 19 Sep 2026 20:10 IDT.
+
+NPR News: 09-19-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0bd3c3a4-cd12-437b-9364-d30f93a3c77b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0bd3c3a4-cd12-437b-9364-d30f93a3c77b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260919-1300-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 18.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3486072.html</link>
-      <pubDate>Sat, 19 Sep 2026 14:07:37 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Sat, 19 Sep 2026 17:41:18 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">ecd15f2e-11fe-4a8b-8dbe-5493335eafed-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 18 Sep 2026 21:00 IDT.
 
@@ -35,54 +46,30 @@ Beratungen der Bundesregierung über Spritpreis-Entlastungen, Wahlkampfabschluss
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-2028-5800.mp3" length="14988451" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:00): Die Nachrichten vom 19.09.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42088.html</link>
-      <pubDate>Sat, 19 Sep 2026 14:06:37 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">8d42e45c-c9b3-5897-a6cf-4bae22fd7cb2</guid>
-      <description>Originally published Sat 19 Sep 2026 16:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 20:00): Die Nachrichten vom 19.09.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42096.html</link>
+      <pubDate>Sat, 19 Sep 2026 17:40:18 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">779b5112-857f-52d8-b1bf-64b2cff5faa7</guid>
+      <description>Originally published Sat 19 Sep 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/19/nachrichten_dlf_20260919_1500_afc09240.mp3?refId=nachrichten-108" length="5006921" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/19/nachrichten_dlf_20260919_1900_219c4edb.mp3?refId=nachrichten-108" length="5044119" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:25): Mittagsjournal (19.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-19092026</link>
-      <pubDate>Sat, 19 Sep 2026 14:05:37 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sat, 19 Sep 2026 17:39:18 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_e534ae8f5ed540019c8e0a8d9c9a90ec</guid>
       <description>Originally published Sat 19 Sep 2026 14:25 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e534ae8f5ed540019c8e0a8d9c9a90ec.mp3?etag=c5eb65748939bc9365363b568e556e00" length="81192545" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Wahlkampffinale | Geburtskliniken | Herzklappencheck</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/wahlkampffinale-geburtskliniken-herzklappencheck.html</link>
-      <pubDate>Sat, 19 Sep 2026 14:04:37 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ad/7d/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 18 Sep 2026 19:17 IDT.
-
-Am Sonntag ist Wahltag in Berlin. Im Endspurt gab es &amp;#252;berall in der Stadt Abschlusskundgebungen der Parteien. Au&amp;#223;erdem: Fortsetzung Landtag - Debatte &amp;#252;ber Geburtskliniken; Sch&amp;#252;leraustausch Kiew &amp;#8211; Berlin; Herzklappencheck am Hauptbahnhof.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/ad/7d/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c_mp3-256kd.mp3" length="30810377" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:07): Baustelle Bahn: Wie läuft's nach einem Jahr mit Chefin Palla?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla/2122251</link>
-      <pubDate>Sat, 19 Sep 2026 14:03:37 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">111158cb-5aa4-4ec4-bd52-163579148341</guid>
-      <description>Originally published Fri 18 Sep 2026 19:07 IDT.
-
-Von einer &quot;neuen Ära&quot; war die Rede, als Evelyn Palla Chefin der Deutschen Bahn wurde. Die Bahn sollte zuverlässiger, pünktlicher, sicherer und sauberer werden.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122251/c/feed/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla.mp3" length="8780204" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The best friends who turned out to be sisters</title>
       <link>http://www.bbc.co.uk/programmes/p0pb39f6</link>
-      <pubDate>Sat, 19 Sep 2026 14:02:37 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 19 Sep 2026 17:38:18 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pb39f6</guid>
       <description>Originally published Sat 19 Sep 2026 14:00 IDT.
 
