@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 05:26:52 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 22:35): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3486110.html</link>
-      <pubDate>Sat, 19 Sep 2026 00:55:09 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 05:51): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3486326.html</link>
+      <pubDate>Sat, 19 Sep 2026 05:26:52 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">6b88c5b3-a0f3-43f3-9fa5-bd3098951c1b</guid>
-      <description>Originally published Fri 18 Sep 2026 22:35 IDT.
+      <guid isPermaLink="false">3435cc15-47b0-425c-8a39-940ec6aacac4</guid>
+      <description>Originally published Sat 19 Sep 2026 05:51 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-2135-2000.mp3" length="2059531" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0919/AU-20260919-0451-0500.mp3" length="1867555" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 03:10): NPR News: 09-18-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sat 08:10): NPR News: 09-19-2026 1AM EDT</title>
       <link/>
-      <pubDate>Sat, 19 Sep 2026 00:54:09 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 05:25:52 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">f0d38d87-cf08-4bcd-8b70-a5bd950fac01</guid>
-      <description>Originally published Sat 19 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">bd7abec8-67b9-48bc-a7c7-93fe970554ed</guid>
+      <description>Originally published Sat 19 Sep 2026 08:10 IDT.
 
-NPR News: 09-18-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e9216dc4-1aa5-481f-b425-179307b844c9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e9216dc4-1aa5-481f-b425-179307b844c9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260918-2000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-19-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f635ba13-67c8-4dd0-b749-a2bbe815baef/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f635ba13-67c8-4dd0-b749-a2bbe815baef&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260919-0100-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 18.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3486072.html</link>
-      <pubDate>Sat, 19 Sep 2026 00:53:09 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 05:24:52 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">ecd15f2e-11fe-4a8b-8dbe-5493335eafed-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 18 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Beratungen der Bundesregierung über Spritpreis-Entlastungen, Wahlkampfabschluss
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-2028-5800.mp3" length="14988451" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 02:59): Die Nachrichten vom 19.09.2026, 01:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42056.html</link>
-      <pubDate>Sat, 19 Sep 2026 00:52:09 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 08:00): Die Nachrichten vom 19.09.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42070.html</link>
+      <pubDate>Sat, 19 Sep 2026 05:23:52 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">c2ebda9a-c95c-533b-8ac0-09c8fe18554e</guid>
-      <description>Originally published Sat 19 Sep 2026 02:59 IDT.
+      <guid isPermaLink="false">472e9f93-5cff-588c-85fe-4149c0be0108</guid>
+      <description>Originally published Sat 19 Sep 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/19/nachrichten_dlf_20260919_0159_faf669ba.mp3?refId=nachrichten-108" length="5195838" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/19/nachrichten_dlf_20260919_0700_ff091f14.mp3?refId=nachrichten-108" length="5028655" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:32): Abendjournal um 18 (18.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18092026</link>
-      <pubDate>Sat, 19 Sep 2026 00:51:09 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 05:22:52 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_4d4cda4588e74b33983812112017cc63</guid>
       <description>Originally published Fri 18 Sep 2026 19:32 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Wahlkampffinale | Geburtskliniken | Herzklappencheck</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/wahlkampffinale-geburtskliniken-herzklappencheck.html</link>
-      <pubDate>Sat, 19 Sep 2026 00:50:09 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 05:21:52 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ad/7d/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c_mp3-256kd.mp3</guid>
       <description>Originally published Fri 18 Sep 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Am Sonntag ist Wahltag in Berlin. Im Endspurt gab es &amp;#252;berall in der Sta
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:07): Baustelle Bahn: Wie läuft's nach einem Jahr mit Chefin Palla?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla/2122251</link>
-      <pubDate>Sat, 19 Sep 2026 00:49:09 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 05:20:52 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">111158cb-5aa4-4ec4-bd52-163579148341</guid>
       <description>Originally published Fri 18 Sep 2026 19:07 IDT.
@@ -90,19 +90,19 @@ Von einer &quot;neuen Ära&quot; war die Rede, als Evelyn Palla Chefin der Deuts
       <enclosure url="https://media.neuland.br.de/file/2122251/c/feed/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla.mp3" length="8780204" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:15): Chaos as migrants moved off beaches in Ceuta</title>
-      <link>http://www.bbc.co.uk/programmes/p0pbbt24</link>
-      <pubDate>Sat, 19 Sep 2026 00:48:09 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:53): US and Denmark reach deal over Greenland</title>
+      <link>http://www.bbc.co.uk/programmes/p0pbf6ql</link>
+      <pubDate>Sat, 19 Sep 2026 05:19:52 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pbbt24</guid>
-      <description>Originally published Fri 18 Sep 2026 18:15 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pbf6ql</guid>
+      <description>Originally published Sat 19 Sep 2026 06:53 IDT.
 
-&lt;p&gt;Police in Spain's North African territory of Ceuta fired rubber bullets into the air to control crowds as hundreds of migrants were moved from beaches to the port where a tent city has sprung up. South Korea's president says he will not be sending troops to help the US in its war in Iran - defying growing pressure from the Trump administration. People in Russia are voting in the first parliamentary election since Russia's full-scale invasion of Ukraine. South Africa's President Cyril Ramaphosa has formed a taskforce to investigate a spate of brutal killings that has sparked a nationwide debate over women's safety. Amid stark warnings from AI scientists about the growing risks of artificial intelligence going rogue, we assess some of the potential scenarios. At least 17 people have been killed in a car bomb attack in northwestern Pakistan. Protests in Nigeria after 33 people accused of illegal mining died in custody. And how drones are being used by police in England to help manage football crowds.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;The US and Denmark announce a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force. In a post on social media, Mr Trump said the deal would mean &quot;no US adversary can ever have a base in Greenland&quot;. Greenland and Denmark have said the deal strengthens security in the Arctic and is good for the Nato military alliance. &lt;/p&gt;&lt;p&gt;Also: President Trump has signed a bill authorising sweeping new sanctions on Russia, designed to increase economic pressure on Moscow because of its war in Ukraine. California Governor Gavin Newsom orders research into AI ‘kill switch’ in response to safety fears. Warren Buffett steps down from the investment company he's led for more than six decades. Organisers apologise for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan. And can two friends complete a board game that's so complex, no one has ever finished it? &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Police escort migrants from Benitez Beach to be relocated to the camp set up at the port of Ceuta, September 18, 2026
-Credit: REUTERS/ Anna Surinyach&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbbrnj.mp3" length="12392000" type="audio/mpeg"/>
+Photo: The Greenlandic flag flies on the Tivoli Castle in Tivoli in Copenhagen, Denmark, 08 January 2026.
+Credit: EPA Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbf4j0.mp3" length="13976000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
