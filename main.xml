@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:08:37 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,21 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 10:34): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3486600.html</link>
-      <pubDate>Sat, 19 Sep 2026 10:12:35 +0000</pubDate>
-      <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">e2f92563-e2a6-4d10-9d2b-0f10eb7d5542</guid>
-      <description>Originally published Sat 19 Sep 2026 10:34 IDT.
-
-tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0919/AU-20260919-0934-3800.mp3" length="1793420" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|Overview] NPR News Now (Sat 13:10): NPR News: 09-19-2026 6AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sat 16:10): NPR News: 09-19-2026 9AM EDT</title>
       <link/>
-      <pubDate>Sat, 19 Sep 2026 10:11:35 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">2c622708-58de-4d89-a038-13325755b265</guid>
-      <description>Originally published Sat 19 Sep 2026 13:10 IDT.
+      <pubDate>Sat, 19 Sep 2026 14:08:37 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">15685334-935b-4270-ab47-aedb4859d715</guid>
+      <description>Originally published Sat 19 Sep 2026 16:10 IDT.
 
-NPR News: 09-19-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7d52120e-4244-428b-918f-ae31478a8669/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7d52120e-4244-428b-918f-ae31478a8669&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260919-0600-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-19-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d5bd975e-6786-4022-8e8a-85a7046d4fee/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d5bd975e-6786-4022-8e8a-85a7046d4fee&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260919-0900-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 18.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3486072.html</link>
-      <pubDate>Sat, 19 Sep 2026 10:10:35 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Sat, 19 Sep 2026 14:07:37 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
       <guid isPermaLink="false">ecd15f2e-11fe-4a8b-8dbe-5493335eafed-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 18 Sep 2026 21:00 IDT.
 
@@ -46,30 +35,30 @@ Beratungen der Bundesregierung über Spritpreis-Entlastungen, Wahlkampfabschluss
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0918/AU-20260918-2028-5800.mp3" length="14988451" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 12:00): Die Nachrichten vom 19.09.2026, 11:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42080.html</link>
-      <pubDate>Sat, 19 Sep 2026 10:09:35 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">98e6ed1d-9759-5422-be85-4b295cc7e725</guid>
-      <description>Originally published Sat 19 Sep 2026 12:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:00): Die Nachrichten vom 19.09.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42088.html</link>
+      <pubDate>Sat, 19 Sep 2026 14:06:37 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">8d42e45c-c9b3-5897-a6cf-4bae22fd7cb2</guid>
+      <description>Originally published Sat 19 Sep 2026 16:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/19/nachrichten_dlf_20260919_1100_8be4d91f.mp3?refId=nachrichten-108" length="5070033" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/19/nachrichten_dlf_20260919_1500_afc09240.mp3?refId=nachrichten-108" length="5006921" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:21): Morgenjournal um 8 (19.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-19092026</link>
-      <pubDate>Sat, 19 Sep 2026 10:08:35 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_c137423f9a7746d8b0de6f6946d5433e</guid>
-      <description>Originally published Sat 19 Sep 2026 09:21 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c137423f9a7746d8b0de6f6946d5433e.mp3?etag=96c89c9e514113a22d44912739c8925e" length="22154049" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:25): Mittagsjournal (19.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-19092026</link>
+      <pubDate>Sat, 19 Sep 2026 14:05:37 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_e534ae8f5ed540019c8e0a8d9c9a90ec</guid>
+      <description>Originally published Sat 19 Sep 2026 14:25 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e534ae8f5ed540019c8e0a8d9c9a90ec.mp3?etag=c5eb65748939bc9365363b568e556e00" length="81192545" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Wahlkampffinale | Geburtskliniken | Herzklappencheck</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/wahlkampffinale-geburtskliniken-herzklappencheck.html</link>
-      <pubDate>Sat, 19 Sep 2026 10:07:35 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Sat, 19 Sep 2026 14:04:37 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/ad/7d/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c/ad7d8d32-f2af-4db2-a18a-8224d4d94b9c_mp3-256kd.mp3</guid>
       <description>Originally published Fri 18 Sep 2026 19:17 IDT.
 
@@ -81,8 +70,8 @@ Am Sonntag ist Wahltag in Berlin. Im Endspurt gab es &amp;#252;berall in der Sta
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:07): Baustelle Bahn: Wie läuft's nach einem Jahr mit Chefin Palla?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla/2122251</link>
-      <pubDate>Sat, 19 Sep 2026 10:06:35 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 19 Sep 2026 14:03:37 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">111158cb-5aa4-4ec4-bd52-163579148341</guid>
       <description>Originally published Fri 18 Sep 2026 19:07 IDT.
 
@@ -90,19 +79,15 @@ Von einer &quot;neuen Ära&quot; war die Rede, als Evelyn Palla Chefin der Deuts
       <enclosure url="https://media.neuland.br.de/file/2122251/c/feed/baustelle-bahn-wie-laeuft-s-nach-einem-jahr-mit-chefin-palla.mp3" length="8780204" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:53): US and Denmark reach deal over Greenland</title>
-      <link>http://www.bbc.co.uk/programmes/p0pbf6ql</link>
-      <pubDate>Sat, 19 Sep 2026 10:05:35 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pbf6ql</guid>
-      <description>Originally published Sat 19 Sep 2026 06:53 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The best friends who turned out to be sisters</title>
+      <link>http://www.bbc.co.uk/programmes/p0pb39f6</link>
+      <pubDate>Sat, 19 Sep 2026 14:02:37 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pb39f6</guid>
+      <description>Originally published Sat 19 Sep 2026 14:00 IDT.
 
-&lt;p&gt;The US and Denmark announce a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force. In a post on social media, Mr Trump said the deal would mean &quot;no US adversary can ever have a base in Greenland&quot;. Greenland and Denmark have said the deal strengthens security in the Arctic and is good for the Nato military alliance. &lt;/p&gt;&lt;p&gt;Also: President Trump has signed a bill authorising sweeping new sanctions on Russia, designed to increase economic pressure on Moscow because of its war in Ukraine. California Governor Gavin Newsom orders research into AI ‘kill switch’ in response to safety fears. Warren Buffett steps down from the investment company he's led for more than six decades. Organisers apologise for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan. And can two friends complete a board game that's so complex, no one has ever finished it? &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: The Greenlandic flag flies on the Tivoli Castle in Tivoli in Copenhagen, Denmark, 08 January 2026.
-Credit: EPA Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbf4j0.mp3" length="13976000" type="audio/mpeg"/>
+&lt;p&gt;Meena and Minal were born in India, but adopted by different families and raised near each other in the Netherlands. When they first met in their early teens at an event hosted by the adoption agency their parents had used, they were struck by the uncanny similarities in their appearance and mannerisms. This year, Minal took a DNA test, which revealed the Meena she already knew was her biological sister. &lt;/p&gt;&lt;p&gt;Also, we hear from the Cateura Orchestra of Recycled Instruments -- a group in Paraguay which play music on instruments made from landfill waste. Plus, Brad Ryan and Grandma Joy's adventures to visit every national park in the United States, before going on Safari trips around the world. For them, it wasn't about the sights, but healing their relationship, after they had not spoken in ten years. Why probiotics could help corals, and the table tennis club helping people with Parkinson's disease.&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Image: Meena Geltink and Minal Tijssen holding a picture of their younger selves. Credit: Reuters &lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb38hf.mp3" length="12712000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
