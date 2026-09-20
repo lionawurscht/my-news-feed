@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 20 Sep 2026 00:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 05:39:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 02:44): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3487446.html</link>
-      <pubDate>Sun, 20 Sep 2026 00:35:54 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 06:01): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3487506.html</link>
+      <pubDate>Sun, 20 Sep 2026 05:39:38 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">ae16574f-0b38-4669-804d-1a8b70321fae</guid>
-      <description>Originally published Sun 20 Sep 2026 02:44 IDT.
+      <guid isPermaLink="false">966b9fcb-444a-417c-ba85-0d423e53c58e</guid>
+      <description>Originally published Sun 20 Sep 2026 06:01 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0920/AU-20260920-0144-1500.mp3" length="1999631" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0920/AU-20260920-0501-0900.mp3" length="1988491" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 03:10): NPR News: 09-19-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sun 08:10): NPR News: 09-20-2026 1AM EDT</title>
       <link/>
-      <pubDate>Sun, 20 Sep 2026 00:34:54 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 05:38:38 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c694e976-d99c-4c1c-966f-295e0ec99317</guid>
-      <description>Originally published Sun 20 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">41ba676e-d056-4a67-b990-10d093798d14</guid>
+      <description>Originally published Sun 20 Sep 2026 08:10 IDT.
 
-NPR News: 09-19-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3c2e07ec-dd8a-40bf-81eb-779758f35d9f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3c2e07ec-dd8a-40bf-81eb-779758f35d9f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260919-2000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-20-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/afca6775-6cac-48c7-ab2a-252ac1a15546/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=afca6775-6cac-48c7-ab2a-252ac1a15546&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260920-0100-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 19.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3487314.html</link>
-      <pubDate>Sun, 20 Sep 2026 00:33:54 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 05:37:38 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">4b735ac1-4d04-42ef-89ef-3e9fbba34b2d-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 19 Sep 2026 21:00 IDT.
@@ -46,35 +46,37 @@ Gemischte Reaktionen auf Entlastungspaket wegen hoher Spritpreise, Abkommen zwis
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0919/AU-20260919-2039-1700.mp3" length="15138595" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 03:00): Die Nachrichten vom 20.09.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42108.html</link>
-      <pubDate>Sun, 20 Sep 2026 00:32:54 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 08:00): Die Nachrichten vom 20.09.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42118.html</link>
+      <pubDate>Sun, 20 Sep 2026 05:36:38 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">2d69ea77-ef8b-5862-ba4d-d9948601c6f7</guid>
-      <description>Originally published Sun 20 Sep 2026 03:00 IDT.
+      <guid isPermaLink="false">954a9b7f-5976-5026-97bf-699b97aaf74c</guid>
+      <description>Originally published Sun 20 Sep 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/20/nachrichten_dlf_20260920_0200_de1cd176.mp3?refId=nachrichten-108" length="4974738" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/20/nachrichten_dlf_20260920_0700_f72f7a28.mp3?refId=nachrichten-108" length="4976410" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:25): Mittagsjournal (19.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-19092026</link>
-      <pubDate>Sun, 20 Sep 2026 00:31:54 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 05:35:38 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_e534ae8f5ed540019c8e0a8d9c9a90ec</guid>
       <description>Originally published Sat 19 Sep 2026 14:25 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e534ae8f5ed540019c8e0a8d9c9a90ec.mp3?etag=c5eb65748939bc9365363b568e556e00" length="81192545" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The best friends who turned out to be sisters</title>
-      <link>http://www.bbc.co.uk/programmes/p0pb39f6</link>
-      <pubDate>Sun, 20 Sep 2026 00:30:54 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:22): Ed Sheeran speaks out on Gaza</title>
+      <link>http://www.bbc.co.uk/programmes/p0pbk7cj</link>
+      <pubDate>Sun, 20 Sep 2026 05:34:38 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pb39f6</guid>
-      <description>Originally published Sat 19 Sep 2026 14:00 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pbk7cj</guid>
+      <description>Originally published Sun 20 Sep 2026 06:22 IDT.
 
-&lt;p&gt;Meena and Minal were born in India, but adopted by different families and raised near each other in the Netherlands. When they first met in their early teens at an event hosted by the adoption agency their parents had used, they were struck by the uncanny similarities in their appearance and mannerisms. This year, Minal took a DNA test, which revealed the Meena she already knew was her biological sister. &lt;/p&gt;&lt;p&gt;Also, we hear from the Cateura Orchestra of Recycled Instruments -- a group in Paraguay which play music on instruments made from landfill waste. Plus, Brad Ryan and Grandma Joy's adventures to visit every national park in the United States, before going on Safari trips around the world. For them, it wasn't about the sights, but healing their relationship, after they had not spoken in ten years. Why probiotics could help corals, and the table tennis club helping people with Parkinson's disease.&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Image: Meena Geltink and Minal Tijssen holding a picture of their younger selves. Credit: Reuters &lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb38hf.mp3" length="12712000" type="audio/mpeg"/>
+&lt;p&gt;Ed Sheeran has spoken out at the start of his first show since the rapper Macklemore was dropped from his US tour over pro-Palestinian comments. The British singer said the Hamas attacks on Israel in October 2023 were horrific, but Israel's subsequent response had been disproportionate. He said his heart had been broken by the scale of devastation. Also: for the first time since those Hamas attacks on Israel sparked the war on Gaza, half a million children inside the territory are returning to formal education. Iran-backed Houthi militants in Yemen say they have carried out drone and ballistic missile attacks on the Saudi capital Riyadh, as well as energy sites on the country's Red Sea coast. Germany is holding two state elections this weekend in the wake of the recent successes of the far-right Alternative fur Deutschland - or AfD - party which recorded its best ever result. And Google has confirmed that its AI system, Gemini, hacked into three companies during a test in May. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Ed Sheeran performs at BBC Radio 1's Big Weekend 2025 - Liverpool.
+Credit: BBC/Jamie Simonds&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbk79s.mp3" length="13984000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
