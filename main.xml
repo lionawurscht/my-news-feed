@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:35:54 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:04): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3487322.html</link>
-      <pubDate>Sat, 19 Sep 2026 22:12:28 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 02:44): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3487446.html</link>
+      <pubDate>Sun, 20 Sep 2026 00:35:54 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">ef134d53-e32e-4526-b0f3-f6eba97115b9</guid>
-      <description>Originally published Sat 19 Sep 2026 22:04 IDT.
+      <guid isPermaLink="false">ae16574f-0b38-4669-804d-1a8b70321fae</guid>
+      <description>Originally published Sun 20 Sep 2026 02:44 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0919/AU-20260919-2104-1300.mp3" length="1624459" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0920/AU-20260920-0144-1500.mp3" length="1999631" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 01:10): NPR News: 09-19-2026 6PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sun 03:10): NPR News: 09-19-2026 8PM EDT</title>
       <link/>
-      <pubDate>Sat, 19 Sep 2026 22:11:28 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 00:34:54 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c3d692dc-22c1-4df7-a6fb-d3944bc72ded</guid>
-      <description>Originally published Sun 20 Sep 2026 01:10 IDT.
+      <guid isPermaLink="false">c694e976-d99c-4c1c-966f-295e0ec99317</guid>
+      <description>Originally published Sun 20 Sep 2026 03:10 IDT.
 
-NPR News: 09-19-2026 6PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f8d5309a-7c55-4dc6-902d-75791b1cf1a7/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f8d5309a-7c55-4dc6-902d-75791b1cf1a7&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260919-1800-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-19-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3c2e07ec-dd8a-40bf-81eb-779758f35d9f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3c2e07ec-dd8a-40bf-81eb-779758f35d9f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260919-2000-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 19.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3487314.html</link>
-      <pubDate>Sat, 19 Sep 2026 22:10:28 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 00:33:54 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">4b735ac1-4d04-42ef-89ef-3e9fbba34b2d-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 19 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Gemischte Reaktionen auf Entlastungspaket wegen hoher Spritpreise, Abkommen zwis
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0919/AU-20260919-2039-1700.mp3" length="15138595" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 00:00): Die Nachrichten vom 19.09.2026, 23:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42102.html</link>
-      <pubDate>Sat, 19 Sep 2026 22:09:28 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 03:00): Die Nachrichten vom 20.09.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42108.html</link>
+      <pubDate>Sun, 20 Sep 2026 00:32:54 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">5b4aa093-01a8-50b5-b180-6e4d21c1c5e6</guid>
-      <description>Originally published Sun 20 Sep 2026 00:00 IDT.
+      <guid isPermaLink="false">2d69ea77-ef8b-5862-ba4d-d9948601c6f7</guid>
+      <description>Originally published Sun 20 Sep 2026 03:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/19/nachrichten_dlf_20260919_2300_31780698.mp3?refId=nachrichten-108" length="5085497" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/20/nachrichten_dlf_20260920_0200_de1cd176.mp3?refId=nachrichten-108" length="4974738" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:25): Mittagsjournal (19.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-19092026</link>
-      <pubDate>Sat, 19 Sep 2026 22:08:28 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 00:31:54 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_e534ae8f5ed540019c8e0a8d9c9a90ec</guid>
       <description>Originally published Sat 19 Sep 2026 14:25 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The best friends who turned out to be sisters</title>
       <link>http://www.bbc.co.uk/programmes/p0pb39f6</link>
-      <pubDate>Sat, 19 Sep 2026 22:07:28 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 00:30:54 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pb39f6</guid>
       <description>Originally published Sat 19 Sep 2026 14:00 IDT.
