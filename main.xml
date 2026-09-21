@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:44:51 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 09:06): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3488926.html</link>
-      <pubDate>Mon, 21 Sep 2026 11:50:02 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:37): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3490426.html</link>
+      <pubDate>Mon, 21 Sep 2026 17:44:51 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">6faa022a-b385-4ea4-8b04-705fdeeb8ef2</guid>
-      <description>Originally published Mon 21 Sep 2026 09:06 IDT.
+      <guid isPermaLink="false">2837fb1a-3832-46de-9b6f-77390ef08b1f</guid>
+      <description>Originally published Mon 21 Sep 2026 19:37 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-0805-5300.mp3" length="2523787" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-1837-0600.mp3" length="1863691" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 14:11): NPR News: 09-21-2026 7AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 20:10): NPR News: 09-21-2026 1PM EDT</title>
       <link/>
-      <pubDate>Mon, 21 Sep 2026 11:49:02 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 17:43:51 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">a87376de-aac2-4232-b862-cbe0c241be81</guid>
-      <description>Originally published Mon 21 Sep 2026 14:11 IDT.
+      <guid isPermaLink="false">33cad026-14cb-4809-832b-ad8d0f3ec573</guid>
+      <description>Originally published Mon 21 Sep 2026 20:10 IDT.
 
-NPR News: 09-21-2026 7AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e15443a9-fc08-41c5-8d33-84d492a84e97/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e15443a9-fc08-41c5-8d33-84d492a84e97&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260921-0700-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-21-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3263a9ea-bf12-44d9-a7e3-c587d070b339/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3263a9ea-bf12-44d9-a7e3-c587d070b339&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260921-1300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 20.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3488416.html</link>
-      <pubDate>Mon, 21 Sep 2026 11:48:02 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 17:42:51 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">579a883c-2d64-4391-84cf-3fd2574d8284-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 20 Sep 2026 21:00 IDT.
@@ -46,50 +46,63 @@ Vorläufige Ergebnisse der Landtagswahlen in Mecklenburg-Vorpommern und Berlin, 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0920/AU-20260920-2147-5500.mp3" length="24151832" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 14:30): Die Nachrichten vom 21.09.2026, 13:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42202.html</link>
-      <pubDate>Mon, 21 Sep 2026 11:47:02 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 20:00): Die Nachrichten vom 21.09.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42222.html</link>
+      <pubDate>Mon, 21 Sep 2026 17:41:51 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">a69f443c-bbb7-5302-82f2-28f146798c0a</guid>
-      <description>Originally published Mon 21 Sep 2026 14:30 IDT.
+      <guid isPermaLink="false">850aec82-749a-5057-922c-6169e9688777</guid>
+      <description>Originally published Mon 21 Sep 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/21/nachrichten_dlf_20260921_1330_56bae39a.mp3?refId=nachrichten-108" length="4858127" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/21/nachrichten_dlf_20260921_1900_92e90530.mp3?refId=nachrichten-108" length="4781223" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 14:13): Mittagsjournal (21.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-21092026</link>
-      <pubDate>Mon, 21 Sep 2026 11:46:02 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:32): Abendjournal um 18 (21.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-21092026</link>
+      <pubDate>Mon, 21 Sep 2026 17:40:51 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_2393147a31314e1291d7af17549266f5</guid>
-      <description>Originally published Mon 21 Sep 2026 14:13 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2393147a31314e1291d7af17549266f5.mp3?etag=90d65f7609b34eca3d3e7b5e9d9534c0" length="86844143" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_bfb3643268b3416db542e41aa89665fb</guid>
+      <description>Originally published Mon 21 Sep 2026 19:32 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bfb3643268b3416db542e41aa89665fb.mp3?etag=5c2d5de2b96717691044eaa0a1197da5" length="36362035" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 10:00): Was bedeuten die Wahlergebnisse für die Bundespolitik: Wackelt der Kanzler?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/was-bedeuten-die-wahlergebnisse-fuer-die-bundespolitik-wackelt-der-kanzler/2122296</link>
-      <pubDate>Mon, 21 Sep 2026 11:45:02 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Reaktion zur Berlin-Wahl | Wirtschaft zu Vergesellschaftung | Bilanz Bezahlkarte</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/reaktion-berlin-wahl-enteignung-bilanz-bezahlkarte.html</link>
+      <pubDate>Mon, 21 Sep 2026 17:39:51 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">b9fcbd83-973a-4640-805a-e7e5df736668</guid>
-      <description>Originally published Mon 21 Sep 2026 10:00 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/91/8f/918fb219-0a7d-4f0b-a4d8-93c18d24b04e/918fb219-0a7d-4f0b-a4d8-93c18d24b04e_mp3-256kd.mp3</guid>
+      <description>Originally published Mon 21 Sep 2026 19:17 IDT.
 
-Mecklenburg-Vorpommern und Berlin haben gewählt - und die CDU ist zweimal abgestürzt. In Schwerin hat es die Kanzlerpartei noch nicht mal in den Landtag geschafft. Was bedeutet das für Friedrich Merz?</description>
-      <enclosure url="https://media.neuland.br.de/file/2122296/c/feed/was-bedeuten-die-wahlergebnisse-fuer-die-bundespolitik-wackelt-der-kanzler.mp3" length="9534380" type="audio/mpeg"/>
+Die Linke hat bei der Berlin-Wahl auch einst gr&amp;#252;ne Hochburgen erobern k&amp;#246;nnen, etwa den Bezirk Friedrichshain-Kreuzberg. Dort ging kein einziges Direktmandat und keine einzige Zweitstimme an die Gr&amp;#252;nen. Reporter Hari Sas hat Stimmen vor Ort gesammelt. Au&amp;#223;erdem: Wohnungswirtschaft zu Vergesellschaftung. B&amp;#252;rgermeisterwahl in Strausberg. Bilanz zur Bezahlkarte.
+&amp;#160;
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/91/8f/918fb219-0a7d-4f0b-a4d8-93c18d24b04e/918fb219-0a7d-4f0b-a4d8-93c18d24b04e_mp3-256kd.mp3" length="29967109" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:46): Elections pile pressure on German Chancellor</title>
-      <link>http://www.bbc.co.uk/programmes/p0pbndrl</link>
-      <pubDate>Mon, 21 Sep 2026 11:44:02 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 18:45): Respekt für Beschäftigte&quot; - Automobil-Aktionstag der IG Metall</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/respekt-fuer-beschaeftigte-automobil-aktionstag-der-ig-metall/2122317</link>
+      <pubDate>Mon, 21 Sep 2026 17:38:51 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pbndrl</guid>
-      <description>Originally published Mon 21 Sep 2026 07:46 IDT.
+      <guid isPermaLink="false">49f34e33-0fcc-42cd-8a9d-6ab5a4376887</guid>
+      <description>Originally published Mon 21 Sep 2026 18:45 IDT.
 
-&lt;p&gt;Chancellor Friedrich Merz calls a state election result in Germany a &quot;disaster&quot; for his ruling CDU party but vows to remain in office. Preliminary results indicate the CDU has suffered heavy losses to the far-right AfD party in Mecklenburg-Western Pomerania, while in Berlin it was defeated by the far-left party Die Linke. Also: US officials say 18 suspects in the assassination of the Haitian president Juvenal Moise five years ago are being extradicted to Florida to face trial.  The sister of Pakistan's imprisoned former prime minister, Imran Khan, has been arrested ahead of planned opposition protests. President Trump speaks about plans to turn his triumphal arch in Washington DC into a military complex. In Indonesia, BBC Eye investigates allegations of sexual abuse at a  prominent  Islamic boarding school. And Earl Spencer says the treatment by the press of Prince Harry and his wife Meghan echoes that of his sister Princess Diana before she died in a car crash. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Zukunft statt Kahlschlag: Zusammenhalt ist unsere stärkste Marke&quot; - unter diesem Motto hat die IG-Metall bundesweit Mitarbeiterinnen und Mitarbeiter der Autobranche mobilisiert.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122317/c/feed/respekt-fuer-beschaeftigte-automobil-aktionstag-der-ig-metall.mp3" length="8328620" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:27): Typhoon hits Japan causing landslides and cancelled flights</title>
+      <link>http://www.bbc.co.uk/programmes/p0pbs229</link>
+      <pubDate>Mon, 21 Sep 2026 17:37:51 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pbs229</guid>
+      <description>Originally published Mon 21 Sep 2026 18:27 IDT.
+
+&lt;p&gt;A powerful typhoon passing Japan's east coast is bringing heavy rainfall and major disruption. More than 1.9 million people in and around Tokyo have been told to evacuate. Winds from Typhoon Dujuan have caused power cuts for thousands of people, and hundreds of flights have been cancelled. Large events - including the Asian Games and Tokyo Game Show - have been postponed or called off.&lt;/p&gt;&lt;p&gt;Also in this podcast: Nearly 500 people have been arrested in a major transatlantic operation targeting criminal gangs; officials in Gaza have announced plans to demolish more than 250 buildings; Vladimir Putin's political party is on course to retain its majority in Russia's parliamentary elections; a new trial aims to help dementia patients remain in their own homes and out of care facilities; and how arguments over sunbeds on European beaches have turned deadly.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: German Chancellor Friedrich Merz addresses the media following the state elections in Berlin, Germany, 20th September 2026.
-Credit: EPA/Shuttershock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbndgw.mp3" length="12696000" type="audio/mpeg"/>
+Photo: Pedestrians wait at Shibuya crossing under heavy rainfall triggered by Typhoon Dujuan in Tokyo.
+Credit: Franck Robichon - EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbs1dv.mp3" length="12800000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
