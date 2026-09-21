@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:37:53 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,53 +13,53 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:37): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3490426.html</link>
-      <pubDate>Mon, 21 Sep 2026 17:44:51 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:55): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3490606.html</link>
+      <pubDate>Mon, 21 Sep 2026 21:37:53 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">2837fb1a-3832-46de-9b6f-77390ef08b1f</guid>
-      <description>Originally published Mon 21 Sep 2026 19:37 IDT.
+      <guid isPermaLink="false">1c07c682-5945-4400-bf34-1841c9740616</guid>
+      <description>Originally published Mon 21 Sep 2026 22:55 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-1837-0600.mp3" length="1863691" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-2154-5200.mp3" length="1982731" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 20:10): NPR News: 09-21-2026 1PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 00:10): NPR News: 09-21-2026 5PM EDT</title>
       <link/>
-      <pubDate>Mon, 21 Sep 2026 17:43:51 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 21:36:53 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">33cad026-14cb-4809-832b-ad8d0f3ec573</guid>
-      <description>Originally published Mon 21 Sep 2026 20:10 IDT.
+      <guid isPermaLink="false">46df52a7-ce18-4958-952f-cbcd70511443</guid>
+      <description>Originally published Tue 22 Sep 2026 00:10 IDT.
 
-NPR News: 09-21-2026 1PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3263a9ea-bf12-44d9-a7e3-c587d070b339/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3263a9ea-bf12-44d9-a7e3-c587d070b339&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260921-1300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-21-2026 5PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/27aa4ca5-37b2-4c29-9b8d-2b60cbb9921b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=27aa4ca5-37b2-4c29-9b8d-2b60cbb9921b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260921-1700-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 20.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3488416.html</link>
-      <pubDate>Mon, 21 Sep 2026 17:42:51 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 21.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3490570.html</link>
+      <pubDate>Mon, 21 Sep 2026 21:35:53 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">579a883c-2d64-4391-84cf-3fd2574d8284-SENDUNGSAUDIO</guid>
-      <description>Originally published Sun 20 Sep 2026 21:00 IDT.
+      <guid isPermaLink="false">58c1fd87-1db4-4aa3-bffd-9bd2a6f4c9ff-SENDUNGSAUDIO</guid>
+      <description>Originally published Mon 21 Sep 2026 21:00 IDT.
 
-Vorläufige Ergebnisse der Landtagswahlen in Mecklenburg-Vorpommern und Berlin, Reaktionen dazu aus der Bundespolitik, Ukraine attackiert Russland mit zahlreichen Drohnenangriffen am letzten Tag der russischen Parlamentswahl, US-Präsident Trump will Kommission zur Überwachung künstlicher Intelligenz einsetzen, Traditioneller Trachtenumzug zum Beginn des Münchner Oktoberfests, Ergebnisse der Fußball-Bundesliga, Das Wetter Hinweis: Der Beitrag zur Fußball-Bundesliga darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden. Korrektur: Die Sendung wurde nachträglich bearbeitet. In der tagesschau um 20:00 Uhr vom 20.09. haben wir klargestellt, dass das BSW in Mecklenburg-Vorpommern aufgrund aktueller Hochrechnungen zur Sendezeit noch um den Einzug ins Abgeordnetenhaus bangen musste.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0920/AU-20260920-2147-5500.mp3" length="24151832" type="audio/mpeg"/>
+Nach schwerer CDU-Wahlniederlage in Mecklenburg-Vorpommern: Kanzler Merz bekräftigt Fortsetzung des Reformkurses zusammen mit der SPD, SPD-Ministerpräsidentin Schwesig will in Mecklenburg-Vorpommern mit rot-rot-grünem Dreierbündnis weiterregieren, Nach Abgeordnetenhauswahl in Berlin: Linkspartei plant Gespräche mit SPD und Grünen, IG Metall ruft bundesweit zu Protesten gegen Sparpläne in der Autoindustrie auf, Untersuchungsausschuss wirft früherem Verkehrsminister Scheuer Falschaussage zur geplatzten PKW-Maut vor, Bundestrainer Jürgen Klopp empfängt ersten DFB-Kader, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-2026-1100.mp3" length="15069089" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 20:00): Die Nachrichten vom 21.09.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42222.html</link>
-      <pubDate>Mon, 21 Sep 2026 17:41:51 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 00:00): Die Nachrichten vom 21.09.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42230.html</link>
+      <pubDate>Mon, 21 Sep 2026 21:34:53 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">850aec82-749a-5057-922c-6169e9688777</guid>
-      <description>Originally published Mon 21 Sep 2026 20:00 IDT.
+      <guid isPermaLink="false">27822306-7c01-5266-91cf-e0290e84b77d</guid>
+      <description>Originally published Tue 22 Sep 2026 00:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/21/nachrichten_dlf_20260921_1900_92e90530.mp3?refId=nachrichten-108" length="4781223" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/21/nachrichten_dlf_20260921_2300_ddc4bda1.mp3?refId=nachrichten-108" length="9833095" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Mon 19:32): Abendjournal um 18 (21.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-21092026</link>
-      <pubDate>Mon, 21 Sep 2026 17:40:51 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 21:33:53 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_bfb3643268b3416db542e41aa89665fb</guid>
       <description>Originally published Mon 21 Sep 2026 19:32 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Reaktion zur Berlin-Wahl | Wirtschaft zu Vergesellschaftung | Bilanz Bezahlkarte</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/reaktion-berlin-wahl-enteignung-bilanz-bezahlkarte.html</link>
-      <pubDate>Mon, 21 Sep 2026 17:39:51 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 21:32:53 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/91/8f/918fb219-0a7d-4f0b-a4d8-93c18d24b04e/918fb219-0a7d-4f0b-a4d8-93c18d24b04e_mp3-256kd.mp3</guid>
       <description>Originally published Mon 21 Sep 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Die Linke hat bei der Berlin-Wahl auch einst gr&amp;#252;ne Hochburgen erobern k
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 18:45): Respekt für Beschäftigte&quot; - Automobil-Aktionstag der IG Metall</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/respekt-fuer-beschaeftigte-automobil-aktionstag-der-ig-metall/2122317</link>
-      <pubDate>Mon, 21 Sep 2026 17:38:51 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 21:31:53 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">49f34e33-0fcc-42cd-8a9d-6ab5a4376887</guid>
       <description>Originally published Mon 21 Sep 2026 18:45 IDT.
@@ -92,7 +92,7 @@ Zukunft statt Kahlschlag: Zusammenhalt ist unsere stärkste Marke&quot; - unter 
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:27): Typhoon hits Japan causing landslides and cancelled flights</title>
       <link>http://www.bbc.co.uk/programmes/p0pbs229</link>
-      <pubDate>Mon, 21 Sep 2026 17:37:51 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 21:30:53 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pbs229</guid>
       <description>Originally published Mon 21 Sep 2026 18:27 IDT.
