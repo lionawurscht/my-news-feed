@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 20 Sep 2026 22:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:47:41 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 23:13): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3488448.html</link>
-      <pubDate>Sun, 20 Sep 2026 22:55:00 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 02:43): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3488538.html</link>
+      <pubDate>Mon, 21 Sep 2026 00:47:41 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">852d1f6b-3719-4dad-b391-abd7555e6725</guid>
-      <description>Originally published Sun 20 Sep 2026 23:13 IDT.
+      <guid isPermaLink="false">470c3ed2-a41c-4337-8331-86570768128b</guid>
+      <description>Originally published Mon 21 Sep 2026 02:43 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0920/AU-20260920-2213-2000.mp3" length="2007691" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-0143-0600.mp3" length="2163211" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 01:10): NPR News: 09-20-2026 6PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 03:10): NPR News: 09-20-2026 8PM EDT</title>
       <link/>
-      <pubDate>Sun, 20 Sep 2026 22:54:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:46:41 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">bfe0a1e7-c332-45ed-99d4-a83027b6da5e</guid>
-      <description>Originally published Mon 21 Sep 2026 01:10 IDT.
+      <guid isPermaLink="false">281319bd-e729-4eb1-b4db-b35562d73023</guid>
+      <description>Originally published Mon 21 Sep 2026 03:10 IDT.
 
-NPR News: 09-20-2026 6PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/107a37c1-88c8-4928-92d1-570ff197f544/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=107a37c1-88c8-4928-92d1-570ff197f544&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260920-1800-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-20-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4be1ab5b-6de9-48e1-b0b7-95225daf2029/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4be1ab5b-6de9-48e1-b0b7-95225daf2029&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260920-2000-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 20.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3488416.html</link>
-      <pubDate>Sun, 20 Sep 2026 22:53:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:45:41 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">579a883c-2d64-4391-84cf-3fd2574d8284-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 20 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Vorläufige Ergebnisse der Landtagswahlen in Mecklenburg-Vorpommern und Berlin, 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0920/AU-20260920-2147-5500.mp3" length="24151832" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 00:59): Die Nachrichten vom 20.09.2026, 23:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42156.html</link>
-      <pubDate>Sun, 20 Sep 2026 22:52:00 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 03:00): Die Nachrichten vom 21.09.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42160.html</link>
+      <pubDate>Mon, 21 Sep 2026 00:44:41 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">b1cbbd4f-b982-55b4-b56e-a12f4c6843ce</guid>
-      <description>Originally published Mon 21 Sep 2026 00:59 IDT.
+      <guid isPermaLink="false">cda57fa7-d79e-548d-86bb-0184f085fb97</guid>
+      <description>Originally published Mon 21 Sep 2026 03:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/20/nachrichten_dlf_20260920_2359_2bd54c10.mp3?refId=nachrichten-108" length="5026983" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/21/nachrichten_dlf_20260921_0200_79432f3f.mp3?refId=nachrichten-108" length="5082153" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:23): Abendjournal um 18 (20.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20092026</link>
-      <pubDate>Sun, 20 Sep 2026 22:51:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:43:41 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_c8fd6241dc5f4616aa69b18cf04a3759</guid>
       <description>Originally published Sun 20 Sep 2026 19:23 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 10:00): Das Wichtigste am Sonntagmorgen: Bundespolitik blickt auf die Wahlen in Berlin und Mecklenburg-Vorpommern</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagmorgen-bundespolitik-blickt-auf-die-wahlen-in-berlin-und-mecklenburg-vorpommern/2122278</link>
-      <pubDate>Sun, 20 Sep 2026 22:50:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:42:41 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">d9004400-1775-46d2-8724-0d9dff8c319d</guid>
       <description>Originally published Sun 20 Sep 2026 10:00 IDT.
@@ -79,7 +79,7 @@ Zwei Wochen nach der Wahl in Sachsen-Anhalt wird heute wieder gewählt: in Meckl
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: Dave Ramsey - Iran, tariffs and affordability</title>
       <link>http://www.bbc.co.uk/programmes/p0pb9cxc</link>
-      <pubDate>Sun, 20 Sep 2026 22:49:00 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:41:41 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pb9cxc</guid>
       <description>Originally published Sun 20 Sep 2026 22:00 IDT.
