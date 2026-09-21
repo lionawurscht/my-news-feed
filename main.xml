@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:47:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 05:50:12 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,62 +13,62 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 02:43): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3488538.html</link>
-      <pubDate>Mon, 21 Sep 2026 00:47:41 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 08:06): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3488792.html</link>
+      <pubDate>Mon, 21 Sep 2026 05:50:12 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">470c3ed2-a41c-4337-8331-86570768128b</guid>
-      <description>Originally published Mon 21 Sep 2026 02:43 IDT.
+      <guid isPermaLink="false">f8e275e8-2c89-43d5-8ff1-c08ed865b387</guid>
+      <description>Originally published Mon 21 Sep 2026 08:06 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-0143-0600.mp3" length="2163211" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-0706-0500.mp3" length="2405131" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 03:10): NPR News: 09-20-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 08:10): NPR News: 09-21-2026 1AM EDT</title>
       <link/>
-      <pubDate>Mon, 21 Sep 2026 00:46:41 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 05:49:12 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">281319bd-e729-4eb1-b4db-b35562d73023</guid>
-      <description>Originally published Mon 21 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">f6eb3395-1ddc-4e52-b007-75527ac35fe2</guid>
+      <description>Originally published Mon 21 Sep 2026 08:10 IDT.
 
-NPR News: 09-20-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4be1ab5b-6de9-48e1-b0b7-95225daf2029/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4be1ab5b-6de9-48e1-b0b7-95225daf2029&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260920-2000-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-21-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e143dec1-a03a-41c1-9b53-b510fc9b4c86/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e143dec1-a03a-41c1-9b53-b510fc9b4c86&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260921-0100-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 20.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3488416.html</link>
-      <pubDate>Mon, 21 Sep 2026 00:45:41 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 05:48:12 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">579a883c-2d64-4391-84cf-3fd2574d8284-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 20 Sep 2026 21:00 IDT.
 
-Vorläufige Ergebnisse der Landtagswahlen in Mecklenburg-Vorpommern und Berlin, Reaktionen dazu aus der Bundespolitik, Ukraine attackiert Russland mit zahlreichen Drohnenangriffen am letzten Tag der russischen Parlamentswahl, US-Präsident Trump will Kommission zur Überwachung künstlicher Intelligenz einsetzen, Traditioneller Trachtenumzug zum Beginn des Münchner Oktoberfestes, Ergebnisse der Fußball-Bundesliga, Das Wetter Hinweis: Die Sendung wurde nachträglich bearbeitet. Der Beitrag zur Fußball-Bundesliga darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+Vorläufige Ergebnisse der Landtagswahlen in Mecklenburg-Vorpommern und Berlin, Reaktionen dazu aus der Bundespolitik, Ukraine attackiert Russland mit zahlreichen Drohnenangriffen am letzten Tag der russischen Parlamentswahl, US-Präsident Trump will Kommission zur Überwachung künstlicher Intelligenz einsetzen, Traditioneller Trachtenumzug zum Beginn des Münchner Oktoberfests, Ergebnisse der Fußball-Bundesliga, Das Wetter Hinweis: Die Sendung wurde nachträglich bearbeitet. Der Beitrag zur Fußball-Bundesliga darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0920/AU-20260920-2147-5500.mp3" length="24151832" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 03:00): Die Nachrichten vom 21.09.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42160.html</link>
-      <pubDate>Mon, 21 Sep 2026 00:44:41 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 08:41): Morgenjournal um 7 (21.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-21092026</link>
+      <pubDate>Mon, 21 Sep 2026 05:47:12 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">cda57fa7-d79e-548d-86bb-0184f085fb97</guid>
-      <description>Originally published Mon 21 Sep 2026 03:00 IDT.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/21/nachrichten_dlf_20260921_0200_79432f3f.mp3?refId=nachrichten-108" length="5082153" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_b8f7d7efe2a34fe7b48f2bbac413dcfa</guid>
+      <description>Originally published Mon 21 Sep 2026 08:41 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b8f7d7efe2a34fe7b48f2bbac413dcfa.mp3?etag=383beab67b060565c9daec0eb21ea323" length="48008870" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:23): Abendjournal um 18 (20.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20092026</link>
-      <pubDate>Mon, 21 Sep 2026 00:43:41 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 08:30): Die Nachrichten vom 21.09.2026, 07:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42178.html</link>
+      <pubDate>Mon, 21 Sep 2026 05:46:12 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_c8fd6241dc5f4616aa69b18cf04a3759</guid>
-      <description>Originally published Sun 20 Sep 2026 19:23 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c8fd6241dc5f4616aa69b18cf04a3759.mp3?etag=509aa5a7000138259d0d12c81f46f326" length="22096392" type="audio/mpeg"/>
+      <guid isPermaLink="false">f8e0175e-fee8-543b-907d-eb21dc570fe1</guid>
+      <description>Originally published Mon 21 Sep 2026 08:30 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/21/nachrichten_dlf_20260921_0730_55714f0d.mp3?refId=nachrichten-108" length="5030326" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 10:00): Das Wichtigste am Sonntagmorgen: Bundespolitik blickt auf die Wahlen in Berlin und Mecklenburg-Vorpommern</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagmorgen-bundespolitik-blickt-auf-die-wahlen-in-berlin-und-mecklenburg-vorpommern/2122278</link>
-      <pubDate>Mon, 21 Sep 2026 00:42:41 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 05:45:12 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">d9004400-1775-46d2-8724-0d9dff8c319d</guid>
       <description>Originally published Sun 20 Sep 2026 10:00 IDT.
@@ -77,15 +77,19 @@ Zwei Wochen nach der Wahl in Sachsen-Anhalt wird heute wieder gewählt: in Meckl
       <enclosure url="https://media.neuland.br.de/file/2122278/c/feed/das-wichtigste-am-sonntagmorgen-bundespolitik-blickt-auf-die-wahlen-in-berlin-und-mecklenburg-vorpommern.mp3" length="17248172" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: Dave Ramsey - Iran, tariffs and affordability</title>
-      <link>http://www.bbc.co.uk/programmes/p0pb9cxc</link>
-      <pubDate>Mon, 21 Sep 2026 00:41:41 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:46): Elections pile pressure on German Chancellor</title>
+      <link>http://www.bbc.co.uk/programmes/p0pbndrl</link>
+      <pubDate>Mon, 21 Sep 2026 05:44:12 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pb9cxc</guid>
-      <description>Originally published Sun 20 Sep 2026 22:00 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pbndrl</guid>
+      <description>Originally published Mon 21 Sep 2026 07:46 IDT.
 
-&lt;p&gt;As the midterm elections in America approach, the economy is one of the deciding factors for how people will vote.&lt;/p&gt;&lt;p&gt;Before his second term started, President Trump promised to tackle the so-called affordabilty crisis. But since then, the war in Iran has led to soaring gas prices and a range of tariffs have made some goods more expensive.&lt;/p&gt;&lt;p&gt;How do global events impact people’s finances and in turn how they vote in elections? The talk show host and financial expert Dave Ramsey joins us to discuss.&lt;/p&gt;&lt;p&gt;For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pb9chg.mp3" length="13176000" type="audio/mpeg"/>
+&lt;p&gt;Chancellor Friedrich Merz calls a state election result in Germany a &quot;disaster&quot; for his ruling CDU party but vows to remain in office. Preliminary results indicate the CDU has suffered heavy losses to the far-right AfD party in Mecklenburg-Western Pomerania, while in Berlin it was defeated by the far-left party Die Linke. Also: US officials say 18 suspects in the assassination of the Haitian president Juvenal Moise five years ago are being extradicted to Florida to face trial.  The sister of Pakistan's imprisoned former prime minister, Imran Khan, has been arrested ahead of planned opposition protests. President Trump speaks about plans to turn his triumphal arch in Washington DC into a military complex. In Indonesia, BBC Eye investigates allegations of sexual abuse at a  prominent  Islamic boarding school. And Earl Spencer says the treatment by the press of Prince Harry and his wife Meghan echoes that of his sister Princess Diana before she died in a car crash. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: German Chancellor Friedrich Merz addresses the media following the state elections in Berlin, Germany, 20th September 2026.
+Credit: EPA/Shuttershock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbndgw.mp3" length="12696000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
