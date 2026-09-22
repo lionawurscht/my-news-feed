@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:47:23 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 02:20): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3490728.html</link>
-      <pubDate>Tue, 22 Sep 2026 00:31:59 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 08:06): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3491008.html</link>
+      <pubDate>Tue, 22 Sep 2026 05:47:23 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">da80f251-fe95-4b63-872a-6c6414a9195b</guid>
-      <description>Originally published Tue 22 Sep 2026 02:20 IDT.
+      <guid isPermaLink="false">81840194-2b24-407f-9781-2b8531cc78bd</guid>
+      <description>Originally published Tue 22 Sep 2026 08:06 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0922/AU-20260922-0120-0300.mp3" length="2218891" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0922/AU-20260922-0706-0900.mp3" length="2688907" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 03:10): NPR News: 09-21-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 08:10): NPR News: 09-22-2026 1AM EDT</title>
       <link/>
-      <pubDate>Tue, 22 Sep 2026 00:30:59 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 05:46:23 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">56fd98b4-383d-4287-90e4-17a334342294</guid>
-      <description>Originally published Tue 22 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">eb4e3ccd-976d-4d86-a37f-c88d98022143</guid>
+      <description>Originally published Tue 22 Sep 2026 08:10 IDT.
 
-NPR News: 09-21-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8b509444-3778-4b68-98f4-7d796d7a07a7/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8b509444-3778-4b68-98f4-7d796d7a07a7&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260921-2000-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-22-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/12417863-ff57-4ae2-ba92-f35e814024ee/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=12417863-ff57-4ae2-ba92-f35e814024ee&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260922-0100-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Tue 08:00): חדשון בעברית קלה (22/09/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Tue, 22 Sep 2026 05:45:23 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/22-9-26.m4a</guid>
+      <description>Originally published Tue 22 Sep 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• אֶמֶש נֶעֶרכָה הַלוָויָיתו של אָדם בּן 48, אָב לשִישָה ילָדים מהיִישוּב עֲלֵי זָהָב, שֶנִרצַח בּפִיגוּעַ בּעֶרֶב יוֹם הכּיפּוּרים. בּרְגָעָיו האַחרוֹנים הִספִּיק להַזהִיר את בּנוֹ מִפּנֵי המחַבֵּל וכָך הִצִיל את חַיָיו
+• רה&quot;מ נתניהו יָטוּס מחר לנְיוּ יוֹרְק כּדֵי לִנאוֹם בּעֲצֶרֶת האוּ&quot;ם
+• צַה&quot;ל תָקף אֶמש תַשתִיוֹת של חַמאס בּעַזה, בּתְגוּבָה לפִיצוּץ מִטעָן בּתוֹך אֵזוֹר הקַו הצָהוֹב, שֶהָיה הֲפָרָה של הַפסָקַת האֵש
+• בּבְחירוֹת מְקוֹמִיות שֶהִתקַיימוּ בּבֶּרלין זָכתה בּרוֹב הקוֹלוֹת מִפלֶגֶת השׂמֹאל האַנטִי-ישׂראֵלית &quot;דִי לִינקֶה&quot;
+• בּמַהֲלַך תְפִילַת יום הכּיפּוּרים יָרה אדם לעֵבר בֵּית הכּנֶסת &quot;בּנֵי יַעקֹב&quot; בּעיר בּלוויל שֶבּקַנָדה. הוא יָרה לפָחוֹת 23 כּדוּרים, שֶחוֹרְרוּ את חַלוֹנוֹת בֵּית הכּנֶסת. שוֹטֵר שֶהִגִיעַ למָקוֹם נִפצַע מהַיֶרִי, וגם החָשוּד נוֹרָה
+• היום יִתקַיימוּ בּרַחֲבֵי האָרץ טִקסֵי האַזכָּרָה לחַללֵי מִלחֶמֶת יוֹם הכּיפּוּרים. הטֶקֶס המֶרכָּזי יִתקַיֵים בּשעה 11:00 בּהַר הֵרצל שֶבּירוּשלים, בּמַעֲמַד רָאשֵי המְדינה והמִשפּחוֹת השַכּוּלוֹת
+• לִפנֵי 80 שנה בּדיוּק, בּמוֹצָאֵי יום הכִּיפּוּרים תש&quot;ז (1946), הוּקמוּ בַּנֶגֶב &quot;11 הנְקוּדוֹת&quot;
+• בּסוֹף השָבוּעַ יַתחִיל חַג הסוּכּוֹת, והוּא יִימָשֵך שִבעָה יָמים
+• התִַחֲזית: יְרידה קַלה בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/22-9-26.m4a" length="2112302" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 21.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3490570.html</link>
-      <pubDate>Tue, 22 Sep 2026 00:29:59 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Tue, 22 Sep 2026 05:44:23 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">58c1fd87-1db4-4aa3-bffd-9bd2a6f4c9ff-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 21 Sep 2026 21:00 IDT.
 
@@ -46,30 +68,30 @@ Nach schwerer CDU-Wahlniederlage in Mecklenburg-Vorpommern: Kanzler Merz bekräf
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-2026-1100.mp3" length="15069089" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 03:00): Die Nachrichten vom 22.09.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42234.html</link>
-      <pubDate>Tue, 22 Sep 2026 00:28:59 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">ace3a7e6-4760-5743-9dae-dd064a3b44c7</guid>
-      <description>Originally published Tue 22 Sep 2026 03:00 IDT.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/22/nachrichten_dlf_20260922_0200_5f698b50.mp3?refId=nachrichten-108" length="4962617" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 08:42): Morgenjournal um 7 (22.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-22092026</link>
+      <pubDate>Tue, 22 Sep 2026 05:43:23 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_64e0b4483fae40329702b11df4fa2776</guid>
+      <description>Originally published Tue 22 Sep 2026 08:42 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_64e0b4483fae40329702b11df4fa2776.mp3?etag=9c2e69f4f3b495eeca1487e5d03e7425" length="48222780" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:32): Abendjournal um 18 (21.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-21092026</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:59 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_bfb3643268b3416db542e41aa89665fb</guid>
-      <description>Originally published Mon 21 Sep 2026 19:32 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bfb3643268b3416db542e41aa89665fb.mp3?etag=5c2d5de2b96717691044eaa0a1197da5" length="36362035" type="audio/mpeg"/>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 08:30): Die Nachrichten vom 22.09.2026, 07:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42252.html</link>
+      <pubDate>Tue, 22 Sep 2026 05:42:23 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">5cee74de-3000-5c56-82cf-bd5952618efc</guid>
+      <description>Originally published Tue 22 Sep 2026 08:30 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/22/nachrichten_dlf_20260922_0730_ce97bedd.mp3?refId=nachrichten-108" length="4908700" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Reaktion zur Berlin-Wahl | Wirtschaft zu Vergesellschaftung | Bilanz Bezahlkarte</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/reaktion-berlin-wahl-enteignung-bilanz-bezahlkarte.html</link>
-      <pubDate>Tue, 22 Sep 2026 00:26:59 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Tue, 22 Sep 2026 05:41:23 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/91/8f/918fb219-0a7d-4f0b-a4d8-93c18d24b04e/918fb219-0a7d-4f0b-a4d8-93c18d24b04e_mp3-256kd.mp3</guid>
       <description>Originally published Mon 21 Sep 2026 19:17 IDT.
 
@@ -81,8 +103,8 @@ Die Linke hat bei der Berlin-Wahl auch einst gr&amp;#252;ne Hochburgen erobern k
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 18:45): Respekt für Beschäftigte&quot; - Automobil-Aktionstag der IG Metall</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/respekt-fuer-beschaeftigte-automobil-aktionstag-der-ig-metall/2122317</link>
-      <pubDate>Tue, 22 Sep 2026 00:25:59 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 22 Sep 2026 05:40:23 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">49f34e33-0fcc-42cd-8a9d-6ab5a4376887</guid>
       <description>Originally published Mon 21 Sep 2026 18:45 IDT.
 
@@ -90,19 +112,19 @@ Zukunft statt Kahlschlag: Zusammenhalt ist unsere stärkste Marke&quot; - unter 
       <enclosure url="https://media.neuland.br.de/file/2122317/c/feed/respekt-fuer-beschaeftigte-automobil-aktionstag-der-ig-metall.mp3" length="8328620" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:27): Typhoon hits Japan causing landslides and cancelled flights</title>
-      <link>http://www.bbc.co.uk/programmes/p0pbs229</link>
-      <pubDate>Tue, 22 Sep 2026 00:24:59 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pbs229</guid>
-      <description>Originally published Mon 21 Sep 2026 18:27 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:23): US media outlets take legal action after White House ban</title>
+      <link>http://www.bbc.co.uk/programmes/p0pbtmfl</link>
+      <pubDate>Tue, 22 Sep 2026 05:39:23 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pbtmfl</guid>
+      <description>Originally published Tue 22 Sep 2026 07:23 IDT.
 
-&lt;p&gt;A powerful typhoon passing Japan's east coast is bringing heavy rainfall and major disruption. More than 1.9 million people in and around Tokyo have been told to evacuate. Winds from Typhoon Dujuan have caused power cuts for thousands of people, and hundreds of flights have been cancelled. Large events - including the Asian Games and Tokyo Game Show - have been postponed or called off.&lt;/p&gt;&lt;p&gt;Also in this podcast: Nearly 500 people have been arrested in a major transatlantic operation targeting criminal gangs; officials in Gaza have announced plans to demolish more than 250 buildings; Vladimir Putin's political party is on course to retain its majority in Russia's parliamentary elections; a new trial aims to help dementia patients remain in their own homes and out of care facilities; and how arguments over sunbeds on European beaches have turned deadly.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Several US news organisations have temporarily stopped their pooled coverage of White House events, after Donald Trump revoked access for CNN, Politico and MS NOW. The president accused them of writing &quot;lies&quot; about him. Donald Trump has launched his own TV channel in response. Also, the UK's prime minister Andy Burnham has said Britain will provide &quot;defensive air-to-air refuelling&quot; support for Saudi Arabia. World leaders are gathering in New York City for the UN General Assembly. Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates, and says he is open to reform. A Rwandan man has become the first person charged in the UK with offences relating to the 1994 Rwanda genocide. Lithuania's prime minister has told the BBC his country has made evacuation plans in the face of threats from Russia. The media giant Paramount Skydance has reached a settlement with a California-led group of US states. Darts world champion Luke Littler has threatened to stop playing in the Netherlands after being booed and whistled at in Amsterdam.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Pedestrians wait at Shibuya crossing under heavy rainfall triggered by Typhoon Dujuan in Tokyo.
-Credit: Franck Robichon - EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbs1dv.mp3" length="12800000" type="audio/mpeg"/>
+Photo: MS NOW journalist Vaughn Hillyard outside the White House after US President Trump barred reporters from MS NOW, CNN and Politico from entering the White House press room
+Credit: EPA/Shuttershock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbtmd9.mp3" length="12960000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
