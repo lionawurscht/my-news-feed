@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 22 Sep 2026 05:47:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:51:30 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 08:06): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3491008.html</link>
-      <pubDate>Tue, 22 Sep 2026 05:47:23 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 12:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3491582.html</link>
+      <pubDate>Tue, 22 Sep 2026 10:51:30 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">81840194-2b24-407f-9781-2b8531cc78bd</guid>
-      <description>Originally published Tue 22 Sep 2026 08:06 IDT.
+      <guid isPermaLink="false">3d819cb4-1024-49a7-b177-e0c173af78fa</guid>
+      <description>Originally published Tue 22 Sep 2026 12:05 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0922/AU-20260922-0706-0900.mp3" length="2688907" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0922/AU-20260922-1105-2000.mp3" length="2011531" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 08:10): NPR News: 09-22-2026 1AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 13:10): NPR News: 09-22-2026 6AM EDT</title>
       <link/>
-      <pubDate>Tue, 22 Sep 2026 05:46:23 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 10:50:30 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">eb4e3ccd-976d-4d86-a37f-c88d98022143</guid>
-      <description>Originally published Tue 22 Sep 2026 08:10 IDT.
+      <guid isPermaLink="false">6355c77d-b7f4-4a6b-b813-3c54e399a67d</guid>
+      <description>Originally published Tue 22 Sep 2026 13:10 IDT.
 
-NPR News: 09-22-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/12417863-ff57-4ae2-ba92-f35e814024ee/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=12417863-ff57-4ae2-ba92-f35e814024ee&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260922-0100-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-22-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/edd48bd5-2839-4850-a7df-1255a02f0d85/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=edd48bd5-2839-4850-a7df-1255a02f0d85&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260922-0600-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[HE|Overview] חדשון בעברית קלה (Tue 08:00): חדשון בעברית קלה (22/09/2026)</title>
       <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Tue, 22 Sep 2026 05:45:23 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 10:49:30 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/22-9-26.m4a</guid>
       <description>Originally published Tue 22 Sep 2026 08:00 IDT.
@@ -59,7 +59,7 @@ NPR News: 09-22-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https:/
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 21.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3490570.html</link>
-      <pubDate>Tue, 22 Sep 2026 05:44:23 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 10:48:30 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">58c1fd87-1db4-4aa3-bffd-9bd2a6f4c9ff-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 21 Sep 2026 21:00 IDT.
@@ -68,30 +68,41 @@ Nach schwerer CDU-Wahlniederlage in Mecklenburg-Vorpommern: Kanzler Merz bekräf
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0921/AU-20260921-2026-1100.mp3" length="15069089" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 08:42): Morgenjournal um 7 (22.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-22092026</link>
-      <pubDate>Tue, 22 Sep 2026 05:43:23 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 13:30): Die Nachrichten vom 22.09.2026, 12:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42272.html</link>
+      <pubDate>Tue, 22 Sep 2026 10:47:30 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_64e0b4483fae40329702b11df4fa2776</guid>
-      <description>Originally published Tue 22 Sep 2026 08:42 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_64e0b4483fae40329702b11df4fa2776.mp3?etag=9c2e69f4f3b495eeca1487e5d03e7425" length="48222780" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 08:30): Die Nachrichten vom 22.09.2026, 07:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42252.html</link>
-      <pubDate>Tue, 22 Sep 2026 05:42:23 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">5cee74de-3000-5c56-82cf-bd5952618efc</guid>
-      <description>Originally published Tue 22 Sep 2026 08:30 IDT.
+      <guid isPermaLink="false">08a85922-3b5e-5e30-9f93-bec1a9c40800</guid>
+      <description>Originally published Tue 22 Sep 2026 13:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/22/nachrichten_dlf_20260922_0730_ce97bedd.mp3?refId=nachrichten-108" length="4908700" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/22/nachrichten_dlf_20260922_1230_15aa52c4.mp3?refId=nachrichten-108" length="5003995" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:27): Morgenjournal um 8 (22.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-22092026</link>
+      <pubDate>Tue, 22 Sep 2026 10:46:30 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_2683dd6347d741fda41c9faeb83814e8</guid>
+      <description>Originally published Tue 22 Sep 2026 09:27 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2683dd6347d741fda41c9faeb83814e8.mp3?etag=af8b2fc9b60d461094cc4364411ec8b1" length="29208456" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 10:00): Weiterer AfD-Erfolg: Was die Wahlen für die Bundesregierung bedeuten</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/weiterer-afd-erfolg-was-die-wahlen-fuer-die-bundesregierung-bedeuten/2122335</link>
+      <pubDate>Tue, 22 Sep 2026 10:45:30 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">2b99e7f2-547d-482d-bef6-ab92d713f976</guid>
+      <description>Originally published Tue 22 Sep 2026 10:00 IDT.
+
+Tag zwei nach den Landtagswahlen: In Berlin feierte die Linke, in Mecklenburg-Vorpommern die AfD.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122335/c/feed/weiterer-afd-erfolg-was-die-wahlen-fuer-die-bundesregierung-bedeuten.mp3" length="8397740" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Reaktion zur Berlin-Wahl | Wirtschaft zu Vergesellschaftung | Bilanz Bezahlkarte</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/reaktion-berlin-wahl-enteignung-bilanz-bezahlkarte.html</link>
-      <pubDate>Tue, 22 Sep 2026 05:41:23 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 22 Sep 2026 10:44:30 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/91/8f/918fb219-0a7d-4f0b-a4d8-93c18d24b04e/918fb219-0a7d-4f0b-a4d8-93c18d24b04e_mp3-256kd.mp3</guid>
       <description>Originally published Mon 21 Sep 2026 19:17 IDT.
 
@@ -101,20 +112,9 @@ Die Linke hat bei der Berlin-Wahl auch einst gr&amp;#252;ne Hochburgen erobern k
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/91/8f/918fb219-0a7d-4f0b-a4d8-93c18d24b04e/918fb219-0a7d-4f0b-a4d8-93c18d24b04e_mp3-256kd.mp3" length="29967109" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 18:45): Respekt für Beschäftigte&quot; - Automobil-Aktionstag der IG Metall</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/respekt-fuer-beschaeftigte-automobil-aktionstag-der-ig-metall/2122317</link>
-      <pubDate>Tue, 22 Sep 2026 05:40:23 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">49f34e33-0fcc-42cd-8a9d-6ab5a4376887</guid>
-      <description>Originally published Mon 21 Sep 2026 18:45 IDT.
-
-Zukunft statt Kahlschlag: Zusammenhalt ist unsere stärkste Marke&quot; - unter diesem Motto hat die IG-Metall bundesweit Mitarbeiterinnen und Mitarbeiter der Autobranche mobilisiert.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122317/c/feed/respekt-fuer-beschaeftigte-automobil-aktionstag-der-ig-metall.mp3" length="8328620" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:23): US media outlets take legal action after White House ban</title>
       <link>http://www.bbc.co.uk/programmes/p0pbtmfl</link>
-      <pubDate>Tue, 22 Sep 2026 05:39:23 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 10:43:30 +0000</pubDate>
       <itunes:episode>9</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pbtmfl</guid>
       <description>Originally published Tue 22 Sep 2026 07:23 IDT.
