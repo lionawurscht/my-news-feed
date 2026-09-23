@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 18:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:59:25 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,42 +13,42 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 15:35): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3494408.html</link>
-      <pubDate>Wed, 23 Sep 2026 18:11:38 +0000</pubDate>
-      <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">b5afb402-1e34-4c87-8150-4feb37752328</guid>
-      <description>Originally published Wed 23 Sep 2026 15:35 IDT.
-
-tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0923/AU-20260923-1435-4300.mp3" length="1972754" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|Overview] NPR News Now (Wed 21:10): NPR News: 09-23-2026 2PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Thu 00:10): NPR News: 09-23-2026 5PM EDT</title>
       <link/>
-      <pubDate>Wed, 23 Sep 2026 18:10:38 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">41fb75b9-04a8-4976-8ad4-9bd5aef3e3e0</guid>
-      <description>Originally published Wed 23 Sep 2026 21:10 IDT.
+      <pubDate>Wed, 23 Sep 2026 21:59:25 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">ae983a83-e3a3-480c-9961-106f844851cc</guid>
+      <description>Originally published Thu 24 Sep 2026 00:10 IDT.
 
-NPR News: 09-23-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/093f3c09-346f-4811-a767-8611bfb5be68/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=093f3c09-346f-4811-a767-8611bfb5be68&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260923-1400-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-23-2026 5PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c8e0ea87-85af-40e7-9ff3-68d9a15fe1aa/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c8e0ea87-85af-40e7-9ff3-68d9a15fe1aa&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260923-1700-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 20:00): Die Nachrichten vom 23.09.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42374.html</link>
-      <pubDate>Wed, 23 Sep 2026 18:09:38 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 23.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3495160.html</link>
+      <pubDate>Wed, 23 Sep 2026 21:58:25 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">ba6e45a7-94ef-4b4d-b93a-754681c92e10-SENDUNGSAUDIO</guid>
+      <description>Originally published Wed 23 Sep 2026 21:00 IDT.
+
+Bundesregierung will härtere Strafen für Nutzung von K.o.-Tropfen durchsetzen, Regierung verschärft mit Zehn-Punkte-Aktionsplan Vorgehen gegen Sozialbetrug, Berlin zieht offenbar Olympia-Bewerbung zurück, OECD hebt Konjunkturprognose für deutsche und Weltwirtschaft an, IG Metall will fünf Prozent mehr Lohn für Beschäftigte in der Metall- und Elektroindustrie, Zweiter Tag der UN-Vollversammlung: Internationale Konflikte bestimmen weiter die Generaldebatte, Ehemaliger US-Filmproduzent Weinstein wegen Sexualverbrechens ermeut verurteilt, Deutsche Nationalmannschaft startet in die Nations League, Tag der Gebärdensprache beleuchtet die Arbeit von Gebärdendolmetschern, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0923/AU-20260923-2025-2100.mp3" length="14989592" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 00:00): Die Nachrichten vom 23.09.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42382.html</link>
+      <pubDate>Wed, 23 Sep 2026 21:57:25 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">9338b3b2-a4e8-5b8a-ae2a-21a5d811017a</guid>
-      <description>Originally published Wed 23 Sep 2026 20:00 IDT.
+      <guid isPermaLink="false">ebdaf7c4-10b3-578c-a0b2-ef4e4a5e79c5</guid>
+      <description>Originally published Thu 24 Sep 2026 00:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/23/nachrichten_dlf_20260923_1900_9b35bd36.mp3?refId=nachrichten-108" length="5016116" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/23/nachrichten_dlf_20260923_2300_f6117630.mp3?refId=nachrichten-108" length="9857755" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:31): Abendjournal um 18 (23.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-23092026</link>
-      <pubDate>Wed, 23 Sep 2026 18:08:38 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 21:56:25 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_00b79b9f3fe54a05a850917c9149d687</guid>
       <description>Originally published Wed 23 Sep 2026 19:31 IDT.</description>
@@ -57,7 +57,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:18): berlin zieht olympia bewerbung zurueck tu gebaeude schule gegen rassismus</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/berlin-zieht-olympia-bewerbung-zurueck-tu-gebaeude-schule-gegen-.html</link>
-      <pubDate>Wed, 23 Sep 2026 18:07:38 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 21:55:25 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/93/24/9324bc10-29d9-4648-baee-23d93614363d/9324bc10-29d9-4648-baee-23d93614363d_mp3-256kd.mp3</guid>
       <description>Originally published Wed 23 Sep 2026 19:18 IDT.
@@ -69,7 +69,7 @@ Der Streit um mutma&amp;#223;lichen Antisemitismus in der Linkspartei rei&amp;#2
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Extremwetter: Wie können wir uns besser schützen?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/extremwetter-wie-koennen-wir-uns-besser-schuetzen/2122393</link>
-      <pubDate>Wed, 23 Sep 2026 18:06:38 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 21:54:25 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">536ad99c-df22-4724-bbb7-b443faef3139</guid>
       <description>Originally published Wed 23 Sep 2026 19:00 IDT.
@@ -80,7 +80,7 @@ Hinter uns liegt ein Sommer der Extreme - mit Temperaturrekorden, Trockenheit un
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:48): Gunmen attack South African house party</title>
       <link>http://www.bbc.co.uk/programmes/p0pc29mb</link>
-      <pubDate>Wed, 23 Sep 2026 18:05:38 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 21:53:25 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pc29mb</guid>
       <description>Originally published Wed 23 Sep 2026 17:48 IDT.
