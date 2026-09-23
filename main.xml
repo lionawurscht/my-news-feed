@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 01:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:14:00 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 03:07): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3493086.html</link>
-      <pubDate>Wed, 23 Sep 2026 01:11:30 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 10:06): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3493632.html</link>
+      <pubDate>Wed, 23 Sep 2026 07:14:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">390121f7-6ac7-49c8-9e87-89e034cd714b</guid>
-      <description>Originally published Wed 23 Sep 2026 03:07 IDT.
+      <guid isPermaLink="false">40827d99-591a-44ac-9d0a-3c670defb911</guid>
+      <description>Originally published Wed 23 Sep 2026 10:06 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0923/AU-20260923-0207-3500.mp3" length="2205067" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0923/AU-20260923-0905-5500.mp3" length="2679307" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 04:10): NPR News: 09-22-2026 9PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 10:10): NPR News: 09-23-2026 3AM EDT</title>
       <link/>
-      <pubDate>Wed, 23 Sep 2026 01:10:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 07:13:00 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">b69ef59e-60a3-4eb1-a74f-3b7b34b09181</guid>
-      <description>Originally published Wed 23 Sep 2026 04:10 IDT.
+      <guid isPermaLink="false">17388c0f-9c63-4a8a-b2d6-e5862ba78f6c</guid>
+      <description>Originally published Wed 23 Sep 2026 10:10 IDT.
 
-NPR News: 09-22-2026 9PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f83437c0-fc05-4120-ab7f-28707c19d4b9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f83437c0-fc05-4120-ab7f-28707c19d4b9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260922-2100-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-23-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b93b0b6f-37a1-4f42-aa97-69772770f94d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b93b0b6f-37a1-4f42-aa97-69772770f94d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260923-0300-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 22.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3492858.html</link>
-      <pubDate>Wed, 23 Sep 2026 01:09:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 07:12:00 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d78dd4c0-e9ff-482c-85cb-acfca49635bf-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 22 Sep 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Kanzler Merz trifft sich nach historischer Wahlniederlage der CDU mit Abgeordnet
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0922/AU-20260922-2025-2400.mp3" length="15189281" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 03:00): Die Nachrichten vom 23.09.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42312.html</link>
-      <pubDate>Wed, 23 Sep 2026 01:08:30 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 09:30): Die Nachrichten vom 23.09.2026, 08:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42334.html</link>
+      <pubDate>Wed, 23 Sep 2026 07:11:00 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">b8710933-8cc4-5ffc-af7a-b880ae739694</guid>
-      <description>Originally published Wed 23 Sep 2026 03:00 IDT.
+      <guid isPermaLink="false">d073ae7c-4f21-5aa3-8221-19a03a121848</guid>
+      <description>Originally published Wed 23 Sep 2026 09:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/23/nachrichten_dlf_20260923_0200_4b8fe518.mp3?refId=nachrichten-108" length="5044119" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/23/nachrichten_dlf_20260923_0830_cff4f4d4.mp3?refId=nachrichten-108" length="5010264" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:31): Abendjournal um 18 (22.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-22092026</link>
-      <pubDate>Wed, 23 Sep 2026 01:07:30 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (23.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-23092026</link>
+      <pubDate>Wed, 23 Sep 2026 07:10:00 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_0d442abe3c90469e9a2b9c13a0a7ccf8</guid>
-      <description>Originally published Tue 22 Sep 2026 19:31 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_0d442abe3c90469e9a2b9c13a0a7ccf8.mp3?etag=08678ad382fc686142c309fa204b494e" length="36265747" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_72a0ce949ed04690a906a6ee7cc3b033</guid>
+      <description>Originally published Wed 23 Sep 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_72a0ce949ed04690a906a6ee7cc3b033.mp3?etag=75b76656db5d5fbd1b128574e149275e" length="29185393" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 20:00): Miese Ergebnisse in Sachsen-Anhalt, Mecklenburg-Vorpommern und Berlin. Was bedeutet das für die Union generell und was für die schwarz-rote Regierungskoalition?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/miese-ergebnisse-in-sachsen-anhalt-mecklenburg-vorpommern-und-berlin-was-bedeutet-das-fuer-die-union-generell-und-was-fuer-die-schwarz-rote-regierungskoalition/2122352</link>
-      <pubDate>Wed, 23 Sep 2026 01:06:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 07:09:00 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">0164d257-f5c8-4aef-b877-4cef5058ce33</guid>
       <description>Originally published Tue 22 Sep 2026 20:00 IDT.
@@ -79,7 +79,7 @@ Miese Ergebnisse in Sachsen-Anhalt, Mecklenburg-Vorpommern und Berlin. Was bedeu
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Saleh wirft hin | Wahl in den Bezirken | Neuer Ferienpark bei Lieske?</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/saleh-wirft-hin-berlin-wahl-in-bezirken-tankrabatt-brandenburg-center-parcs-lieske.html</link>
-      <pubDate>Wed, 23 Sep 2026 01:05:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 07:08:00 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3a/c6/3ac6ca10-d6b4-4316-9241-5155323dcabc/3ac6ca10-d6b4-4316-9241-5155323dcabc_mp3-256kd.mp3</guid>
       <description>Originally published Tue 22 Sep 2026 19:17 IDT.
@@ -90,19 +90,18 @@ Gerade mal 12 Prozent haben ihr Kreuz bei der SPD gemacht bei der Abgeordnetenha
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/3a/c6/3ac6ca10-d6b4-4316-9241-5155323dcabc/3ac6ca10-d6b4-4316-9241-5155323dcabc_mp3-256kd.mp3" length="30873417" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 17:47): UN accuses Nicaragua of crimes against humanity</title>
-      <link>http://www.bbc.co.uk/programmes/p0pbx93f</link>
-      <pubDate>Wed, 23 Sep 2026 01:04:30 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:28): US and Iran hold talks on sidelines of UN General Assembly</title>
+      <link>http://www.bbc.co.uk/programmes/p0pbzgv1</link>
+      <pubDate>Wed, 23 Sep 2026 07:07:00 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pbx93f</guid>
-      <description>Originally published Tue 22 Sep 2026 17:47 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pbzgv1</guid>
+      <description>Originally published Wed 23 Sep 2026 07:28 IDT.
 
-&lt;p&gt;Nicaraguan authorities are alleged to have carried out enforced disappearances, torture and arbitrary detention of political opponents as part of widespread and systematic attacks on civilians. Also: weather experts warn that the El Niño developing in the Pacific Ocean is already the strongest ever recorded. The Star Wars museum, housing George Lucas' vast art collection, finally opens in Los Angeles. The purchase of a 17th-century painting in the Netherlands reignites debate about the origins of golf. A study by the University of Cambridge reveals baby girls tend to be more people-focused than boys from the first hours of their lives. How to make driverless cabs less enticing venues for backseat romance. And wildcats, long considered functionally extinct, are being successfully reintroduced to the Cairngorm Mountains in Scotland. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;President Donald Trump says talks held in New York between US and Iranian officials were productive. Earlier in a speech to the UN General Assembly he threatened to annihilate Iran if a deal was not agreed. Also: the US introduces global sanctions that could ground most Iranian aircraft.  A Sri Lankan court hands long prison sentences to 15 men in connection with the Easter Sunday bomb attacks in 2019 that killed 270 people. The British broadcaster Piers Morgan calls for a newly-released book by Earl Spencer about Princess Diana to be pulled from the shelves because of a factual error. Colombia's president sends the army into a city on the Caribbean coast to quell attacks by an armed group there. Scientists warn that the current El Nino weather system hasn't finished setting new records. A Ghanaian entrepreneur turns waste plastic into school desks. And a six-year-old girl sets a new women's world record for solving the Rubik's Cube.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Nicaragua's President Daniel Ortega with a Nicaraguan flag. 
-Credit: Leonardo Fernández Viloria - Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbx7j0.mp3" length="13520000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: US President Donald Trump at the United Nations General Assembly in New York
+Credit: Toby Melville/PA Wire&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbzgmb.mp3" length="13176000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
