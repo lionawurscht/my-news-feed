@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:17:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:11:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 15:35): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3494408.html</link>
-      <pubDate>Wed, 23 Sep 2026 13:17:08 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 18:11:38 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">b5afb402-1e34-4c87-8150-4feb37752328</guid>
       <description>Originally published Wed 23 Sep 2026 15:35 IDT.
@@ -24,84 +24,72 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0923/AU-20260923-1435-4300.mp3" length="1972754" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 16:10): NPR News: 09-23-2026 9AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 21:10): NPR News: 09-23-2026 2PM EDT</title>
       <link/>
-      <pubDate>Wed, 23 Sep 2026 13:16:08 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 18:10:38 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">5e3f8698-3e9c-4cd5-b9e4-c905e7ba0aec</guid>
-      <description>Originally published Wed 23 Sep 2026 16:10 IDT.
+      <guid isPermaLink="false">41fb75b9-04a8-4976-8ad4-9bd5aef3e3e0</guid>
+      <description>Originally published Wed 23 Sep 2026 21:10 IDT.
 
-NPR News: 09-23-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/95f3eba6-29af-46ae-ae4b-c1e150165f50/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=95f3eba6-29af-46ae-ae4b-c1e150165f50&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260923-0900-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-23-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/093f3c09-346f-4811-a767-8611bfb5be68/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=093f3c09-346f-4811-a767-8611bfb5be68&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260923-1400-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 22.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3492858.html</link>
-      <pubDate>Wed, 23 Sep 2026 13:15:08 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 20:00): Die Nachrichten vom 23.09.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42374.html</link>
+      <pubDate>Wed, 23 Sep 2026 18:09:38 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">d78dd4c0-e9ff-482c-85cb-acfca49635bf-SENDUNGSAUDIO</guid>
-      <description>Originally published Tue 22 Sep 2026 21:00 IDT.
-
-Kanzler Merz trifft sich nach historischer Wahlniederlage der CDU mit Abgeordneten der Unionsfraktion, Bundesregierung bringt angekündigten Tankrabatt auf den Weg, Linken-Bundestagsabeordneter Ferat Koçak zieht sich vorerst aus der Öffentlichkeit zurück, Auftakt der UN-Generaldebatte in New York, USA schließen Sicherheitsabkommen mit Dänemark und Grönland, EU verlängert Russland-Sanktionen um drei Jahre, Militärflugzeug bei US-Airbase Spangdahlem in der Eifel abgestürzt, Gründung einer Allianz für Frauengesundheit in Berlin, Star-Wars-Produzent und -Drehbuchautor George Lucas eröffnet eigenes Museum, Alexander Blessin wird neuer Trainer bei Fußball-Bundesligist Borussia Mönchengladbach, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0922/AU-20260922-2025-2400.mp3" length="15189281" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 16:00): Die Nachrichten vom 23.09.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42360.html</link>
-      <pubDate>Wed, 23 Sep 2026 13:14:08 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">14e4d5da-09f2-5b2f-906e-9889e5936da8</guid>
-      <description>Originally published Wed 23 Sep 2026 16:00 IDT.
+      <guid isPermaLink="false">9338b3b2-a4e8-5b8a-ae2a-21a5d811017a</guid>
+      <description>Originally published Wed 23 Sep 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/23/nachrichten_dlf_20260923_1500_a25a05a8.mp3?refId=nachrichten-108" length="4987277" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/23/nachrichten_dlf_20260923_1900_9b35bd36.mp3?refId=nachrichten-108" length="5016116" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 14:13): Mittagsjournal (23.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-23092026</link>
-      <pubDate>Wed, 23 Sep 2026 13:13:08 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:31): Abendjournal um 18 (23.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-23092026</link>
+      <pubDate>Wed, 23 Sep 2026 18:08:38 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_00b79b9f3fe54a05a850917c9149d687</guid>
+      <description>Originally published Wed 23 Sep 2026 19:31 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_00b79b9f3fe54a05a850917c9149d687.mp3?etag=a550824920106620a52aeca8755c0771" length="36266900" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:18): berlin zieht olympia bewerbung zurueck tu gebaeude schule gegen rassismus</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/berlin-zieht-olympia-bewerbung-zurueck-tu-gebaeude-schule-gegen-.html</link>
+      <pubDate>Wed, 23 Sep 2026 18:07:38 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_2e09c5254a2a423f87c989e6a7391452</guid>
-      <description>Originally published Wed 23 Sep 2026 14:13 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2e09c5254a2a423f87c989e6a7391452.mp3?etag=4e49382faa3ff402ae634dcf2cfad257" length="86955422" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 01:00): Trump und der Iran-Krieg: Was Gespräche bei der UN-Vollversammlung bringen könnten</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/trump-und-der-iran-krieg-was-gespraeche-bei-der-un-vollversammlung-bringen-koennten/2122374</link>
-      <pubDate>Wed, 23 Sep 2026 13:12:08 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">f1c48124-b290-4fb8-bf7a-4865e6d0f4d1</guid>
-      <description>Originally published Wed 23 Sep 2026 01:00 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/93/24/9324bc10-29d9-4648-baee-23d93614363d/9324bc10-29d9-4648-baee-23d93614363d_mp3-256kd.mp3</guid>
+      <description>Originally published Wed 23 Sep 2026 19:18 IDT.
 
-Der Irankrieg hat großen Raum in der Rede von US-Präsident Donald Trump vor den Vereinten Nationen eingenommen. Heute wird mit Spannung der Auftritt des iranischen Präsidenten vor der UN-Vollversammlung erwartet.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122374/c/feed/trump-und-der-iran-krieg-was-gespraeche-bei-der-un-vollversammlung-bringen-koennten.mp3" length="8780972" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Saleh wirft hin | Wahl in den Bezirken | Neuer Ferienpark bei Lieske?</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/saleh-wirft-hin-berlin-wahl-in-bezirken-tankrabatt-brandenburg-center-parcs-lieske.html</link>
-      <pubDate>Wed, 23 Sep 2026 13:11:08 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3a/c6/3ac6ca10-d6b4-4316-9241-5155323dcabc/3ac6ca10-d6b4-4316-9241-5155323dcabc_mp3-256kd.mp3</guid>
-      <description>Originally published Tue 22 Sep 2026 19:17 IDT.
-
-Gerade mal 12 Prozent haben ihr Kreuz bei der SPD gemacht bei der Abgeordnetenhauswahl am Sonntag - ein historisch schlechtes Ergebnis. Jetzt wirft der langj&amp;#228;hrige Fraktionschef Raed Saleh hin: Er will nicht mehr kandidieren. Die W&amp;#228;hlergunst hat sich klar verschoben, hin zur Linken und zur AfD, weg von CDU, SPD und Gr&amp;#252;nen - das zeigt sich auch bei der Wahl zu den Bezirksverordneten-Versammlungen. In Brandenburg sorgt sich die Politik gerade darum, woher sie das Geld f&amp;#252;r den neuen Tankrabatt nehmen soll, den die Bundesregierung beschlossen hat. Und das Tourismus-Unternehmen Center Parcs will in der N&amp;#228;he von Lieske im Lausitzer Seenland eine Ferienanlage mit bis zu 700 Ferienh&amp;#228;usern bauen - doch erst mal laufen daf&amp;#252;r Machbarkeitsstudien.
-
+Der Streit um mutma&amp;#223;lichen Antisemitismus in der Linkspartei rei&amp;#223;t nicht ab. Nun liegt ein Parteiausschlussverfahren gegen Hannah Bruns vor. Sie engagiert sich in der Landesarbeitsgemeinschaft Pal&amp;#228;stina-Solidarit&amp;#228;t. Weitere Themen der Sendung: Das Land Berlin will nach rbb-Informationen seine Olympia-Bewerbung zur&amp;#252;ckziehen. Und die Technische Universit&amp;#228;t Berlin will im neuen Semester wieder alle Lehrveranstaltungen in Pr&amp;#228;senz anbieten - trotz maroder Geb&amp;#228;ude.
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/3a/c6/3ac6ca10-d6b4-4316-9241-5155323dcabc/3ac6ca10-d6b4-4316-9241-5155323dcabc_mp3-256kd.mp3" length="30873417" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/93/24/9324bc10-29d9-4648-baee-23d93614363d/9324bc10-29d9-4648-baee-23d93614363d_mp3-256kd.mp3" length="31314183" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:28): US and Iran hold talks on sidelines of UN General Assembly</title>
-      <link>http://www.bbc.co.uk/programmes/p0pbzgv1</link>
-      <pubDate>Wed, 23 Sep 2026 13:10:08 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pbzgv1</guid>
-      <description>Originally published Wed 23 Sep 2026 07:28 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Extremwetter: Wie können wir uns besser schützen?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/extremwetter-wie-koennen-wir-uns-besser-schuetzen/2122393</link>
+      <pubDate>Wed, 23 Sep 2026 18:06:38 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">536ad99c-df22-4724-bbb7-b443faef3139</guid>
+      <description>Originally published Wed 23 Sep 2026 19:00 IDT.
 
-&lt;p&gt;President Donald Trump says talks held in New York between US and Iranian officials were productive. Earlier in a speech to the UN General Assembly he threatened to annihilate Iran if a deal was not agreed. Also: the US introduces global sanctions that could ground most Iranian aircraft.  A Sri Lankan court hands long prison sentences to 15 men in connection with the Easter Sunday bomb attacks in 2019 that killed 270 people. The British broadcaster Piers Morgan calls for a newly-released book by Earl Spencer about Princess Diana to be pulled from the shelves because of a factual error. Colombia's president sends the army into a city on the Caribbean coast to quell attacks by an armed group there. Scientists warn that the current El Nino weather system hasn't finished setting new records. A Ghanaian entrepreneur turns waste plastic into school desks. And a six-year-old girl sets a new women's world record for solving the Rubik's Cube.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Hinter uns liegt ein Sommer der Extreme - mit Temperaturrekorden, Trockenheit und Tausenden Hitzetoten. Wie können wir uns in Zukunft besser vor solchen Extrem schützen und uns darauf einstellen?</description>
+      <enclosure url="https://media.neuland.br.de/file/2122393/c/feed/extremwetter-wie-koennen-wir-uns-besser-schuetzen.mp3" length="7965740" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:48): Gunmen attack South African house party</title>
+      <link>http://www.bbc.co.uk/programmes/p0pc29mb</link>
+      <pubDate>Wed, 23 Sep 2026 18:05:38 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pc29mb</guid>
+      <description>Originally published Wed 23 Sep 2026 17:48 IDT.
+
+&lt;p&gt;Gunmen kill 11 people after storming a house in KwaMakhutha township near Durban in South Africa. Police are investigating links to a feud between rival groups, as the nation grapples with sky-high murder rates and violence. Also: the IMF warns that record global debt requires urgent fiscal action, urging economies such as the US and UK to reduce borrowing. China's plans for the future of AI. The family feud over Dolly Parton's estate involving the country music star's nephew Bryan Seaver. Astronomers discover the youngest planet on record, Elias 2-24 b, about 450 light years from Earth. And could the lost hidden tomb of Egyptian queen Nefertiti finally be found?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: US President Donald Trump at the United Nations General Assembly in New York
-Credit: Toby Melville/PA Wire&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbzgmb.mp3" length="13176000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Mass shooting in KwaMakhutha, South Africa, Durban - 23 Sep 2026
+Credit: EPA&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc273z.mp3" length="14312000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
