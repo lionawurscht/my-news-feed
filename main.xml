@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:17:08 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 10:06): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3493632.html</link>
-      <pubDate>Wed, 23 Sep 2026 07:14:00 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 15:35): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3494408.html</link>
+      <pubDate>Wed, 23 Sep 2026 13:17:08 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">40827d99-591a-44ac-9d0a-3c670defb911</guid>
-      <description>Originally published Wed 23 Sep 2026 10:06 IDT.
+      <guid isPermaLink="false">b5afb402-1e34-4c87-8150-4feb37752328</guid>
+      <description>Originally published Wed 23 Sep 2026 15:35 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0923/AU-20260923-0905-5500.mp3" length="2679307" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0923/AU-20260923-1435-4300.mp3" length="1972754" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 10:10): NPR News: 09-23-2026 3AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 16:10): NPR News: 09-23-2026 9AM EDT</title>
       <link/>
-      <pubDate>Wed, 23 Sep 2026 07:13:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 13:16:08 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">17388c0f-9c63-4a8a-b2d6-e5862ba78f6c</guid>
-      <description>Originally published Wed 23 Sep 2026 10:10 IDT.
+      <guid isPermaLink="false">5e3f8698-3e9c-4cd5-b9e4-c905e7ba0aec</guid>
+      <description>Originally published Wed 23 Sep 2026 16:10 IDT.
 
-NPR News: 09-23-2026 3AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b93b0b6f-37a1-4f42-aa97-69772770f94d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b93b0b6f-37a1-4f42-aa97-69772770f94d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260923-0300-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-23-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/95f3eba6-29af-46ae-ae4b-c1e150165f50/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=95f3eba6-29af-46ae-ae4b-c1e150165f50&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260923-0900-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 22.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3492858.html</link>
-      <pubDate>Wed, 23 Sep 2026 07:12:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 13:15:08 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d78dd4c0-e9ff-482c-85cb-acfca49635bf-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 22 Sep 2026 21:00 IDT.
@@ -46,40 +46,40 @@ Kanzler Merz trifft sich nach historischer Wahlniederlage der CDU mit Abgeordnet
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0922/AU-20260922-2025-2400.mp3" length="15189281" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 09:30): Die Nachrichten vom 23.09.2026, 08:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42334.html</link>
-      <pubDate>Wed, 23 Sep 2026 07:11:00 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 16:00): Die Nachrichten vom 23.09.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42360.html</link>
+      <pubDate>Wed, 23 Sep 2026 13:14:08 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">d073ae7c-4f21-5aa3-8221-19a03a121848</guid>
-      <description>Originally published Wed 23 Sep 2026 09:30 IDT.
+      <guid isPermaLink="false">14e4d5da-09f2-5b2f-906e-9889e5936da8</guid>
+      <description>Originally published Wed 23 Sep 2026 16:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/23/nachrichten_dlf_20260923_0830_cff4f4d4.mp3?refId=nachrichten-108" length="5010264" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/23/nachrichten_dlf_20260923_1500_a25a05a8.mp3?refId=nachrichten-108" length="4987277" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (23.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-23092026</link>
-      <pubDate>Wed, 23 Sep 2026 07:10:00 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 14:13): Mittagsjournal (23.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-23092026</link>
+      <pubDate>Wed, 23 Sep 2026 13:13:08 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_72a0ce949ed04690a906a6ee7cc3b033</guid>
-      <description>Originally published Wed 23 Sep 2026 09:26 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_72a0ce949ed04690a906a6ee7cc3b033.mp3?etag=75b76656db5d5fbd1b128574e149275e" length="29185393" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_2e09c5254a2a423f87c989e6a7391452</guid>
+      <description>Originally published Wed 23 Sep 2026 14:13 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2e09c5254a2a423f87c989e6a7391452.mp3?etag=4e49382faa3ff402ae634dcf2cfad257" length="86955422" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 20:00): Miese Ergebnisse in Sachsen-Anhalt, Mecklenburg-Vorpommern und Berlin. Was bedeutet das für die Union generell und was für die schwarz-rote Regierungskoalition?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/miese-ergebnisse-in-sachsen-anhalt-mecklenburg-vorpommern-und-berlin-was-bedeutet-das-fuer-die-union-generell-und-was-fuer-die-schwarz-rote-regierungskoalition/2122352</link>
-      <pubDate>Wed, 23 Sep 2026 07:09:00 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 01:00): Trump und der Iran-Krieg: Was Gespräche bei der UN-Vollversammlung bringen könnten</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/trump-und-der-iran-krieg-was-gespraeche-bei-der-un-vollversammlung-bringen-koennten/2122374</link>
+      <pubDate>Wed, 23 Sep 2026 13:12:08 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">0164d257-f5c8-4aef-b877-4cef5058ce33</guid>
-      <description>Originally published Tue 22 Sep 2026 20:00 IDT.
+      <guid isPermaLink="false">f1c48124-b290-4fb8-bf7a-4865e6d0f4d1</guid>
+      <description>Originally published Wed 23 Sep 2026 01:00 IDT.
 
-Miese Ergebnisse in Sachsen-Anhalt, Mecklenburg-Vorpommern und Berlin. Was bedeutet das für die Union und die Koalition? Dazu sprechen wir sprechen mit unserem Korrespondenten in Berlin. Moderator: Oliver Fritzel, Autor: Joachim Dangel</description>
-      <enclosure url="https://media.neuland.br.de/file/2122352/c/feed/miese-ergebnisse-in-sachsen-anhalt-mecklenburg-vorpommern-und-berlin-was-bedeutet-das-fuer-die-union-generell-und-was-fuer-die-schwarz-rote-regierungskoalition.mp3" length="9461804" type="audio/mpeg"/>
+Der Irankrieg hat großen Raum in der Rede von US-Präsident Donald Trump vor den Vereinten Nationen eingenommen. Heute wird mit Spannung der Auftritt des iranischen Präsidenten vor der UN-Vollversammlung erwartet.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122374/c/feed/trump-und-der-iran-krieg-was-gespraeche-bei-der-un-vollversammlung-bringen-koennten.mp3" length="8780972" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Saleh wirft hin | Wahl in den Bezirken | Neuer Ferienpark bei Lieske?</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/saleh-wirft-hin-berlin-wahl-in-bezirken-tankrabatt-brandenburg-center-parcs-lieske.html</link>
-      <pubDate>Wed, 23 Sep 2026 07:08:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 13:11:08 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3a/c6/3ac6ca10-d6b4-4316-9241-5155323dcabc/3ac6ca10-d6b4-4316-9241-5155323dcabc_mp3-256kd.mp3</guid>
       <description>Originally published Tue 22 Sep 2026 19:17 IDT.
@@ -92,7 +92,7 @@ Gerade mal 12 Prozent haben ihr Kreuz bei der SPD gemacht bei der Abgeordnetenha
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:28): US and Iran hold talks on sidelines of UN General Assembly</title>
       <link>http://www.bbc.co.uk/programmes/p0pbzgv1</link>
-      <pubDate>Wed, 23 Sep 2026 07:07:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 13:10:08 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pbzgv1</guid>
       <description>Originally published Wed 23 Sep 2026 07:28 IDT.
