@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 00:21:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 05:48:21 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 02:58): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3495374.html</link>
-      <pubDate>Thu, 24 Sep 2026 00:21:45 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 08:09): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3495666.html</link>
+      <pubDate>Thu, 24 Sep 2026 05:48:21 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">50aa37d7-1bd0-4da9-825e-3a48450ce046</guid>
-      <description>Originally published Thu 24 Sep 2026 02:58 IDT.
+      <guid isPermaLink="false">ebdfff60-ae66-4e42-bee5-7321df6ae1db</guid>
+      <description>Originally published Thu 24 Sep 2026 08:09 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0924/AU-20260924-0158-2800.mp3" length="2189735" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0924/AU-20260924-0709-1700.mp3" length="2350987" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 03:10): NPR News: 09-23-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Thu 08:10): NPR News: 09-24-2026 1AM EDT</title>
       <link/>
-      <pubDate>Thu, 24 Sep 2026 00:20:45 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 05:47:21 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">51301134-7d91-4dc9-9c48-9edd125c24c7</guid>
-      <description>Originally published Thu 24 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">dbe7e1cd-8efb-4136-ab22-dee873bbd352</guid>
+      <description>Originally published Thu 24 Sep 2026 08:10 IDT.
 
-NPR News: 09-23-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/965b85c0-9e18-4fd5-a480-641acb27e558/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=965b85c0-9e18-4fd5-a480-641acb27e558&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260923-2000-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-24-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/aed306bc-5394-47ec-9b5a-eae193953536/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=aed306bc-5394-47ec-9b5a-eae193953536&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260924-0100-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Thu 08:00): חדשון בעברית קלה (24/09/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Thu, 24 Sep 2026 05:46:21 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/9/24-9-26.m4a</guid>
+      <description>Originally published Thu 24 Sep 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• לוֹחֵם מִילוּאִים, בּנוֹ של יְחִיאֵל לַייטֵר, שַגְרִיר ישׂראל בּארה&quot;ב, נִפצַע אתמול קשֶה מאוד בּפִיגוּעַ דְרִיסָה ליד מַחסוֹם בּכְביש 443. הוא עָבר נִיתוּח בּרֹאשוֹ אך עֲדַיִין נִמצָא בּסכּנת חַיִים
+• רה&quot;מ נתניהו נִמצָא בּדַרכּוֹ לנְיוּ יוֹרְק. הוא יִנאַם העֶרב בּעֲצֶרֶת הכְּלָלית של האוּ&quot;ם ומִיָיד לאַחַר מִכֵּן יָטוּס חֲזָרה לישׂראל
+• המִשטָרָה ומִשמַר הגְבוּל חָשׂפוּ אתמול מִנהָרָה בּקַלקִיליָה, בּעוֹמֶק של לְפָחוֹת 25 מֶטר. בּמִנהרה נִמצְאוּ נֶשֶק ותַחמוֹשֶת. אַרבָּעה חשוּדים נֶעֶצרוּ
+• וַעֲדַת הבְּחִירוֹת פָּסלָה אתמול את המוּעֲמָדוּת לכּנֶסת של שתֵי מִפלָגוֹת ושנֵי אנָשים. הוַועֲדָה תַמשִיך בּדִיוּנֶיהָ היוֹם
+• כִּמעַט שלוֹש שָנים לאַחַר השִבעָה בּאוֹקטוֹבּר: בּאֵזוֹר עוֹטֵף עַזה מִתגוֹרְרים כּיוֹם כּ-66 אֶלף תוֹשָבים, כּ-5,000 יוֹתֵר מאֲשֶר לִפנֵי ה-7 בּאוקטוֹבּר. יוֹתֵר מ-90% מהמְפוּנִים חָזרוּ לבָתֵיהֶם
+• בּסוֹף השָבוּעַ הַבָּא, מִייָד לאַחַר חַג הסוּכּוֹת, יָחוּל חַג שִׂמחַת תוֹרָה
+• התִַחֲזית: ללֹא שִינוּי נִיכּר בּטמפּרטוּרוֹת
+• נָשוּב ונעַדכֵּן בּיוֹם רִאשוֹן, 4/10. חג שָׂמֵחַ ושָקֵט!
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/9/24-9-26.m4a" length="1970013" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 23.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3495160.html</link>
-      <pubDate>Thu, 24 Sep 2026 00:19:45 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Thu, 24 Sep 2026 05:45:21 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">ba6e45a7-94ef-4b4d-b93a-754681c92e10-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 23 Sep 2026 21:00 IDT.
 
@@ -46,30 +68,30 @@ Bundesregierung will härtere Strafen für Nutzung von K.o.-Tropfen durchsetzen,
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0923/AU-20260923-2025-2100.mp3" length="14989592" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 02:59): Die Nachrichten vom 24.09.2026, 01:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42388.html</link>
-      <pubDate>Thu, 24 Sep 2026 00:18:45 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">8d8da3db-9bf5-5745-99af-aa3b501b2759</guid>
-      <description>Originally published Thu 24 Sep 2026 02:59 IDT.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/24/nachrichten_dlf_20260924_0159_b0b63c38.mp3?refId=nachrichten-108" length="5026983" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 08:43): Morgenjournal um 7 (24.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-24092026</link>
+      <pubDate>Thu, 24 Sep 2026 05:44:21 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_bf575231c9f04f47af42af74fe8e6a88</guid>
+      <description>Originally published Thu 24 Sep 2026 08:43 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bf575231c9f04f47af42af74fe8e6a88.mp3?etag=b5e284e84a81b8577c85a7b1f98466c0" length="47903933" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:31): Abendjournal um 18 (23.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-23092026</link>
-      <pubDate>Thu, 24 Sep 2026 00:17:45 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_00b79b9f3fe54a05a850917c9149d687</guid>
-      <description>Originally published Wed 23 Sep 2026 19:31 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_00b79b9f3fe54a05a850917c9149d687.mp3?etag=a550824920106620a52aeca8755c0771" length="36266900" type="audio/mpeg"/>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 08:30): Die Nachrichten vom 24.09.2026, 07:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42406.html</link>
+      <pubDate>Thu, 24 Sep 2026 05:43:21 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">68340c6e-69bb-536a-bbb9-5a9226bc595d</guid>
+      <description>Originally published Thu 24 Sep 2026 08:30 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/24/nachrichten_dlf_20260924_0730_51e46346.mp3?refId=nachrichten-108" length="5039521" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:18): berlin zieht olympia bewerbung zurueck tu gebaeude schule gegen rassismus</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/berlin-zieht-olympia-bewerbung-zurueck-tu-gebaeude-schule-gegen-.html</link>
-      <pubDate>Thu, 24 Sep 2026 00:16:45 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 24 Sep 2026 05:42:21 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/93/24/9324bc10-29d9-4648-baee-23d93614363d/9324bc10-29d9-4648-baee-23d93614363d_mp3-256kd.mp3</guid>
       <description>Originally published Wed 23 Sep 2026 19:18 IDT.
 
@@ -80,8 +102,8 @@ Der Streit um mutma&amp;#223;lichen Antisemitismus in der Linkspartei rei&amp;#2
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Extremwetter: Wie können wir uns besser schützen?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/extremwetter-wie-koennen-wir-uns-besser-schuetzen/2122393</link>
-      <pubDate>Thu, 24 Sep 2026 00:15:45 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Thu, 24 Sep 2026 05:41:21 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">536ad99c-df22-4724-bbb7-b443faef3139</guid>
       <description>Originally published Wed 23 Sep 2026 19:00 IDT.
 
@@ -89,18 +111,19 @@ Hinter uns liegt ein Sommer der Extreme - mit Temperaturrekorden, Trockenheit un
       <enclosure url="https://media.neuland.br.de/file/2122393/c/feed/extremwetter-wie-koennen-wir-uns-besser-schuetzen.mp3" length="7965740" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:48): Gunmen attack South African house party</title>
-      <link>http://www.bbc.co.uk/programmes/p0pc29mb</link>
-      <pubDate>Thu, 24 Sep 2026 00:14:45 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pc29mb</guid>
-      <description>Originally published Wed 23 Sep 2026 17:48 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:27): China's Xi Jinping meets Trump for high-stakes summit</title>
+      <link>http://www.bbc.co.uk/programmes/p0pc5dm6</link>
+      <pubDate>Thu, 24 Sep 2026 05:40:21 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pc5dm6</guid>
+      <description>Originally published Thu 24 Sep 2026 07:27 IDT.
 
-&lt;p&gt;Gunmen kill 11 people after storming a house in KwaMakhutha township near Durban in South Africa. Police are investigating links to a feud between rival groups, as the nation grapples with sky-high murder rates and violence. Also: the IMF warns that record global debt requires urgent fiscal action, urging economies such as the US and UK to reduce borrowing. China's plans for the future of AI. The family feud over Dolly Parton's estate involving the country music star's nephew Bryan Seaver. Astronomers discover the youngest planet on record, Elias 2-24 b, about 450 light years from Earth. And could the lost hidden tomb of Egyptian queen Nefertiti finally be found?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Xi Jinping has arrived in Washington for a three-day state visit and was met by Donald Trump in a rare planeside welcome.  As President Xi touched down, the US treasury secretary announced that a bilateral trade truce has been extended. &lt;/p&gt;&lt;p&gt;Also: The US-backed group, known as the Board of Peace, has presented a partial plan for reconstruction in Gaza, despite the lack of progress in the peace agreement between Israel and Hamas. An AI agent developed by OpenAI hacked Australia's government health website earlier this year, without the company's knowledge. Meta has announced a new model of audio-only smart glasses. Britain has expanded its defence into space, calling it the next battleground. An ancient wall discovered beneath Paris has been described as a “major breakthrough” in archaeology there. France imposes restrictions on the &quot;wrong type&quot; of hikers visiting Mont Blanc...and is bringing an iced coffee to a job interview acceptable or unprofessional?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Mass shooting in KwaMakhutha, South Africa, Durban - 23 Sep 2026
-Credit: EPA&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc273z.mp3" length="14312000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: US President Donald Trump welcomes Chinese President Xi Jinping at Joint Base Andrews, Maryland.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc5djw.mp3" length="12440000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
