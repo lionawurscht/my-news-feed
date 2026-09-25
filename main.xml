@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 22:57:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 01:14:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 23:04): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3497452.html</link>
-      <pubDate>Thu, 24 Sep 2026 22:57:58 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 03:11): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3497568.html</link>
+      <pubDate>Fri, 25 Sep 2026 01:14:38 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">e5b49611-3762-4559-a09b-cf61437cdde1</guid>
-      <description>Originally published Thu 24 Sep 2026 23:04 IDT.
+      <guid isPermaLink="false">cef556b7-ba49-48a6-bdab-5982d113039d</guid>
+      <description>Originally published Fri 25 Sep 2026 03:11 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0924/AU-20260924-2204-0000.mp3" length="1837579" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0925/AU-20260925-0211-4200.mp3" length="2034187" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 01:11): NPR News: 09-24-2026 6PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 04:11): NPR News: 09-24-2026 9PM EDT</title>
       <link/>
-      <pubDate>Thu, 24 Sep 2026 22:56:58 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 01:13:38 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">79a0dbd5-4e1f-4dc4-af91-262681e603b2</guid>
-      <description>Originally published Fri 25 Sep 2026 01:11 IDT.
+      <guid isPermaLink="false">098dc621-070d-4327-908b-3c45aa886c1d</guid>
+      <description>Originally published Fri 25 Sep 2026 04:11 IDT.
 
-NPR News: 09-24-2026 6PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b368e506-5283-4ee0-a03f-ec03f9dc3f99/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b368e506-5283-4ee0-a03f-ec03f9dc3f99&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260924-1800-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-24-2026 9PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d885a17c-468f-42d3-bb0d-1e41c5a1b04b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d885a17c-468f-42d3-bb0d-1e41c5a1b04b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260924-2100-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 24.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3497414.html</link>
-      <pubDate>Thu, 24 Sep 2026 22:55:58 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 01:12:38 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">9190dcf8-3f4b-41b6-84d5-70f245e706ee-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 24 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Laut Herbstprognose stärkeres Wirtschaftswachstum als erwartet, Unternehmen Zie
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0924/AU-20260924-2026-5500.mp3" length="15058722" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 00:00): Die Nachrichten vom 24.09.2026, 23:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42458.html</link>
-      <pubDate>Thu, 24 Sep 2026 22:54:58 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 04:00): Die Nachrichten vom 25.09.2026, 03:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42464.html</link>
+      <pubDate>Fri, 25 Sep 2026 01:11:38 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">f8b77c36-c544-5524-82ab-a1db05f6d2d0</guid>
-      <description>Originally published Fri 25 Sep 2026 00:00 IDT.
+      <guid isPermaLink="false">6a7060cd-0f11-56a6-9884-5aa3b892d6cf</guid>
+      <description>Originally published Fri 25 Sep 2026 04:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/24/nachrichten_dlf_20260924_2300_3137d44b.mp3?refId=nachrichten-108" length="9750339" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/25/nachrichten_dlf_20260925_0300_58138d76.mp3?refId=nachrichten-108" length="5013190" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:35): Abendjournal um 18 (24.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-24092026</link>
-      <pubDate>Thu, 24 Sep 2026 22:53:58 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 01:10:38 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_3964172f6e53414481211fe86f9e4c89</guid>
       <description>Originally published Thu 24 Sep 2026 19:35 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Berlins Olympia-Absage | Verpackungssteuer in Potsdam | Drohnen am BER</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/olympia-absage-berlin-reaktionen-brandenburg-drohnen-ber.html</link>
-      <pubDate>Thu, 24 Sep 2026 22:52:58 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 01:09:38 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/81/3f/813f5922-e653-4d17-b405-e6633e5bc98e/813f5922-e653-4d17-b405-e6633e5bc98e_mp3-256kd.mp3</guid>
       <description>Originally published Thu 24 Sep 2026 19:17 IDT.
@@ -80,7 +80,7 @@ Berlin hat zwei Tage vor der Abstimmung &amp;#252;ber den deutschen Olympiabewer
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:05): Filme gegen Rechtsextremismus: Staatsregierung stellt neue Kampagne vor</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/filme-gegen-rechtsextremismus-staatsregierung-stellt-neue-kampagne-vor/2122437</link>
-      <pubDate>Thu, 24 Sep 2026 22:51:58 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 01:08:38 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">5cebd8e4-52d0-466c-b69a-9dbd3b1eb062</guid>
       <description>Originally published Thu 24 Sep 2026 18:05 IDT.
@@ -91,7 +91,7 @@ Bayerns Innenminister will mit Filmen von Aussteigern Jugendliche vor dem Abruts
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 17:41): Rogue OpenAI agent hacks government site</title>
       <link>http://www.bbc.co.uk/programmes/p0pc9f1y</link>
-      <pubDate>Thu, 24 Sep 2026 22:50:58 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 01:07:38 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pc9f1y</guid>
       <description>Originally published Thu 24 Sep 2026 17:41 IDT.
