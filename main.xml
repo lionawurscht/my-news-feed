@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:11:56 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,94 +13,85 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:34): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3498988.html</link>
-      <pubDate>Fri, 25 Sep 2026 13:12:26 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 17:34): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3499278.html</link>
+      <pubDate>Fri, 25 Sep 2026 18:11:56 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">696c6474-f962-4a45-9df8-8b1b64e2bc55</guid>
-      <description>Originally published Fri 25 Sep 2026 15:34 IDT.
+      <guid isPermaLink="false">ee069661-7eaf-43bf-9666-6fa7e1511248</guid>
+      <description>Originally published Fri 25 Sep 2026 17:34 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0925/AU-20260925-1434-2600.mp3" length="1936651" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0925/AU-20260925-1633-5500.mp3" length="1796107" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 16:10): NPR News: 09-25-2026 9AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 21:10): NPR News: 09-25-2026 2PM EDT</title>
       <link/>
-      <pubDate>Fri, 25 Sep 2026 13:11:26 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 18:10:56 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">8747ebe9-32ef-486f-9b70-de05cc1ba281</guid>
-      <description>Originally published Fri 25 Sep 2026 16:10 IDT.
+      <guid isPermaLink="false">c5dd65af-5f5e-424a-affa-ae427dfb2fe0</guid>
+      <description>Originally published Fri 25 Sep 2026 21:10 IDT.
 
-NPR News: 09-25-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cf241f9d-363c-4d14-a4c4-a95dfd672222/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cf241f9d-363c-4d14-a4c4-a95dfd672222&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260925-0900-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-25-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5b1c729e-e16f-430d-a647-b9a8d7d43174/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5b1c729e-e16f-430d-a647-b9a8d7d43174&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260925-1400-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 24.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3497414.html</link>
-      <pubDate>Fri, 25 Sep 2026 13:10:26 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 20:00): Die Nachrichten vom 25.09.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42522.html</link>
+      <pubDate>Fri, 25 Sep 2026 18:09:56 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">9190dcf8-3f4b-41b6-84d5-70f245e706ee-SENDUNGSAUDIO</guid>
-      <description>Originally published Thu 24 Sep 2026 21:00 IDT.
-
-Laut Herbstprognose stärkeres Wirtschaftswachstum als erwartet, Unternehmen Ziehl-Abegg profitiert von Künstlicher Intelligenz, Betont freundlicher Empfang von Chinas Staatschef Xi im Weißen Haus, KI-Unternehmen warnen vor Kontrollverlust über autonome Systeme, Rheinland-Pfalz behält Vorsitz der Ministerpräsidentenkonferenz, Bundestag diskutiert über Widerspruchslösung bei Organspende, Eröffnung der Kölner Bühnen nach 14-jähriger Sanierung, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0924/AU-20260924-2026-5500.mp3" length="15058722" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 15:30): Die Nachrichten vom 25.09.2026, 14:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42506.html</link>
-      <pubDate>Fri, 25 Sep 2026 13:09:26 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">0d776009-a47c-55e9-b6bd-deebf5a393cd</guid>
-      <description>Originally published Fri 25 Sep 2026 15:30 IDT.
+      <guid isPermaLink="false">f4257e89-320f-5789-ab8d-0c76b169c5d2</guid>
+      <description>Originally published Fri 25 Sep 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/25/nachrichten_dlf_20260925_1430_2f8b4307.mp3?refId=nachrichten-108" length="4991874" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/25/nachrichten_dlf_20260925_1900_af827253.mp3?refId=nachrichten-108" length="4062333" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:27): Mittagsjournal (25.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-25092026</link>
-      <pubDate>Fri, 25 Sep 2026 13:08:26 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:33): Abendjournal um 18 (25.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-25092026</link>
+      <pubDate>Fri, 25 Sep 2026 18:08:56 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_4734d5de935144f5bbe0920f4893c90f</guid>
+      <description>Originally published Fri 25 Sep 2026 19:33 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4734d5de935144f5bbe0920f4893c90f.mp3?etag=3a0f8230b23220341679b364cbe358b8" length="36566143" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Landesparteitag der Linken | Marathon-Vorbereitung | Innovationspreis Brandenburg</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/landesparteitag-linke-tankrabatt-marathon-innovationspreis.html</link>
+      <pubDate>Fri, 25 Sep 2026 18:07:56 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_71bd304848ca4cad8a16dee286b5f027</guid>
-      <description>Originally published Fri 25 Sep 2026 14:27 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_71bd304848ca4cad8a16dee286b5f027.mp3?etag=9951f0960f41ddb74d36da9274e557ca" length="87151458" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 01:00): Bewerbung um Olympia: Wie stehen die Chancen für München?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bewerbung-um-olympia-wie-stehen-die-chancen-fuer-muenchen/2122460</link>
-      <pubDate>Fri, 25 Sep 2026 13:07:26 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">4d4a601c-c86b-4640-aa76-7d0efe5f4d57</guid>
-      <description>Originally published Fri 25 Sep 2026 01:00 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/c8/a1/c8a16aec-0008-4891-ad8b-d02af6182568/c8a16aec-0008-4891-ad8b-d02af6182568_mp3-256kd.mp3</guid>
+      <description>Originally published Fri 25 Sep 2026 19:17 IDT.
 
-München gilt trotz Finanz- und Infrastrukturproblemen als Favorit der deutschen Olympia-Bewerbung.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122460/c/feed/bewerbung-um-olympia-wie-stehen-die-chancen-fuer-muenchen.mp3" length="8894252" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Berlins Olympia-Absage | Verpackungssteuer in Potsdam | Drohnen am BER</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/olympia-absage-berlin-reaktionen-brandenburg-drohnen-ber.html</link>
-      <pubDate>Fri, 25 Sep 2026 13:06:26 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/81/3f/813f5922-e653-4d17-b405-e6633e5bc98e/813f5922-e653-4d17-b405-e6633e5bc98e_mp3-256kd.mp3</guid>
-      <description>Originally published Thu 24 Sep 2026 19:17 IDT.
-
-Berlin hat zwei Tage vor der Abstimmung &amp;#252;ber den deutschen Olympiabewerber das Handtuch geworfen. Auch bei Sportlern und Politikern in Brandenburg sorgt die Entscheidung f&amp;#252;r Bedauern. Am BER hat eine Drohne am Mittwoch wieder kurzzeitig den Betrieb lahmgelegt. Und in Potsdam wird &amp;#252;ber die Einf&amp;#252;hrung der Verpackungssteuer gestritten.
+Nach dem Wahlsieg vom vergangenen Sonntag ber&amp;#228;t am Abend die Berliner Linke auf einem Sonderparteitag, wie es weitergehen soll. Au&amp;#223;erdem: Der geplante Tankrabatt wird Berlin laut Finanzverwaltung voraussichtlich rund 60 Millionen Euro kosten. Die Vorbereitungen f&amp;#252;r den Berlin-Marathon am Wochenende sind in vollem Gange. Und der Innovationspreis Brandenburg wird verliehen.
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/81/3f/813f5922-e653-4d17-b405-e6633e5bc98e/813f5922-e653-4d17-b405-e6633e5bc98e_mp3-256kd.mp3" length="29091609" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/c8/a1/c8a16aec-0008-4891-ad8b-d02af6182568/c8a16aec-0008-4891-ad8b-d02af6182568_mp3-256kd.mp3" length="28894989" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:25): Trump hosts President Xi at state banquet</title>
-      <link>http://www.bbc.co.uk/programmes/p0pcf0l3</link>
-      <pubDate>Fri, 25 Sep 2026 13:05:26 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pcf0l3</guid>
-      <description>Originally published Fri 25 Sep 2026 07:25 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 17:20): Zukunft Bahn: Bedroht der Fern- den Regionalverkehr?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/zukunft-bahn-bedroht-der-fern-den-regionalverkehr/2122483</link>
+      <pubDate>Fri, 25 Sep 2026 18:06:56 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">87bd94a5-946c-48a0-972a-6daef0a3010b</guid>
+      <description>Originally published Fri 25 Sep 2026 17:20 IDT.
 
-&lt;p&gt;Tech billionaires join Donald Trump and Xi Jinping for dinner at the White House at the end of the first full day of the Chinese President's visit to the US. Mr Xi said that in their discussions earlier, he and his host had reached &quot;common understanding on many issues&quot; but didn't elaborate. No concrete breakthroughs have been reported on contentious matters such as Iran and AI.  
-Also: Israeli Prime Minister Benjamin Netanyahu fiercely defends military action in the Middle East to a half empty UN General Assembly. Earlier, the Palestinian leader told the same gathering Israel was threatening his people's existence. The Italian government approves a ban on the burqa and niqab in schools. Hundreds of people gather in the Venezuelan capital, Caracas, to call for the return of the exiled opposition figure, Maria Corina Machado. The eviction of an 87-year-old in Spain triggers angry protests and put the country’s housing crisis under the spotlight. And new research on how well dogs can understand the human language. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Neue Bahn-Anbieter wollen in Deutschland im Fernverkehr Fuß fassen. Der bayerische Verkehrsminister Bernreiter befürchet, dass das zu Lasten des Regionalverkehrs geht.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122483/c/feed/zukunft-bahn-bedroht-der-fern-den-regionalverkehr.mp3" length="8720300" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:51): Rapid new test transforms brain tumour diagnosis</title>
+      <link>http://www.bbc.co.uk/programmes/p0pcjcv9</link>
+      <pubDate>Fri, 25 Sep 2026 18:05:56 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pcjcv9</guid>
+      <description>Originally published Fri 25 Sep 2026 18:51 IDT.
+
+&lt;p&gt;A rapid new test for brain tumours can slash the time it takes for an accurate diagnosis from up to eight weeks to two hours. It means surgeons can get results even while they are operating, and patients are spared weeks of uncertainty whilst being able to start their treatment sooner.
+Also: Ukrainian President, Volodymyr Zelensky says that President Trump has made a “final decision” to give Ukraine licences to produce patriot missiles. Indonesia pardons a former Filipino maid, who was sentenced to death after being found carrying heroin through an airport. We hear the latest about the Ebola outbreak from a doctor who spent six weeks in Northern Congo. Nepal’s Prime Minister, Balendra Shah, says flooding in his country “was a warning to the world” and calls for cooperation to deal with climate change. An organisation in the United Kingdom says better regulation of beauty products is needed as young children continue to use skincare and makeup. And Pope Leo visits Paris for a mass, but his first engagement gives a warning about artificial intelligence and assisted dying. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Annabelle Gordon/POOL/EPA/Shutterstock &lt;/p&gt;&lt;p&gt;Image description: US President Donald J. Trump and first lady Melania Trump greet President Xi Jinping and Madame Peng Liyuan at the White House in Washington&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcf0g3.mp3" length="13616000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Neurosurgeon Stuart Smith in operating theatre 
+Credit: Nottingham University Hospitals&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcjb64.mp3" length="12248000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
