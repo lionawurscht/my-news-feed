@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 05:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:43:06 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 06:16): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3499970.html</link>
-      <pubDate>Sat, 26 Sep 2026 05:47:51 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 11:46): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3500346.html</link>
+      <pubDate>Sat, 26 Sep 2026 10:43:06 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">ea6a9375-0bea-4a91-91fc-859d155b9406</guid>
-      <description>Originally published Sat 26 Sep 2026 06:16 IDT.
+      <guid isPermaLink="false">f4e20b5f-adac-4721-a5b8-81bad39b3731</guid>
+      <description>Originally published Sat 26 Sep 2026 11:46 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0926/AU-20260926-0516-2300.mp3" length="2037283" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0926/AU-20260926-1046-4000.mp3" length="2035339" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 08:10): NPR News: 09-26-2026 1AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sat 13:10): NPR News: 09-26-2026 6AM EDT</title>
       <link/>
-      <pubDate>Sat, 26 Sep 2026 05:46:51 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 10:42:06 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">db55a001-e588-45a9-878f-861f7b291e9d</guid>
-      <description>Originally published Sat 26 Sep 2026 08:10 IDT.
+      <guid isPermaLink="false">03edd6ea-380b-49cb-b7cf-dd1c30b67899</guid>
+      <description>Originally published Sat 26 Sep 2026 13:10 IDT.
 
-NPR News: 09-26-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7e653993-0791-47e5-94c6-d450b232c824/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7e653993-0791-47e5-94c6-d450b232c824&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260926-0100-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-26-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b0454f6f-d245-468f-a0d2-181d9407a702/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b0454f6f-d245-468f-a0d2-181d9407a702&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260926-0600-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 25.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3499724.html</link>
-      <pubDate>Sat, 26 Sep 2026 05:45:51 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 10:41:06 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">79683337-c4f1-44b7-83ff-faea8f1d096f-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 25 Sep 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Bundesregierung plant Stärkung der Altersvorsorge für junge Menschen mit sogen
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0925/AU-20260925-2027-1800.mp3" length="15522594" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 08:44): Morgenjournal um 7 (26.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-26092026</link>
-      <pubDate>Sat, 26 Sep 2026 05:44:51 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 13:00): Die Nachrichten vom 26.09.2026, 12:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42564.html</link>
+      <pubDate>Sat, 26 Sep 2026 10:40:06 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_d40eec856fc949ed911b4cb6995f93ae</guid>
-      <description>Originally published Sat 26 Sep 2026 08:44 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d40eec856fc949ed911b4cb6995f93ae.mp3?etag=5ddf88115f07e3a68fc82959ff91744d" length="47872222" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 08:30): Die Nachrichten vom 26.09.2026, 07:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42552.html</link>
-      <pubDate>Sat, 26 Sep 2026 05:43:51 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">03db3f01-d9ee-583c-960c-96a276a8764d</guid>
-      <description>Originally published Sat 26 Sep 2026 08:30 IDT.
+      <guid isPermaLink="false">97b66d4e-e474-517f-bfb2-19a05c67a238</guid>
+      <description>Originally published Sat 26 Sep 2026 13:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/26/nachrichten_dlf_20260926_0730_09311845.mp3?refId=nachrichten-108" length="5017788" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/26/nachrichten_dlf_20260926_1200_bc284c3c.mp3?refId=nachrichten-108" length="9818049" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:25): Morgenjournal um 8 (26.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-26092026</link>
+      <pubDate>Sat, 26 Sep 2026 10:39:06 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_6abc6f91f06047f8b0c75d9fdb0a164c</guid>
+      <description>Originally published Sat 26 Sep 2026 09:25 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_6abc6f91f06047f8b0c75d9fdb0a164c.mp3?etag=aa2e353d599b6b67e6ae90dc7eca1d7a" length="22203058" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Landesparteitag der Linken | Marathon-Vorbereitung | Innovationspreis Brandenburg</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/landesparteitag-linke-tankrabatt-marathon-innovationspreis.html</link>
-      <pubDate>Sat, 26 Sep 2026 05:42:51 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 10:38:06 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/c8/a1/c8a16aec-0008-4891-ad8b-d02af6182568/c8a16aec-0008-4891-ad8b-d02af6182568_mp3-256kd.mp3</guid>
       <description>Originally published Fri 25 Sep 2026 19:17 IDT.
@@ -80,7 +80,7 @@ Nach dem Wahlsieg vom vergangenen Sonntag ber&amp;#228;t am Abend die Berliner L
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 17:20): Zukunft Bahn: Bedroht der Fern- den Regionalverkehr?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/zukunft-bahn-bedroht-der-fern-den-regionalverkehr/2122483</link>
-      <pubDate>Sat, 26 Sep 2026 05:41:51 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 10:37:06 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">87bd94a5-946c-48a0-972a-6daef0a3010b</guid>
       <description>Originally published Fri 25 Sep 2026 17:20 IDT.
@@ -91,7 +91,7 @@ Neue Bahn-Anbieter wollen in Deutschland im Fernverkehr Fuß fassen. Der bayeris
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:44): Manchester City could face historic punishment</title>
       <link>http://www.bbc.co.uk/programmes/p0pcl84l</link>
-      <pubDate>Sat, 26 Sep 2026 05:40:51 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 10:36:06 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pcl84l</guid>
       <description>Originally published Sat 26 Sep 2026 06:44 IDT.
