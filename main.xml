@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 06:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:40:15 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 05:48): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3501242.html</link>
-      <pubDate>Sun, 27 Sep 2026 06:07:18 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 15:22): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3501804.html</link>
+      <pubDate>Sun, 27 Sep 2026 12:40:15 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">3a97155a-85ae-4fce-92e4-75e5ad07b0ea</guid>
-      <description>Originally published Sun 27 Sep 2026 05:48 IDT.
+      <guid isPermaLink="false">3b35dc73-29df-4240-8ae5-1b85a3fc03f7</guid>
+      <description>Originally published Sun 27 Sep 2026 15:22 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0927/AU-20260927-0448-3300.mp3" length="1991184" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0927/AU-20260927-1422-2400.mp3" length="2034571" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 08:09): NPR News: 09-27-2026 1AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Sun 15:10): NPR News: 09-27-2026 8AM EDT</title>
       <link/>
-      <pubDate>Sun, 27 Sep 2026 06:06:18 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:39:15 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d171df8d-f4e6-407e-8885-8f156c6d7d1b</guid>
-      <description>Originally published Sun 27 Sep 2026 08:09 IDT.
+      <guid isPermaLink="false">65d83903-1499-469c-89fb-59a58527779f</guid>
+      <description>Originally published Sun 27 Sep 2026 15:10 IDT.
 
-NPR News: 09-27-2026 1AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7cc83fd0-7ead-4be2-bdc4-7edb04061663/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7cc83fd0-7ead-4be2-bdc4-7edb04061663&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260927-0100-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-27-2026 8AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/49bc19fb-4dc5-4dca-bc74-37aa5f7aee99/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=49bc19fb-4dc5-4dca-bc74-37aa5f7aee99&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260927-0800-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 26.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3501052.html</link>
-      <pubDate>Sun, 27 Sep 2026 06:05:18 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:38:15 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">fa9f57f6-e83a-40ae-8905-efed567c2f74-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 26 Sep 2026 21:00 IDT.
@@ -46,30 +46,41 @@ Entscheidung des DOSB: München wird sich um die Olympischen Sommerspiele bewerb
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0926/AU-20260926-2028-5400.mp3" length="15521443" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 08:30): Die Nachrichten vom 27.09.2026, 07:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42602.html</link>
-      <pubDate>Sun, 27 Sep 2026 06:04:18 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 15:00): Die Nachrichten vom 27.09.2026, 14:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42618.html</link>
+      <pubDate>Sun, 27 Sep 2026 12:37:15 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">fd2de48d-dd79-577d-99c1-851cfcfac31c</guid>
-      <description>Originally published Sun 27 Sep 2026 08:30 IDT.
+      <guid isPermaLink="false">21ee2cb1-e2d5-5d58-9eba-e1c910c9d5fe</guid>
+      <description>Originally published Sun 27 Sep 2026 15:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/27/nachrichten_dlf_20260927_0730_cf577695.mp3?refId=nachrichten-108" length="5034924" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/27/nachrichten_dlf_20260927_1400_62bc85e8.mp3?refId=nachrichten-108" length="4999397" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:08): Mittagsjournal (26.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-26092026</link>
-      <pubDate>Sun, 27 Sep 2026 06:03:18 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 14:15): Mittagsjournal (27.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-27092026</link>
+      <pubDate>Sun, 27 Sep 2026 12:36:15 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_a270e4f578344522af29eb46937d80cc</guid>
-      <description>Originally published Sat 26 Sep 2026 14:08 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_a270e4f578344522af29eb46937d80cc.mp3?etag=b034f45f61aa5c86cf6a0008a4e029b8" length="81239824" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_98225f6495ea4ff3a01d4c722062371b</guid>
+      <description>Originally published Sun 27 Sep 2026 14:15 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_98225f6495ea4ff3a01d4c722062371b.mp3?etag=0ea9322cb41cd9302da74235afa77192" length="14913980" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 14:00): Das Wichtigste am Sonntagmorgen</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagmorgen-1/2122523</link>
+      <pubDate>Sun, 27 Sep 2026 12:35:15 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">35f45e89-d3ef-451e-af68-7236aeb34606</guid>
+      <description>Originally published Sun 27 Sep 2026 14:00 IDT.
+
+Bei einem Busunglück auf der A96 im Ostallgäu sind zwei Menschen ums Leben gekommen und viele weitere verletzt worden. Der Reisebus war offenbar von der Fahrbahn abgekommen und umgekippt. Unserer Reporterin berichtet von der Unfallstelle.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122523/c/feed/das-wichtigste-am-sonntagmorgen-1.mp3" length="13830188" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:58): OpenAI warns of dozens more potential bot hacks</title>
       <link>http://www.bbc.co.uk/programmes/p0pcpghn</link>
-      <pubDate>Sun, 27 Sep 2026 06:02:18 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Sun, 27 Sep 2026 12:34:15 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pcpghn</guid>
       <description>Originally published Sun 27 Sep 2026 06:58 IDT.
 
