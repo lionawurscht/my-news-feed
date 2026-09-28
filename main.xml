@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 28 Sep 2026 03:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:27:26 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 05:46): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3502376.html</link>
-      <pubDate>Mon, 28 Sep 2026 03:17:48 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 11:49): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3503124.html</link>
+      <pubDate>Mon, 28 Sep 2026 10:27:26 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1b015d96-5a72-42cd-81a4-85950d2774f2</guid>
-      <description>Originally published Mon 28 Sep 2026 05:46 IDT.
+      <guid isPermaLink="false">0061217e-b2d9-49a2-85ec-35c8cba5c9d7</guid>
+      <description>Originally published Mon 28 Sep 2026 11:49 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0928/AU-20260928-0446-3500.mp3" length="1986192" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0928/AU-20260928-1049-2200.mp3" length="2750347" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 06:10): NPR News: 09-27-2026 11PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 13:10): NPR News: 09-28-2026 6AM EDT</title>
       <link/>
-      <pubDate>Mon, 28 Sep 2026 03:16:48 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 10:26:26 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">31f3a4cc-9d23-4b83-b87e-a4d2dc9fd2ca</guid>
-      <description>Originally published Mon 28 Sep 2026 06:10 IDT.
+      <guid isPermaLink="false">ce9b88c1-aff9-493c-b65e-34a320b82b2c</guid>
+      <description>Originally published Mon 28 Sep 2026 13:10 IDT.
 
-NPR News: 09-27-2026 11PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/be674b33-a36e-41dc-8a90-8511c5125110/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=be674b33-a36e-41dc-8a90-8511c5125110&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260927-2300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-28-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6d1f32b9-afda-4103-a56e-d0595115ded9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6d1f32b9-afda-4103-a56e-d0595115ded9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260928-0600-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 27.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3502178.html</link>
-      <pubDate>Mon, 28 Sep 2026 03:15:48 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 10:25:26 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">01467d54-f740-4e16-8faf-8228de3bd6a8-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 27 Sep 2026 21:00 IDT.
@@ -46,46 +46,50 @@ Gesundheitsminister Linnemann äußert sich skeptisch zum SPD-Vorschlag über Na
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0927/AU-20260927-2025-4700.mp3" length="14635171" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 06:00): Die Nachrichten vom 28.09.2026, 05:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42650.html</link>
-      <pubDate>Mon, 28 Sep 2026 03:14:48 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 13:00): Die Nachrichten vom 28.09.2026, 12:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42678.html</link>
+      <pubDate>Mon, 28 Sep 2026 10:24:26 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">03bd4d17-feed-59ba-b430-51e8ad9b9ab1</guid>
-      <description>Originally published Mon 28 Sep 2026 06:00 IDT.
+      <guid isPermaLink="false">edb19d43-d94d-523a-8a8b-19bfda2d71bd</guid>
+      <description>Originally published Mon 28 Sep 2026 13:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/28/nachrichten_dlf_20260928_0500_baf48258.mp3?refId=nachrichten-108" length="4993128" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/28/nachrichten_dlf_20260928_1200_05750181.mp3?refId=nachrichten-108" length="9737801" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (27.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-27092026</link>
-      <pubDate>Mon, 28 Sep 2026 03:13:48 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 09:26): Morgenjournal um 8 (28.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-28092026</link>
+      <pubDate>Mon, 28 Sep 2026 10:23:26 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_bf15f9b83aee44c3af87c24cde3d74d6</guid>
-      <description>Originally published Sun 27 Sep 2026 19:21 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bf15f9b83aee44c3af87c24cde3d74d6.mp3?etag=046c3386bbabf45d8d0770f1cf9ba009" length="22098121" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_d36ab24e849c43528da10fad16b2643d</guid>
+      <description>Originally published Mon 28 Sep 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d36ab24e849c43528da10fad16b2643d.mp3?etag=0129de6c37cddd2187ec2eb505df8368" length="29248817" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 21:00): Das Wichtigste am Sonntagabend</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagabend/2122526</link>
-      <pubDate>Mon, 28 Sep 2026 03:12:48 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 10:00): 75 Jahre Bundesverfassungsgericht: Ist es aktuellen Hürden gewachsen?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/75-jahre-bundesverfassungsgericht-ist-es-aktuellen-huerden-gewachsen/2122553</link>
+      <pubDate>Mon, 28 Sep 2026 10:22:26 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">b74f0c0e-c185-4604-915e-8d2f52270ef4</guid>
-      <description>Originally published Sun 27 Sep 2026 21:00 IDT.
+      <guid isPermaLink="false">e87ca7c9-8f4f-4537-a267-90232f02b7b3</guid>
+      <description>Originally published Mon 28 Sep 2026 10:00 IDT.
 
-Die Schweiz hat abgestimmt: Die Mehrheit hat sich gegen eine striktere Neutraliät des Landes ausgesprochen. Halbzeitbilanz beim Münchner Oktoberfest: danach sind dieses Jahr schon mehr Besucher auf die Wiesn gekommen als letztes Jahr zu der Zeit.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122526/c/feed/das-wichtigste-am-sonntagabend.mp3" length="14289836" type="audio/mpeg"/>
+Seit 75 Jahren entscheidet das Bundesverfassungsgericht in Karlsruhe über die ganz großen Fragen: Wie weit darf Meinungsfreiheit gehen? Gibt es ein Recht auf selbstbestimmtes Sterben?</description>
+      <enclosure url="https://media.neuland.br.de/file/2122553/c/feed/75-jahre-bundesverfassungsgericht-ist-es-aktuellen-huerden-gewachsen.mp3" length="9209900" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: Why the world wants American surrogates</title>
-      <link>http://www.bbc.co.uk/programmes/p0pcgd22</link>
-      <pubDate>Mon, 28 Sep 2026 03:11:48 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:36): Five arrested over suspected plot to attack UK military base</title>
+      <link>http://www.bbc.co.uk/programmes/p0pcspqh</link>
+      <pubDate>Mon, 28 Sep 2026 10:21:26 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pcgd22</guid>
-      <description>Originally published Sun 27 Sep 2026 22:00 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pcspqh</guid>
+      <description>Originally published Mon 28 Sep 2026 07:36 IDT.
 
-&lt;p&gt;The United States is one of the few wealthy countries where commercial surrogacy remains legal. Bans elsewhere in the world, combined with a largely free-market approach at home, have made the US an international destination for would-be parents from around the globe – fuelling the industry’s rapid expansion. But could it all come to an end? Today on The Global Story, we speak to fertility technology reporter Emi Nietfeld about how the US became a global hub for surrogacy – and why a series of high-profile cases is raising difficult questions about the industry.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcgck2.mp3" length="13256000" type="audio/mpeg"/>
+&lt;p&gt;Five men have been arrested over a suspected plot to attack a UK air base also used by the US military. Donald Trump said the men had planned to cause significant damage. Since March, the US has been launching attacks against Iran from the base in southern England. Police say they received a call during the night about three suspicious vehicles driving towards the area. Counter terrorism police are reportedly investigating whether Iran is linked to the incident. Also: We take you to the front lines of Houthi attacks in Yemen as the armed group makes more strategic advances; Twelve people are missing after an avalanche in the Himalayas; Venezuelans take to the streets demanding the return of the opposition leader Maria Corina Machado; And we look at the enduring allure of Route 66 as the famous highway celebrates its 100th birthday. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: An image that circulated on social media following the arrests of five men near RAF Fairford
+Credit: The BBC is unable to verify the original source but has geolocated it and has confirmed it appears to be authentic.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcspdh.mp3" length="13912000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
