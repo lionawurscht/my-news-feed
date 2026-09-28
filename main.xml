@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 23:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 03:17:48 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:11): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3502196.html</link>
-      <pubDate>Sun, 27 Sep 2026 23:34:29 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 05:46): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3502376.html</link>
+      <pubDate>Mon, 28 Sep 2026 03:17:48 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">d66d815b-cc4d-4fec-93ba-fb5350c44f83</guid>
-      <description>Originally published Sun 27 Sep 2026 22:11 IDT.
+      <guid isPermaLink="false">1b015d96-5a72-42cd-81a4-85950d2774f2</guid>
+      <description>Originally published Mon 28 Sep 2026 05:46 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0927/AU-20260927-2111-1700.mp3" length="2030731" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0928/AU-20260928-0446-3500.mp3" length="1986192" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 02:10): NPR News: 09-27-2026 7PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Mon 06:10): NPR News: 09-27-2026 11PM EDT</title>
       <link/>
-      <pubDate>Sun, 27 Sep 2026 23:33:29 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 03:16:48 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">b8fadb8c-b46c-414b-95db-5520e9b3e8a7</guid>
-      <description>Originally published Mon 28 Sep 2026 02:10 IDT.
+      <guid isPermaLink="false">31f3a4cc-9d23-4b83-b87e-a4d2dc9fd2ca</guid>
+      <description>Originally published Mon 28 Sep 2026 06:10 IDT.
 
-NPR News: 09-27-2026 7PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/77c503c1-5233-4d94-ab5a-9feeff54fbf2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=77c503c1-5233-4d94-ab5a-9feeff54fbf2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260927-1900-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-27-2026 11PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/be674b33-a36e-41dc-8a90-8511c5125110/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=be674b33-a36e-41dc-8a90-8511c5125110&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260927-2300-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 27.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3502178.html</link>
-      <pubDate>Sun, 27 Sep 2026 23:32:29 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 03:15:48 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">01467d54-f740-4e16-8faf-8228de3bd6a8-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 27 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Gesundheitsminister Linnemann äußert sich skeptisch zum SPD-Vorschlag über Na
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0927/AU-20260927-2025-4700.mp3" length="14635171" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 02:00): Die Nachrichten vom 28.09.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42640.html</link>
-      <pubDate>Sun, 27 Sep 2026 23:31:29 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 06:00): Die Nachrichten vom 28.09.2026, 05:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42650.html</link>
+      <pubDate>Mon, 28 Sep 2026 03:14:48 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">56f6bb41-101a-58f9-993e-6d6a69df7359</guid>
-      <description>Originally published Mon 28 Sep 2026 02:00 IDT.
+      <guid isPermaLink="false">03bd4d17-feed-59ba-b430-51e8ad9b9ab1</guid>
+      <description>Originally published Mon 28 Sep 2026 06:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/28/nachrichten_dlf_20260928_0100_4c18c2ce.mp3?refId=nachrichten-108" length="4965543" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/28/nachrichten_dlf_20260928_0500_baf48258.mp3?refId=nachrichten-108" length="4993128" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (27.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-27092026</link>
-      <pubDate>Sun, 27 Sep 2026 23:30:29 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 03:13:48 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_bf15f9b83aee44c3af87c24cde3d74d6</guid>
       <description>Originally published Sun 27 Sep 2026 19:21 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 21:00): Das Wichtigste am Sonntagabend</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagabend/2122526</link>
-      <pubDate>Sun, 27 Sep 2026 23:29:29 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 03:12:48 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">b74f0c0e-c185-4604-915e-8d2f52270ef4</guid>
       <description>Originally published Sun 27 Sep 2026 21:00 IDT.
@@ -79,7 +79,7 @@ Die Schweiz hat abgestimmt: Die Mehrheit hat sich gegen eine striktere Neutrali�
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: Why the world wants American surrogates</title>
       <link>http://www.bbc.co.uk/programmes/p0pcgd22</link>
-      <pubDate>Sun, 27 Sep 2026 23:28:29 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 03:11:48 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pcgd22</guid>
       <description>Originally published Sun 27 Sep 2026 22:00 IDT.
