@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 28 Sep 2026 18:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 23:38:41 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,43 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 15:39): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3503720.html</link>
-      <pubDate>Mon, 28 Sep 2026 18:22:27 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:38): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3504504.html</link>
+      <pubDate>Mon, 28 Sep 2026 23:38:41 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">5f671a7d-a80c-446a-9134-0f1b56c30c23</guid>
-      <description>Originally published Mon 28 Sep 2026 15:39 IDT.
+      <guid isPermaLink="false">42e0f8bd-3571-4f4f-ba1c-79979bd8f9a2</guid>
+      <description>Originally published Mon 28 Sep 2026 22:38 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0928/AU-20260928-1439-2800.mp3" length="1945099" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0928/AU-20260928-2138-4100.mp3" length="1934731" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 21:10): NPR News: 09-28-2026 2PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 02:10): NPR News: 09-28-2026 7PM EDT</title>
       <link/>
-      <pubDate>Mon, 28 Sep 2026 18:21:27 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 23:37:41 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">4ef42c61-232f-459b-8bbd-9ebdf980c2f0</guid>
-      <description>Originally published Mon 28 Sep 2026 21:10 IDT.
+      <guid isPermaLink="false">aedb0a53-a4a4-4884-bc7e-5f898bad1bbd</guid>
+      <description>Originally published Tue 29 Sep 2026 02:10 IDT.
 
-NPR News: 09-28-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1425953a-0bcb-4f9d-9552-6e3d79a6a20a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1425953a-0bcb-4f9d-9552-6e3d79a6a20a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260928-1400-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-28-2026 7PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d00e7a6e-b923-4236-8b88-9915071b46cf/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d00e7a6e-b923-4236-8b88-9915071b46cf&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260928-1900-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 21:00): Die Nachrichten vom 28.09.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42706.html</link>
-      <pubDate>Mon, 28 Sep 2026 18:20:27 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 28.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3504476.html</link>
+      <pubDate>Mon, 28 Sep 2026 23:36:41 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">7c8a3756-61ab-5ae6-9b0d-85ea4202e9af</guid>
+      <guid isPermaLink="false">8a4a447e-7bc6-49cf-8904-b128fd090982-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 28 Sep 2026 21:00 IDT.
 
+Spitzengespräch von CDU und SPD in Diskussion um Pflegereform, Früherer Unionsfraktionschef Spahn gibt Sitz im Haushaltsausschuss des Bundestags auf, Festakt zum 75-jährigen Bestehen des Bundesverfassungsgerichts, Autobauer Mercedes Benz fordert von Beschäftigten Zugeständnisse auf Betriebsversammlung, Kämpfe zwischen Regierungstruppen und islamistischer Huthi-Miliz im Jemen, Papst Leo XIV. warnt bei Rede im französischen Metz vor Lügen und Täuschungen zwischen Staaten, Deutschland unterliegt Griechenland im zweiten Spiel der Nations League, Das Wetter Hinweis: Der Beitrag zum Thema &quot;Fußball&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0928/AU-20260928-2025-5700.mp3" length="15380130" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 02:00): Die Nachrichten vom 29.09.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42716.html</link>
+      <pubDate>Mon, 28 Sep 2026 23:35:41 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">bbe5a8aa-71d7-57b7-90a6-4570c12a0966</guid>
+      <description>Originally published Tue 29 Sep 2026 02:00 IDT.
+
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/28/nachrichten_dlf_20260928_2000_142c78a0.mp3?refId=nachrichten-108" length="9754937" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/29/nachrichten_dlf_20260929_0100_933f1dd1.mp3?refId=nachrichten-108" length="5005667" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (28.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-28092026</link>
-      <pubDate>Mon, 28 Sep 2026 18:19:27 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 28 Sep 2026 23:34:41 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_d832cf5a128142e8952d6b27c5b88e4f</guid>
       <description>Originally published Mon 28 Sep 2026 19:33 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d832cf5a128142e8952d6b27c5b88e4f.mp3?etag=29679c0fa63f5fd0f094471721fb525a" length="36386828" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierungen | Drogenköche | Medizin-Uni Lausitz</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/sondierungen-drogenkoeche-medizin-uni-lausitz.html</link>
-      <pubDate>Mon, 28 Sep 2026 18:18:27 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Mon, 28 Sep 2026 23:33:41 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/99/d5/99d5c560-1beb-45c8-8aea-bd108251426e/99d5c560-1beb-45c8-8aea-bd108251426e_mp3-256kd.mp3</guid>
       <description>Originally published Mon 28 Sep 2026 19:17 IDT.
 
@@ -70,8 +81,8 @@ Nach der Wahl ist vor den Sondierungsgespr&amp;#228;chen. Doch es gibt noch Rede
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 19:15): Streit um die Pflegereform: Kann sich die Koalition einigen?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/streit-um-die-pflegereform-kann-sich-die-koalition-einigen/2122567</link>
-      <pubDate>Mon, 28 Sep 2026 18:17:27 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Mon, 28 Sep 2026 23:32:41 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">3de4642d-205a-42d0-8f7e-1b441a2b5b6a</guid>
       <description>Originally published Mon 28 Sep 2026 19:15 IDT.
 
@@ -81,8 +92,8 @@ Kurz bevor Bundesgesundheitsminister Linnemann sein Pflegeneuordnungsgesetz durc
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:10): Israel PM made secret visit to UAE, reports say</title>
       <link>http://www.bbc.co.uk/programmes/p0pcwvm0</link>
-      <pubDate>Mon, 28 Sep 2026 18:16:27 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Mon, 28 Sep 2026 23:31:41 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pcwvm0</guid>
       <description>Originally published Mon 28 Sep 2026 18:10 IDT.
 
