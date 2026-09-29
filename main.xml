@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Sep 2026 10:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:45:19 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 12:06): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3505472.html</link>
-      <pubDate>Tue, 29 Sep 2026 10:21:38 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 15:33): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3505990.html</link>
+      <pubDate>Tue, 29 Sep 2026 16:45:19 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f2f0b5dc-c99c-4e35-b58f-9ea7edd84c52</guid>
-      <description>Originally published Tue 29 Sep 2026 12:06 IDT.
+      <guid isPermaLink="false">7adb9133-3925-4f88-b025-5eacc381f9ee</guid>
+      <description>Originally published Tue 29 Sep 2026 15:33 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0929/AU-20260929-1106-3300.mp3" length="2490379" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0929/AU-20260929-1432-5500.mp3" length="2256139" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 13:10): NPR News: 09-29-2026 6AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 19:14): NPR News: 09-29-2026 12PM EDT</title>
       <link/>
-      <pubDate>Tue, 29 Sep 2026 10:20:38 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 16:44:19 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">65deff42-ba44-4fed-8f52-0000eefe92da</guid>
-      <description>Originally published Tue 29 Sep 2026 13:10 IDT.
+      <guid isPermaLink="false">acdd94bd-44cc-4433-83c2-f2df79804bbb</guid>
+      <description>Originally published Tue 29 Sep 2026 19:14 IDT.
 
-NPR News: 09-29-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c8c3cfd4-e771-435b-847e-918e91081e56/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c8c3cfd4-e771-435b-847e-918e91081e56&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260929-0600-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+NPR News: 09-29-2026 12PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d0e49fd2-73fc-4c27-84b3-ae6a7ea1b6ad/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d0e49fd2-73fc-4c27-84b3-ae6a7ea1b6ad&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260929-1200-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 28.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3504476.html</link>
-      <pubDate>Tue, 29 Sep 2026 10:19:38 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 16:43:19 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">8a4a447e-7bc6-49cf-8904-b128fd090982-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 28 Sep 2026 21:00 IDT.
@@ -46,62 +46,63 @@ Spitzengespräch von CDU und SPD in Diskussion um Pflegereform, Früherer Unions
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0928/AU-20260928-2025-5700.mp3" length="15380130" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 12:30): Die Nachrichten vom 29.09.2026, 11:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42752.html</link>
-      <pubDate>Tue, 29 Sep 2026 10:18:38 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (29.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-29092026</link>
+      <pubDate>Tue, 29 Sep 2026 16:42:19 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">ef9fb772-2949-570a-923d-e9cc98ea7341</guid>
-      <description>Originally published Tue 29 Sep 2026 12:30 IDT.
+      <guid isPermaLink="false">di_oe1_journale_da1_9649cfdc33f54c74a3bc5a2034950405</guid>
+      <description>Originally published Tue 29 Sep 2026 19:33 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_9649cfdc33f54c74a3bc5a2034950405.mp3?etag=0ec47117d04962d9237dd33827ea0395" length="36615152" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 19:00): Die Nachrichten vom 29.09.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42776.html</link>
+      <pubDate>Tue, 29 Sep 2026 16:41:19 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">53515e78-a6c3-5653-8470-c78150aab9e8</guid>
+      <description>Originally published Tue 29 Sep 2026 19:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/29/nachrichten_dlf_20260929_1130_017fe766.mp3?refId=nachrichten-108" length="4945481" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/29/nachrichten_dlf_20260929_1800_84e4f632.mp3?refId=nachrichten-108" length="9819303" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:26): Morgenjournal um 8 (29.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-29092026</link>
-      <pubDate>Tue, 29 Sep 2026 10:17:38 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_c6562de30155445b8c2adaa776177f15</guid>
-      <description>Originally published Tue 29 Sep 2026 09:26 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c6562de30155445b8c2adaa776177f15.mp3?etag=b1495fd2d73a2cadb7f7e4079ffef086" length="29211339" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 10:51): Die Vereinten Nationen unter Druck - Was bleibt nach der Vollversammlung?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/die-vereinten-nationen-unter-druck-was-bleibt-nach-der-vollversammlung/2122590</link>
-      <pubDate>Tue, 29 Sep 2026 10:16:38 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Landeseigene erhöhen Mieten | Pflegereform Brandenburg | Höchstes Windrad</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/landeseigene-erhoehen-mieten-pflegereform-brandenburg.html</link>
+      <pubDate>Tue, 29 Sep 2026 16:40:19 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">c9e91f08-c440-4a36-b433-701ee35223ea</guid>
-      <description>Originally published Tue 29 Sep 2026 10:51 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/70/e8/70e83d15-56c9-458b-a995-6decb5ff17bb/70e83d15-56c9-458b-a995-6decb5ff17bb_mp3-256kd.mp3</guid>
+      <description>Originally published Tue 29 Sep 2026 19:17 IDT.
 
-In der UN-Vollversammlung begegnen sich selbst Todfeinde auf Augenhöhe. Die Vereinten Nationen wurden dafür gegründet, dass sie den Frieden und die Sicherheit auf der Welt bewahren. Aber sie stehen unter Druck wie nie zuvor.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122590/c/feed/die-vereinten-nationen-unter-druck-was-bleibt-nach-der-vollversammlung.mp3" length="8239148" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierungen | Drogenköche | Medizin-Uni Lausitz</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/sondierungen-drogenkoeche-medizin-uni-lausitz.html</link>
-      <pubDate>Tue, 29 Sep 2026 10:15:38 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/99/d5/99d5c560-1beb-45c8-8aea-bd108251426e/99d5c560-1beb-45c8-8aea-bd108251426e_mp3-256kd.mp3</guid>
-      <description>Originally published Mon 28 Sep 2026 19:17 IDT.
-
-Nach der Wahl ist vor den Sondierungsgespr&amp;#228;chen. Doch es gibt noch Redebedarf zwischen den drei Parteien. Au&amp;#223;erdem: Prozess gegen Nauener Drogenk&amp;#246;che beginnt; Medizin-Uni Lausitz vor Semesterstart; Informationsfreiheit in Gefahr?
+Die landeseigenen Wohnungsunternehmen erh&amp;#246;hen derzeit ihre Mieten &amp;#8211; was viele Mieter sauer macht - und auch auf der politischen B&amp;#252;hne Fragen aufwirft. Au&amp;#223;erdem: Brandenburgs Blick auf Pflegereform; H&amp;#246;chstes Windrad in Schipkau ist fertig; Aktionswoche gegen Lebensmittelverschwendung.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/99/d5/99d5c560-1beb-45c8-8aea-bd108251426e/99d5c560-1beb-45c8-8aea-bd108251426e_mp3-256kd.mp3" length="30485512" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/70/e8/70e83d15-56c9-458b-a995-6decb5ff17bb/70e83d15-56c9-458b-a995-6decb5ff17bb_mp3-256kd.mp3" length="30395656" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:43): Too much screen time 'can damage children as badly as poverty'</title>
-      <link>http://www.bbc.co.uk/programmes/p0pcysqf</link>
-      <pubDate>Tue, 29 Sep 2026 10:14:38 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pcysqf</guid>
-      <description>Originally published Tue 29 Sep 2026 07:43 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Schule in Donauwörth gewinnt den deutschen Schulpreis: Was macht sie anders?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/schule-in-donauwoerth-gewinnt-den-deutschen-schulpreis-was-macht-sie-anders/2122606</link>
+      <pubDate>Tue, 29 Sep 2026 16:39:19 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">a8287732-1d9b-42bf-a01a-3e6da2d1509d</guid>
+      <description>Originally published Tue 29 Sep 2026 19:00 IDT.
 
-&lt;p&gt;Researchers at the University of Calgary say spending too much time on social media, gaming or streaming can affect young people's wellbeing in similar ways to being poor, born prematurely or having bad parenting.
-The study also links excessive screen time to obesity, diabetes and heart problems. Critics say the findings are &quot;not insignificant&quot; but insist that screen time is not the only reason teenagers become emotionally distressed or fail to reach their academic goals. Also: Russian drone strikes Ukraine's National Academy of Science in Kyiv, sparking a huge fire; prosecutors in New York reopen an investigation into an alleged gang rape at Cornell University in 2024; Google Earth's updated satellite imagery shows the scale of destruction in Gaza; a special report on the brutal kidnappings plaguing Nigeria; the backlash over plans to build data centres; and an 11-year-old British girl becomes the youngest chess player in history to earn the woman grandmaster title. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Großer Jubel an der Hans-Leipelt Schule: Als einer von mehreren Preisträgern hat die Berufs- und Fachoberschule 30.000 Euro beim deutschen Schulpreis gewonnen. Besonders überzeugend fand die Jury das ganz individuelle Lern- und Lehrkonzept.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122606/c/feed/schule-in-donauwoerth-gewinnt-den-deutschen-schulpreis-was-macht-sie-anders.mp3" length="7168940" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:34): Israeli settlers attack West Bank village</title>
+      <link>http://www.bbc.co.uk/programmes/p0pd1tdm</link>
+      <pubDate>Tue, 29 Sep 2026 16:38:19 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pd1tdm</guid>
+      <description>Originally published Tue 29 Sep 2026 18:34 IDT.
+
+&lt;p&gt;More than 100 Israeli settlers have attacked a Palestinian village in the occupied West Bank, preventing the return of a family who'd been forced to flee their home. The Israeli army said settlers, defying a High Court order which allowed the return of the Palestinians, had hurled rocks, blocked roads and set fire to houses and vehicles in Jalud. Also: Spain's government has agreed plans to ban evictions until 2030, as it attempts to deal with a housing crisis. The proposal follows nationwide protests after an 87-year-old woman was forced to leave her home in Madrid because of a massive rent increase. The Malaysian government has started repatriating about 5000 asylum-seekers from Myanmar, including many Rohingyas, under a controversial deal agreed with Myanmar’s military ruler; and, a film about social media takes another critical look at Facebook.  &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Social media app icons, including Facebook, Instagram, YouTube, and WhatsApp, displayed on a mobile phone screen&lt;/p&gt;&lt;p&gt;Credit: Yui Mok/PA Wire&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcysk2.mp3" length="14392000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A destroyed vehicle sits in the estate of Palestinians, Mahmoud al-Tubasi, 60, and his wife Aida, 51, which they say was attacked by Israeli settlers, in Jalud in the Israeli-occupied West Bank
+ 
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd1s13.mp3" length="13544000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
