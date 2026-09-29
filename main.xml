@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Sep 2026 03:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:21:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 06:01): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3504732.html</link>
-      <pubDate>Tue, 29 Sep 2026 03:55:11 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 12:06): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3505472.html</link>
+      <pubDate>Tue, 29 Sep 2026 10:21:38 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">ee5c8873-afd9-43de-87ca-3b06c1a8bd68</guid>
-      <description>Originally published Tue 29 Sep 2026 06:01 IDT.
+      <guid isPermaLink="false">f2f0b5dc-c99c-4e35-b58f-9ea7edd84c52</guid>
+      <description>Originally published Tue 29 Sep 2026 12:06 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0929/AU-20260929-0501-4400.mp3" length="2186256" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0929/AU-20260929-1106-3300.mp3" length="2490379" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 06:10): NPR News: 09-28-2026 11PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Tue 13:10): NPR News: 09-29-2026 6AM EDT</title>
       <link/>
-      <pubDate>Tue, 29 Sep 2026 03:54:11 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 10:20:38 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">ab0076c3-262d-4bfa-8b6e-c7cbe8bc884f</guid>
-      <description>Originally published Tue 29 Sep 2026 06:10 IDT.
+      <guid isPermaLink="false">65deff42-ba44-4fed-8f52-0000eefe92da</guid>
+      <description>Originally published Tue 29 Sep 2026 13:10 IDT.
 
-NPR News: 09-28-2026 11PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d327868c-160b-464a-b1a6-6d26e05ccb56/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d327868c-160b-464a-b1a6-6d26e05ccb56&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260928-2300-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-29-2026 6AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c8c3cfd4-e771-435b-847e-918e91081e56/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c8c3cfd4-e771-435b-847e-918e91081e56&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260929-0600-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 28.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3504476.html</link>
-      <pubDate>Tue, 29 Sep 2026 03:53:11 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 10:19:38 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">8a4a447e-7bc6-49cf-8904-b128fd090982-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 28 Sep 2026 21:00 IDT.
@@ -46,30 +46,41 @@ Spitzengespräch von CDU und SPD in Diskussion um Pflegereform, Früherer Unions
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0928/AU-20260928-2025-5700.mp3" length="15380130" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 06:30): Die Nachrichten vom 29.09.2026, 05:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42728.html</link>
-      <pubDate>Tue, 29 Sep 2026 03:52:11 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 12:30): Die Nachrichten vom 29.09.2026, 11:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42752.html</link>
+      <pubDate>Tue, 29 Sep 2026 10:18:38 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">bde531f1-938c-5db3-8837-5c6dfa68ed5d</guid>
-      <description>Originally published Tue 29 Sep 2026 06:30 IDT.
+      <guid isPermaLink="false">ef9fb772-2949-570a-923d-e9cc98ea7341</guid>
+      <description>Originally published Tue 29 Sep 2026 12:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/29/nachrichten_dlf_20260929_0530_2f36560f.mp3?refId=nachrichten-108" length="5060837" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/29/nachrichten_dlf_20260929_1130_017fe766.mp3?refId=nachrichten-108" length="4945481" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (28.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-28092026</link>
-      <pubDate>Tue, 29 Sep 2026 03:51:11 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:26): Morgenjournal um 8 (29.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-29092026</link>
+      <pubDate>Tue, 29 Sep 2026 10:17:38 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_d832cf5a128142e8952d6b27c5b88e4f</guid>
-      <description>Originally published Mon 28 Sep 2026 19:33 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d832cf5a128142e8952d6b27c5b88e4f.mp3?etag=29679c0fa63f5fd0f094471721fb525a" length="36386828" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_c6562de30155445b8c2adaa776177f15</guid>
+      <description>Originally published Tue 29 Sep 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c6562de30155445b8c2adaa776177f15.mp3?etag=b1495fd2d73a2cadb7f7e4079ffef086" length="29211339" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 10:51): Die Vereinten Nationen unter Druck - Was bleibt nach der Vollversammlung?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/die-vereinten-nationen-unter-druck-was-bleibt-nach-der-vollversammlung/2122590</link>
+      <pubDate>Tue, 29 Sep 2026 10:16:38 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">c9e91f08-c440-4a36-b433-701ee35223ea</guid>
+      <description>Originally published Tue 29 Sep 2026 10:51 IDT.
+
+In der UN-Vollversammlung begegnen sich selbst Todfeinde auf Augenhöhe. Die Vereinten Nationen wurden dafür gegründet, dass sie den Frieden und die Sicherheit auf der Welt bewahren. Aber sie stehen unter Druck wie nie zuvor.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122590/c/feed/die-vereinten-nationen-unter-druck-was-bleibt-nach-der-vollversammlung.mp3" length="8239148" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierungen | Drogenköche | Medizin-Uni Lausitz</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/sondierungen-drogenkoeche-medizin-uni-lausitz.html</link>
-      <pubDate>Tue, 29 Sep 2026 03:50:11 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Tue, 29 Sep 2026 10:15:38 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/99/d5/99d5c560-1beb-45c8-8aea-bd108251426e/99d5c560-1beb-45c8-8aea-bd108251426e_mp3-256kd.mp3</guid>
       <description>Originally published Mon 28 Sep 2026 19:17 IDT.
 
@@ -79,31 +90,18 @@ Nach der Wahl ist vor den Sondierungsgespr&amp;#228;chen. Doch es gibt noch Rede
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/99/d5/99d5c560-1beb-45c8-8aea-bd108251426e/99d5c560-1beb-45c8-8aea-bd108251426e_mp3-256kd.mp3" length="30485512" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 19:15): Streit um die Pflegereform: Kann sich die Koalition einigen?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/streit-um-die-pflegereform-kann-sich-die-koalition-einigen/2122567</link>
-      <pubDate>Tue, 29 Sep 2026 03:49:11 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">3de4642d-205a-42d0-8f7e-1b441a2b5b6a</guid>
-      <description>Originally published Mon 28 Sep 2026 19:15 IDT.
-
-Kurz bevor Bundesgesundheitsminister Linnemann sein Pflegeneuordnungsgesetz durchs Kabinett bringen will, stellt sich die SPD quer und verlangt Änderungen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122567/c/feed/streit-um-die-pflegereform-kann-sich-die-koalition-einigen.mp3" length="8982188" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:10): Israel PM made secret visit to UAE, reports say</title>
-      <link>http://www.bbc.co.uk/programmes/p0pcwvm0</link>
-      <pubDate>Tue, 29 Sep 2026 03:48:11 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:43): Too much screen time 'can damage children as badly as poverty'</title>
+      <link>http://www.bbc.co.uk/programmes/p0pcysqf</link>
+      <pubDate>Tue, 29 Sep 2026 10:14:38 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pcwvm0</guid>
-      <description>Originally published Mon 28 Sep 2026 18:10 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pcysqf</guid>
+      <description>Originally published Tue 29 Sep 2026 07:43 IDT.
 
-&lt;p&gt;The Israeli prime minister Benjamin Netanyahu may have asked the UAE leader to deny reports by Haaretz newspaper that he had been warned about an imminent Hamas attack just days before October 7th.  With elections now just a month away, Mr Netanyahu's rivals have seized on the report as just the latest example of warnings that he ignored. Also: we hear how unproven rape claims led to violent demonstrations erupting at an Indian university this weekend; we have the latest on protests in Spain sparked by the forced eviction of an 87-year-old woman from her flat; how scientists came up with a solution to help bananas stay yellow even when they're old or damaged; and the South Korean boy band, Big Bang, returns to London 20 years after they burst onto the music scene and helped turn KPop into a global phenomenon. 
-The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Researchers at the University of Calgary say spending too much time on social media, gaming or streaming can affect young people's wellbeing in similar ways to being poor, born prematurely or having bad parenting.
+The study also links excessive screen time to obesity, diabetes and heart problems. Critics say the findings are &quot;not insignificant&quot; but insist that screen time is not the only reason teenagers become emotionally distressed or fail to reach their academic goals. Also: Russian drone strikes Ukraine's National Academy of Science in Kyiv, sparking a huge fire; prosecutors in New York reopen an investigation into an alleged gang rape at Cornell University in 2024; Google Earth's updated satellite imagery shows the scale of destruction in Gaza; a special report on the brutal kidnappings plaguing Nigeria; the backlash over plans to build data centres; and an 11-year-old British girl becomes the youngest chess player in history to earn the woman grandmaster title. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo:  Israeli Prime Minister Benjamin Netanyahu addresses the 81st United Nations General Assembly (UNGA) at UN headquarters in New York City, US, September 24, 2026. 
-Credit: REUTERS/Brendan McDermid&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcwvbw.mp3" length="12480000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Social media app icons, including Facebook, Instagram, YouTube, and WhatsApp, displayed on a mobile phone screen&lt;/p&gt;&lt;p&gt;Credit: Yui Mok/PA Wire&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcysk2.mp3" length="14392000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
