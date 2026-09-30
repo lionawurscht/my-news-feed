@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:32:25 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 02:58): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3506972.html</link>
-      <pubDate>Wed, 30 Sep 2026 00:59:27 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 06:06): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3507058.html</link>
+      <pubDate>Wed, 30 Sep 2026 06:32:25 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">7a4b2059-77a4-4e97-91f5-e4991e4ffd46</guid>
-      <description>Originally published Wed 30 Sep 2026 02:58 IDT.
+      <guid isPermaLink="false">38547cd8-a01e-4076-922f-15d8a4d3dd2e</guid>
+      <description>Originally published Wed 30 Sep 2026 06:06 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-0158-4300.mp3" length="2405131" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-0505-5200.mp3" length="2332171" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 03:10): NPR News: 09-29-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 09:10): NPR News: 09-30-2026 2AM EDT</title>
       <link/>
-      <pubDate>Wed, 30 Sep 2026 00:58:27 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 06:31:25 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">9075d3b9-a6c1-482c-9329-d9c22a432d50</guid>
-      <description>Originally published Wed 30 Sep 2026 03:10 IDT.
+      <guid isPermaLink="false">d3d4d460-c345-4f6b-8b50-07c079771913</guid>
+      <description>Originally published Wed 30 Sep 2026 09:10 IDT.
 
-NPR News: 09-29-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/507b6922-94ed-4b0d-8227-aed34b2ec336/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=507b6922-94ed-4b0d-8227-aed34b2ec336&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260929-2000-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-30-2026 2AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2892c2db-f159-4124-bf7e-ba75e50bab55/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2892c2db-f159-4124-bf7e-ba75e50bab55&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260930-0200-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 29.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3506744.html</link>
-      <pubDate>Wed, 30 Sep 2026 00:57:27 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 06:30:25 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">65dc0e4f-b854-47b6-a62f-91a1103d38bf-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 29 Sep 2026 21:00 IDT.
@@ -46,30 +46,41 @@ Regierungskoalition verhandelt vor Einbringung ins Kabinett über Gesetzentwurf 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0929/AU-20260929-2024-3400.mp3" length="14891682" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 03:00): Die Nachrichten vom 30.09.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42792.html</link>
-      <pubDate>Wed, 30 Sep 2026 00:56:27 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (30.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-30092026</link>
+      <pubDate>Wed, 30 Sep 2026 06:29:25 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">425946c6-b7b7-5f40-b2e0-8895714eb09f</guid>
-      <description>Originally published Wed 30 Sep 2026 03:00 IDT.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/30/nachrichten_dlf_20260930_0200_6c9c6834.mp3?refId=nachrichten-108" length="5011518" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_991e4e8d2af54012b3b5ab71c6fb3bab</guid>
+      <description>Originally published Wed 30 Sep 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_991e4e8d2af54012b3b5ab71c6fb3bab.mp3?etag=f116146827bf3588ed2ae9afc6db2f55" length="29283411" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (29.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-29092026</link>
-      <pubDate>Wed, 30 Sep 2026 00:55:27 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 09:00): Die Nachrichten vom 30.09.2026, 08:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42812.html</link>
+      <pubDate>Wed, 30 Sep 2026 06:28:25 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_9649cfdc33f54c74a3bc5a2034950405</guid>
-      <description>Originally published Tue 29 Sep 2026 19:33 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_9649cfdc33f54c74a3bc5a2034950405.mp3?etag=0ec47117d04962d9237dd33827ea0395" length="36615152" type="audio/mpeg"/>
+      <guid isPermaLink="false">a476ea2f-6052-5b20-a5a1-314add8214f4</guid>
+      <description>Originally published Wed 30 Sep 2026 09:00 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/30/nachrichten_dlf_20260930_0800_6ee6024c.mp3?refId=nachrichten-108" length="9762460" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 09:08): Bayerns neuer Minister für Jugend und Demokratie: wer ist Manuel Knoll?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bayerns-neuer-minister-fuer-jugend-und-demokratie-wer-ist-manuel-knoll/2122625</link>
+      <pubDate>Wed, 30 Sep 2026 06:27:25 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">ca75fdde-f180-4879-9551-a44e2db92bda</guid>
+      <description>Originally published Wed 30 Sep 2026 09:08 IDT.
+
+Bei der letzten Klausur der CSU-Landtagsfraktion kündigte Bayerns Ministerpräsident Söder an, dass er einen Minister für Jugend und Demokratie installieren will. Was wünschen sich junge Menschen von Manuel Knoll?</description>
+      <enclosure url="https://media.neuland.br.de/file/2122625/c/feed/bayerns-neuer-minister-fuer-jugend-und-demokratie-wer-ist-manuel-knoll.mp3" length="8692652" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Landeseigene erhöhen Mieten | Pflegereform Brandenburg | Höchstes Windrad</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/landeseigene-erhoehen-mieten-pflegereform-brandenburg.html</link>
-      <pubDate>Wed, 30 Sep 2026 00:54:27 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Wed, 30 Sep 2026 06:26:25 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/70/e8/70e83d15-56c9-458b-a995-6decb5ff17bb/70e83d15-56c9-458b-a995-6decb5ff17bb_mp3-256kd.mp3</guid>
       <description>Originally published Tue 29 Sep 2026 19:17 IDT.
 
@@ -79,30 +90,19 @@ Die landeseigenen Wohnungsunternehmen erh&amp;#246;hen derzeit ihre Mieten &amp;
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/70/e8/70e83d15-56c9-458b-a995-6decb5ff17bb/70e83d15-56c9-458b-a995-6decb5ff17bb_mp3-256kd.mp3" length="30395656" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Schule in Donauwörth gewinnt den deutschen Schulpreis: Was macht sie anders?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/schule-in-donauwoerth-gewinnt-den-deutschen-schulpreis-was-macht-sie-anders/2122606</link>
-      <pubDate>Wed, 30 Sep 2026 00:53:27 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">a8287732-1d9b-42bf-a01a-3e6da2d1509d</guid>
-      <description>Originally published Tue 29 Sep 2026 19:00 IDT.
-
-Großer Jubel an der Hans-Leipelt Schule: Als einer von mehreren Preisträgern hat die Berufs- und Fachoberschule 30.000 Euro beim deutschen Schulpreis gewonnen. Besonders überzeugend fand die Jury das ganz individuelle Lern- und Lehrkonzept.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122606/c/feed/schule-in-donauwoerth-gewinnt-den-deutschen-schulpreis-was-macht-sie-anders.mp3" length="7168940" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:34): Israeli settlers attack West Bank village</title>
-      <link>http://www.bbc.co.uk/programmes/p0pd1tdm</link>
-      <pubDate>Wed, 30 Sep 2026 00:52:27 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:53): AI bosses sign self-regulation accord</title>
+      <link>http://www.bbc.co.uk/programmes/p0pd3pkd</link>
+      <pubDate>Wed, 30 Sep 2026 06:25:25 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pd1tdm</guid>
-      <description>Originally published Tue 29 Sep 2026 18:34 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pd3pkd</guid>
+      <description>Originally published Wed 30 Sep 2026 07:53 IDT.
 
-&lt;p&gt;More than 100 Israeli settlers have attacked a Palestinian village in the occupied West Bank, preventing the return of a family who'd been forced to flee their home. The Israeli army said settlers, defying a High Court order which allowed the return of the Palestinians, had hurled rocks, blocked roads and set fire to houses and vehicles in Jalud. Also: Spain's government has agreed plans to ban evictions until 2030, as it attempts to deal with a housing crisis. The proposal follows nationwide protests after an 87-year-old woman was forced to leave her home in Madrid because of a massive rent increase. The Malaysian government has started repatriating about 5000 asylum-seekers from Myanmar, including many Rohingyas, under a controversial deal agreed with Myanmar’s military ruler; and, a film about social media takes another critical look at Facebook.  &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;After talks with AI industry executives at the White House, President Trump says they've signed a deal to police themselves which is &quot;morally binding&quot;. Meanwhile, he has ruled out a joint venture with China on Artificial Intelligence, saying it would amount to &quot;giving away secrets&quot; to Ameria's main economic rival. Also: South Africa's president Cyril Ramaphosa addresses the nation amid growing alarm about violence against women. The English Premier League confirms Manchester City have been found guilty of serious breaches of its financial rules. A man who spent 41 years on death row in the US for murder is released on bail after newly analysed DNA evidence did not link him to the crime. The UK's Prime Minister Andy Burnham sets out an ambitious agenda in a major speech to his party. A rare painting of Rome by the renowned artist William Turner returns to the eternal city. And a week-long dance-a-thon in Nigeria. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A destroyed vehicle sits in the estate of Palestinians, Mahmoud al-Tubasi, 60, and his wife Aida, 51, which they say was attacked by Israeli settlers, in Jalud in the Israeli-occupied West Bank
- 
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd1s13.mp3" length="13544000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Anthropic's Tom Brown, SpaceXAI's Elon Musk, Nvidia's Jensen Huang and Atreides Management's Gavin Baker at the launch event for America.gov, a new AI-powered US government website. 
+Credit: Reuters/Kylie Cooper&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd3pfq.mp3" length="13368000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
