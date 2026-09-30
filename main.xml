@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 13:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:47:21 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,96 +13,96 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 12:14): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3507844.html</link>
-      <pubDate>Wed, 30 Sep 2026 13:17:23 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 18:35): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3508764.html</link>
+      <pubDate>Wed, 30 Sep 2026 18:47:21 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4ec675d6-51d4-4eba-91a1-e7851b8b488e</guid>
-      <description>Originally published Wed 30 Sep 2026 12:14 IDT.
+      <guid isPermaLink="false">65ccc6d1-d802-4528-82a7-7053c33dac78</guid>
+      <description>Originally published Wed 30 Sep 2026 18:35 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-1114-4000.mp3" length="2480779" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-1735-2800.mp3" length="2021899" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 16:10): NPR News: 09-30-2026 9AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 21:10): NPR News: 09-30-2026 2PM EDT</title>
       <link/>
-      <pubDate>Wed, 30 Sep 2026 13:16:23 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 18:46:21 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">cdabc420-57e2-461f-b729-ace71bfed337</guid>
-      <description>Originally published Wed 30 Sep 2026 16:10 IDT.
+      <guid isPermaLink="false">034d4191-14c1-4ff5-89f3-a05352ea6066</guid>
+      <description>Originally published Wed 30 Sep 2026 21:10 IDT.
 
-NPR News: 09-30-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2c380a63-75ca-47be-9ed9-a482f38584c2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2c380a63-75ca-47be-9ed9-a482f38584c2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260930-0900-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 09-30-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6aabd9c2-f20d-496c-9010-983ddeece506/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6aabd9c2-f20d-496c-9010-983ddeece506&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260930-1400-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 29.09.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3506744.html</link>
-      <pubDate>Wed, 30 Sep 2026 13:15:23 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 30.09.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3509018.html</link>
+      <pubDate>Wed, 30 Sep 2026 18:45:21 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">65dc0e4f-b854-47b6-a62f-91a1103d38bf-SENDUNGSAUDIO</guid>
-      <description>Originally published Tue 29 Sep 2026 21:00 IDT.
+      <guid isPermaLink="false">6954ac22-f825-4dae-91d5-2745aa3130a8-SENDUNGSAUDIO</guid>
+      <description>Originally published Wed 30 Sep 2026 21:00 IDT.
 
-Regierungskoalition verhandelt vor Einbringung ins Kabinett über Gesetzentwurf zur Pflegereform, Erste große Übung der Heimatschutzdivision im öffentlichen Raum, Region Bremen und Bremerhaven soll bis 2031 zur NATO-Drehscheibe ausgebaut werden, Bundesregierung will laut Medienberichten Übernahme von Teilen des Speditionsunternehmens Zippel durch Cosco verhindert, Landesweit protestieren Menschen in Spanien gegen Wohnungspolitik, Europäische Staatsanwaltschaft geht bei groß angelegter Razzia gegen Betrug mit Handys vor, Verbreitung von Upskirting-Videos vom Oktoberfest im Internet, Laut OCED-Bericht machen mehr Menschen einen Hochschul- oder höheren beruflichen Abschluss, Deutscher Schulpreis 2026 für Bertha-von-Suttner-Gesamtschule in Hessen, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0929/AU-20260929-2024-3400.mp3" length="14891682" type="audio/mpeg"/>
+Bundeskabinett bringt Pflegereform auf den Weg, Härtere Strafen für Übergriffe auf Rettungskräfte und andere Berufsgruppen, Preis für Deutschlandticket wird erneut erhöht, Inflationsrate steigt im September auf 3,3 Prozent, Konflikt zwischen VW und IG-Metall: Volkswagen kündigt fast alle Tarifverträge zum Jahresende, Ostbeauftragte der Bundesregierung Kaiser sieht Nachholbedarf bei Vermögensverteilung zwischen Ost und West, Groß angelegte Razzia gegen Rockerclub &quot;Hells Angels&quot;, Mutmaßlicher Terrorangriff in Flugzeug von Dubai nach Tel Aviv, Innenverteidiger Schlotterbeck verletzt sich bei DFB-Training, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-2034-5800.mp3" length="16522531" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 16:00): Die Nachrichten vom 30.09.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42840.html</link>
-      <pubDate>Wed, 30 Sep 2026 13:14:23 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 21:00): Die Nachrichten vom 30.09.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42854.html</link>
+      <pubDate>Wed, 30 Sep 2026 18:44:21 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">6b51b1fd-9ed1-5a79-8000-8032e85328ac</guid>
-      <description>Originally published Wed 30 Sep 2026 16:00 IDT.
+      <guid isPermaLink="false">2a341a7b-f623-5dee-81cc-5fd22ceec4f6</guid>
+      <description>Originally published Wed 30 Sep 2026 21:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/30/nachrichten_dlf_20260930_1500_b46686bc.mp3?refId=nachrichten-108" length="5003995" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/30/nachrichten_dlf_20260930_2000_707930f7.mp3?refId=nachrichten-108" length="9810108" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 14:12): Mittagsjournal (30.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-30092026</link>
-      <pubDate>Wed, 30 Sep 2026 13:13:23 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:31): Abendjournal um 18 (30.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-30092026</link>
+      <pubDate>Wed, 30 Sep 2026 18:43:21 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_65b63cf6d76d40a8a44dce78675fb4e5</guid>
-      <description>Originally published Wed 30 Sep 2026 14:12 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_65b63cf6d76d40a8a44dce78675fb4e5.mp3?etag=1c645206dcbbe98f2e91a296a12dc0f1" length="86951386" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_b05f635e596a4c368475e5c6526d459a</guid>
+      <description>Originally published Wed 30 Sep 2026 19:31 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b05f635e596a4c368475e5c6526d459a.mp3?etag=eb5bca844d20708e103f0007cd669550" length="36458900" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 09:08): Bayerns neuer Minister für Jugend und Demokratie: wer ist Manuel Knoll?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bayerns-neuer-minister-fuer-jugend-und-demokratie-wer-ist-manuel-knoll/2122625</link>
-      <pubDate>Wed, 30 Sep 2026 13:12:23 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Drohnen-Erkennung | Arbeitsmarktzahlen | Munitionsfunde</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/drohnen-erkennung-arbeitsmarktzahlen-munitionsfunde.html</link>
+      <pubDate>Wed, 30 Sep 2026 18:42:21 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">ca75fdde-f180-4879-9551-a44e2db92bda</guid>
-      <description>Originally published Wed 30 Sep 2026 09:08 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/60/77/6077cc77-1f49-4c33-adcd-7182e6df8c37/6077cc77-1f49-4c33-adcd-7182e6df8c37_mp3-256kd.mp3</guid>
+      <description>Originally published Wed 30 Sep 2026 19:17 IDT.
 
-Bei der letzten Klausur der CSU-Landtagsfraktion kündigte Bayerns Ministerpräsident Söder an, dass er einen Minister für Jugend und Demokratie installieren will. Was wünschen sich junge Menschen von Manuel Knoll?</description>
-      <enclosure url="https://media.neuland.br.de/file/2122625/c/feed/bayerns-neuer-minister-fuer-jugend-und-demokratie-wer-ist-manuel-knoll.mp3" length="8692652" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Landeseigene erhöhen Mieten | Pflegereform Brandenburg | Höchstes Windrad</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/landeseigene-erhoehen-mieten-pflegereform-brandenburg.html</link>
-      <pubDate>Wed, 30 Sep 2026 13:11:23 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/70/e8/70e83d15-56c9-458b-a995-6decb5ff17bb/70e83d15-56c9-458b-a995-6decb5ff17bb_mp3-256kd.mp3</guid>
-      <description>Originally published Tue 29 Sep 2026 19:17 IDT.
-
-Die landeseigenen Wohnungsunternehmen erh&amp;#246;hen derzeit ihre Mieten &amp;#8211; was viele Mieter sauer macht - und auch auf der politischen B&amp;#252;hne Fragen aufwirft. Au&amp;#223;erdem: Brandenburgs Blick auf Pflegereform; H&amp;#246;chstes Windrad in Schipkau ist fertig; Aktionswoche gegen Lebensmittelverschwendung.
+Schon mehrmals musste am BER der Flugverkehr wegen Drohnen unterbrochen werden. Damit das in Zukunft besser wird, bekommt der Flughafen ein neues Erkennungssystem. Au&amp;#223;erdem: Arbeitsmarktzahlen Berlin und Brandenburg; Munitionsfunde in Potsdam gesprengt; Was passiert mit dem Wandlitzsee?
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/70/e8/70e83d15-56c9-458b-a995-6decb5ff17bb/70e83d15-56c9-458b-a995-6decb5ff17bb_mp3-256kd.mp3" length="30395656" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/60/77/6077cc77-1f49-4c33-adcd-7182e6df8c37/6077cc77-1f49-4c33-adcd-7182e6df8c37_mp3-256kd.mp3" length="29327373" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:53): AI bosses sign self-regulation accord</title>
-      <link>http://www.bbc.co.uk/programmes/p0pd3pkd</link>
-      <pubDate>Wed, 30 Sep 2026 13:10:23 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pd3pkd</guid>
-      <description>Originally published Wed 30 Sep 2026 07:53 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 18:20): Ein Jahr Bahnchefin Palla: Neue Spitze, alte Probleme?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ein-jahr-bahnchefin-palla-neue-spitze-alte-probleme/2122647</link>
+      <pubDate>Wed, 30 Sep 2026 18:41:21 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">78c735da-0595-4646-90f8-46f669037cdd</guid>
+      <description>Originally published Wed 30 Sep 2026 18:20 IDT.
 
-&lt;p&gt;After talks with AI industry executives at the White House, President Trump says they've signed a deal to police themselves which is &quot;morally binding&quot;. Meanwhile, he has ruled out a joint venture with China on Artificial Intelligence, saying it would amount to &quot;giving away secrets&quot; to Ameria's main economic rival. Also: South Africa's president Cyril Ramaphosa addresses the nation amid growing alarm about violence against women. The English Premier League confirms Manchester City have been found guilty of serious breaches of its financial rules. A man who spent 41 years on death row in the US for murder is released on bail after newly analysed DNA evidence did not link him to the crime. The UK's Prime Minister Andy Burnham sets out an ambitious agenda in a major speech to his party. A rare painting of Rome by the renowned artist William Turner returns to the eternal city. And a week-long dance-a-thon in Nigeria. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Zugausfälle, Verspätungen, marodes Schienennetz: Vieles wird an der Bahn kritisiert - trotz neuer Konzernchefin Palla.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122647/c/feed/ein-jahr-bahnchefin-palla-neue-spitze-alte-probleme.mp3" length="8533292" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:57): Israel-bound flight diverted after fight between pilots</title>
+      <link>http://www.bbc.co.uk/programmes/p0pd6wf5</link>
+      <pubDate>Wed, 30 Sep 2026 18:40:21 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pd6wf5</guid>
+      <description>Originally published Wed 30 Sep 2026 17:57 IDT.
+
+&lt;p&gt;An Israel-bound flight with about 170 people on board has landed safely in Saudi Arabia after a fight broke out between pilots, triggering a hijacking alert. Two Israeli officials said the co-pilot is believed to have stabbed the captain and tried to crash the plane. Officials from Tabuk airport, where the Flydubai flight landed, say they are being treated in hospital. Also; Russia has carried out another massive overnight attack on Ukraine's Kyiv region, hitting energy infrastructure and residential buildings. President Zelensky says seven people have been killed and 24 injured across Ukraine in the latest drone and missile strikes. Africa's richest man has launched the construction of a giant oil refinery on Kenya's coast, describing it as a new chapter in the continent's industrial journey, and we find out the winner of the 2026 Fat Bear Week in Katmai National Park in Alaska, a contest in which 16 bears took part with two million votes cast from 100 countries around the world. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Anthropic's Tom Brown, SpaceXAI's Elon Musk, Nvidia's Jensen Huang and Atreides Management's Gavin Baker at the launch event for America.gov, a new AI-powered US government website. 
-Credit: Reuters/Kylie Cooper&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd3pfq.mp3" length="13368000" type="audio/mpeg"/>
+Photo:  A Flydubai aircraft sits on the tarmac at Ben Gurion International Airport near Tel Aviv, Israel, 30 September 2026.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd6n9q.mp3" length="13224000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
