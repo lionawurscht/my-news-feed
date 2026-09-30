@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 18:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:47:28 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 18:35): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3508764.html</link>
-      <pubDate>Wed, 30 Sep 2026 18:47:21 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 23:12): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3509100.html</link>
+      <pubDate>Wed, 30 Sep 2026 22:47:28 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">65ccc6d1-d802-4528-82a7-7053c33dac78</guid>
-      <description>Originally published Wed 30 Sep 2026 18:35 IDT.
+      <guid isPermaLink="false">44bed9f2-cd31-45e0-9d8f-a25757c88c16</guid>
+      <description>Originally published Wed 30 Sep 2026 23:12 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-1735-2800.mp3" length="2021899" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-2212-2100.mp3" length="2011147" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 21:10): NPR News: 09-30-2026 2PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Thu 01:10): NPR News: 09-30-2026 6PM EDT</title>
       <link/>
-      <pubDate>Wed, 30 Sep 2026 18:46:21 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 22:46:28 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">034d4191-14c1-4ff5-89f3-a05352ea6066</guid>
-      <description>Originally published Wed 30 Sep 2026 21:10 IDT.
+      <guid isPermaLink="false">e3623c4b-f79c-45b3-a2b9-b1ca1822c796</guid>
+      <description>Originally published Thu 01 Oct 2026 01:10 IDT.
 
-NPR News: 09-30-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6aabd9c2-f20d-496c-9010-983ddeece506/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6aabd9c2-f20d-496c-9010-983ddeece506&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260930-1400-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 09-30-2026 6PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/836b8fce-cede-43be-96bd-339acc440f26/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=836b8fce-cede-43be-96bd-339acc440f26&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260930-1800-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 30.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3509018.html</link>
-      <pubDate>Wed, 30 Sep 2026 18:45:21 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 22:45:28 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">6954ac22-f825-4dae-91d5-2745aa3130a8-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 30 Sep 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Bundeskabinett bringt Pflegereform auf den Weg, Härtere Strafen für Übergriff
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-2034-5800.mp3" length="16522531" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 21:00): Die Nachrichten vom 30.09.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42854.html</link>
-      <pubDate>Wed, 30 Sep 2026 18:44:21 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 01:00): Die Nachrichten vom 01.10.2026, 00:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42862.html</link>
+      <pubDate>Wed, 30 Sep 2026 22:44:28 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">2a341a7b-f623-5dee-81cc-5fd22ceec4f6</guid>
-      <description>Originally published Wed 30 Sep 2026 21:00 IDT.
+      <guid isPermaLink="false">059a4809-6a63-5475-b904-58c7fa257974</guid>
+      <description>Originally published Thu 01 Oct 2026 01:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/30/nachrichten_dlf_20260930_2000_707930f7.mp3?refId=nachrichten-108" length="9810108" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/01/nachrichten_dlf_20261001_0000_8e54e802.mp3?refId=nachrichten-108" length="4893236" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:31): Abendjournal um 18 (30.09.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-30092026</link>
-      <pubDate>Wed, 30 Sep 2026 18:43:21 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 22:43:28 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_b05f635e596a4c368475e5c6526d459a</guid>
       <description>Originally published Wed 30 Sep 2026 19:31 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Drohnen-Erkennung | Arbeitsmarktzahlen | Munitionsfunde</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/drohnen-erkennung-arbeitsmarktzahlen-munitionsfunde.html</link>
-      <pubDate>Wed, 30 Sep 2026 18:42:21 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 22:42:28 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/60/77/6077cc77-1f49-4c33-adcd-7182e6df8c37/6077cc77-1f49-4c33-adcd-7182e6df8c37_mp3-256kd.mp3</guid>
       <description>Originally published Wed 30 Sep 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Schon mehrmals musste am BER der Flugverkehr wegen Drohnen unterbrochen werden. 
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 18:20): Ein Jahr Bahnchefin Palla: Neue Spitze, alte Probleme?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ein-jahr-bahnchefin-palla-neue-spitze-alte-probleme/2122647</link>
-      <pubDate>Wed, 30 Sep 2026 18:41:21 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 22:41:28 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">78c735da-0595-4646-90f8-46f669037cdd</guid>
       <description>Originally published Wed 30 Sep 2026 18:20 IDT.
@@ -92,7 +92,7 @@ Zugausfälle, Verspätungen, marodes Schienennetz: Vieles wird an der Bahn kriti
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:57): Israel-bound flight diverted after fight between pilots</title>
       <link>http://www.bbc.co.uk/programmes/p0pd6wf5</link>
-      <pubDate>Wed, 30 Sep 2026 18:40:21 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 22:40:28 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pd6wf5</guid>
       <description>Originally published Wed 30 Sep 2026 17:57 IDT.
