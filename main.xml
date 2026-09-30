@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:17:23 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 06:06): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3507058.html</link>
-      <pubDate>Wed, 30 Sep 2026 06:32:25 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 12:14): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3507844.html</link>
+      <pubDate>Wed, 30 Sep 2026 13:17:23 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">38547cd8-a01e-4076-922f-15d8a4d3dd2e</guid>
-      <description>Originally published Wed 30 Sep 2026 06:06 IDT.
+      <guid isPermaLink="false">4ec675d6-51d4-4eba-91a1-e7851b8b488e</guid>
+      <description>Originally published Wed 30 Sep 2026 12:14 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-0505-5200.mp3" length="2332171" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-1114-4000.mp3" length="2480779" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 09:10): NPR News: 09-30-2026 2AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Wed 16:10): NPR News: 09-30-2026 9AM EDT</title>
       <link/>
-      <pubDate>Wed, 30 Sep 2026 06:31:25 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 13:16:23 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d3d4d460-c345-4f6b-8b50-07c079771913</guid>
-      <description>Originally published Wed 30 Sep 2026 09:10 IDT.
+      <guid isPermaLink="false">cdabc420-57e2-461f-b729-ace71bfed337</guid>
+      <description>Originally published Wed 30 Sep 2026 16:10 IDT.
 
-NPR News: 09-30-2026 2AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2892c2db-f159-4124-bf7e-ba75e50bab55/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2892c2db-f159-4124-bf7e-ba75e50bab55&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260930-0200-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 09-30-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2c380a63-75ca-47be-9ed9-a482f38584c2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2c380a63-75ca-47be-9ed9-a482f38584c2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20260930-0900-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 29.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3506744.html</link>
-      <pubDate>Wed, 30 Sep 2026 06:30:25 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 13:15:23 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">65dc0e4f-b854-47b6-a62f-91a1103d38bf-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 29 Sep 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Regierungskoalition verhandelt vor Einbringung ins Kabinett über Gesetzentwurf 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0929/AU-20260929-2024-3400.mp3" length="14891682" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (30.09.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-30092026</link>
-      <pubDate>Wed, 30 Sep 2026 06:29:25 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 16:00): Die Nachrichten vom 30.09.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42840.html</link>
+      <pubDate>Wed, 30 Sep 2026 13:14:23 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_991e4e8d2af54012b3b5ab71c6fb3bab</guid>
-      <description>Originally published Wed 30 Sep 2026 09:26 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_991e4e8d2af54012b3b5ab71c6fb3bab.mp3?etag=f116146827bf3588ed2ae9afc6db2f55" length="29283411" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 09:00): Die Nachrichten vom 30.09.2026, 08:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42812.html</link>
-      <pubDate>Wed, 30 Sep 2026 06:28:25 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">a476ea2f-6052-5b20-a5a1-314add8214f4</guid>
-      <description>Originally published Wed 30 Sep 2026 09:00 IDT.
+      <guid isPermaLink="false">6b51b1fd-9ed1-5a79-8000-8032e85328ac</guid>
+      <description>Originally published Wed 30 Sep 2026 16:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/30/nachrichten_dlf_20260930_0800_6ee6024c.mp3?refId=nachrichten-108" length="9762460" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/09/30/nachrichten_dlf_20260930_1500_b46686bc.mp3?refId=nachrichten-108" length="5003995" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 14:12): Mittagsjournal (30.09.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-30092026</link>
+      <pubDate>Wed, 30 Sep 2026 13:13:23 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_65b63cf6d76d40a8a44dce78675fb4e5</guid>
+      <description>Originally published Wed 30 Sep 2026 14:12 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_65b63cf6d76d40a8a44dce78675fb4e5.mp3?etag=1c645206dcbbe98f2e91a296a12dc0f1" length="86951386" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 09:08): Bayerns neuer Minister für Jugend und Demokratie: wer ist Manuel Knoll?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bayerns-neuer-minister-fuer-jugend-und-demokratie-wer-ist-manuel-knoll/2122625</link>
-      <pubDate>Wed, 30 Sep 2026 06:27:25 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 13:12:23 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">ca75fdde-f180-4879-9551-a44e2db92bda</guid>
       <description>Originally published Wed 30 Sep 2026 09:08 IDT.
@@ -79,7 +79,7 @@ Bei der letzten Klausur der CSU-Landtagsfraktion kündigte Bayerns Ministerpräs
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Landeseigene erhöhen Mieten | Pflegereform Brandenburg | Höchstes Windrad</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/landeseigene-erhoehen-mieten-pflegereform-brandenburg.html</link>
-      <pubDate>Wed, 30 Sep 2026 06:26:25 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 13:11:23 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/70/e8/70e83d15-56c9-458b-a995-6decb5ff17bb/70e83d15-56c9-458b-a995-6decb5ff17bb_mp3-256kd.mp3</guid>
       <description>Originally published Tue 29 Sep 2026 19:17 IDT.
@@ -92,7 +92,7 @@ Die landeseigenen Wohnungsunternehmen erh&amp;#246;hen derzeit ihre Mieten &amp;
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:53): AI bosses sign self-regulation accord</title>
       <link>http://www.bbc.co.uk/programmes/p0pd3pkd</link>
-      <pubDate>Wed, 30 Sep 2026 06:25:25 +0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 13:10:23 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pd3pkd</guid>
       <description>Originally published Wed 30 Sep 2026 07:53 IDT.
