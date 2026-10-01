@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:57:18 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 10:07): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3509798.html</link>
-      <pubDate>Thu, 01 Oct 2026 08:13:17 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 15:45): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3510640.html</link>
+      <pubDate>Thu, 01 Oct 2026 15:57:18 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">fcb33f5d-069b-4636-b53d-3566f49d9ed8</guid>
-      <description>Originally published Thu 01 Oct 2026 10:07 IDT.
+      <guid isPermaLink="false">380e3ee4-7881-4fb0-9159-02957a370820</guid>
+      <description>Originally published Thu 01 Oct 2026 15:45 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1001/AU-20261001-0907-0000.mp3" length="2848651" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1001/AU-20261001-1445-1500.mp3" length="1947787" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 11:10): NPR News: 10-01-2026 4AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Thu 18:11): NPR News: 10-01-2026 11AM EDT</title>
       <link/>
-      <pubDate>Thu, 01 Oct 2026 08:12:17 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 15:56:18 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">6e94ba09-f39a-4433-bd86-88918b6b7e14</guid>
-      <description>Originally published Thu 01 Oct 2026 11:10 IDT.
+      <guid isPermaLink="false">b07f81f2-8523-4e39-9eae-0170933b5f71</guid>
+      <description>Originally published Thu 01 Oct 2026 18:11 IDT.
 
-NPR News: 10-01-2026 4AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/45d4879d-c94c-4c6b-a3a5-14656a9e1949/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=45d4879d-c94c-4c6b-a3a5-14656a9e1949&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261001-0400-long&amp;p=500005&amp;d=280&amp;size=4480566" length="4480566" type="audio/mpeg"/>
+NPR News: 10-01-2026 11AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7c76b619-fde7-49dc-90c9-506d941d9850/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7c76b619-fde7-49dc-90c9-506d941d9850&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261001-1100-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 30.09.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3509018.html</link>
-      <pubDate>Thu, 01 Oct 2026 08:11:17 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 15:55:18 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">6954ac22-f825-4dae-91d5-2745aa3130a8-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 30 Sep 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Bundeskabinett bringt Pflegereform auf den Weg, Härtere Strafen für Übergriff
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/0930/AU-20260930-2034-5800.mp3" length="16522531" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 10:30): Die Nachrichten vom 01.10.2026, 09:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42892.html</link>
-      <pubDate>Thu, 01 Oct 2026 08:10:17 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 18:30): Die Nachrichten vom 01.10.2026, 17:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42924.html</link>
+      <pubDate>Thu, 01 Oct 2026 15:54:18 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">d1d91b4c-313a-54a2-9453-6cd907648a4a</guid>
-      <description>Originally published Thu 01 Oct 2026 10:30 IDT.
+      <guid isPermaLink="false">8895eb14-6d05-558f-8071-2e857dcfcf66</guid>
+      <description>Originally published Thu 01 Oct 2026 18:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/01/nachrichten_dlf_20261001_0930_e05ec550.mp3?refId=nachrichten-108" length="4999397" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/01/nachrichten_dlf_20261001_1730_e1163559.mp3?refId=nachrichten-108" length="5005667" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:53): Morgenjournal um 8 (01.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-01102026</link>
-      <pubDate>Thu, 01 Oct 2026 08:09:17 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 18:13): Journal um 5 (01.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-01102026</link>
+      <pubDate>Thu, 01 Oct 2026 15:53:18 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_362c271e083a4d6eba655187c13698d4</guid>
-      <description>Originally published Thu 01 Oct 2026 09:53 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_362c271e083a4d6eba655187c13698d4.mp3?etag=e2049f07b98d9c6c329643d980bd7d23" length="29068925" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_2503c9227d844ff4970f402a7d12fad2</guid>
+      <description>Originally published Thu 01 Oct 2026 18:13 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2503c9227d844ff4970f402a7d12fad2.mp3?etag=452105d860fccda420a104a554676589" length="13479457" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:04): Die Energiepreise steigen: Wie geht es nach dem Tankrabatt weiter?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/die-energiepreise-steigen-wie-geht-es-nach-dem-tankrabatt-weiter/2122671</link>
-      <pubDate>Thu, 01 Oct 2026 08:08:17 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 15:52:18 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">6c035a36-3e45-49b3-93f0-26a7f6857707</guid>
       <description>Originally published Thu 01 Oct 2026 09:04 IDT.
@@ -79,7 +79,7 @@ Ab heute gilt der Tankrabatt - aber wie geht es nun weiter? Die Energiepreise st
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Drohnen-Erkennung | Arbeitsmarktzahlen | Munitionsfunde</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/09/drohnen-erkennung-arbeitsmarktzahlen-munitionsfunde.html</link>
-      <pubDate>Thu, 01 Oct 2026 08:07:17 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 15:51:18 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/60/77/6077cc77-1f49-4c33-adcd-7182e6df8c37/6077cc77-1f49-4c33-adcd-7182e6df8c37_mp3-256kd.mp3</guid>
       <description>Originally published Wed 30 Sep 2026 19:17 IDT.
@@ -90,18 +90,19 @@ Schon mehrmals musste am BER der Flugverkehr wegen Drohnen unterbrochen werden. 
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/60/77/6077cc77-1f49-4c33-adcd-7182e6df8c37/6077cc77-1f49-4c33-adcd-7182e6df8c37_mp3-256kd.mp3" length="29327373" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:35): FlyDubai passengers recount terrifying ordeal</title>
-      <link>http://www.bbc.co.uk/programmes/p0pd9q13</link>
-      <pubDate>Thu, 01 Oct 2026 08:06:17 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:25): US death row inmate survives execution attempt</title>
+      <link>http://www.bbc.co.uk/programmes/p0pdgrtm</link>
+      <pubDate>Thu, 01 Oct 2026 15:50:18 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pd9q13</guid>
-      <description>Originally published Thu 01 Oct 2026 07:35 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pdgrtm</guid>
+      <description>Originally published Thu 01 Oct 2026 18:25 IDT.
 
-&lt;p&gt;The Israeli prime minister Benjamin Netanyahu says it's too early to say who was behind the foiled attempt to crash an airliner travelling from Dubai to Tel Aviv. Israeli passengers have described how they overpowered the co-pilot after he stabbed the pilot and sent the plane into a nosedive. Two other aircrew who were on board then took control and made an emergency landing in Saudi Arabia. Mr Netanyahu said investigators would examine whether the attacker had accomplices or ties to Iran. Also: Switzerland's glaciers lost more than five per cent of their ice this year as a result of Europe's record-breaking heatwaves, according to a new study. Six Flags Magic Mountain, an amusement park in California, has announced it will permanently close a popular rollercoaster after more than 100 riders alleged they suffered brain injuries. Latest research reveals that children are far more likely than adults to judge a person's emotions by what they hear rather than what they see. And a new AI-generated commercial by movie star Greta Garbo advertising ball bearings decades after her death has reignited debate about the ethics of re-animating dead stars.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;The US state of Tennessee fails to execute a woman on death row, who survived two lethal injection attempts. Christa Pike, who was convicted of murder thirty years ago, has been taken to hospital. The governor of Tennessee has ordered a temporary halt to executions.&lt;/p&gt;&lt;p&gt;Also: A sell-off in global bond markets intensifies; government forces in Ethiopia appear to have captured the strategic town of Alamata, in the Northern Tigray Region; Cubans living in Florida create a new organisation to plan for investment in a post-communist Cuba; Benjamin Netanyahu reacts to the apparent attempt to crash a flight from Dubai to Tel Aviv; we hear from a critical care physician on working in Gaza; examining the winning entry of a prestigious scientific photography competition - was it made using AI? And on World Sake Day, we look at how sales of the drink have fallen in Japan.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Yaniv Hayun (pictured on the left), one of the men who helped incapacitate the attacker on the FlyDubai aircraft bound for Israel from the United Arab Emirates, speaks to the media after arriving at Ben Gurion International Airport, September 30, 2026. 
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Death row inmate Christa Pike entering a Knox County Criminal Court in Knoxville, Tennessee, US on December 4, 2007
 Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd9pz7.mp3" length="12872000" type="audio/mpeg"/>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdgqz9.mp3" length="14232000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
