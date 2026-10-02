@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Oct 2026 06:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:30:29 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 05:45): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3511558.html</link>
-      <pubDate>Fri, 02 Oct 2026 06:37:01 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:42): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3512898.html</link>
+      <pubDate>Fri, 02 Oct 2026 13:30:29 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4e3e84a9-621c-47ce-b11f-b30dac763ff1</guid>
-      <description>Originally published Fri 02 Oct 2026 05:45 IDT.
+      <guid isPermaLink="false">1bcdb2bf-6576-4c1d-becd-b843cb9e0286</guid>
+      <description>Originally published Fri 02 Oct 2026 15:42 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1002/AU-20261002-0445-3400.mp3" length="1953547" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1002/AU-20261002-1442-1400.mp3" length="2078731" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 09:10): NPR News: 10-02-2026 2AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 16:10): NPR News: 10-02-2026 9AM EDT</title>
       <link/>
-      <pubDate>Fri, 02 Oct 2026 06:36:01 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 13:29:29 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">481d4211-04e6-477f-b81d-9745ca45a280</guid>
-      <description>Originally published Fri 02 Oct 2026 09:10 IDT.
+      <guid isPermaLink="false">054228b2-c0b0-4d43-8de6-4a873918acf3</guid>
+      <description>Originally published Fri 02 Oct 2026 16:10 IDT.
 
-NPR News: 10-02-2026 2AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/17c025cb-7366-44b3-a9ca-de5be1b13f6d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=17c025cb-7366-44b3-a9ca-de5be1b13f6d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261002-0200-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 10-02-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5e5c491b-255e-48dc-8f3a-6feda4a70070/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5e5c491b-255e-48dc-8f3a-6feda4a70070&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261002-0900-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 01.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3511338.html</link>
-      <pubDate>Fri, 02 Oct 2026 06:35:01 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 13:28:29 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e6cb508e-afa4-4d17-a75d-85021472b03f-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 01 Oct 2026 21:00 IDT.
@@ -46,30 +46,41 @@ NPR News: 10-02-2026 2AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https:/
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1001/AU-20261001-2028-3700.mp3" length="16512931" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:27): Morgenjournal um 8 (02.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-02102026</link>
-      <pubDate>Fri, 02 Oct 2026 06:34:01 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 16:00): Die Nachrichten vom 02.10.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42988.html</link>
+      <pubDate>Fri, 02 Oct 2026 13:27:29 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_7a41736ccc994458a45b8a412de734ba</guid>
-      <description>Originally published Fri 02 Oct 2026 09:27 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_7a41736ccc994458a45b8a412de734ba.mp3?etag=27e2d135320cc75d183753945ed980ad" length="29354330" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 09:00): Die Nachrichten vom 02.10.2026, 08:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42960.html</link>
-      <pubDate>Fri, 02 Oct 2026 06:33:01 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">926f23e3-36c0-558c-8496-6681539c06f6</guid>
-      <description>Originally published Fri 02 Oct 2026 09:00 IDT.
+      <guid isPermaLink="false">18978efc-b1c6-581f-a879-866193494a1c</guid>
+      <description>Originally published Fri 02 Oct 2026 16:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/02/nachrichten_dlf_20261002_0800_6f32b88e.mp3?refId=nachrichten-108" length="9727352" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/02/nachrichten_dlf_20261002_1500_66b34332.mp3?refId=nachrichten-108" length="4871920" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:16): Mittagsjournal (02.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-02102026</link>
+      <pubDate>Fri, 02 Oct 2026 13:26:29 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_c0082bcc5be24464be72cccd924b939f</guid>
+      <description>Originally published Fri 02 Oct 2026 14:16 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c0082bcc5be24464be72cccd924b939f.mp3?etag=77276f75cf8c35bd29cf02beb6a966d2" length="86838953" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 10:00): Kanzleramt stoppt Zuckersteuer: Wie kann der Streit beigelegt werden?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/kanzleramt-stoppt-zuckersteuer-wie-kann-der-streit-beigelegt-werden/2122715</link>
+      <pubDate>Fri, 02 Oct 2026 13:25:29 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">749ace3e-cb28-4176-821c-c550960233ad</guid>
+      <description>Originally published Fri 02 Oct 2026 10:00 IDT.
+
+Bei der Zuckersteuer gab es zwar Meinungsverschiedenheiten zwischen Finanzminister Klingbeil und der Union, aber der Konflikt schien lösbar. Jetzt hat das Kanzleramt überraschend die Steuer gestoppt. Welche Folgen hat das für den Zustand der Koalition?</description>
+      <enclosure url="https://media.neuland.br.de/file/2122715/c/feed/kanzleramt-stoppt-zuckersteuer-wie-kann-der-streit-beigelegt-werden.mp3" length="8449964" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Vor Sondierung | Redmann contra Linke | Tankrabatt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/vor-sondierung-redmann-contra-linke-tankrabatt.html</link>
-      <pubDate>Fri, 02 Oct 2026 06:32:01 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Fri, 02 Oct 2026 13:24:29 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f6/07/f607e86c-f529-4c2c-af38-6c01657c7d48/f607e86c-f529-4c2c-af38-6c01657c7d48_mp3-256kd.mp3</guid>
       <description>Originally published Thu 01 Oct 2026 19:17 IDT.
 
@@ -79,20 +90,9 @@ Spitzenpolitiker der Berliner Linken, Gr&amp;#252;nen und SPD haben vorgef&amp;#
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/f6/07/f607e86c-f529-4c2c-af38-6c01657c7d48/f607e86c-f529-4c2c-af38-6c01657c7d48_mp3-256kd.mp3" length="30442512" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 19:00): BMW eröffnet milliardenschweres Werk: Macht uns das fit für die Zukunft?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bmw-eroeffnet-milliardenschweres-werk-macht-uns-das-fit-fuer-die-zukunft/2122692</link>
-      <pubDate>Fri, 02 Oct 2026 06:31:01 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">a293330a-f28a-4f31-a788-c3d600368bc4</guid>
-      <description>Originally published Thu 01 Oct 2026 19:00 IDT.
-
-Trotz Kritik und hoher Kosten hat BMW heute sein neues Montagewerk in Straßkirchen eröffnet. Statt Motoren entstehen hier Hochvoltbatterien - sie sollen die Wettbewerbsfähigkeit im E-Auto-Markt sichern.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122692/c/feed/bmw-eroeffnet-milliardenschweres-werk-macht-uns-das-fit-fuer-die-zukunft.mp3" length="8746796" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:48): France rocked by student protests</title>
       <link>http://www.bbc.co.uk/programmes/p0pdkxtf</link>
-      <pubDate>Fri, 02 Oct 2026 06:30:01 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 13:23:29 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pdkxtf</guid>
       <description>Originally published Fri 02 Oct 2026 07:48 IDT.
