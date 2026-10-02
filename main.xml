@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:55:59 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,95 +13,89 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:42): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3512898.html</link>
-      <pubDate>Fri, 02 Oct 2026 13:30:29 +0000</pubDate>
-      <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1bcdb2bf-6576-4c1d-becd-b843cb9e0286</guid>
-      <description>Originally published Fri 02 Oct 2026 15:42 IDT.
-
-tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1002/AU-20261002-1442-1400.mp3" length="2078731" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|Overview] NPR News Now (Fri 16:10): NPR News: 10-02-2026 9AM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 21:10): NPR News: 10-02-2026 2PM EDT</title>
       <link/>
-      <pubDate>Fri, 02 Oct 2026 13:29:29 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 18:55:59 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">962b2f50-f732-4e83-b0f3-465e739d80f4</guid>
+      <description>Originally published Fri 02 Oct 2026 21:10 IDT.
+
+NPR News: 10-02-2026 2PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e53d7bed-a7ff-4484-b084-22db6b26b603/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e53d7bed-a7ff-4484-b084-22db6b26b603&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261002-1400-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 02.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3513622.html</link>
+      <pubDate>Fri, 02 Oct 2026 18:54:59 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">054228b2-c0b0-4d43-8de6-4a873918acf3</guid>
-      <description>Originally published Fri 02 Oct 2026 16:10 IDT.
+      <guid isPermaLink="false">95b0f218-bad8-4ea1-9686-39d59e10a354-SENDUNGSAUDIO</guid>
+      <description>Originally published Fri 02 Oct 2026 21:00 IDT.
 
-NPR News: 10-02-2026 9AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5e5c491b-255e-48dc-8f3a-6feda4a70070/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5e5c491b-255e-48dc-8f3a-6feda4a70070&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261002-0900-long&amp;p=500005&amp;d=280&amp;size=4480567" length="4480567" type="audio/mpeg"/>
+Warenhauskette Galeria meldet erneut Insolvenz an, Bahnstrecke Hannover-Berlin wird erneut für Sanierung gesperrt, Werft fordert 4,7 Milliarden Euro von Deutschland nach gestopptem Fregatten-Projekt, G7-Staaten einigen sich auf Freigabe von bis zu 100 Millionen Barrel Diesel und Rohöl, In Frankreich protestieren Schüler gegen marode Schulen, Pläne für mehr Mieterschutz im spanischen Parlament abgelehnt, Beginn der Feiern zum Tag der Deutschen Einheit, Nations League: Deutschland feiert ersten Sieg unter Nationaltrainer Klopp, Das Wetter Hinweis: Der Beitrag zum Thema Nations League darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1002/AU-20261002-2025-5200.mp3" length="14834851" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 01.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3511338.html</link>
-      <pubDate>Fri, 02 Oct 2026 13:28:29 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 21:00): Die Nachrichten vom 02.10.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43002.html</link>
+      <pubDate>Fri, 02 Oct 2026 18:53:59 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">e6cb508e-afa4-4d17-a75d-85021472b03f-SENDUNGSAUDIO</guid>
-      <description>Originally published Thu 01 Oct 2026 21:00 IDT.
-
-&quot;Tankrabatt&quot; tritt in Kraft, Beratungen über Ladeinfrastruktur für E-Mobilität bei Konferenz in Berlin, Regierung diskutiert über geplante Zuckersteuer, Neues &quot;Schwarzbuch&quot; listet besonders viele Fälle von Steuerverschwendung in Hamburg auf, NATO erhält Westfälischen Friedenspreis in Münster, Bundeswehr stellt erstes Drohnenregiment auf, EU-Innenminister stimmen für Abschiebezentren in Drittstaaten, Diskussion um Todesstrafe nach gescheiterter Hinrichtung im US-Bundesstaat Tennessee entbrannt, BGH erklärt Preiserhöhung bei Amazon Prime für unwirksam, Forscher beobachten dramatischen Eisverlust an Schweizer Gletschern, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1001/AU-20261001-2028-3700.mp3" length="16512931" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 16:00): Die Nachrichten vom 02.10.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42988.html</link>
-      <pubDate>Fri, 02 Oct 2026 13:27:29 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">18978efc-b1c6-581f-a879-866193494a1c</guid>
-      <description>Originally published Fri 02 Oct 2026 16:00 IDT.
+      <guid isPermaLink="false">41064a81-b9d0-55bc-8f98-12b1c295f2ee</guid>
+      <description>Originally published Fri 02 Oct 2026 21:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/02/nachrichten_dlf_20261002_1500_66b34332.mp3?refId=nachrichten-108" length="4871920" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/02/nachrichten_dlf_20261002_2000_95c5e878.mp3?refId=nachrichten-108" length="5008593" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:16): Mittagsjournal (02.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-02102026</link>
-      <pubDate>Fri, 02 Oct 2026 13:26:29 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:33): Abendjournal um 18 (02.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-02102026</link>
+      <pubDate>Fri, 02 Oct 2026 18:52:59 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_9cb6f198ea604acea04265c82dc34b39</guid>
+      <description>Originally published Fri 02 Oct 2026 19:33 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_9cb6f198ea604acea04265c82dc34b39.mp3?etag=27da58ead6ed72c103be1483b91a8d9b" length="36422575" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Wahlpanne Spandau | Landrätekonferenz | Verkehrsführung am AD Funkturm</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/wahlpanne-spandau-landraetekonferenz-verkehrsfuehrung-am-ad-.html</link>
+      <pubDate>Fri, 02 Oct 2026 18:51:59 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_c0082bcc5be24464be72cccd924b939f</guid>
-      <description>Originally published Fri 02 Oct 2026 14:16 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c0082bcc5be24464be72cccd924b939f.mp3?etag=77276f75cf8c35bd29cf02beb6a966d2" length="86838953" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 10:00): Kanzleramt stoppt Zuckersteuer: Wie kann der Streit beigelegt werden?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/kanzleramt-stoppt-zuckersteuer-wie-kann-der-streit-beigelegt-werden/2122715</link>
-      <pubDate>Fri, 02 Oct 2026 13:25:29 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">749ace3e-cb28-4176-821c-c550960233ad</guid>
-      <description>Originally published Fri 02 Oct 2026 10:00 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/c4/eb/c4eb8d52-df0b-4ebc-8618-e0932939e726/c4eb8d52-df0b-4ebc-8618-e0932939e726_mp3-256kd.mp3</guid>
+      <description>Originally published Fri 02 Oct 2026 19:17 IDT.
 
-Bei der Zuckersteuer gab es zwar Meinungsverschiedenheiten zwischen Finanzminister Klingbeil und der Union, aber der Konflikt schien lösbar. Jetzt hat das Kanzleramt überraschend die Steuer gestoppt. Welche Folgen hat das für den Zustand der Koalition?</description>
-      <enclosure url="https://media.neuland.br.de/file/2122715/c/feed/kanzleramt-stoppt-zuckersteuer-wie-kann-der-streit-beigelegt-werden.mp3" length="8449964" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Vor Sondierung | Redmann contra Linke | Tankrabatt</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/vor-sondierung-redmann-contra-linke-tankrabatt.html</link>
-      <pubDate>Fri, 02 Oct 2026 13:24:29 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f6/07/f607e86c-f529-4c2c-af38-6c01657c7d48/f607e86c-f529-4c2c-af38-6c01657c7d48_mp3-256kd.mp3</guid>
-      <description>Originally published Thu 01 Oct 2026 19:17 IDT.
-
-Spitzenpolitiker der Berliner Linken, Gr&amp;#252;nen und SPD haben vorgef&amp;#252;hlt, ob man Sondierungsgespr&amp;#228;che miteinander f&amp;#252;hren kann. Au&amp;#223;erdem: Innenminister Redmann contra Berliner Linke; Tankrabatt - Unterwegs mit einem Sanit&amp;#228;rtechniker; AfD gr&amp;#252;ndet &quot;politische Akademie&quot;.
+Bei einer Nachz&amp;#228;hlung in einem Spandauer Wahlkreis ist ein Fehler aufgefallen &amp;#8211; mit weitreichenden Folgen. Au&amp;#223;erdem: Landr&amp;#228;tekonferenz mit Redmann, Wilke, Keller; Neue Verkehrsf&amp;#252;hrung am AD Funkturm; Was hat mir die Deutsche Einheit gebracht?
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/f6/07/f607e86c-f529-4c2c-af38-6c01657c7d48/f607e86c-f529-4c2c-af38-6c01657c7d48_mp3-256kd.mp3" length="30442512" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/c4/eb/c4eb8d52-df0b-4ebc-8618-e0932939e726/c4eb8d52-df0b-4ebc-8618-e0932939e726_mp3-256kd.mp3" length="29563146" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:48): France rocked by student protests</title>
-      <link>http://www.bbc.co.uk/programmes/p0pdkxtf</link>
-      <pubDate>Fri, 02 Oct 2026 13:23:29 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pdkxtf</guid>
-      <description>Originally published Fri 02 Oct 2026 07:48 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Tag der Deutschen Einheit: Wie steht es um das &quot;Wir-Gefühl&quot;?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/tag-der-deutschen-einheit-wie-steht-es-um-das-wir-gefuehl/2122740</link>
+      <pubDate>Fri, 02 Oct 2026 18:50:59 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">97ecfdbe-7bad-4f7a-a8d8-8ec0764d4ae0</guid>
+      <description>Originally published Fri 02 Oct 2026 19:00 IDT.
 
-&lt;p&gt;French students set fire to bins and erected blockades outside schools, as they protest against overcrowded classrooms, teacher shortages and crumbling facilities. Hundreds of people have been arrested and dozens injured. Fires have broken out at some schools that are being blockaded. President Macron said concerns over funding and studying conditions were legitimate but do not justify violence. &lt;/p&gt;&lt;p&gt;Also, from the US: the family of Renee Good, who was killed by an ICE agent in Minneapolis, is suing the Trump administration. The Tennessee prisoner who survived a botched execution, Christa Pike, is critically ill in hospital. New York's Attorney General Letitia James is appointed to investigate the alleged Cornell University gang rape. British scientists launch a clinical trial for a vaccine to protect against lung cancer. And Cristiano Ronaldo walks away from the Portugal football team.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Marode Schulen, mehr Kriminalität, Angst vor Armut - viele Menschen in den neuen Bundesländern sind frustriert. Das zeigt sich auch an den Wahlergebnissen. Morgen ist die Deutsche Wiedervereinigung zwar 36 Jahre her - aber warum gibt es bis heute Unterschiede in Ost- und West? Und kann man wirklich von einem &quot;Wir-Gefühl&quot; sprechen? 
+
+Moderation: Tanja Sluka
+Beitrag: Mario Neumann
+Gesprächspartner: Heinz Bude, Soziologe</description>
+      <enclosure url="https://media.neuland.br.de/file/2122740/c/feed/tag-der-deutschen-einheit-wie-steht-es-um-das-wir-gefuehl.mp3" length="10139564" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:12): Hero pilot tells his story from hospital bed</title>
+      <link>http://www.bbc.co.uk/programmes/p0pdpprq</link>
+      <pubDate>Fri, 02 Oct 2026 18:49:59 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pdpprq</guid>
+      <description>Originally published Fri 02 Oct 2026 18:12 IDT.
+
+&lt;p&gt;An Indian pilot, Smit Machchhar, says he fought to open the cockpit door of the stricken Flydubai airliner because he was determined to save the lives of his passengers and crew. Also: Washington urges European countries to start using their diesel reserves. We look at the student demonstrations against school conditions in France, where there have been more violent clashes. Kenya is at a crossroads, as its young people challenge the political elites who've governed the country for decades. The English football club, Manchester City, files an appeal against an independent commission's ruling that found it guilty of serious breaches of the Premier League's financial rules. London's Kew Gardens prepares to undergo a major refurbishment. Starbucks opens two branches in the Chinese region of Xinjiang - but the move is criticised by US congressman, John Moolenaar; and the attempt to free a large shark trapped in a canal in the South Korean city of Busan is halted.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Clashes occur between riot police and demonstrators during a high school students' protest against education conditions in Saint-Denis, north of Paris, France, 01 October 2026.
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdkxgd.mp3" length="12800000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Indian pilot, Smit Machchhar, speaking to Prime Minister Narendra Modi from his hospital bed
+Credit: Narendra Modi YouTube Channel&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdpn9y.mp3" length="13368000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
