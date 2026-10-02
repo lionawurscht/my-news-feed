@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 01 Oct 2026 20:50:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:28:34 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 23:09): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3511370.html</link>
-      <pubDate>Thu, 01 Oct 2026 20:50:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:28:34 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">31be5afd-ef43-4859-9ec7-2337edc5b670</guid>
       <description>Originally published Thu 01 Oct 2026 23:09 IDT.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1001/AU-20261001-2209-4500.mp3" length="1999627" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 23:10): NPR News: 10-01-2026 4PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 03:10): NPR News: 10-01-2026 8PM EDT</title>
       <link/>
-      <pubDate>Thu, 01 Oct 2026 20:49:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:27:34 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">12a79ec5-bd3d-424f-9598-dec611b432ca</guid>
-      <description>Originally published Thu 01 Oct 2026 23:10 IDT.
+      <guid isPermaLink="false">2b4ec169-7065-4cd9-8093-d8937bc9ff30</guid>
+      <description>Originally published Fri 02 Oct 2026 03:10 IDT.
 
-NPR News: 10-01-2026 4PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/dadb01d0-3a9b-48c6-8aa4-3477d2b6708d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=dadb01d0-3a9b-48c6-8aa4-3477d2b6708d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261001-1600-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
+NPR News: 10-01-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cdb8f0db-5513-4e65-89a1-99dfd291575d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cdb8f0db-5513-4e65-89a1-99dfd291575d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261001-2000-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 01.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3511338.html</link>
-      <pubDate>Thu, 01 Oct 2026 20:48:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:26:34 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e6cb508e-afa4-4d17-a75d-85021472b03f-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 01 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ NPR News: 10-01-2026 4PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https:/
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1001/AU-20261001-2028-3700.mp3" length="16512931" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 23:00): Die Nachrichten vom 01.10.2026, 22:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42934.html</link>
-      <pubDate>Thu, 01 Oct 2026 20:47:43 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 02:59): Die Nachrichten vom 02.10.2026, 01:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42942.html</link>
+      <pubDate>Fri, 02 Oct 2026 00:25:34 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">b8b600ca-4999-59ef-b924-d39b16090a32</guid>
-      <description>Originally published Thu 01 Oct 2026 23:00 IDT.
+      <guid isPermaLink="false">55dadcea-f579-579d-b13d-75b9c6159972</guid>
+      <description>Originally published Fri 02 Oct 2026 02:59 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/01/nachrichten_dlf_20261001_2200_8a0d66d6.mp3?refId=nachrichten-108" length="4997726" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/02/nachrichten_dlf_20261002_0159_f1e91e06.mp3?refId=nachrichten-108" length="5010264" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:32): Abendjournal um 18 (01.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-01102026</link>
-      <pubDate>Thu, 01 Oct 2026 20:46:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:24:34 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_7a33d8252d7b49538c68494e9b4c6ebc</guid>
       <description>Originally published Thu 01 Oct 2026 19:32 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Vor Sondierung | Redmann contra Linke | Tankrabatt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/vor-sondierung-redmann-contra-linke-tankrabatt.html</link>
-      <pubDate>Thu, 01 Oct 2026 20:45:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:23:34 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f6/07/f607e86c-f529-4c2c-af38-6c01657c7d48/f607e86c-f529-4c2c-af38-6c01657c7d48_mp3-256kd.mp3</guid>
       <description>Originally published Thu 01 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Spitzenpolitiker der Berliner Linken, Gr&amp;#252;nen und SPD haben vorgef&amp;#
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 19:00): BMW eröffnet milliardenschweres Werk: Macht uns das fit für die Zukunft?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bmw-eroeffnet-milliardenschweres-werk-macht-uns-das-fit-fuer-die-zukunft/2122692</link>
-      <pubDate>Thu, 01 Oct 2026 20:44:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:22:34 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">a293330a-f28a-4f31-a788-c3d600368bc4</guid>
       <description>Originally published Thu 01 Oct 2026 19:00 IDT.
@@ -92,7 +92,7 @@ Trotz Kritik und hoher Kosten hat BMW heute sein neues Montagewerk in Straßkirc
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:25): US death row inmate survives execution attempt</title>
       <link>http://www.bbc.co.uk/programmes/p0pdgrtm</link>
-      <pubDate>Thu, 01 Oct 2026 20:43:43 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 00:21:34 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pdgrtm</guid>
       <description>Originally published Thu 01 Oct 2026 18:25 IDT.
