@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:37:01 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 23:09): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3511370.html</link>
-      <pubDate>Fri, 02 Oct 2026 00:28:34 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 05:45): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3511558.html</link>
+      <pubDate>Fri, 02 Oct 2026 06:37:01 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">31be5afd-ef43-4859-9ec7-2337edc5b670</guid>
-      <description>Originally published Thu 01 Oct 2026 23:09 IDT.
+      <guid isPermaLink="false">4e3e84a9-621c-47ce-b11f-b30dac763ff1</guid>
+      <description>Originally published Fri 02 Oct 2026 05:45 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1001/AU-20261001-2209-4500.mp3" length="1999627" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1002/AU-20261002-0445-3400.mp3" length="1953547" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 03:10): NPR News: 10-01-2026 8PM EDT</title>
+      <title>[EN|Overview] NPR News Now (Fri 09:10): NPR News: 10-02-2026 2AM EDT</title>
       <link/>
-      <pubDate>Fri, 02 Oct 2026 00:27:34 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 06:36:01 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">2b4ec169-7065-4cd9-8093-d8937bc9ff30</guid>
-      <description>Originally published Fri 02 Oct 2026 03:10 IDT.
+      <guid isPermaLink="false">481d4211-04e6-477f-b81d-9745ca45a280</guid>
+      <description>Originally published Fri 02 Oct 2026 09:10 IDT.
 
-NPR News: 10-01-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cdb8f0db-5513-4e65-89a1-99dfd291575d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cdb8f0db-5513-4e65-89a1-99dfd291575d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261001-2000-long&amp;p=500005&amp;d=280&amp;size=4481820" length="4481820" type="audio/mpeg"/>
+NPR News: 10-02-2026 2AM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/17c025cb-7366-44b3-a9ca-de5be1b13f6d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=17c025cb-7366-44b3-a9ca-de5be1b13f6d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261002-0200-long&amp;p=500005&amp;d=280&amp;size=4481821" length="4481821" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 01.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3511338.html</link>
-      <pubDate>Fri, 02 Oct 2026 00:26:34 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 06:35:01 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e6cb508e-afa4-4d17-a75d-85021472b03f-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 01 Oct 2026 21:00 IDT.
@@ -46,29 +46,29 @@ NPR News: 10-01-2026 8PM EDT&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https:/
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1001/AU-20261001-2028-3700.mp3" length="16512931" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 02:59): Die Nachrichten vom 02.10.2026, 01:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-42942.html</link>
-      <pubDate>Fri, 02 Oct 2026 00:25:34 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:27): Morgenjournal um 8 (02.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-02102026</link>
+      <pubDate>Fri, 02 Oct 2026 06:34:01 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">55dadcea-f579-579d-b13d-75b9c6159972</guid>
-      <description>Originally published Fri 02 Oct 2026 02:59 IDT.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/02/nachrichten_dlf_20261002_0159_f1e91e06.mp3?refId=nachrichten-108" length="5010264" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_7a41736ccc994458a45b8a412de734ba</guid>
+      <description>Originally published Fri 02 Oct 2026 09:27 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_7a41736ccc994458a45b8a412de734ba.mp3?etag=27e2d135320cc75d183753945ed980ad" length="29354330" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:32): Abendjournal um 18 (01.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-01102026</link>
-      <pubDate>Fri, 02 Oct 2026 00:24:34 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 09:00): Die Nachrichten vom 02.10.2026, 08:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-42960.html</link>
+      <pubDate>Fri, 02 Oct 2026 06:33:01 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_7a33d8252d7b49538c68494e9b4c6ebc</guid>
-      <description>Originally published Thu 01 Oct 2026 19:32 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_7a33d8252d7b49538c68494e9b4c6ebc.mp3?etag=da3c1217e6c6e766f92b1975125d3916" length="36458900" type="audio/mpeg"/>
+      <guid isPermaLink="false">926f23e3-36c0-558c-8496-6681539c06f6</guid>
+      <description>Originally published Fri 02 Oct 2026 09:00 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/02/nachrichten_dlf_20261002_0800_6f32b88e.mp3?refId=nachrichten-108" length="9727352" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Vor Sondierung | Redmann contra Linke | Tankrabatt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/vor-sondierung-redmann-contra-linke-tankrabatt.html</link>
-      <pubDate>Fri, 02 Oct 2026 00:23:34 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 06:32:01 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f6/07/f607e86c-f529-4c2c-af38-6c01657c7d48/f607e86c-f529-4c2c-af38-6c01657c7d48_mp3-256kd.mp3</guid>
       <description>Originally published Thu 01 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Spitzenpolitiker der Berliner Linken, Gr&amp;#252;nen und SPD haben vorgef&amp;#
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 19:00): BMW eröffnet milliardenschweres Werk: Macht uns das fit für die Zukunft?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bmw-eroeffnet-milliardenschweres-werk-macht-uns-das-fit-fuer-die-zukunft/2122692</link>
-      <pubDate>Fri, 02 Oct 2026 00:22:34 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 06:31:01 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">a293330a-f28a-4f31-a788-c3d600368bc4</guid>
       <description>Originally published Thu 01 Oct 2026 19:00 IDT.
@@ -90,19 +90,18 @@ Trotz Kritik und hoher Kosten hat BMW heute sein neues Montagewerk in Straßkirc
       <enclosure url="https://media.neuland.br.de/file/2122692/c/feed/bmw-eroeffnet-milliardenschweres-werk-macht-uns-das-fit-fuer-die-zukunft.mp3" length="8746796" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:25): US death row inmate survives execution attempt</title>
-      <link>http://www.bbc.co.uk/programmes/p0pdgrtm</link>
-      <pubDate>Fri, 02 Oct 2026 00:21:34 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:48): France rocked by student protests</title>
+      <link>http://www.bbc.co.uk/programmes/p0pdkxtf</link>
+      <pubDate>Fri, 02 Oct 2026 06:30:01 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pdgrtm</guid>
-      <description>Originally published Thu 01 Oct 2026 18:25 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pdkxtf</guid>
+      <description>Originally published Fri 02 Oct 2026 07:48 IDT.
 
-&lt;p&gt;The US state of Tennessee fails to execute a woman on death row, who survived two lethal injection attempts. Christa Pike, who was convicted of murder thirty years ago, has been taken to hospital. The governor of Tennessee has ordered a temporary halt to executions.&lt;/p&gt;&lt;p&gt;Also: A sell-off in global bond markets intensifies; government forces in Ethiopia appear to have captured the strategic town of Alamata, in the Northern Tigray Region; Cubans living in Florida create a new organisation to plan for investment in a post-communist Cuba; Benjamin Netanyahu reacts to the apparent attempt to crash a flight from Dubai to Tel Aviv; we hear from a critical care physician on working in Gaza; examining the winning entry of a prestigious scientific photography competition - was it made using AI? And on World Sake Day, we look at how sales of the drink have fallen in Japan.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;French students set fire to bins and erected blockades outside schools, as they protest against overcrowded classrooms, teacher shortages and crumbling facilities. Hundreds of people have been arrested and dozens injured. Fires have broken out at some schools that are being blockaded. President Macron said concerns over funding and studying conditions were legitimate but do not justify violence. &lt;/p&gt;&lt;p&gt;Also, from the US: the family of Renee Good, who was killed by an ICE agent in Minneapolis, is suing the Trump administration. The Tennessee prisoner who survived a botched execution, Christa Pike, is critically ill in hospital. New York's Attorney General Letitia James is appointed to investigate the alleged Cornell University gang rape. British scientists launch a clinical trial for a vaccine to protect against lung cancer. And Cristiano Ronaldo walks away from the Portugal football team.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Death row inmate Christa Pike entering a Knox County Criminal Court in Knoxville, Tennessee, US on December 4, 2007
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdgqz9.mp3" length="14232000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Clashes occur between riot police and demonstrators during a high school students' protest against education conditions in Saint-Denis, north of Paris, France, 01 October 2026.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdkxgd.mp3" length="12800000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
