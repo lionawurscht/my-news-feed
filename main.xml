@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:59:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:08:31 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 10:33): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3514120.html</link>
-      <pubDate>Sat, 03 Oct 2026 12:59:13 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 18:38): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3514736.html</link>
+      <pubDate>Sat, 03 Oct 2026 17:08:31 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">30e89993-b2d0-4f9f-8748-ee4e7884d30c</guid>
-      <description>Originally published Sat 03 Oct 2026 10:33 IDT.
+      <guid isPermaLink="false">e1e91975-dc61-4ba2-85db-eeae3f54d8d7</guid>
+      <description>Originally published Sat 03 Oct 2026 18:38 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-0933-2300.mp3" length="2064139" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-1737-5300.mp3" length="1945099" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 15:10): 8am ET, October 03 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 19:10): 12pm ET, October 03 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 03 Oct 2026 12:58:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 17:07:31 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">09208576-bc1e-4a5b-99f9-5a748f468e7c</guid>
-      <description>Originally published Sat 03 Oct 2026 15:10 IDT.
+      <guid isPermaLink="false">813d4640-39ab-4615-ab05-3df9592f1a43</guid>
+      <description>Originally published Sat 03 Oct 2026 19:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d2589e40-ae0e-4fa8-9b80-17a5d16f06a1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d2589e40-ae0e-4fa8-9b80-17a5d16f06a1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261003-0800-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/70f612df-9675-41d3-8270-d8c34fe89154/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=70f612df-9675-41d3-8270-d8c34fe89154&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261003-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 02.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3513622.html</link>
-      <pubDate>Sat, 03 Oct 2026 12:57:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 17:06:31 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">95b0f218-bad8-4ea1-9686-39d59e10a354-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 02 Oct 2026 21:00 IDT.
@@ -46,58 +46,30 @@ Warenhauskette Galeria meldet erneut Insolvenz an, Bahnstrecke Hannover-Berlin w
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1002/AU-20261002-2025-5200.mp3" length="14834851" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 15:00): Die Nachrichten vom 03.10.2026, 14:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43038.html</link>
-      <pubDate>Sat, 03 Oct 2026 12:56:13 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 19:00): Die Nachrichten vom 03.10.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43046.html</link>
+      <pubDate>Sat, 03 Oct 2026 17:05:31 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">9d3f9f5f-f6d3-5df9-b0e2-7df06615dc06</guid>
-      <description>Originally published Sat 03 Oct 2026 15:00 IDT.
+      <guid isPermaLink="false">8b9d7cf1-8575-53e8-845d-326f202f94cb</guid>
+      <description>Originally published Sat 03 Oct 2026 19:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/03/nachrichten_dlf_20261003_1400_15a2ad64.mp3?refId=nachrichten-108" length="4904103" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/03/nachrichten_dlf_20261003_1800_607e6705.mp3?refId=nachrichten-108" length="9647521" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:07): Mittagsjournal (03.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-03102026</link>
-      <pubDate>Sat, 03 Oct 2026 12:55:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 17:04:31 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_c4d28018c587408fbdfa754c16cb02b4</guid>
       <description>Originally published Sat 03 Oct 2026 14:07 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c4d28018c587408fbdfa754c16cb02b4.mp3?etag=e973161b3692f978f5a75fa9cfed05f5" length="81250202" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Wahlpanne Spandau | Landrätekonferenz | Verkehrsführung am AD Funkturm</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/wahlpanne-spandau-landraetekonferenz-verkehrsfuehrung-am-ad-.html</link>
-      <pubDate>Sat, 03 Oct 2026 12:54:13 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/c4/eb/c4eb8d52-df0b-4ebc-8618-e0932939e726/c4eb8d52-df0b-4ebc-8618-e0932939e726_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 02 Oct 2026 19:17 IDT.
-
-Bei einer Nachz&amp;#228;hlung in einem Spandauer Wahlkreis ist ein Fehler aufgefallen &amp;#8211; mit weitreichenden Folgen. Au&amp;#223;erdem: Landr&amp;#228;tekonferenz mit Redmann, Wilke, Keller; Neue Verkehrsf&amp;#252;hrung am AD Funkturm; Was hat mir die Deutsche Einheit gebracht?
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/c4/eb/c4eb8d52-df0b-4ebc-8618-e0932939e726/c4eb8d52-df0b-4ebc-8618-e0932939e726_mp3-256kd.mp3" length="29563146" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Tag der Deutschen Einheit: Wie steht es um das &quot;Wir-Gefühl&quot;?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/tag-der-deutschen-einheit-wie-steht-es-um-das-wir-gefuehl/2122740</link>
-      <pubDate>Sat, 03 Oct 2026 12:53:13 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">97ecfdbe-7bad-4f7a-a8d8-8ec0764d4ae0</guid>
-      <description>Originally published Fri 02 Oct 2026 19:00 IDT.
-
-Marode Schulen, mehr Kriminalität, Angst vor Armut - viele Menschen in den neuen Bundesländern sind frustriert. Das zeigt sich auch an den Wahlergebnissen. Morgen ist die Deutsche Wiedervereinigung zwar 36 Jahre her - aber warum gibt es bis heute Unterschiede in Ost- und West? Und kann man wirklich von einem &quot;Wir-Gefühl&quot; sprechen? 
-
-Moderation: Tanja Sluka
-Beitrag: Mario Neumann
-Gesprächspartner: Heinz Bude, Soziologe</description>
-      <enclosure url="https://media.neuland.br.de/file/2122740/c/feed/tag-der-deutschen-einheit-wie-steht-es-um-das-wir-gefuehl.mp3" length="10139564" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Fat Bear Week returns</title>
       <link>http://www.bbc.co.uk/programmes/p0pdntpt</link>
-      <pubDate>Sat, 03 Oct 2026 12:52:13 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Sat, 03 Oct 2026 17:03:31 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pdntpt</guid>
       <description>Originally published Sat 03 Oct 2026 14:00 IDT.
 
