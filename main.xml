@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 03 Oct 2026 07:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:59:13 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 06:09): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3513872.html</link>
-      <pubDate>Sat, 03 Oct 2026 07:30:13 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 10:33): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3514120.html</link>
+      <pubDate>Sat, 03 Oct 2026 12:59:13 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">b96db1c3-d483-4f11-97b1-5a901be725f6</guid>
-      <description>Originally published Sat 03 Oct 2026 06:09 IDT.
+      <guid isPermaLink="false">30e89993-b2d0-4f9f-8748-ee4e7884d30c</guid>
+      <description>Originally published Sat 03 Oct 2026 10:33 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-0509-4700.mp3" length="2375184" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-0933-2300.mp3" length="2064139" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 10:10): 3am ET, October 03 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 15:10): 8am ET, October 03 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 03 Oct 2026 07:29:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 12:58:13 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">58b59e50-09b9-4393-a15e-af860834273e</guid>
-      <description>Originally published Sat 03 Oct 2026 10:10 IDT.
+      <guid isPermaLink="false">09208576-bc1e-4a5b-99f9-5a748f468e7c</guid>
+      <description>Originally published Sat 03 Oct 2026 15:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2c8203ec-0ce7-444f-a352-a37f1c080296/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2c8203ec-0ce7-444f-a352-a37f1c080296&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261003-0300-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d2589e40-ae0e-4fa8-9b80-17a5d16f06a1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d2589e40-ae0e-4fa8-9b80-17a5d16f06a1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261003-0800-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 02.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3513622.html</link>
-      <pubDate>Sat, 03 Oct 2026 07:28:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 12:57:13 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">95b0f218-bad8-4ea1-9686-39d59e10a354-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 02 Oct 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Warenhauskette Galeria meldet erneut Insolvenz an, Bahnstrecke Hannover-Berlin w
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1002/AU-20261002-2025-5200.mp3" length="14834851" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 10:00): Die Nachrichten vom 03.10.2026, 09:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43030.html</link>
-      <pubDate>Sat, 03 Oct 2026 07:27:13 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 15:00): Die Nachrichten vom 03.10.2026, 14:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43038.html</link>
+      <pubDate>Sat, 03 Oct 2026 12:56:13 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">0c086a0f-0836-5a72-80ad-5c89c7bc19e2</guid>
-      <description>Originally published Sat 03 Oct 2026 10:00 IDT.
+      <guid isPermaLink="false">9d3f9f5f-f6d3-5df9-b0e2-7df06615dc06</guid>
+      <description>Originally published Sat 03 Oct 2026 15:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/03/nachrichten_dlf_20261003_0900_26900579.mp3?refId=nachrichten-108" length="4848932" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/03/nachrichten_dlf_20261003_1400_15a2ad64.mp3?refId=nachrichten-108" length="4904103" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:20): Morgenjournal um 8 (03.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-03102026</link>
-      <pubDate>Sat, 03 Oct 2026 07:26:13 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:07): Mittagsjournal (03.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-03102026</link>
+      <pubDate>Sat, 03 Oct 2026 12:55:13 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_98e2a94e569943d28c3ff3617265ebb6</guid>
-      <description>Originally published Sat 03 Oct 2026 09:20 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_98e2a94e569943d28c3ff3617265ebb6.mp3?etag=3699b21d5f8fe6c0f7db2c80ff4e48cf" length="22086590" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_c4d28018c587408fbdfa754c16cb02b4</guid>
+      <description>Originally published Sat 03 Oct 2026 14:07 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c4d28018c587408fbdfa754c16cb02b4.mp3?etag=e973161b3692f978f5a75fa9cfed05f5" length="81250202" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Wahlpanne Spandau | Landrätekonferenz | Verkehrsführung am AD Funkturm</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/wahlpanne-spandau-landraetekonferenz-verkehrsfuehrung-am-ad-.html</link>
-      <pubDate>Sat, 03 Oct 2026 07:25:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 12:54:13 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/c4/eb/c4eb8d52-df0b-4ebc-8618-e0932939e726/c4eb8d52-df0b-4ebc-8618-e0932939e726_mp3-256kd.mp3</guid>
       <description>Originally published Fri 02 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Bei einer Nachz&amp;#228;hlung in einem Spandauer Wahlkreis ist ein Fehler aufge
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Tag der Deutschen Einheit: Wie steht es um das &quot;Wir-Gefühl&quot;?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/tag-der-deutschen-einheit-wie-steht-es-um-das-wir-gefuehl/2122740</link>
-      <pubDate>Sat, 03 Oct 2026 07:24:13 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 12:53:13 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">97ecfdbe-7bad-4f7a-a8d8-8ec0764d4ae0</guid>
       <description>Originally published Fri 02 Oct 2026 19:00 IDT.
@@ -94,17 +94,15 @@ Gesprächspartner: Heinz Bude, Soziologe</description>
       <enclosure url="https://media.neuland.br.de/file/2122740/c/feed/tag-der-deutschen-einheit-wie-steht-es-um-das-wir-gefuehl.mp3" length="10139564" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 07:09): Christa Pike: What next after failed execution?</title>
-      <link>http://www.bbc.co.uk/programmes/p0pds379</link>
-      <pubDate>Sat, 03 Oct 2026 07:23:13 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Fat Bear Week returns</title>
+      <link>http://www.bbc.co.uk/programmes/p0pdntpt</link>
+      <pubDate>Sat, 03 Oct 2026 12:52:13 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pds379</guid>
-      <description>Originally published Sat 03 Oct 2026 07:09 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pdntpt</guid>
+      <description>Originally published Sat 03 Oct 2026 14:00 IDT.
 
-&lt;p&gt;Christa Pike's legal representatives say the convicted murderer is unconscious and on a ventilator in hospital in Tennessee, after surviving two lethal injections on Wednesday. They have requested that all evidence related to the incident be preserved. We hear the account of Nashville reporter Steven Hale, one of a small number of journalists who witnessed the botched execution. &lt;/p&gt;&lt;p&gt;Also: G7 leaders agree to release up to 100 million barrels of diesel and crude reserves, days after President Trump's threat to ban diesel exports from the US. New York Governor Kathy Hochul says the woman at the centre of the Cornell University rape case was &quot;failed&quot; at &quot;every turn&quot;. She also announces plans to change state law around consent. Argentina becomes the latest nation to offer citizenship to foreigners who invest large sums of money in the country. The swimming classes helping child amputees in Gaza. SpaceX astronaut Jessica Watkins has made history by becoming the first black female commander to lead a crew into orbit, breaking a US speed record in the process. And what is the true cost of buying a home for just one euro in Italy? &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Emergency vehicles at Riverbend Maximum Security Institution in Tennessee, from where Christa Pike was taken to hospital following her botched execution. 
-Credit: Denny Simmons/The Tennessean/USA Today Network&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pds2d5.mp3" length="12440000" type="audio/mpeg"/>
+&lt;p&gt;Fat Bear Week is back! The annual contest sees people around the world vote for their favourite bear, ahead of hibernation season. More than two million votes were cast this year's tournament which is based at Katmai National Park and Preserve in Alaska. &lt;/p&gt;&lt;p&gt;Also, meet the tattoo artist covering people's scars with artwork to make them feel more confident. &lt;/p&gt;&lt;p&gt;Cath Bowie, aka GrumpyGran 1948, tells us how she got into streaming and the game Fortnite. She's just been recognised by Guiness World Records as the world's oldest female Fortnite streamer at the age of 78.&lt;/p&gt;&lt;p&gt;Plus, 'Walk with a Doc', a scheme that gets people out walking with their local doctor and, have you ever heard an Elephant's rumble? We find out what it means. &lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Image: Fat Bear Week winner, 'Backpack'. Credit: Katmai National Park and Preserve/Explore.org&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdnrp9.mp3" length="13360000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
