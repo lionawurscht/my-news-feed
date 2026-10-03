@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:31:25 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,53 +13,53 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 18:38): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3514736.html</link>
-      <pubDate>Sat, 03 Oct 2026 17:08:31 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3514918.html</link>
+      <pubDate>Sat, 03 Oct 2026 20:31:25 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">e1e91975-dc61-4ba2-85db-eeae3f54d8d7</guid>
-      <description>Originally published Sat 03 Oct 2026 18:38 IDT.
+      <guid isPermaLink="false">901f74a8-5720-4304-88f8-783c2ef019ba</guid>
+      <description>Originally published Sat 03 Oct 2026 22:05 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-1737-5300.mp3" length="1945099" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-2104-5200.mp3" length="1920907" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 19:10): 12pm ET, October 03 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 23:10): 4pm ET, October 03 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 03 Oct 2026 17:07:31 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 20:30:25 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">813d4640-39ab-4615-ab05-3df9592f1a43</guid>
-      <description>Originally published Sat 03 Oct 2026 19:10 IDT.
+      <guid isPermaLink="false">5a22170a-e1f8-42f5-a681-ddb648e9b283</guid>
+      <description>Originally published Sat 03 Oct 2026 23:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/70f612df-9675-41d3-8270-d8c34fe89154/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=70f612df-9675-41d3-8270-d8c34fe89154&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261003-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/aa259035-15f9-4597-8807-5121dd78234c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=aa259035-15f9-4597-8807-5121dd78234c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261003-1600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 02.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3513622.html</link>
-      <pubDate>Sat, 03 Oct 2026 17:06:31 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 03.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3514904.html</link>
+      <pubDate>Sat, 03 Oct 2026 20:29:25 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">95b0f218-bad8-4ea1-9686-39d59e10a354-SENDUNGSAUDIO</guid>
-      <description>Originally published Fri 02 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">0295819a-4576-46fd-ad45-b2c60579891b-SENDUNGSAUDIO</guid>
+      <description>Originally published Sat 03 Oct 2026 21:00 IDT.
 
-Warenhauskette Galeria meldet erneut Insolvenz an, Bahnstrecke Hannover-Berlin wird erneut für Sanierung gesperrt, Werft fordert 4,7 Milliarden Euro von Deutschland nach gestopptem Fregatten-Projekt, G7-Staaten einigen sich auf Freigabe von bis zu 100 Millionen Barrel Diesel und Rohöl, In Frankreich protestieren Schüler gegen marode Schulen, Pläne für mehr Mieterschutz im spanischen Parlament abgelehnt, Beginn der Feiern zum Tag der Deutschen Einheit, Nations League: Deutschland feiert ersten Sieg unter Nationaltrainer Klopp, Das Wetter Hinweis: Der Beitrag zum Thema Nations League darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1002/AU-20261002-2025-5200.mp3" length="14834851" type="audio/mpeg"/>
+Bundespräsident Steinmeier hält große Rede am Tag der Deutschen Einheit, Eine Bilanz nach 38 Jahren Städtepartnerschaft zwischen Dortmund und Zwickau, Nach Medienberichten durfte Flydubai-Co-Pilot wegen Extremismusverdacht nicht mehr fliegen, Anhaltende Kämpfe im Jemen fordern weitere Todesopfer und Verletzte, Mehr als 150.000 Menschen sind laut UN-Angaben im Jemen wegen Kämpfe zwischen Huthis und jemenitischen Truppen auf der Flucht, Zum 30. Mal öffnen muslimische Gemeinden deutschlandweit ihre Gotteshäuser für Besucherinnen und Besucher, Holocaust-Überlebende Irene Butter im Alter von 95 Jahren gestorben, Vorbericht zur Nations League Deutschland gegen Griechenland, Das Wetter Hinweis: Der Beitrag zum Thema Nations-League darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-2030-5500.mp3" length="15377443" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 19:00): Die Nachrichten vom 03.10.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43046.html</link>
-      <pubDate>Sat, 03 Oct 2026 17:05:31 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 23:00): Die Nachrichten vom 03.10.2026, 22:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43052.html</link>
+      <pubDate>Sat, 03 Oct 2026 20:28:25 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">8b9d7cf1-8575-53e8-845d-326f202f94cb</guid>
-      <description>Originally published Sat 03 Oct 2026 19:00 IDT.
+      <guid isPermaLink="false">49a804e9-7f4b-5f4b-83bb-5452021c5961</guid>
+      <description>Originally published Sat 03 Oct 2026 23:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/03/nachrichten_dlf_20261003_1800_607e6705.mp3?refId=nachrichten-108" length="9647521" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/03/nachrichten_dlf_20261003_2200_3a5a1e1e.mp3?refId=nachrichten-108" length="5033252" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:07): Mittagsjournal (03.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-03102026</link>
-      <pubDate>Sat, 03 Oct 2026 17:04:31 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 20:27:25 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_c4d28018c587408fbdfa754c16cb02b4</guid>
       <description>Originally published Sat 03 Oct 2026 14:07 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Fat Bear Week returns</title>
       <link>http://www.bbc.co.uk/programmes/p0pdntpt</link>
-      <pubDate>Sat, 03 Oct 2026 17:03:31 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 20:26:25 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pdntpt</guid>
       <description>Originally published Sat 03 Oct 2026 14:00 IDT.
