@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 03 Oct 2026 23:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:00:18 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:05): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3514918.html</link>
-      <pubDate>Sat, 03 Oct 2026 23:29:06 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 05:47): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3515088.html</link>
+      <pubDate>Sun, 04 Oct 2026 04:00:18 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">901f74a8-5720-4304-88f8-783c2ef019ba</guid>
-      <description>Originally published Sat 03 Oct 2026 22:05 IDT.
+      <guid isPermaLink="false">6d24a8ae-15e4-42d6-b802-fbb1de8c97db</guid>
+      <description>Originally published Sun 04 Oct 2026 05:47 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-2104-5200.mp3" length="1920907" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1004/AU-20261004-0447-2200.mp3" length="2157456" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 02:11): 7pm ET, October 03 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 06:10): 11pm ET, October 03 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 03 Oct 2026 23:28:06 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 03:59:18 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">3599e660-c9ab-44a8-abe4-396088b99654</guid>
-      <description>Originally published Sun 04 Oct 2026 02:11 IDT.
+      <guid isPermaLink="false">e32ad791-2c2a-49a1-aa56-54ae753f5315</guid>
+      <description>Originally published Sun 04 Oct 2026 06:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/950cf4d7-2b4a-41cf-a5f7-d45973194318/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=950cf4d7-2b4a-41cf-a5f7-d45973194318&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261003-1900-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b34ecec7-73e4-4dec-a397-98c968e7cc29/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b34ecec7-73e4-4dec-a397-98c968e7cc29&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261003-2300-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 03.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3514904.html</link>
-      <pubDate>Sat, 03 Oct 2026 23:27:06 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 03:58:18 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">0295819a-4576-46fd-ad45-b2c60579891b-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 03 Oct 2026 21:00 IDT.
@@ -46,35 +46,38 @@ Bundespräsident Steinmeier hält große Rede am Tag der Deutschen Einheit, Eine
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-2030-5500.mp3" length="15377443" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 02:00): Die Nachrichten vom 04.10.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43058.html</link>
-      <pubDate>Sat, 03 Oct 2026 23:26:06 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 06:00): Die Nachrichten vom 04.10.2026, 05:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43066.html</link>
+      <pubDate>Sun, 04 Oct 2026 03:57:18 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">b2806f74-7747-5780-9844-1774c5a48d9e</guid>
-      <description>Originally published Sun 04 Oct 2026 02:00 IDT.
+      <guid isPermaLink="false">7724349b-9d8f-5292-bf0f-96dee3203b6c</guid>
+      <description>Originally published Sun 04 Oct 2026 06:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/04/nachrichten_dlf_20261004_0100_97feeb7a.mp3?refId=nachrichten-108" length="5054568" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/04/nachrichten_dlf_20261004_0500_76daa4da.mp3?refId=nachrichten-108" length="5010264" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:07): Mittagsjournal (03.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-03102026</link>
-      <pubDate>Sat, 03 Oct 2026 23:25:06 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 03:56:18 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_c4d28018c587408fbdfa754c16cb02b4</guid>
       <description>Originally published Sat 03 Oct 2026 14:07 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c4d28018c587408fbdfa754c16cb02b4.mp3?etag=e973161b3692f978f5a75fa9cfed05f5" length="81250202" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Fat Bear Week returns</title>
-      <link>http://www.bbc.co.uk/programmes/p0pdntpt</link>
-      <pubDate>Sat, 03 Oct 2026 23:24:06 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:46): Failed US execution sparks death penalty debate</title>
+      <link>http://www.bbc.co.uk/programmes/p0pdwcw6</link>
+      <pubDate>Sun, 04 Oct 2026 03:55:18 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pdntpt</guid>
-      <description>Originally published Sat 03 Oct 2026 14:00 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pdwcw6</guid>
+      <description>Originally published Sun 04 Oct 2026 06:46 IDT.
 
-&lt;p&gt;Fat Bear Week is back! The annual contest sees people around the world vote for their favourite bear, ahead of hibernation season. More than two million votes were cast this year's tournament which is based at Katmai National Park and Preserve in Alaska. &lt;/p&gt;&lt;p&gt;Also, meet the tattoo artist covering people's scars with artwork to make them feel more confident. &lt;/p&gt;&lt;p&gt;Cath Bowie, aka GrumpyGran 1948, tells us how she got into streaming and the game Fortnite. She's just been recognised by Guiness World Records as the world's oldest female Fortnite streamer at the age of 78.&lt;/p&gt;&lt;p&gt;Plus, 'Walk with a Doc', a scheme that gets people out walking with their local doctor and, have you ever heard an Elephant's rumble? We find out what it means. &lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Image: Fat Bear Week winner, 'Backpack'. Credit: Katmai National Park and Preserve/Explore.org&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdnrp9.mp3" length="13360000" type="audio/mpeg"/>
+&lt;p&gt;Christa Pike's botched execution has reignited the debate surrounding the death penalty in the United States. Tennessee's head of prisons is to resign amid growing scrutiny. Also: Ethiopians fear a return to civil war after government forces take control of the Tigrayan regional capital. Tens of thousands of people protest against the housing crisis in Spain. Investigators say the co-pilot of the FlyDubai plane attacked his captain with an axe kept inside the cockpit. Nearly 200 people are under medical observation after a Russian lab worker reportedly died from pneumonic plague. Germany's Oktoberfest is handing out shorts to female riders after a surge in upskirting videos. And a new species of lizard has been discovered living high up in the Peruvian Andes. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Death chamber seen through the steel bars from the viewing room at the state penitentiary in Huntsville, Texas in September 2010.
+Credit: Texas Department of Criminal Justice via Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdwchx.mp3" length="13440000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
