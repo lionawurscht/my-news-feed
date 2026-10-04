@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 04 Oct 2026 10:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:37:43 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 10:35): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3515326.html</link>
-      <pubDate>Sun, 04 Oct 2026 10:51:41 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 18:33): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3515890.html</link>
+      <pubDate>Sun, 04 Oct 2026 15:37:43 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">ffb9902c-c629-47f7-97af-d963d808ab39</guid>
-      <description>Originally published Sun 04 Oct 2026 10:35 IDT.
+      <guid isPermaLink="false">fca82e14-c23d-4c57-8acf-948ed57e87b3</guid>
+      <description>Originally published Sun 04 Oct 2026 18:33 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1004/AU-20261004-0935-1600.mp3" length="1767691" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1004/AU-20261004-1733-3200.mp3" length="1754251" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 13:10): 6am ET, October 04 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 18:10): 11am ET, October 04 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 04 Oct 2026 10:50:41 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 15:36:43 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d10b7733-cd75-4d8d-b777-c4852ac465a2</guid>
-      <description>Originally published Sun 04 Oct 2026 13:10 IDT.
+      <guid isPermaLink="false">e25c8964-aa79-4292-b55e-972726e294bd</guid>
+      <description>Originally published Sun 04 Oct 2026 18:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/fa353267-55df-4c16-971a-c07d387535ab/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=fa353267-55df-4c16-971a-c07d387535ab&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261004-0600-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Sun 08:00): חדשון בעברית קלה (04/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Sun, 04 Oct 2026 10:49:41 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/4-10-26.m4a</guid>
-      <description>Originally published Sun 04 Oct 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• בּדרוֹם לבָנוֹן נִפצְעוּ שנֵי לוֹחֲמִים בּאוֹפֶן קָשֶה ובֵינוֹנִי בּפִיצוּץ רימוֹן של צַה&quot;ל
-• שָׂרַת התַחבּוּרָה מִירי רֶגב: מִשׂרַד התַחבּוּרה אֵינוֹ אַחרַאי לבדִיקַת אַנשֵי הצֶוֶות בּטִיסוֹת הזָרוֹת לישׂראל
-• צֶוֶות חֲקִירָה ישׂראֵלי הִגִיעַ לאִיחוּד האֱמִירוּיוֹת כּדֵי לסַיֵיעַ בּחֲקִירַת נִיסיוֹן החֲטִיפָה של מְטוֹס 'פְלַיי דוּבַּאי' בּשבוּעַ שֶעָבר
-• השַגרִיר האקבּי נִפגַש עִם יָניב חַיוּן, שֶהִשתַלֵט על הטַיָיס בּטִיסַת 'פְלַיי דוּבַּאי', והוֹדָה לו: &quot;האוֹמֶץ שלךָ הִצִיל רַבִּים&quot;
-• מִשׂרַד הבִּיטָחוֹן והבִּיטוּחַ הלְאוּמי: מֵאָז תְחִילַת המִלחָמה לִפנֵי שלוֹש שנים נֶהֶרגוּ בּה 2,347 ישׂראֵלים. 1,029 מִתוֹכָם היוּ אֶזרָחים, וּבָהם 63 ילָדים ובנֵי נוֹעַר
-• שׂוֹרֶדֶת השֶבִי אֶמילי דַמָארי שִיתפָה בּאִינסטֶגרַם תמוּנוֹת חדָשוֹת מִשבִי חַמאס
-• התִַחֲזית: עלִייה קַלה בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/4-10-26.m4a" length="1581522" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9398a91b-3675-47e8-8eae-5c4f8abebc6b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9398a91b-3675-47e8-8eae-5c4f8abebc6b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261004-1100-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 03.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3514904.html</link>
-      <pubDate>Sun, 04 Oct 2026 10:48:41 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sun, 04 Oct 2026 15:35:43 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">0295819a-4576-46fd-ad45-b2c60579891b-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 03 Oct 2026 21:00 IDT.
 
@@ -68,29 +46,40 @@ Bundespräsident Steinmeier hält große Rede am Tag der Deutschen Einheit, Eine
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1003/AU-20261003-2030-5500.mp3" length="15377443" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 13:00): Die Nachrichten vom 04.10.2026, 12:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43084.html</link>
-      <pubDate>Sun, 04 Oct 2026 10:47:41 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">25d7dc3a-d740-504b-964c-42f3ba851f8f</guid>
-      <description>Originally published Sun 04 Oct 2026 13:00 IDT.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/04/nachrichten_dlf_20261004_1200_8a5b2961.mp3?refId=nachrichten-108" length="9779597" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 18:17): Journal um 5 (04.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-04102026</link>
+      <pubDate>Sun, 04 Oct 2026 15:34:43 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_1e83234816204b4cb4102e9f30899cf9</guid>
+      <description>Originally published Sun 04 Oct 2026 18:17 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_1e83234816204b4cb4102e9f30899cf9.mp3?etag=ff9d1680cda37a4c141063ffb2042fc5" length="13453511" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 09:14): Morgenjournal um 8 (04.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-04102026</link>
-      <pubDate>Sun, 04 Oct 2026 10:46:41 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 18:00): Die Nachrichten vom 04.10.2026, 17:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43094.html</link>
+      <pubDate>Sun, 04 Oct 2026 15:33:43 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">ca576ae0-37e2-5aaa-afa1-5deb2b2dc3e1</guid>
+      <description>Originally published Sun 04 Oct 2026 18:00 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/04/nachrichten_dlf_20261004_1700_d46dd382.mp3?refId=nachrichten-108" length="4962617" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 14:38): Das Wichtigste am Sonntagmittag</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagmittag-1/2122767</link>
+      <pubDate>Sun, 04 Oct 2026 15:32:43 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_5dced0420a684818a4ea24524fd3c499</guid>
-      <description>Originally published Sun 04 Oct 2026 09:14 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_5dced0420a684818a4ea24524fd3c499.mp3?etag=c2bee61c8da218d80909df4e24430586" length="14838453" type="audio/mpeg"/>
+      <guid isPermaLink="false">f47d39e8-1cd6-4001-8372-ba338e423ade</guid>
+      <description>Originally published Sun 04 Oct 2026 14:38 IDT.
+
+Der Bundeskanzler ist zu einem Solidaritätsbesuch in der Ukraine eingetroffen. Deutschland ist der wichtigste Unterstützer der Ukraine im Abwehrkampf gegen Russland. Merz will mit seinem Besuch deutlich machen, dass das auch so bleiben soll.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122767/c/feed/das-wichtigste-am-sonntagmittag-1.mp3" length="14769068" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:46): Failed US execution sparks death penalty debate</title>
       <link>http://www.bbc.co.uk/programmes/p0pdwcw6</link>
-      <pubDate>Sun, 04 Oct 2026 10:45:41 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 15:31:43 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pdwcw6</guid>
       <description>Originally published Sun 04 Oct 2026 06:46 IDT.
