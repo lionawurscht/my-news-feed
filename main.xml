@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 04 Oct 2026 22:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:31:39 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:07): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3516080.html</link>
-      <pubDate>Sun, 04 Oct 2026 22:15:45 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 03:01): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3516222.html</link>
+      <pubDate>Mon, 05 Oct 2026 01:31:39 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">77de9ca5-07f5-436c-8542-52edea3b13cc</guid>
-      <description>Originally published Sun 04 Oct 2026 22:07 IDT.
+      <guid isPermaLink="false">cf0d1cf0-574b-4863-9107-bc8942ad3472</guid>
+      <description>Originally published Mon 05 Oct 2026 03:01 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1004/AU-20261004-2107-2500.mp3" length="1880971" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1005/AU-20261005-0201-3100.mp3" length="2035339" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 01:10): 6pm ET, October 04 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 04:10): 9pm ET, October 04 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 04 Oct 2026 22:14:45 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 01:30:39 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d12e1307-30b3-4bfc-af50-267cb84abb9a</guid>
-      <description>Originally published Mon 05 Oct 2026 01:10 IDT.
+      <guid isPermaLink="false">29654586-c451-48e4-8693-8fdd630f8cda</guid>
+      <description>Originally published Mon 05 Oct 2026 04:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2501f196-b43c-4f75-8931-d83ec2ff5463/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2501f196-b43c-4f75-8931-d83ec2ff5463&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261004-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5c7e3d05-46b2-44da-b0f8-09eaa56a3b27/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5c7e3d05-46b2-44da-b0f8-09eaa56a3b27&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261004-2100-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 04.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3516066.html</link>
-      <pubDate>Sun, 04 Oct 2026 22:13:45 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 01:29:39 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">69330c84-87c0-4749-9533-c54468b34e6d-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 04 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Bundeskanzler Merz reist überraschend in die Ukraine, Schulze schließt CDU-Sti
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1004/AU-20261004-2025-5000.mp3" length="14928929" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 01:00): Die Nachrichten vom 05.10.2026, 00:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43108.html</link>
-      <pubDate>Sun, 04 Oct 2026 22:12:45 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 03:00): Die Nachrichten vom 05.10.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43112.html</link>
+      <pubDate>Mon, 05 Oct 2026 01:28:39 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">9e7f35d6-3dce-5f4d-9009-a4e2229ce7da</guid>
-      <description>Originally published Mon 05 Oct 2026 01:00 IDT.
+      <guid isPermaLink="false">62009832-2b95-5543-8b44-4729d87dbcf3</guid>
+      <description>Originally published Mon 05 Oct 2026 03:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/05/nachrichten_dlf_20261005_0000_3bee5a75.mp3?refId=nachrichten-108" length="4981007" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/05/nachrichten_dlf_20261005_0200_a55c350e.mp3?refId=nachrichten-108" length="4990202" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:22): Abendjournal um 18 (04.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-04102026</link>
-      <pubDate>Sun, 04 Oct 2026 22:11:45 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 01:27:39 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_5cce0508f02d4b2bb496fd37779123a1</guid>
       <description>Originally published Sun 04 Oct 2026 19:22 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 19:48): Das Wichtigste am Sonntagabend</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagabend-1/2122771</link>
-      <pubDate>Sun, 04 Oct 2026 22:10:45 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 01:26:39 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">17939066-1703-45a4-b3e7-db56b5008ef5</guid>
       <description>Originally published Sun 04 Oct 2026 19:48 IDT.
@@ -79,7 +79,7 @@ Bundeskanzler Merz ist zu Besuch in der Ukraine gewesen - was er der Regierung z
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: The Super El Nino - what happens when it hits us?</title>
       <link>http://www.bbc.co.uk/programmes/p0pdnflq</link>
-      <pubDate>Sun, 04 Oct 2026 22:09:45 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 01:25:39 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pdnflq</guid>
       <description>Originally published Sun 04 Oct 2026 22:00 IDT.
