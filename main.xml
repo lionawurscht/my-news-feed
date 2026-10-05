@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 05 Oct 2026 08:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:46:35 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 10:34): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3516820.html</link>
-      <pubDate>Mon, 05 Oct 2026 08:11:18 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:34): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3518146.html</link>
+      <pubDate>Mon, 05 Oct 2026 17:46:35 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">db4a8991-6153-4796-96fa-094bb2350edc</guid>
-      <description>Originally published Mon 05 Oct 2026 10:34 IDT.
+      <guid isPermaLink="false">634b2c12-244c-49bb-a441-b43ad9990902</guid>
+      <description>Originally published Mon 05 Oct 2026 19:34 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1005/AU-20261005-0934-3600.mp3" length="2119051" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1005/AU-20261005-1834-3500.mp3" length="2061451" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 11:10): 4am ET, October 05 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 20:10): 1pm ET, October 05 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 05 Oct 2026 08:10:18 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:45:35 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">5211c7a4-87d9-4cf9-86f8-1674e381061f</guid>
-      <description>Originally published Mon 05 Oct 2026 11:10 IDT.
+      <guid isPermaLink="false">cd8e4703-bfca-4254-aae2-c0f89a6729cc</guid>
+      <description>Originally published Mon 05 Oct 2026 20:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b837ab98-3642-427d-afd1-db7911da99a2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b837ab98-3642-427d-afd1-db7911da99a2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261005-0400-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Mon 08:00): חדשון בעברית קלה (05/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Mon, 05 Oct 2026 08:09:18 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/5-10-26.m4a</guid>
-      <description>Originally published Mon 05 Oct 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• ישׂראל מצַיֶינֶת היום, כ&quot;ד בּתִשרֵי, את יוֹם הזִיכָּרוֹן הלְאוּמי לטֶבַח השִבעָה בּאוֹקטובּר 2023 ולמִלחֶמֶת חַרבוֹת בַּרזֶל שֶפָּרצָה בּעִקבוֹתָיו
-• בּשעה 11:00 יִתקַיֵים בּהַר הֵרצל בּירוּשלים הטֶקֶס המַמלַכתי לזֵכר חַללֵי מַעֲרֶכֶת הבִּיטָחוֹן בּמִלחָמה. בּשעה 14:00 יִתקַיֵים שם הטֶקֶס לזֵכר האֶזרָחִים שֶנִרצְחוּ
-• בּרַחֲבֵי האָרץ יִתקַיימוּ היוֹם טִקסֵי זִיכּרוֹן והַנצָחה ומִפגָשים עִם שׂוֹרדֵי שֶבִי
-• נשׂיא המדִינה יִצחק הֶרצוג פָּתח את יום הזיכּרוֹן הבּוֹקר בּשעה 6:29, בּהוֹרָדת דֶגֶל ישׂראל לחֲצי התוֹרֶן בּרַחֲבַת בֵּית הנשׂיא
-• הרַמַטכַּ&quot;ל רַב-אַלוּף אֱיָיל זָמיר פִּרסֵם פּקוּדַת יוֹם מיוּחֶדת לחַיָילֵי צה&quot;ל, וכָתב: &quot;לִפנֵי שלוֹש שָנים צה&quot;ל כָּשַל בּמשִׂימָתוֹ העֶליוֹנָה להָגֵן על אֶזרְחֵי מדִינת ישׂראל. אנו חַיָיבים לַחקוֹר ולוַודֵא שֶהַלְקָחִים מיוּשָׂמִים, כּדֵי לִהיוֹת רְאוּיִים יוֹתר לאֵמוּן שֶהִפקִיד בּיָדֵינוּ העָם&quot;
-• אדם החָשוּד בּנִיסיוֹן חֲדִירָה למוּצָב צַה&quot;ל בּגְבוּל סוּריָה חוּסַל הלַילה על-ידֵי כּוֹחוֹת צה&quot;ל
-• דִיווּחַ: הנשׂיא טראמפּ הֵקִים צֶוֶות לִבחִינַת הבִּינָה המְלָאכוּתִית (AI), שֶיַגִיש הַמלָצוֹת בּתוֹך 120 יום
-• היְצִירָה המוּזִיקָלִית &quot;רַפסוֹדיָה למִשפַּחת בִּיבַּס&quot; תְבוּצַע בּ-7 בּאוֹקטוֹבּר בּוִילְנָה, בִּירַת לִיטָא
-• התִַחֲזית: ירידה קַלה בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/5-10-26.m4a" length="2234875" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c62629e7-8080-4bce-8662-52abee9610f7/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c62629e7-8080-4bce-8662-52abee9610f7&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261005-1300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 04.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3516066.html</link>
-      <pubDate>Mon, 05 Oct 2026 08:08:18 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 05 Oct 2026 17:44:35 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">69330c84-87c0-4749-9533-c54468b34e6d-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 04 Oct 2026 21:00 IDT.
 
@@ -68,49 +46,62 @@ Bundeskanzler Merz reist überraschend in die Ukraine, Schulze schließt CDU-Sti
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1004/AU-20261004-2025-5000.mp3" length="14928929" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 10:30): Die Nachrichten vom 05.10.2026, 09:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43138.html</link>
-      <pubDate>Mon, 05 Oct 2026 08:07:18 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">3661a57c-4447-5876-8fee-63c1c69d421c</guid>
-      <description>Originally published Mon 05 Oct 2026 10:30 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 20:00): Die Nachrichten vom 05.10.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43172.html</link>
+      <pubDate>Mon, 05 Oct 2026 17:43:35 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">d2ae408c-061c-5a4a-9e2d-85a58b371a64</guid>
+      <description>Originally published Mon 05 Oct 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/05/nachrichten_dlf_20261005_0930_baf833e9.mp3?refId=nachrichten-108" length="4951750" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/05/nachrichten_dlf_20261005_1900_25020c2a.mp3?refId=nachrichten-108" length="5188315" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 09:26): Morgenjournal um 8 (05.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-05102026</link>
-      <pubDate>Mon, 05 Oct 2026 08:06:18 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:31): Abendjournal um 18 (05.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-05102026</link>
+      <pubDate>Mon, 05 Oct 2026 17:42:35 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_ad54a64f101d44da8b7c119b92719066</guid>
+      <description>Originally published Mon 05 Oct 2026 19:31 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ad54a64f101d44da8b7c119b92719066.mp3?etag=312efa8395ec8be6d37c9e3d148bf747" length="36386828" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Nobelpreis nach Berlin | Bahnsanierung | Präventionswoche Taschendiebstahl</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/nobelpreis-nach-berlin-bahnsanierung-praeventionswoche-taschendiebstahl.html</link>
+      <pubDate>Mon, 05 Oct 2026 17:41:35 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_38f9f84fef784479ab82bb50f7cbab87</guid>
-      <description>Originally published Mon 05 Oct 2026 09:26 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_38f9f84fef784479ab82bb50f7cbab87.mp3?etag=95b170ec3a1b9050bc8a5a200b57fd4d" length="29220565" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b9/f4/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51_mp3-256kd.mp3</guid>
+      <description>Originally published Mon 05 Oct 2026 19:17 IDT.
+
+Der Nobelpreis f&amp;#252;r Medizin geht in diesem Jahr an ein Forscher-Trio. Einer der Preistr&amp;#228;ger forscht in Berlin: Peter Hegemann, Professor f&amp;#252;r Biophysik an der Humboldt Universit&amp;#228;t. Au&amp;#223;erdem: Berlin-Hannover: Auswirkung Bahnsanierung; Taschendiebstahl: Pr&amp;#228;ventionswoche startet; Potsdamer Jugendgang griff offenbar Sch&amp;#252;ler in Wannsee an.
+&amp;#160;
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/b9/f4/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51_mp3-256kd.mp3" length="29320458" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 08:48): Neuer Besucher-Rekord: 7,4 Millionen kommen zum Münchner Oktoberfest</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/neuer-besucher-rekord-7-4-millionen-kommen-zum-muenchner-oktoberfest/2122793</link>
-      <pubDate>Mon, 05 Oct 2026 08:05:18 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 17:40): Öffentliche Anhörung: Das ist los bei den deutschen Geheimdiensten</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/oeffentliche-anhoerung-das-ist-los-bei-den-deutschen-geheimdiensten/2122809</link>
+      <pubDate>Mon, 05 Oct 2026 17:40:35 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">da7761d6-4413-419e-916d-0789b8ede70b</guid>
-      <description>Originally published Mon 05 Oct 2026 08:48 IDT.
+      <guid isPermaLink="false">f454c73f-7b67-4339-87f2-34236c16d050</guid>
+      <description>Originally published Mon 05 Oct 2026 17:40 IDT.
 
-Damit ist das Oktoberfest 2026 das bislang meistbesuchte in seiner langen Geschichte.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122793/c/feed/neuer-besucher-rekord-7-4-millionen-kommen-zum-muenchner-oktoberfest.mp3" length="8504492" type="audio/mpeg"/>
+Eigentlich läuft sie hinter verschlossenen Türen ab: die Arbeit der deutschen Geheimdienste. Nicht so heute, da haben sie sich öffentlich Fragen gestellt und was ihre wohl größte Herausforderung ist - hören Sie im BR24 Thema des Tages.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122809/c/feed/oeffentliche-anhoerung-das-ist-los-bei-den-deutschen-geheimdiensten.mp3" length="11987372" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:49): Brazil's presidential election goes to runoff</title>
-      <link>http://www.bbc.co.uk/programmes/p0pdzkkh</link>
-      <pubDate>Mon, 05 Oct 2026 08:04:18 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:32): Reports say Flydubai suspect was 'lone wolf' extremist</title>
+      <link>http://www.bbc.co.uk/programmes/p0pf3jwx</link>
+      <pubDate>Mon, 05 Oct 2026 17:39:35 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pdzkkh</guid>
-      <description>Originally published Mon 05 Oct 2026 07:49 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pf3jwx</guid>
+      <description>Originally published Mon 05 Oct 2026 18:32 IDT.
 
-&lt;p&gt;Brazilians voted on Sunday in a high-stakes presidential election pitting incumbent left-wing Luiz Inácio Lula da Silva against the right-wing challenger Flávio Bolsonaro amid a regional shift to the right. Bolsonaro won the first round, but failed to win an outright majority, with a run-off scheduled for 25 October.&lt;/p&gt;&lt;p&gt;Also: The US has pulled its B1 bombers from an airbase in England which was the target of a suspected terror plot. Israel has barred the British Green Party leader after his party passed a motion defining Zionism as racism. Ethiopian troops entering Mekelle have sparked regional fear of a return to active civil war. Tech giants are paying workers in India to record their physical actions so AI can learn human movements. Glastonbury tickets sold out in under an hour despite being the most expensive ever at more than 500 dollars each.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Investigators believe the co-pilot accused of trying to take over a Flydubai plane heading for Israel was a &quot;lone wolf&quot; extremist who wanted to fly the aircraft into an airport or tower block. Also: why did the US military withdraw expensive bombers from a base in the UK? Oil exports from the Middle East are getting back to levels last achieved before the US began bombing Iran. Spain's prime minister calls an election over a housing crisis. Researchers try to find out why more young people are getting cancer, and what lemurs in Madagascar and trained human singers have in common.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Brazil's presidential candidate Flavio Bolsonaro of the Liberal Party 
-Credit: Reuters/Diego Herculano&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdzk48.mp3" length="14552000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Flydubai aircraft at Ben Gurion International Airport. September 30, 2026. 
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pf3g9z.mp3" length="13304000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
