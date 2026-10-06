@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 05 Oct 2026 23:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:33:27 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:19): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3518366.html</link>
-      <pubDate>Mon, 05 Oct 2026 23:38:49 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 07:04): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3518636.html</link>
+      <pubDate>Tue, 06 Oct 2026 04:33:27 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">0d85c932-642a-479f-a5f0-d9dc690cc610</guid>
-      <description>Originally published Mon 05 Oct 2026 22:19 IDT.
+      <guid isPermaLink="false">1071e8d1-3fcd-45aa-85d0-0f4ca40f430f</guid>
+      <description>Originally published Tue 06 Oct 2026 07:04 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1005/AU-20261005-2119-0200.mp3" length="2067211" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-0604-2800.mp3" length="2057611" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 02:10): 7pm ET, October 05 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 07:10): 12am ET, October 06 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 05 Oct 2026 23:37:49 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:32:27 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">eccba356-8bf8-4129-b63c-e22950057bb4</guid>
-      <description>Originally published Tue 06 Oct 2026 02:10 IDT.
+      <guid isPermaLink="false">ef7f4de4-b548-4770-85e1-69e8c2e471a2</guid>
+      <description>Originally published Tue 06 Oct 2026 07:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f3629851-3ec1-40c9-9fd7-24d31376be55/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f3629851-3ec1-40c9-9fd7-24d31376be55&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261005-1900-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/63f23ff1-c258-4a23-8312-0af82ad4cfe6/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=63f23ff1-c258-4a23-8312-0af82ad4cfe6&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261006-0000-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 05.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3518348.html</link>
-      <pubDate>Mon, 05 Oct 2026 23:36:49 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:31:27 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">a852b970-971d-46e4-9217-e59fe8e27f7f-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 05 Oct 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Deutsche Nachrichtendienste warnen vor Aktivitäten Russlands, Pläne für neuen
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1005/AU-20261005-2028-1200.mp3" length="14898594" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 02:00): Die Nachrichten vom 06.10.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43182.html</link>
-      <pubDate>Mon, 05 Oct 2026 23:35:49 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 07:18): Frühjournal um 6 (06.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-06102026</link>
+      <pubDate>Tue, 06 Oct 2026 04:30:27 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">01928dce-b372-5141-8803-35dacc2d60bd</guid>
-      <description>Originally published Tue 06 Oct 2026 02:00 IDT.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/06/nachrichten_dlf_20261006_0100_1d4ba23d.mp3?refId=nachrichten-108" length="5001069" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_446670fad3a340dcbf14ef9532c7ef94</guid>
+      <description>Originally published Tue 06 Oct 2026 07:18 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_446670fad3a340dcbf14ef9532c7ef94.mp3?etag=c3c9d0a8c4995e42ba14a00f664802d0" length="15020649" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:31): Abendjournal um 18 (05.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-05102026</link>
-      <pubDate>Mon, 05 Oct 2026 23:34:49 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 07:00): Die Nachrichten vom 06.10.2026, 06:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43196.html</link>
+      <pubDate>Tue, 06 Oct 2026 04:29:27 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_ad54a64f101d44da8b7c119b92719066</guid>
-      <description>Originally published Mon 05 Oct 2026 19:31 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ad54a64f101d44da8b7c119b92719066.mp3?etag=312efa8395ec8be6d37c9e3d148bf747" length="36386828" type="audio/mpeg"/>
+      <guid isPermaLink="false">4e90c2b0-d3ee-5eb2-821c-fdf15119e00a</guid>
+      <description>Originally published Tue 06 Oct 2026 07:00 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/06/nachrichten_dlf_20261006_0600_135e4ba1.mp3?refId=nachrichten-108" length="9777925" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Nobelpreis nach Berlin | Bahnsanierung | Präventionswoche Taschendiebstahl</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/nobelpreis-nach-berlin-bahnsanierung-praeventionswoche-taschendiebstahl.html</link>
-      <pubDate>Mon, 05 Oct 2026 23:33:49 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:28:27 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b9/f4/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51_mp3-256kd.mp3</guid>
       <description>Originally published Mon 05 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Der Nobelpreis f&amp;#252;r Medizin geht in diesem Jahr an ein Forscher-Trio. Ei
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 17:40): Öffentliche Anhörung: Das ist los bei den deutschen Geheimdiensten</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/oeffentliche-anhoerung-das-ist-los-bei-den-deutschen-geheimdiensten/2122809</link>
-      <pubDate>Mon, 05 Oct 2026 23:32:49 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 04:27:27 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">f454c73f-7b67-4339-87f2-34236c16d050</guid>
       <description>Originally published Mon 05 Oct 2026 17:40 IDT.
@@ -90,18 +90,18 @@ Eigentlich läuft sie hinter verschlossenen Türen ab: die Arbeit der deutschen 
       <enclosure url="https://media.neuland.br.de/file/2122809/c/feed/oeffentliche-anhoerung-das-ist-los-bei-den-deutschen-geheimdiensten.mp3" length="11987372" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:32): Reports say Flydubai suspect was 'lone wolf' extremist</title>
-      <link>http://www.bbc.co.uk/programmes/p0pf3jwx</link>
-      <pubDate>Mon, 05 Oct 2026 23:31:49 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:24): Fighting intensifies in Yemen</title>
+      <link>http://www.bbc.co.uk/programmes/p0pf589q</link>
+      <pubDate>Tue, 06 Oct 2026 04:26:27 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pf3jwx</guid>
-      <description>Originally published Mon 05 Oct 2026 18:32 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pf589q</guid>
+      <description>Originally published Tue 06 Oct 2026 07:24 IDT.
 
-&lt;p&gt;Investigators believe the co-pilot accused of trying to take over a Flydubai plane heading for Israel was a &quot;lone wolf&quot; extremist who wanted to fly the aircraft into an airport or tower block. Also: why did the US military withdraw expensive bombers from a base in the UK? Oil exports from the Middle East are getting back to levels last achieved before the US began bombing Iran. Spain's prime minister calls an election over a housing crisis. Researchers try to find out why more young people are getting cancer, and what lemurs in Madagascar and trained human singers have in common.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Iran-backed Houthis claim they hit several targets in Saudi Arabia, including Riyadh Airport, while Saudi-led forces attacked Houthi military strongholds on the Red Sea coast. The Yemeni government has launched an offensive against the Houthi-held capital, Sanaa.  Also: Student demonstrations intensify in France ahead of a national day of protests. The Nobel Prize in Medicine is awarded to Karl Deisseroth from America and Peter Hegemann and Georg Nagel from Germany for their work in the field of optogenetics.  Russia downplays reports that a lab technician who died last week may have been exposed to pneumonic plague. The bestselling British author and politician, Jeffrey Archer, has died. A concert pianist invents a &quot;Standing Grand&quot; piano and dust off your CV if you'd like to be Finland's official 'smeller'.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Flydubai aircraft at Ben Gurion International Airport. September 30, 2026. 
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pf3g9z.mp3" length="13304000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Saudi-backed Yemeni government fighters advance against the Iran-backed Houthis, near Dhubab.
+Credit: Southern Giants Brigades/Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pf5854.mp3" length="12056000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
