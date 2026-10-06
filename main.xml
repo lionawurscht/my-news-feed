@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 11:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:49:25 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 11:46): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3519298.html</link>
-      <pubDate>Tue, 06 Oct 2026 11:43:05 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:32): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3520374.html</link>
+      <pubDate>Tue, 06 Oct 2026 17:49:25 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">7841e533-86d8-434a-a6ce-2bdd9cfd7145</guid>
-      <description>Originally published Tue 06 Oct 2026 11:46 IDT.
+      <guid isPermaLink="false">b6fe9036-0987-43ba-b8df-5a5ec942a308</guid>
+      <description>Originally published Tue 06 Oct 2026 19:32 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-1046-1600.mp3" length="2776459" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-1832-4300.mp3" length="2298379" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 14:10): 7am ET, October 06 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 20:10): 1pm ET, October 06 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 06 Oct 2026 11:42:05 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 17:48:25 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">42030547-a7a6-4716-9cc7-536aee6a30a2</guid>
-      <description>Originally published Tue 06 Oct 2026 14:10 IDT.
+      <guid isPermaLink="false">41a5036f-4e1f-41e7-a114-66de8f1c09ed</guid>
+      <description>Originally published Tue 06 Oct 2026 20:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/16f32b90-cf72-48fd-9132-fd6f41775f06/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=16f32b90-cf72-48fd-9132-fd6f41775f06&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261006-0700-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b11aa623-77dd-4278-b708-381b10af1283/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b11aa623-77dd-4278-b708-381b10af1283&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261006-1300-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 05.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3518348.html</link>
-      <pubDate>Tue, 06 Oct 2026 11:41:05 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 17:47:25 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">a852b970-971d-46e4-9217-e59fe8e27f7f-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 05 Oct 2026 21:00 IDT.
@@ -46,62 +46,63 @@ Deutsche Nachrichtendienste warnen vor Aktivitäten Russlands, Pläne für neuen
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1005/AU-20261005-2028-1200.mp3" length="14898594" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 14:12): Mittagsjournal (06.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-06102026</link>
-      <pubDate>Tue, 06 Oct 2026 11:40:05 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 20:00): Die Nachrichten vom 06.10.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43244.html</link>
+      <pubDate>Tue, 06 Oct 2026 17:46:25 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_33289b9bbad2404aa7edd2bccad5c394</guid>
-      <description>Originally published Tue 06 Oct 2026 14:12 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_33289b9bbad2404aa7edd2bccad5c394.mp3?etag=8223cb4982d55ce13bf36e2cded48235" length="86894881" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 14:00): Die Nachrichten vom 06.10.2026, 13:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43222.html</link>
-      <pubDate>Tue, 06 Oct 2026 11:39:05 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">d110d3ef-988f-57b6-ab07-a384524806cc</guid>
-      <description>Originally published Tue 06 Oct 2026 14:00 IDT.
+      <guid isPermaLink="false">a7a60361-2a4f-5c8b-a329-08acb6646a40</guid>
+      <description>Originally published Tue 06 Oct 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/06/nachrichten_dlf_20261006_1300_daded1c7.mp3?refId=nachrichten-108" length="9771655" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/06/nachrichten_dlf_20261006_1900_4728686b.mp3?refId=nachrichten-108" length="5019459" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 09:06): Wie viel Mensch braucht ein gutes Buch noch? KI auf der Frankfurter Buchmesse</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/wie-viel-mensch-braucht-ein-gutes-buch-noch-ki-auf-der-frankfurter-buchmesse/2122827</link>
-      <pubDate>Tue, 06 Oct 2026 11:38:05 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (06.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-06102026</link>
+      <pubDate>Tue, 06 Oct 2026 17:45:25 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_94a5eee379314ca5aaa2f9b72f5e5fb8</guid>
+      <description>Originally published Tue 06 Oct 2026 19:33 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_94a5eee379314ca5aaa2f9b72f5e5fb8.mp3?etag=2feea8926e10316609e68fbef8d4baa9" length="36591512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Demographie in der Region | Infobox zur A100 | CO2-Speicherung in Brandenburg?</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/berliner-demographie-infobox-a100-co2-speicherung.html</link>
+      <pubDate>Tue, 06 Oct 2026 17:44:25 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">26fcb70f-a3f6-4cee-ac3d-48e8a393eaa3</guid>
-      <description>Originally published Tue 06 Oct 2026 09:06 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/17/3c/173ce8d8-5110-4a8f-bbe4-2173930d1849/173ce8d8-5110-4a8f-bbe4-2173930d1849_mp3-256kd.mp3</guid>
+      <description>Originally published Tue 06 Oct 2026 19:17 IDT.
 
-Ein Roman, geschrieben in Sekunden - ganz ohne Autor? Künstliche Intelligenz ist das Thema auf der Frankfurter Buchmesse.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122827/c/feed/wie-viel-mensch-braucht-ein-gutes-buch-noch-ki-auf-der-frankfurter-buchmesse.mp3" length="8775980" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Nobelpreis nach Berlin | Bahnsanierung | Präventionswoche Taschendiebstahl</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/nobelpreis-nach-berlin-bahnsanierung-praeventionswoche-taschendiebstahl.html</link>
-      <pubDate>Tue, 06 Oct 2026 11:37:05 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b9/f4/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51_mp3-256kd.mp3</guid>
-      <description>Originally published Mon 05 Oct 2026 19:17 IDT.
-
-Der Nobelpreis f&amp;#252;r Medizin geht in diesem Jahr an ein Forscher-Trio. Einer der Preistr&amp;#228;ger forscht in Berlin: Peter Hegemann, Professor f&amp;#252;r Biophysik an der Humboldt Universit&amp;#228;t. Au&amp;#223;erdem: Berlin-Hannover: Auswirkung Bahnsanierung; Taschendiebstahl: Pr&amp;#228;ventionswoche startet; Potsdamer Jugendgang griff offenbar Sch&amp;#252;ler in Wannsee an.
+Das Berlin-Institut f&amp;#252;r Bev&amp;#246;lkerung und Entwicklung hat am Dienstag einen Bericht zur &quot;Demografie und der Zukunftsf&amp;#228;higkeit&quot; ver&amp;#246;ffentlicht. &amp;#220;berraschend: Brandenburg steht im Ranking ganz gut da. Au&amp;#223;erdem: Infobox zur A100 &amp;#246;ffnet. Pl&amp;#228;ne f&amp;#252;r CO2-Speicherung in Brandenburg. Neuer Brandenburg-Monitor.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/b9/f4/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51_mp3-256kd.mp3" length="29320458" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/17/3c/173ce8d8-5110-4a8f-bbe4-2173930d1849/173ce8d8-5110-4a8f-bbe4-2173930d1849_mp3-256kd.mp3" length="29096207" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:24): Fighting intensifies in Yemen</title>
-      <link>http://www.bbc.co.uk/programmes/p0pf589q</link>
-      <pubDate>Tue, 06 Oct 2026 11:36:05 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pf589q</guid>
-      <description>Originally published Tue 06 Oct 2026 07:24 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Verdacht auf Spionage: Ex-BND-Chef Hanning festgenommen</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/verdacht-auf-spionage-ex-bnd-chef-hanning-festgenommen/2122841</link>
+      <pubDate>Tue, 06 Oct 2026 17:43:25 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">072d9a15-5ac5-484b-b612-5fe9ebc43b13</guid>
+      <description>Originally published Tue 06 Oct 2026 19:00 IDT.
 
-&lt;p&gt;Iran-backed Houthis claim they hit several targets in Saudi Arabia, including Riyadh Airport, while Saudi-led forces attacked Houthi military strongholds on the Red Sea coast. The Yemeni government has launched an offensive against the Houthi-held capital, Sanaa.  Also: Student demonstrations intensify in France ahead of a national day of protests. The Nobel Prize in Medicine is awarded to Karl Deisseroth from America and Peter Hegemann and Georg Nagel from Germany for their work in the field of optogenetics.  Russia downplays reports that a lab technician who died last week may have been exposed to pneumonic plague. The bestselling British author and politician, Jeffrey Archer, has died. A concert pianist invents a &quot;Standing Grand&quot; piano and dust off your CV if you'd like to be Finland's official 'smeller'.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Es könnte der größte Spionage-Skandal in der Geschichte der Bundesrepublik Deutschland sein: Der ehemalige Präsident des Bundesnachrichtendienstes soll geheime Dokumente von der Behörde abgegriffen haben.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122841/c/feed/verdacht-auf-spionage-ex-bnd-chef-hanning-festgenommen.mp3" length="7795244" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:17): Life in Yemen under Houthi sniper fire</title>
+      <link>http://www.bbc.co.uk/programmes/p0pf8qbb</link>
+      <pubDate>Tue, 06 Oct 2026 17:42:25 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pf8qbb</guid>
+      <description>Originally published Tue 06 Oct 2026 18:17 IDT.
+
+&lt;p&gt;As fighting surges again in Yemen, government forces supported by Saudi Arabia say they've been making significant gains in an offensive against the Iran-backed Houthis. We hear how the conflict is affecting people in one of the key battlegrounds - the southwestern city of Taiz, which is surrounded by the Houthis. Also: protesters and police clash in several French cities, as students, parents and unions join demonstrations across the country calling for more investment in schools. The space scientist Dame Dr Maggie Aderin on the remarkable story of the Hubble Space Telescope - the subject of a new podcast. Protests spread in Japan over the murder of a woman on the island of Okinawa, allegedly committed by a US marine. We hear tributes to Jeffrey Archer, the British politician and author who died on Monday, and look back at the rises and falls in his life. And a study finds that book bans are on the increase in US public schools. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Saudi-backed Yemeni government fighters advance against the Iran-backed Houthis, near Dhubab.
-Credit: Southern Giants Brigades/Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pf5854.mp3" length="12056000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: a mother with her 11-year-old injured son, Taiz, Yemen. 
+Credit: BBC World Service&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pf8p9z.mp3" length="13544000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
