@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 04:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:43:05 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 07:04): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3518636.html</link>
-      <pubDate>Tue, 06 Oct 2026 04:33:27 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 11:46): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3519298.html</link>
+      <pubDate>Tue, 06 Oct 2026 11:43:05 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1071e8d1-3fcd-45aa-85d0-0f4ca40f430f</guid>
-      <description>Originally published Tue 06 Oct 2026 07:04 IDT.
+      <guid isPermaLink="false">7841e533-86d8-434a-a6ce-2bdd9cfd7145</guid>
+      <description>Originally published Tue 06 Oct 2026 11:46 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-0604-2800.mp3" length="2057611" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-1046-1600.mp3" length="2776459" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 07:10): 12am ET, October 06 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 14:10): 7am ET, October 06 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 06 Oct 2026 04:32:27 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 11:42:05 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">ef7f4de4-b548-4770-85e1-69e8c2e471a2</guid>
-      <description>Originally published Tue 06 Oct 2026 07:10 IDT.
+      <guid isPermaLink="false">42030547-a7a6-4716-9cc7-536aee6a30a2</guid>
+      <description>Originally published Tue 06 Oct 2026 14:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/63f23ff1-c258-4a23-8312-0af82ad4cfe6/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=63f23ff1-c258-4a23-8312-0af82ad4cfe6&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261006-0000-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/16f32b90-cf72-48fd-9132-fd6f41775f06/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=16f32b90-cf72-48fd-9132-fd6f41775f06&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261006-0700-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 05.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3518348.html</link>
-      <pubDate>Tue, 06 Oct 2026 04:31:27 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 11:41:05 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">a852b970-971d-46e4-9217-e59fe8e27f7f-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 05 Oct 2026 21:00 IDT.
@@ -46,30 +46,41 @@ Deutsche Nachrichtendienste warnen vor Aktivitäten Russlands, Pläne für neuen
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1005/AU-20261005-2028-1200.mp3" length="14898594" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 07:18): Frühjournal um 6 (06.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-06102026</link>
-      <pubDate>Tue, 06 Oct 2026 04:30:27 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 14:12): Mittagsjournal (06.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-06102026</link>
+      <pubDate>Tue, 06 Oct 2026 11:40:05 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_446670fad3a340dcbf14ef9532c7ef94</guid>
-      <description>Originally published Tue 06 Oct 2026 07:18 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_446670fad3a340dcbf14ef9532c7ef94.mp3?etag=c3c9d0a8c4995e42ba14a00f664802d0" length="15020649" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_33289b9bbad2404aa7edd2bccad5c394</guid>
+      <description>Originally published Tue 06 Oct 2026 14:12 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_33289b9bbad2404aa7edd2bccad5c394.mp3?etag=8223cb4982d55ce13bf36e2cded48235" length="86894881" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 07:00): Die Nachrichten vom 06.10.2026, 06:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43196.html</link>
-      <pubDate>Tue, 06 Oct 2026 04:29:27 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 14:00): Die Nachrichten vom 06.10.2026, 13:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43222.html</link>
+      <pubDate>Tue, 06 Oct 2026 11:39:05 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">4e90c2b0-d3ee-5eb2-821c-fdf15119e00a</guid>
-      <description>Originally published Tue 06 Oct 2026 07:00 IDT.
+      <guid isPermaLink="false">d110d3ef-988f-57b6-ab07-a384524806cc</guid>
+      <description>Originally published Tue 06 Oct 2026 14:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/06/nachrichten_dlf_20261006_0600_135e4ba1.mp3?refId=nachrichten-108" length="9777925" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/06/nachrichten_dlf_20261006_1300_daded1c7.mp3?refId=nachrichten-108" length="9771655" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 09:06): Wie viel Mensch braucht ein gutes Buch noch? KI auf der Frankfurter Buchmesse</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/wie-viel-mensch-braucht-ein-gutes-buch-noch-ki-auf-der-frankfurter-buchmesse/2122827</link>
+      <pubDate>Tue, 06 Oct 2026 11:38:05 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">26fcb70f-a3f6-4cee-ac3d-48e8a393eaa3</guid>
+      <description>Originally published Tue 06 Oct 2026 09:06 IDT.
+
+Ein Roman, geschrieben in Sekunden - ganz ohne Autor? Künstliche Intelligenz ist das Thema auf der Frankfurter Buchmesse.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122827/c/feed/wie-viel-mensch-braucht-ein-gutes-buch-noch-ki-auf-der-frankfurter-buchmesse.mp3" length="8775980" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Nobelpreis nach Berlin | Bahnsanierung | Präventionswoche Taschendiebstahl</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/nobelpreis-nach-berlin-bahnsanierung-praeventionswoche-taschendiebstahl.html</link>
-      <pubDate>Tue, 06 Oct 2026 04:28:27 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Tue, 06 Oct 2026 11:37:05 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b9/f4/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51_mp3-256kd.mp3</guid>
       <description>Originally published Mon 05 Oct 2026 19:17 IDT.
 
@@ -79,20 +90,9 @@ Der Nobelpreis f&amp;#252;r Medizin geht in diesem Jahr an ein Forscher-Trio. Ei
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/b9/f4/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51/b9f4f8dc-5a72-49e2-b15b-998cb4fb0d51_mp3-256kd.mp3" length="29320458" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 17:40): Öffentliche Anhörung: Das ist los bei den deutschen Geheimdiensten</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/oeffentliche-anhoerung-das-ist-los-bei-den-deutschen-geheimdiensten/2122809</link>
-      <pubDate>Tue, 06 Oct 2026 04:27:27 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">f454c73f-7b67-4339-87f2-34236c16d050</guid>
-      <description>Originally published Mon 05 Oct 2026 17:40 IDT.
-
-Eigentlich läuft sie hinter verschlossenen Türen ab: die Arbeit der deutschen Geheimdienste. Nicht so heute, da haben sie sich öffentlich Fragen gestellt und was ihre wohl größte Herausforderung ist - hören Sie im BR24 Thema des Tages.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122809/c/feed/oeffentliche-anhoerung-das-ist-los-bei-den-deutschen-geheimdiensten.mp3" length="11987372" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:24): Fighting intensifies in Yemen</title>
       <link>http://www.bbc.co.uk/programmes/p0pf589q</link>
-      <pubDate>Tue, 06 Oct 2026 04:26:27 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 11:36:05 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pf589q</guid>
       <description>Originally published Tue 06 Oct 2026 07:24 IDT.
