@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 02:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:41:48 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 03:05): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3520776.html</link>
-      <pubDate>Wed, 07 Oct 2026 02:00:42 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 11:47): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3521588.html</link>
+      <pubDate>Wed, 07 Oct 2026 09:41:48 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">143f4d0e-0fcd-473a-a862-9505203ab997</guid>
-      <description>Originally published Wed 07 Oct 2026 03:05 IDT.
+      <guid isPermaLink="false">9943d389-4cdb-408a-ba08-9f099c10b66b</guid>
+      <description>Originally published Wed 07 Oct 2026 11:47 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1007/AU-20261007-0205-2100.mp3" length="2261131" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1007/AU-20261007-1046-5800.mp3" length="2792971" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 04:09): 9pm ET, October 06 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 12:10): 5am ET, October 07 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 07 Oct 2026 01:59:42 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 09:40:48 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">03931159-0491-402e-b2ec-39c07c6ca36c</guid>
-      <description>Originally published Wed 07 Oct 2026 04:09 IDT.
+      <guid isPermaLink="false">2717ff4d-32bf-4afa-a783-85af2fce0d8c</guid>
+      <description>Originally published Wed 07 Oct 2026 12:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f92fe2cc-8cdc-4ee3-8b85-49d77ecbcc54/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f92fe2cc-8cdc-4ee3-8b85-49d77ecbcc54&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261006-2100-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7fe033b6-1250-47f7-822e-57b79e4a8abf/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7fe033b6-1250-47f7-822e-57b79e4a8abf&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261007-0500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Wed 08:00): חדשון בעברית קלה (07/10/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Wed, 07 Oct 2026 09:39:48 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/7-10-26.m4a</guid>
+      <description>Originally published Wed 07 Oct 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• היוֹם מָלאוּ שלוש שָנים לטֶבַח שִבעה בּאוֹקטוֹבּר ופְרוֹץ המִלחָמה
+• בּרצוּעַת עַזה ובגְבוּל עֲרוּכים כּוֹחות צַה&quot;ל לאֶפשָרוּת שֶחַמאס ינַסֶה לבַצֵעַ היוֹם פּיגוּעַ
+• לפִי נְתוּנים שֶפִּרסֵם צַה&quot;ל: לוֹחֵם מִילוּאים מְשָרֵת כּיוֹם בּמְמוּצָע בֵּין 80 ל-100 ימים בּשָנה
+• העֶרב יִתקַיֵים בּתֵל אביב טֶקס הזִיכָּרון הלְאוּמי שֶיָזמוּ המִשפָּחות. אֵלי שַרעַבּי, חבֵר קיבּוּץ בּאֵרי שֶחָזר מִשבִי חַמאס, יִהיֶה אחד המַנחִים של הטֶקס
+• אֵלִיָה כֹּהן וזִיו עַבּוּד, שׂורדֵי הטֶבַח בּמסִיבַּת הנוֹבָה ושבִי החַמאס, סִיפּרוּ אתמול את סיפּוּרם בּאֵירוּעַ לצִיוּן השִבעָה בּאוקטוֹבּר בָּאוּ&quot;ם
+• קַנצלֶר גֶרמַניה פְרִידרִיך מֶרץ הִתיַיחֵס הלַילה למִתקֶפֶת הטֵרוֹר בּ-7/10, ואָמר: &quot;גֶרמַניה עוֹמֶדת לצַד ישׂראל. ידִידֵינוּ הישׂראֵלים יכוֹלים לִסמוֹך על מְחוּיָבוּתֵנוּ להַבטִיחַ שפֶּשַע כּזה לא יִקרֶה שוּב לעוֹלם. אנוּ נֶאֱבָקים למַעַן בִּיטחוֹנה של ישׂראל וזְכוּתָה להִתקַיֵים – זֶהוּ לֶקַח שֶנִלמַד מהשוֹאה וחֵלק מהזֶהוּת הגֶרמָנית&quot;
+• האַזהָרָה של המַלַ&quot;ל לישׂראֵלים ויהוּדים בּחוּ&quot;ל: &quot;סִיכּוּן מוּגבָּר לפִיגוּעים בּ-7/10&quot;
+• מֵאָז 7/10: כ-30 אֶלף נִפגָעים נִקלְטוּ בּאֲגַף השִיקוּם של מִשׂרַד הבִּיטָחון
+• התִַחֲזית: הִתחַממוּת קַלה
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/7-10-26.m4a" length="2134752" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 06.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3520546.html</link>
-      <pubDate>Wed, 07 Oct 2026 01:58:42 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Wed, 07 Oct 2026 09:38:48 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">e5d37bf8-81d3-4689-a936-f98947a7b21d-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 06 Oct 2026 21:00 IDT.
 
@@ -46,30 +68,41 @@ AfD-Politiker Rausch zum Landtagspräsidenten in Sachsen-Anhalt gewählt, Kritis
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-2029-1900.mp3" length="17206434" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 04:00): Die Nachrichten vom 07.10.2026, 03:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43258.html</link>
-      <pubDate>Wed, 07 Oct 2026 01:57:42 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">23b61104-542c-5501-a5bf-78aa7144d228</guid>
-      <description>Originally published Wed 07 Oct 2026 04:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 12:00): Die Nachrichten vom 07.10.2026, 11:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43288.html</link>
+      <pubDate>Wed, 07 Oct 2026 09:37:48 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">250b7590-ab2c-5c39-8aa3-a1f165820a35</guid>
+      <description>Originally published Wed 07 Oct 2026 12:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/07/nachrichten_dlf_20261007_0300_a4dfdcc1.mp3?refId=nachrichten-108" length="5016116" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/07/nachrichten_dlf_20261007_1100_2b974f6e.mp3?refId=nachrichten-108" length="5017788" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (06.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-06102026</link>
-      <pubDate>Wed, 07 Oct 2026 01:56:42 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_94a5eee379314ca5aaa2f9b72f5e5fb8</guid>
-      <description>Originally published Tue 06 Oct 2026 19:33 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_94a5eee379314ca5aaa2f9b72f5e5fb8.mp3?etag=2feea8926e10316609e68fbef8d4baa9" length="36591512" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (07.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-07102026</link>
+      <pubDate>Wed, 07 Oct 2026 09:36:48 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_79ccbc97101d462a973b688f79a49661</guid>
+      <description>Originally published Wed 07 Oct 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_79ccbc97101d462a973b688f79a49661.mp3?etag=229e094b0af9af011854a99daff4a300" length="30347194" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 08:59): AfD-Politiker zum Landtagspräsidenten gewählt</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/afd-politiker-zum-landtagspraesidenten-gewaehlt/2122863</link>
+      <pubDate>Wed, 07 Oct 2026 09:35:48 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">fb8ab30b-6241-4f70-952b-2678dbafadf1</guid>
+      <description>Originally published Wed 07 Oct 2026 08:59 IDT.
+
+Zum ersten Mal steht ein AfD-Politiker an der Spitze eines deutschen Landesparlaments: Tobias Rausch wurde zum Präsidenten des Landtags in Sachsen-Anhalt gewählt. Woher einige seiner Stimmen kamen, ist wegen der geheimen Wahl unklar.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122863/c/feed/afd-politiker-zum-landtagspraesidenten-gewaehlt.mp3" length="8449964" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Demographie in der Region | Infobox zur A100 | CO2-Speicherung in Brandenburg?</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/berliner-demographie-infobox-a100-co2-speicherung.html</link>
-      <pubDate>Wed, 07 Oct 2026 01:55:42 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Wed, 07 Oct 2026 09:34:48 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/17/3c/173ce8d8-5110-4a8f-bbe4-2173930d1849/173ce8d8-5110-4a8f-bbe4-2173930d1849_mp3-256kd.mp3</guid>
       <description>Originally published Tue 06 Oct 2026 19:17 IDT.
 
@@ -79,30 +112,20 @@ Das Berlin-Institut f&amp;#252;r Bev&amp;#246;lkerung und Entwicklung hat am Die
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/17/3c/173ce8d8-5110-4a8f-bbe4-2173930d1849/173ce8d8-5110-4a8f-bbe4-2173930d1849_mp3-256kd.mp3" length="29096207" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Verdacht auf Spionage: Ex-BND-Chef Hanning festgenommen</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/verdacht-auf-spionage-ex-bnd-chef-hanning-festgenommen/2122841</link>
-      <pubDate>Wed, 07 Oct 2026 01:54:42 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">072d9a15-5ac5-484b-b612-5fe9ebc43b13</guid>
-      <description>Originally published Tue 06 Oct 2026 19:00 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:21): French government holds crisis talks after school protests</title>
+      <link>http://www.bbc.co.uk/programmes/p0pfbs75</link>
+      <pubDate>Wed, 07 Oct 2026 09:33:48 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pfbs75</guid>
+      <description>Originally published Wed 07 Oct 2026 07:21 IDT.
 
-Es könnte der größte Spionage-Skandal in der Geschichte der Bundesrepublik Deutschland sein: Der ehemalige Präsident des Bundesnachrichtendienstes soll geheime Dokumente von der Behörde abgegriffen haben.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122841/c/feed/verdacht-auf-spionage-ex-bnd-chef-hanning-festgenommen.mp3" length="7795244" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:17): Life in Yemen under Houthi sniper fire</title>
-      <link>http://www.bbc.co.uk/programmes/p0pf8qbb</link>
-      <pubDate>Wed, 07 Oct 2026 01:53:42 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pf8qbb</guid>
-      <description>Originally published Tue 06 Oct 2026 18:17 IDT.
-
-&lt;p&gt;As fighting surges again in Yemen, government forces supported by Saudi Arabia say they've been making significant gains in an offensive against the Iran-backed Houthis. We hear how the conflict is affecting people in one of the key battlegrounds - the southwestern city of Taiz, which is surrounded by the Houthis. Also: protesters and police clash in several French cities, as students, parents and unions join demonstrations across the country calling for more investment in schools. The space scientist Dame Dr Maggie Aderin on the remarkable story of the Hubble Space Telescope - the subject of a new podcast. Protests spread in Japan over the murder of a woman on the island of Okinawa, allegedly committed by a US marine. We hear tributes to Jeffrey Archer, the British politician and author who died on Monday, and look back at the rises and falls in his life. And a study finds that book bans are on the increase in US public schools. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;President Macron holds an emergency meeting after more than a quarter of a million French people take part in fresh school protests.  Although most gatherings were peaceful, there were sporadic clashes, with police using batons and tear gas to disperse crowds. Lawyers for Christa Pike, the American woman who survived a botched execution attempt last week, say she's regained consciousness and is able to talk.  They say she's receiving critical care and remains handcuffed to a hospital bed. Events are being held in Israel to mark the third anniversary of the Hamas-led attacks that triggered the war in Gaza.  
+The Oscar-winning actress and one of the last survivors of the Golden Age of Hollywood, Eva Marie Saint, has died. She was 102. And one of football's greatest ever players, Lionel Messi, makes his final international appearance for Argentina. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: a mother with her 11-year-old injured son, Taiz, Yemen. 
-Credit: BBC World Service&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pf8p9z.mp3" length="13544000" type="audio/mpeg"/>
+Photo: A masked student kicks a tear gas canister amid clashes with French riot police during a demonstration in Paris.
+Credit: Reuters/Abdul Saboor&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfbs5c.mp3" length="13000000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
