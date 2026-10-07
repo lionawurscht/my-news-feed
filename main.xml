@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:00:42 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 22:38): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3520604.html</link>
-      <pubDate>Tue, 06 Oct 2026 22:13:25 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 03:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3520776.html</link>
+      <pubDate>Wed, 07 Oct 2026 02:00:42 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">c5cfc82a-30bd-40ce-ba8f-b6ef61a1dcbd</guid>
-      <description>Originally published Tue 06 Oct 2026 22:38 IDT.
+      <guid isPermaLink="false">143f4d0e-0fcd-473a-a862-9505203ab997</guid>
+      <description>Originally published Wed 07 Oct 2026 03:05 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-2138-3200.mp3" length="2350987" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1007/AU-20261007-0205-2100.mp3" length="2261131" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 01:10): 6pm ET, October 06 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 04:09): 9pm ET, October 06 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 06 Oct 2026 22:12:25 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 01:59:42 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">b303ed42-c70e-424b-87d6-221ddf663fb4</guid>
-      <description>Originally published Wed 07 Oct 2026 01:10 IDT.
+      <guid isPermaLink="false">03931159-0491-402e-b2ec-39c07c6ca36c</guid>
+      <description>Originally published Wed 07 Oct 2026 04:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ae5cbf41-e8a2-4af4-b584-4a702c6f4ee7/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ae5cbf41-e8a2-4af4-b584-4a702c6f4ee7&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261006-1800-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f92fe2cc-8cdc-4ee3-8b85-49d77ecbcc54/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f92fe2cc-8cdc-4ee3-8b85-49d77ecbcc54&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261006-2100-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 06.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3520546.html</link>
-      <pubDate>Tue, 06 Oct 2026 22:11:25 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 01:58:42 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e5d37bf8-81d3-4689-a936-f98947a7b21d-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 06 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ AfD-Politiker Rausch zum Landtagspräsidenten in Sachsen-Anhalt gewählt, Kritis
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-2029-1900.mp3" length="17206434" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 00:00): Die Nachrichten vom 06.10.2026, 23:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43252.html</link>
-      <pubDate>Tue, 06 Oct 2026 22:10:25 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 04:00): Die Nachrichten vom 07.10.2026, 03:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43258.html</link>
+      <pubDate>Wed, 07 Oct 2026 01:57:42 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">1f9c9854-944a-577c-92c6-a60a79e8c5d8</guid>
-      <description>Originally published Wed 07 Oct 2026 00:00 IDT.
+      <guid isPermaLink="false">23b61104-542c-5501-a5bf-78aa7144d228</guid>
+      <description>Originally published Wed 07 Oct 2026 04:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/06/nachrichten_dlf_20261006_2300_5b042127.mp3?refId=nachrichten-108" length="9853157" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/07/nachrichten_dlf_20261007_0300_a4dfdcc1.mp3?refId=nachrichten-108" length="5016116" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (06.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-06102026</link>
-      <pubDate>Tue, 06 Oct 2026 22:09:25 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 01:56:42 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_94a5eee379314ca5aaa2f9b72f5e5fb8</guid>
       <description>Originally published Tue 06 Oct 2026 19:33 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Demographie in der Region | Infobox zur A100 | CO2-Speicherung in Brandenburg?</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/berliner-demographie-infobox-a100-co2-speicherung.html</link>
-      <pubDate>Tue, 06 Oct 2026 22:08:25 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 01:55:42 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/17/3c/173ce8d8-5110-4a8f-bbe4-2173930d1849/173ce8d8-5110-4a8f-bbe4-2173930d1849_mp3-256kd.mp3</guid>
       <description>Originally published Tue 06 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Das Berlin-Institut f&amp;#252;r Bev&amp;#246;lkerung und Entwicklung hat am Die
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Verdacht auf Spionage: Ex-BND-Chef Hanning festgenommen</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/verdacht-auf-spionage-ex-bnd-chef-hanning-festgenommen/2122841</link>
-      <pubDate>Tue, 06 Oct 2026 22:07:25 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 01:54:42 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">072d9a15-5ac5-484b-b612-5fe9ebc43b13</guid>
       <description>Originally published Tue 06 Oct 2026 19:00 IDT.
@@ -92,7 +92,7 @@ Es könnte der größte Spionage-Skandal in der Geschichte der Bundesrepublik De
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:17): Life in Yemen under Houthi sniper fire</title>
       <link>http://www.bbc.co.uk/programmes/p0pf8qbb</link>
-      <pubDate>Tue, 06 Oct 2026 22:06:25 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 01:53:42 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pf8qbb</guid>
       <description>Originally published Tue 06 Oct 2026 18:17 IDT.
