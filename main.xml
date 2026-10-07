@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 17:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:35:01 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,63 +13,76 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 19:27): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3522714.html</link>
-      <pubDate>Wed, 07 Oct 2026 17:10:51 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 00:03): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3523012.html</link>
+      <pubDate>Wed, 07 Oct 2026 22:35:01 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">9fb202db-3f14-4d9a-8c00-dd3942c8783c</guid>
-      <description>Originally published Wed 07 Oct 2026 19:27 IDT.
+      <guid isPermaLink="false">4a1f456a-8cbb-4c7d-9c03-1dce41d079c4</guid>
+      <description>Originally published Thu 08 Oct 2026 00:03 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1007/AU-20261007-1827-0300.mp3" length="1936267" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1007/AU-20261007-2303-2300.mp3" length="1974667" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 20:10): 1pm ET, October 07 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 01:09): 6pm ET, October 07 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 07 Oct 2026 17:09:51 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 22:34:01 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d7871677-e0f4-460d-b75d-1697096fc715</guid>
-      <description>Originally published Wed 07 Oct 2026 20:10 IDT.
+      <guid isPermaLink="false">5c9cfc9a-6870-4cbc-910f-1f2afae4686e</guid>
+      <description>Originally published Thu 08 Oct 2026 01:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/77cc561b-c8ff-4097-9289-899983d78254/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=77cc561b-c8ff-4097-9289-899983d78254&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261007-1300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ffd5ff5a-0e02-4a4b-86f9-1063c828aa38/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ffd5ff5a-0e02-4a4b-86f9-1063c828aa38&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261007-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 06.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3520546.html</link>
-      <pubDate>Wed, 07 Oct 2026 17:08:51 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 07.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3522896.html</link>
+      <pubDate>Wed, 07 Oct 2026 22:33:01 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">e5d37bf8-81d3-4689-a936-f98947a7b21d-SENDUNGSAUDIO</guid>
-      <description>Originally published Tue 06 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">cf95ac84-26b6-4315-b13a-4eac40e2409d-SENDUNGSAUDIO</guid>
+      <description>Originally published Wed 07 Oct 2026 21:00 IDT.
 
-AfD-Politiker Rausch zum Landtagspräsidenten in Sachsen-Anhalt gewählt, Kritischer Blick über Abstimmungsverhalten der CDU nach Wahl des Landtagspräsidenten in Sachsen-Anhalt, Früherer BND-Chef Hanning wegen Spionageverdacht festgenommen, Türkei und Pakistan unterstützen Saudi-Arabien nach Angriffen durch die Huthi-Miliz, Zwei Handelsschiffe von Drohnen im Schwarzen Meer getroffen, Erneut landesweite Proteste gegen Bildungsbedingungen in Frankreich, Hinterbliebene scheitern bei Klage gegen Fluggesellschaft Eurowings nach absichtlichem Absturz durch Co-Piloten, Physik-Nobelpreis für belgischen Astrophysiker Halzen für Forschung zu Neutrinos, Eröffnung der 78. Buchmesse in Frankfurt am Main, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1006/AU-20261006-2029-1900.mp3" length="17206434" type="audio/mpeg"/>
+Nationale Gedenkfeier in Israel am dritten Jahrestag des Angriffs der Hamas, Auch Gedenken an die Opfer des Hamas-Angriffs in Deutschland, Drohende Spaltung der CDU-Fraktion in Sachsen-Anhalt nach Wahl eines AfD-Kandidaten zum Landtagspräsidenten, Bundeskanzler Merz kritisiert auf Veranstaltung in Berlin Abstimmverhalten in Sachsen-Anhalt, Früherer Chef des BND Hanning wegen Spionageverdachts in Untersuchungshaft, Chemie-Nobelpreis für zwei Forscher aus Frankreich und Japan, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1007/AU-20261007-2026-1000.mp3" length="14969250" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 01:00): Die Nachrichten vom 08.10.2026, 00:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43326.html</link>
+      <pubDate>Wed, 07 Oct 2026 22:32:01 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">a2d4287d-a304-5ddd-8d57-7c7741981794</guid>
+      <description>Originally published Thu 08 Oct 2026 01:00 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/08/nachrichten_dlf_20261008_0000_d6616b59.mp3?refId=nachrichten-108" length="4991874" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:33): Abendjournal um 18 (07.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-07102026</link>
-      <pubDate>Wed, 07 Oct 2026 17:07:51 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Wed, 07 Oct 2026 22:31:01 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_c8f7900cca104b90896d475d02eaa505</guid>
       <description>Originally published Wed 07 Oct 2026 19:33 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c8f7900cca104b90896d475d02eaa505.mp3?etag=d5a6fd9372d4d8dcdfa56a242aeba6a4" length="36409891" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 19:00): Die Nachrichten vom 07.10.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43314.html</link>
-      <pubDate>Wed, 07 Oct 2026 17:06:51 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">a4f7ce84-6367-5871-8f43-0fca5d3c57fd</guid>
-      <description>Originally published Wed 07 Oct 2026 19:00 IDT.
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Sperrung auf A100-Brücke | Gedenken an 7. Oktober | Kritik von Woidke</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sperrung-auf-a100-bruecke-gedenken-7-oktober-kritik-woidke.html</link>
+      <pubDate>Wed, 07 Oct 2026 22:30:01 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/62/5a/625a3464-b138-443d-82c6-6f3f02a2ccde/625a3464-b138-443d-82c6-6f3f02a2ccde_mp3-256kd.mp3</guid>
+      <description>Originally published Wed 07 Oct 2026 19:17 IDT.
 
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/07/nachrichten_dlf_20261007_1800_3a17d4b6.mp3?refId=nachrichten-108" length="9724008" type="audio/mpeg"/>
+Schon wieder ist eine Br&amp;#252;cke der A100 von einer Sperrung betroffen. Diesmal sind es die &amp;#228;u&amp;#223;eren Fahrbahnen der Rudolf-Wissell-Br&amp;#252;cke. Weitere Themen: Gedenken in Berlin an Opfer des Hamas-Angriffs auf Israel vor drei Jahren. Brandenburgs Ministerpr&amp;#228;sident Dietmar Woidke (SPD) und Innenminister Jan Redmann (CDU) fordern eine Kehrtwende der Bundesregierung. Und: Der Nobelpreistr&amp;#228;ger Peter Hegemann, Bio-Physiker an der Humboldt-Universit&amp;#228;t, &amp;#228;u&amp;#223;ert sich zum Wissenschaftsstandort Berlin.
+&amp;#160;
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/62/5a/625a3464-b138-443d-82c6-6f3f02a2ccde/625a3464-b138-443d-82c6-6f3f02a2ccde_mp3-256kd.mp3" length="30133822" type="audio/x-mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 08:59): AfD-Politiker zum Landtagspräsidenten gewählt</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/afd-politiker-zum-landtagspraesidenten-gewaehlt/2122863</link>
-      <pubDate>Wed, 07 Oct 2026 17:05:51 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Wed, 07 Oct 2026 22:29:01 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">fb8ab30b-6241-4f70-952b-2678dbafadf1</guid>
       <description>Originally published Wed 07 Oct 2026 08:59 IDT.
 
@@ -79,8 +92,8 @@ Zum ersten Mal steht ein AfD-Politiker an der Spitze eines deutschen Landesparla
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:10): Israelis mark three years since 7 October attacks</title>
       <link>http://www.bbc.co.uk/programmes/p0pfgw2p</link>
-      <pubDate>Wed, 07 Oct 2026 17:04:51 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Wed, 07 Oct 2026 22:28:01 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pfgw2p</guid>
       <description>Originally published Wed 07 Oct 2026 18:10 IDT.
 
