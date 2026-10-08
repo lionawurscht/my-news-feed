@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:08:26 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 11:48): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3523900.html</link>
-      <pubDate>Thu, 08 Oct 2026 09:52:12 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:31): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3525056.html</link>
+      <pubDate>Thu, 08 Oct 2026 17:08:26 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">82b9bda8-0b07-4906-86b1-fb4ba43249e6</guid>
-      <description>Originally published Thu 08 Oct 2026 11:48 IDT.
+      <guid isPermaLink="false">2af56d9a-da07-4207-893d-88e35451aa03</guid>
+      <description>Originally published Thu 08 Oct 2026 19:31 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1008/AU-20261008-1048-0400.mp3" length="2321419" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1008/AU-20261008-1831-0500.mp3" length="2022667" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 12:10): 5am ET, October 08 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 19:09): 12pm ET, October 08 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 08 Oct 2026 09:51:12 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 17:07:26 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">e28cc1d9-1321-416e-aa2d-25de3724cca3</guid>
-      <description>Originally published Thu 08 Oct 2026 12:10 IDT.
+      <guid isPermaLink="false">76baa095-9633-48ad-afde-c4cb4d099b2b</guid>
+      <description>Originally published Thu 08 Oct 2026 19:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/00ce587b-ec2a-460b-82ce-9cb19ab3715e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=00ce587b-ec2a-460b-82ce-9cb19ab3715e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261008-0500-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Thu 08:00): חדשון בעברית קלה (08/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Thu, 08 Oct 2026 09:50:12 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/8-10-26.m4a</guid>
-      <description>Originally published Thu 08 Oct 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• שָלוש שנים אַחרֵי ה-7/10, צה&quot;ל עוֹרֵך שִינוּי מַקִיף בּהַכשָרַת התַצפִּיתָניוֹת ובחֵיל הֲגָנַת הגְבוּלוֹת. התַצפּיתניות יוּכשרוּ בּהגָנה עַצמִית, בּיֶרי ובקְרָב מַגָע, ובְמַקבִּיל יְשוּדרגוּ המַעֲרָכוֹת הטֶכנוֹלוֹגִיוֹת להַעֲבָרַת מֵידָע
-• נשׂיא ארה&quot;ב טראמפּ: לעוֹלם לא נִשכַּח את 7 בּאוקטוֹבּר. לעוֹלם לא נשכּח את הקוֹרבָּנוֹת, ותמיד נַעֲמוֹד מול כּוחוֹת הטֵרוֹר והרֶשַע. הצַד השֵני משַלֵם מְחִיר כָּבֵד מאוֹד על מה שֶעָשׂה
-• מֵאיר זוֹהר, שֶבִּתוֹ בָּר נִרצְחה בּפֶסטיבָל הנוֹבָה, נָאם בּטֶקס לצִיוּן שלוֹש שנים לטֶבַח ואָמר: &quot;הילָדים שלנו הִשאירוּ לנו צַוָואָה שֶנִכתבָה בּדָם ובנְשָמָה. החַיים יקָרים מִדַי והיַחַד שלנוּ חזק מִכָּל מה שֶמַפרִיד בֵּינֵינוּ. הם מֵתוּ זה לצַד זה, ועָלֵינוּ לִמצוֹא את הכּוֹחוֹת לִחיוֹת זה לצַד זה&quot;
-• פּעִיל ההַסבָּרָה יוֹסף חַדַאד הִתיַיצֵב מוּל מַפגִינִים פְּרוֹ-פַלסטִינִים בּלוֹנדוֹן וקָרא: &quot;בּ-7 בּאוֹקטוֹבּר 1200 ישׂראֵלים, עַרבים ויהוּדים, נִרצְחוּ יחד&quot;
-• השָבוּעַ הִתקַיֵים בּבֵית הנשׂיא מִפגַש &quot;סַלוֹן עוֹטֵף&quot; בּהִשתַתפוּת עֹמרִי מִירָן שֶשוּחרַר מהשֶבִי ורַעיָיתוֹ לִישַי. יוֹתר מ-450 מִפגָשים כָּאלה מִתקַיימִים בּיָמים אֵלה בּכָל האָרץ
-• טֶקֶס הַעֲנָקַת &quot;אוֹת נשׂיא המדִינה לגְבוּרָה אֶזרָחית&quot; לשִישה מגִיבּוֹרֵי טִיסַת 'פלַיי דוּבַּאי' יִתקַיֵים היום בּבֵית הנשׂיא בּירוּשלים
-• התִַחֲזית: עוד הִתחַממוּת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/8-10-26.m4a" length="2288051" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/44c2b79a-b768-4a76-ab4f-c1dccc606c03/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=44c2b79a-b768-4a76-ab4f-c1dccc606c03&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261008-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 07.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3522896.html</link>
-      <pubDate>Thu, 08 Oct 2026 09:49:12 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 08 Oct 2026 17:06:26 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">cf95ac84-26b6-4315-b13a-4eac40e2409d-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 07 Oct 2026 21:00 IDT.
 
@@ -68,62 +46,61 @@ Nationale Gedenkfeier in Israel am dritten Jahrestag des Angriffs der Hamas, Auc
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1007/AU-20261007-2026-1000.mp3" length="14969250" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 12:30): Die Nachrichten vom 08.10.2026, 11:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43364.html</link>
-      <pubDate>Thu, 08 Oct 2026 09:48:12 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:36): Abendjournal um 18 (08.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-08102026</link>
+      <pubDate>Thu, 08 Oct 2026 17:05:26 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_e0ca268653d54ae2a1cc9c88886a4cee</guid>
+      <description>Originally published Thu 08 Oct 2026 19:36 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e0ca268653d54ae2a1cc9c88886a4cee.mp3?etag=fdf9281c1e8045a31e43803e738c9506" length="36434107" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 19:00): Die Nachrichten vom 08.10.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43390.html</link>
+      <pubDate>Thu, 08 Oct 2026 17:04:26 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">c4b48ba4-99d9-5fc3-a2a7-d5137c0c0e9a</guid>
-      <description>Originally published Thu 08 Oct 2026 12:30 IDT.
+      <guid isPermaLink="false">01d8b465-1cf7-5133-8d67-3ead0789c04e</guid>
+      <description>Originally published Thu 08 Oct 2026 19:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/08/nachrichten_dlf_20261008_1130_44d92455.mp3?refId=nachrichten-108" length="5020713" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/08/nachrichten_dlf_20261008_1800_a83e3166.mp3?refId=nachrichten-108" length="9714813" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:29): Morgenjournal um 8 (08.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-08102026</link>
-      <pubDate>Thu, 08 Oct 2026 09:47:12 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungsgespräche | Vier Tote bei Unfall | Fahrplanwechsel</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-berlin-unfall-biesenthal-vbb-fahrplanwechsel-.html</link>
+      <pubDate>Thu, 08 Oct 2026 17:03:26 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_692f57cac9f34a639ad766ee3ec7b48e</guid>
-      <description>Originally published Thu 08 Oct 2026 09:29 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_692f57cac9f34a639ad766ee3ec7b48e.mp3?etag=4ad13092810ad3b797bc4e97d2797310" length="29433898" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 08:57): Eurofighter in Nürnberg: Wenn das Militär in den Alltag rückt</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eurofighter-in-nuernberg-wenn-das-militaer-in-den-alltag-rueckt/2122906</link>
-      <pubDate>Thu, 08 Oct 2026 09:46:12 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">745180a0-284b-499d-be43-f3f0c3ff8b1f</guid>
-      <description>Originally published Thu 08 Oct 2026 08:57 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/6e/f4/6ef421a9-38ed-4869-a146-31aa2cb62c88/6ef421a9-38ed-4869-a146-31aa2cb62c88_mp3-256kd.mp3</guid>
+      <description>Originally published Thu 08 Oct 2026 19:17 IDT.
 
-Auf dem Nürnberger Flughafen starten und landen in dieser Woche nicht nur Urlaubsflieger, sondern auch Kampfjets. Die Luftwaffe übt dort mit vier Eurofightern.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122906/c/feed/eurofighter-in-nuernberg-wenn-das-militaer-in-den-alltag-rueckt.mp3" length="9259436" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Sperrung auf A100-Brücke | Gedenken an 7. Oktober | Kritik von Woidke</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sperrung-auf-a100-bruecke-gedenken-7-oktober-kritik-woidke.html</link>
-      <pubDate>Thu, 08 Oct 2026 09:45:12 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/62/5a/625a3464-b138-443d-82c6-6f3f02a2ccde/625a3464-b138-443d-82c6-6f3f02a2ccde_mp3-256kd.mp3</guid>
-      <description>Originally published Wed 07 Oct 2026 19:17 IDT.
-
-Schon wieder ist eine Br&amp;#252;cke der A100 von einer Sperrung betroffen. Diesmal sind es die &amp;#228;u&amp;#223;eren Fahrbahnen der Rudolf-Wissell-Br&amp;#252;cke. Weitere Themen: Gedenken in Berlin an Opfer des Hamas-Angriffs auf Israel vor drei Jahren. Brandenburgs Ministerpr&amp;#228;sident Dietmar Woidke (SPD) und Innenminister Jan Redmann (CDU) fordern eine Kehrtwende der Bundesregierung. Und: Der Nobelpreistr&amp;#228;ger Peter Hegemann, Bio-Physiker an der Humboldt-Universit&amp;#228;t, &amp;#228;u&amp;#223;ert sich zum Wissenschaftsstandort Berlin.
+Berliner Linke, Gr&amp;#252;ne und SPD haben Sondierungsgespr&amp;#228;che &amp;#252;ber eine Koalition begonnen. Zuvor hatten sich die drei Parteien auf ein Papier zum Thema Antisemitismus geeinigt. Darin sind unter anderem ein Bekenntnis zum Schutz j&amp;#252;dischen Lebens und zum Existenzrecht Israels festgeschrieben. Weitere Themen: Vier Jugendliche auf Mopeds gestorben bei Kollision mit entgegenkommendem Auto im Barnim. Umfangreiche &amp;#196;nderungen im Verkehrsverbund Berlin-Brandenburg zum Fahrplanwechsel. Und: Brandenburgischer Tourismustag in Potsdam.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/62/5a/625a3464-b138-443d-82c6-6f3f02a2ccde/625a3464-b138-443d-82c6-6f3f02a2ccde_mp3-256kd.mp3" length="30133822" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/6e/f4/6ef421a9-38ed-4869-a146-31aa2cb62c88/6ef421a9-38ed-4869-a146-31aa2cb62c88_mp3-256kd.mp3" length="29503252" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:53): Woman at the centre of Spain's housing crisis dies</title>
-      <link>http://www.bbc.co.uk/programmes/p0pfkryt</link>
-      <pubDate>Thu, 08 Oct 2026 09:44:12 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pfkryt</guid>
-      <description>Originally published Thu 08 Oct 2026 07:53 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:01): Tests auf Down-Syndrom: Sie sind verbreitet, doch wo liegen die Risiken?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/tests-auf-down-syndrom-sie-sind-verbreitet-doch-wo-liegen-die-risiken/2122924</link>
+      <pubDate>Thu, 08 Oct 2026 17:02:26 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">af3e1b89-a865-4b8e-a4a8-92de308cee19</guid>
+      <description>Originally published Thu 08 Oct 2026 18:01 IDT.
 
-&lt;p&gt;Hundreds of protesters have demonstrated outside parliament in Madrid after the death of an 87 year old woman who became a symbol of Spain's housing crisis. Maricarmen Abascal was forcibly removed on a stretcher from her apartment of more than 70 years last month after she was unable to afford big rent increases. The company that owned the flat later offered to allow her to return at a lower rate - but she was unable to sign an agreement as she had been admitted to hospital.  Also, US prosecutors are expected to bring new charges against the former Venezuelan president Nicolás Maduro and his wife Cilia Flores for the alleged torture of American citizens. And a judge in the US state of Tennessee has ordered officials to preserve all evidence from the botched execution of Christa Pike last week.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Der Bundestag stimmt über nicht-invasive Tests in der Schwangerschaft ab. Eine Gruppe Abgeordneter will wissen, warum die Zahl dieser Untersuchungen so stark gestiegen ist.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122924/c/feed/tests-auf-down-syndrom-sie-sind-verbreitet-doch-wo-liegen-die-risiken.mp3" length="9858092" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:49): Russian strike on buses in Ukraine kills at least 30</title>
+      <link>http://www.bbc.co.uk/programmes/p0pfqtdk</link>
+      <pubDate>Thu, 08 Oct 2026 17:01:26 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pfqtdk</guid>
+      <description>Originally published Thu 08 Oct 2026 18:49 IDT.
+
+&lt;p&gt;At least 30 people have been killed in a Russian air strike at a bus stop in the eastern Ukrainian city of Kramatorsk. Eighteen others were wounded. The attack follows a dramatic surge in Russian attacks across the country and a heavy increase in civilian casualties. President Volodymyr Zelensky says the attacks will not go unanswered.&lt;/p&gt;&lt;p&gt;Also: Israel has downgraded the British consulate in East Jerusalem, after threatening to close the site completely over the UK's decision to sanction Israeli goods from illegal West Bank settlements. It’s been nearly a year since the ceasefire between Israel and Hamas, but most of Gaza remains destroyed as a peace deal continues to stall. Recent successful recovery efforts show that species loss can still be reversed, according to a report by the environmental group WWF. The veteran Indian actor Nana Patekar, one of the most outspoken figures in the Indian film industry, has died aged 75. A BBC investigation has found workers in South East Asia are being paid less than $2 an hour to make official football shirts. Margaret Hamilton, the pioneering computer scientist who helped land US astronauts on the Moon, has died aged 90. And a man who spent 28 years walking from the UK to Chile has finally returned home.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Candles and messages in memory of Maricarmen Abascal, the 87-year-old Spanish woman whose eviction sparked nationwide housing protests.
-Credit: Reuters/Violeta Santos Moura&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfkrfk.mp3" length="12760000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfqrm4.mp3" length="14152000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
