@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:52:12 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 02:57): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3523120.html</link>
-      <pubDate>Thu, 08 Oct 2026 02:25:17 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 11:48): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3523900.html</link>
+      <pubDate>Thu, 08 Oct 2026 09:52:12 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">0651a225-02e6-4a85-9de2-62caf30428be</guid>
-      <description>Originally published Thu 08 Oct 2026 02:57 IDT.
+      <guid isPermaLink="false">82b9bda8-0b07-4906-86b1-fb4ba43249e6</guid>
+      <description>Originally published Thu 08 Oct 2026 11:48 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1008/AU-20261008-0156-4800.mp3" length="2686987" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1008/AU-20261008-1048-0400.mp3" length="2321419" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 05:09): 10pm ET, October 07 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 12:10): 5am ET, October 08 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 08 Oct 2026 02:24:17 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 09:51:12 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">57231378-f64a-46d8-bc9a-46c0e586ec4c</guid>
-      <description>Originally published Thu 08 Oct 2026 05:09 IDT.
+      <guid isPermaLink="false">e28cc1d9-1321-416e-aa2d-25de3724cca3</guid>
+      <description>Originally published Thu 08 Oct 2026 12:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7afabed1-33ad-46b6-8618-accffd30063b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7afabed1-33ad-46b6-8618-accffd30063b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261007-2200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/00ce587b-ec2a-460b-82ce-9cb19ab3715e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=00ce587b-ec2a-460b-82ce-9cb19ab3715e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261008-0500-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Thu 08:00): חדשון בעברית קלה (08/10/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Thu, 08 Oct 2026 09:50:12 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/8-10-26.m4a</guid>
+      <description>Originally published Thu 08 Oct 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• שָלוש שנים אַחרֵי ה-7/10, צה&quot;ל עוֹרֵך שִינוּי מַקִיף בּהַכשָרַת התַצפִּיתָניוֹת ובחֵיל הֲגָנַת הגְבוּלוֹת. התַצפּיתניות יוּכשרוּ בּהגָנה עַצמִית, בּיֶרי ובקְרָב מַגָע, ובְמַקבִּיל יְשוּדרגוּ המַעֲרָכוֹת הטֶכנוֹלוֹגִיוֹת להַעֲבָרַת מֵידָע
+• נשׂיא ארה&quot;ב טראמפּ: לעוֹלם לא נִשכַּח את 7 בּאוקטוֹבּר. לעוֹלם לא נשכּח את הקוֹרבָּנוֹת, ותמיד נַעֲמוֹד מול כּוחוֹת הטֵרוֹר והרֶשַע. הצַד השֵני משַלֵם מְחִיר כָּבֵד מאוֹד על מה שֶעָשׂה
+• מֵאיר זוֹהר, שֶבִּתוֹ בָּר נִרצְחה בּפֶסטיבָל הנוֹבָה, נָאם בּטֶקס לצִיוּן שלוֹש שנים לטֶבַח ואָמר: &quot;הילָדים שלנו הִשאירוּ לנו צַוָואָה שֶנִכתבָה בּדָם ובנְשָמָה. החַיים יקָרים מִדַי והיַחַד שלנוּ חזק מִכָּל מה שֶמַפרִיד בֵּינֵינוּ. הם מֵתוּ זה לצַד זה, ועָלֵינוּ לִמצוֹא את הכּוֹחוֹת לִחיוֹת זה לצַד זה&quot;
+• פּעִיל ההַסבָּרָה יוֹסף חַדַאד הִתיַיצֵב מוּל מַפגִינִים פְּרוֹ-פַלסטִינִים בּלוֹנדוֹן וקָרא: &quot;בּ-7 בּאוֹקטוֹבּר 1200 ישׂראֵלים, עַרבים ויהוּדים, נִרצְחוּ יחד&quot;
+• השָבוּעַ הִתקַיֵים בּבֵית הנשׂיא מִפגַש &quot;סַלוֹן עוֹטֵף&quot; בּהִשתַתפוּת עֹמרִי מִירָן שֶשוּחרַר מהשֶבִי ורַעיָיתוֹ לִישַי. יוֹתר מ-450 מִפגָשים כָּאלה מִתקַיימִים בּיָמים אֵלה בּכָל האָרץ
+• טֶקֶס הַעֲנָקַת &quot;אוֹת נשׂיא המדִינה לגְבוּרָה אֶזרָחית&quot; לשִישה מגִיבּוֹרֵי טִיסַת 'פלַיי דוּבַּאי' יִתקַיֵים היום בּבֵית הנשׂיא בּירוּשלים
+• התִַחֲזית: עוד הִתחַממוּת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/8-10-26.m4a" length="2288051" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 07.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3522896.html</link>
-      <pubDate>Thu, 08 Oct 2026 02:23:17 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Thu, 08 Oct 2026 09:49:12 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">cf95ac84-26b6-4315-b13a-4eac40e2409d-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 07 Oct 2026 21:00 IDT.
 
@@ -46,30 +68,41 @@ Nationale Gedenkfeier in Israel am dritten Jahrestag des Angriffs der Hamas, Auc
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1007/AU-20261007-2026-1000.mp3" length="14969250" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 05:00): Die Nachrichten vom 08.10.2026, 04:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43334.html</link>
-      <pubDate>Thu, 08 Oct 2026 02:22:17 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">c046daf6-172f-5a4f-97af-28cf52d3e6da</guid>
-      <description>Originally published Thu 08 Oct 2026 05:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 12:30): Die Nachrichten vom 08.10.2026, 11:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43364.html</link>
+      <pubDate>Thu, 08 Oct 2026 09:48:12 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">c4b48ba4-99d9-5fc3-a2a7-d5137c0c0e9a</guid>
+      <description>Originally published Thu 08 Oct 2026 12:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/08/nachrichten_dlf_20261008_0400_f93d271d.mp3?refId=nachrichten-108" length="4997726" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/08/nachrichten_dlf_20261008_1130_44d92455.mp3?refId=nachrichten-108" length="5020713" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:33): Abendjournal um 18 (07.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-07102026</link>
-      <pubDate>Thu, 08 Oct 2026 02:21:17 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_c8f7900cca104b90896d475d02eaa505</guid>
-      <description>Originally published Wed 07 Oct 2026 19:33 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c8f7900cca104b90896d475d02eaa505.mp3?etag=d5a6fd9372d4d8dcdfa56a242aeba6a4" length="36409891" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:29): Morgenjournal um 8 (08.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-08102026</link>
+      <pubDate>Thu, 08 Oct 2026 09:47:12 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_692f57cac9f34a639ad766ee3ec7b48e</guid>
+      <description>Originally published Thu 08 Oct 2026 09:29 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_692f57cac9f34a639ad766ee3ec7b48e.mp3?etag=4ad13092810ad3b797bc4e97d2797310" length="29433898" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 08:57): Eurofighter in Nürnberg: Wenn das Militär in den Alltag rückt</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eurofighter-in-nuernberg-wenn-das-militaer-in-den-alltag-rueckt/2122906</link>
+      <pubDate>Thu, 08 Oct 2026 09:46:12 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">745180a0-284b-499d-be43-f3f0c3ff8b1f</guid>
+      <description>Originally published Thu 08 Oct 2026 08:57 IDT.
+
+Auf dem Nürnberger Flughafen starten und landen in dieser Woche nicht nur Urlaubsflieger, sondern auch Kampfjets. Die Luftwaffe übt dort mit vier Eurofightern.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122906/c/feed/eurofighter-in-nuernberg-wenn-das-militaer-in-den-alltag-rueckt.mp3" length="9259436" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Sperrung auf A100-Brücke | Gedenken an 7. Oktober | Kritik von Woidke</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sperrung-auf-a100-bruecke-gedenken-7-oktober-kritik-woidke.html</link>
-      <pubDate>Thu, 08 Oct 2026 02:20:17 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 08 Oct 2026 09:45:12 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/62/5a/625a3464-b138-443d-82c6-6f3f02a2ccde/625a3464-b138-443d-82c6-6f3f02a2ccde_mp3-256kd.mp3</guid>
       <description>Originally published Wed 07 Oct 2026 19:17 IDT.
 
@@ -79,29 +112,18 @@ Schon wieder ist eine Br&amp;#252;cke der A100 von einer Sperrung betroffen. Die
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/62/5a/625a3464-b138-443d-82c6-6f3f02a2ccde/625a3464-b138-443d-82c6-6f3f02a2ccde_mp3-256kd.mp3" length="30133822" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 08:59): AfD-Politiker zum Landtagspräsidenten gewählt</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/afd-politiker-zum-landtagspraesidenten-gewaehlt/2122863</link>
-      <pubDate>Thu, 08 Oct 2026 02:19:17 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">fb8ab30b-6241-4f70-952b-2678dbafadf1</guid>
-      <description>Originally published Wed 07 Oct 2026 08:59 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:53): Woman at the centre of Spain's housing crisis dies</title>
+      <link>http://www.bbc.co.uk/programmes/p0pfkryt</link>
+      <pubDate>Thu, 08 Oct 2026 09:44:12 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pfkryt</guid>
+      <description>Originally published Thu 08 Oct 2026 07:53 IDT.
 
-Zum ersten Mal steht ein AfD-Politiker an der Spitze eines deutschen Landesparlaments: Tobias Rausch wurde zum Präsidenten des Landtags in Sachsen-Anhalt gewählt. Woher einige seiner Stimmen kamen, ist wegen der geheimen Wahl unklar.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122863/c/feed/afd-politiker-zum-landtagspraesidenten-gewaehlt.mp3" length="8449964" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:10): Israelis mark three years since 7 October attacks</title>
-      <link>http://www.bbc.co.uk/programmes/p0pfgw2p</link>
-      <pubDate>Thu, 08 Oct 2026 02:18:17 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pfgw2p</guid>
-      <description>Originally published Wed 07 Oct 2026 18:10 IDT.
-
-&lt;p&gt;Israel has been remembering the deadliest single day in its history on 7th October 2023 when Hamas and other Palestinian armed groups stormed communities along the border with Gaza, killing more than 1,200 people and taking 251 hostages. The anniversary comes weeks before an election in which the question of Israeli Prime Minister Benjamin Netanyahu's personal culpability for the country's worst-ever security failure will be a central issue. &lt;/p&gt;&lt;p&gt;Also: the Ukrainian President Volodymyr Zelensky has described Moscow's latest round of attacks on his country as ''the Russian army's birthday gift for Vladimir Putin''. The World Health Organization has requested more information from Russia following unconfirmed reports that a second employee at a plague research lab in Siberia has contracted pneumonia. Malaysia pushes ahead with a ‌controversial move to repatriate thousands of migrants from Myanmar, where they could face persecution. The BBC visits a men's community group in South Africa where participants are encouraged to speak out about violence against women, and confront their own behaviour. Scientists Henri B. Kagan and Kenso Soai have been awarded the Nobel Prize for Chemistry for solving the mystery of life's asymmetry. And could the gender pay gap extend to AI agents?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Hundreds of protesters have demonstrated outside parliament in Madrid after the death of an 87 year old woman who became a symbol of Spain's housing crisis. Maricarmen Abascal was forcibly removed on a stretcher from her apartment of more than 70 years last month after she was unable to afford big rent increases. The company that owned the flat later offered to allow her to return at a lower rate - but she was unable to sign an agreement as she had been admitted to hospital.  Also, US prosecutors are expected to bring new charges against the former Venezuelan president Nicolás Maduro and his wife Cilia Flores for the alleged torture of American citizens. And a judge in the US state of Tennessee has ordered officials to preserve all evidence from the botched execution of Christa Pike last week.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Israeli family members at a memorial site for victims of the Nova music festival on the third anniversary of the 7 October attacks near Re'im, southern Israel  
-Credit: EPA&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfgshf.mp3" length="13504000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Candles and messages in memory of Maricarmen Abascal, the 87-year-old Spanish woman whose eviction sparked nationwide housing protests.
+Credit: Reuters/Violeta Santos Moura&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfkrfk.mp3" length="12760000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
