@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 09 Oct 2026 09:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:48:48 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 11:45): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3526258.html</link>
-      <pubDate>Fri, 09 Oct 2026 09:56:13 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 19:37): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3527468.html</link>
+      <pubDate>Fri, 09 Oct 2026 16:48:48 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">7d2d5241-8ff9-484c-9991-6ddbcf5256f3</guid>
-      <description>Originally published Fri 09 Oct 2026 11:45 IDT.
+      <guid isPermaLink="false">f48ece16-c8e3-43d9-a135-73240885c2f6</guid>
+      <description>Originally published Fri 09 Oct 2026 19:37 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1009/AU-20261009-1045-2500.mp3" length="2613259" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1009/AU-20261009-1836-5800.mp3" length="2185099" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 12:10): 5am ET, October 09 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 19:10): 12pm ET, October 09 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 09 Oct 2026 09:55:13 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 16:47:48 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">304d3102-05c8-474d-ad6f-86bbed859651</guid>
-      <description>Originally published Fri 09 Oct 2026 12:10 IDT.
+      <guid isPermaLink="false">1e9da35a-cce6-473a-b712-bf3d7d91980c</guid>
+      <description>Originally published Fri 09 Oct 2026 19:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/04c797e8-7db8-4ade-a7b7-f9fcb35ab753/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=04c797e8-7db8-4ade-a7b7-f9fcb35ab753&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261009-0500-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/529170ef-cc98-4107-8554-c9add1897a3a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=529170ef-cc98-4107-8554-c9add1897a3a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261009-1200-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 08.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3525250.html</link>
-      <pubDate>Fri, 09 Oct 2026 09:54:13 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 16:46:48 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">0554d73d-4450-4038-9026-7510cbd5b069-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 08 Oct 2026 21:00 IDT.
@@ -46,61 +46,60 @@ Erste Beratungen im Bundestag zum Entwurf der Einkommensteuerreform, Hintergrund
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1008/AU-20261008-2025-0900.mp3" length="15088291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 12:30): Die Nachrichten vom 09.10.2026, 11:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43438.html</link>
-      <pubDate>Fri, 09 Oct 2026 09:53:13 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:32): Abendjournal um 18 (09.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-09102026</link>
+      <pubDate>Fri, 09 Oct 2026 16:45:48 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">9550486a-6363-504c-81af-5c52c47594e2</guid>
-      <description>Originally published Fri 09 Oct 2026 12:30 IDT.
+      <guid isPermaLink="false">di_oe1_journale_da1_051f83bbc31f4eba808e87085c8464c1</guid>
+      <description>Originally published Fri 09 Oct 2026 19:32 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_051f83bbc31f4eba808e87085c8464c1.mp3?etag=0fb4e9d790541a60f2402bbdbc5356c6" length="36506179" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 19:00): Die Nachrichten vom 09.10.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43464.html</link>
+      <pubDate>Fri, 09 Oct 2026 16:44:48 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">f568685f-a2e7-5c7c-babe-19b30ac11005</guid>
+      <description>Originally published Fri 09 Oct 2026 19:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/09/nachrichten_dlf_20261009_1130_77ff7ef8.mp3?refId=nachrichten-108" length="4962617" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/09/nachrichten_dlf_20261009_1800_30648e17.mp3?refId=nachrichten-108" length="9761206" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:26): Morgenjournal um 8 (09.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-09102026</link>
-      <pubDate>Fri, 09 Oct 2026 09:52:13 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_b34fc483b56347eb91b30425f5f78fa3</guid>
-      <description>Originally published Fri 09 Oct 2026 09:26 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b34fc483b56347eb91b30425f5f78fa3.mp3?etag=36970c3ecae09500ee48311602b8c592" length="29044132" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 09:00): Immobilien: Warum die Preise steigen, obwohl viele nicht kaufen können</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/immobilien-warum-die-preise-steigen-obwohl-viele-nicht-kaufen-koennen/2122946</link>
-      <pubDate>Fri, 09 Oct 2026 09:51:13 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:30): Tod bei Waffenkontrolle - der Tag nach den Schüssen in Berngau</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/tod-bei-waffenkontrolle-der-tag-nach-den-schuessen-in-berngau/2122977</link>
+      <pubDate>Fri, 09 Oct 2026 16:43:48 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">08a33c94-e137-4cc1-9184-85feaf3fb1d9</guid>
-      <description>Originally published Fri 09 Oct 2026 09:00 IDT.
+      <guid isPermaLink="false">6b63620a-49ed-46fc-a363-346a05eb4c92</guid>
+      <description>Originally published Fri 09 Oct 2026 19:30 IDT.
 
-Die Preise für Häuser und Wohnungen steigen vielerorts weiter, obwohl Baukredite teuer sind und sich immer weniger Menschen den Kauf leisten können. Wie passt das zusammen?</description>
-      <enclosure url="https://media.neuland.br.de/file/2122946/c/feed/immobilien-warum-die-preise-steigen-obwohl-viele-nicht-kaufen-koennen.mp3" length="8757164" type="audio/mpeg"/>
+Am Tag nach den tödlichen Schüssen auf zwei Waffenkontrolleure in Berngau ist die Betroffenheit groß. Bayerns Innenminister Herrmann sprach den Familien der Opfer sein Beileid aus und informierte über den Stand der Ermittlungen. Beim Täter handelt es sich um einen Jäger und Sportschützen.</description>
+      <enclosure url="https://media.neuland.br.de/file/2122977/c/feed/tod-bei-waffenkontrolle-der-tag-nach-den-schuessen-in-berngau.mp3" length="8151980" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungsgespräche | Vier Tote bei Unfall | Fahrplanwechsel</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-berlin-unfall-biesenthal-vbb-fahrplanwechsel-.html</link>
-      <pubDate>Fri, 09 Oct 2026 09:50:13 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Sondierungen | CDU-Kreischef tritt zurück | Trauer in Biesenthal</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-timur-husein-ruecktritt-gedenken-biesenthal.html</link>
+      <pubDate>Fri, 09 Oct 2026 16:42:48 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/6e/f4/6ef421a9-38ed-4869-a146-31aa2cb62c88/6ef421a9-38ed-4869-a146-31aa2cb62c88_mp3-256kd.mp3</guid>
-      <description>Originally published Thu 08 Oct 2026 19:17 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b8/67/b867511c-45e2-4d85-af8c-d7c1cb66399a/b867511c-45e2-4d85-af8c-d7c1cb66399a_mp3-256kd.mp3</guid>
+      <description>Originally published Fri 09 Oct 2026 19:17 IDT.
 
-Berliner Linke, Gr&amp;#252;ne und SPD haben Sondierungsgespr&amp;#228;che &amp;#252;ber eine Koalition begonnen. Zuvor hatten sich die drei Parteien auf ein Papier zum Thema Antisemitismus geeinigt. Darin sind unter anderem ein Bekenntnis zum Schutz j&amp;#252;dischen Lebens und zum Existenzrecht Israels festgeschrieben. Weitere Themen: Vier Jugendliche auf Mopeds gestorben bei Kollision mit entgegenkommendem Auto im Barnim. Umfangreiche &amp;#196;nderungen im Verkehrsverbund Berlin-Brandenburg zum Fahrplanwechsel. Und: Brandenburgischer Tourismustag in Potsdam.
+Linke, Gr&amp;#252;ne und SPD in Berlin sind in Sondierungsgespr&amp;#228;che eingestiegen. Die sollen Klarheit bringen, ob ein rot-gr&amp;#252;n-rotes Regierungsb&amp;#252;ndnis m&amp;#246;glich ist. Jetzt haben die drei Parteien &amp;#252;ber den zerr&amp;#252;tteten Landeshaushalt und die Themen Sicherheit und Ordnung gesprochen. Weitere Themen: CDU im Bezirk Friedrichshain-Kreuzberg verliert ihren Kreisvorsitzenden Timur Husein. Gedenken in Biesenthal nach dem schweren Verkehrsunfall. Und: Deutschlands erste &quot;Universal-Moorraupe&quot; in der Uckermark.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/6e/f4/6ef421a9-38ed-4869-a146-31aa2cb62c88/6ef421a9-38ed-4869-a146-31aa2cb62c88_mp3-256kd.mp3" length="29503252" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/b8/67/b867511c-45e2-4d85-af8c-d7c1cb66399a/b867511c-45e2-4d85-af8c-d7c1cb66399a_mp3-256kd.mp3" length="30027042" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:42): US military execution to be livestreamed</title>
-      <link>http://www.bbc.co.uk/programmes/p0pft7hf</link>
-      <pubDate>Fri, 09 Oct 2026 09:49:13 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:54): Former UN rights chief Navi Pillay wins Nobel Peace Prize</title>
+      <link>http://www.bbc.co.uk/programmes/p0pfxqzl</link>
+      <pubDate>Fri, 09 Oct 2026 16:41:48 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pft7hf</guid>
-      <description>Originally published Fri 09 Oct 2026 07:42 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pfxqzl</guid>
+      <description>Originally published Fri 09 Oct 2026 18:54 IDT.
 
-&lt;p&gt;Nidal Hasan, a former army psychiatrist who killed 13 unarmed soldiers at Fort Hood in Texas, will not only be the first person to die by a US military firing squad since 1945. His execution, which is set for December, would also be the first to be seen by the public in the US for 90 years. Also, cars have been set on fire and shops owned by foreigners were reportedly targeted during violence in South Africa because of tensions surrounding illegal immigration. Police in Britain have accepted that they behaved unlawfully when they searched the homes of Andrew Mountbatten-Windsor, the brother of King Charles and former prince who was arrested on suspicion of misconduct in public office. He denies any wrongdoing. Microsoft has been suspended from a US visa programme that hires skilled foreign workers as the Vice President, JD Vance, accuses the software giant of giving away American jobs. And could Jonathan the tortoise, who is 194, help humans live longer lives?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pft77y.mp3" length="14816000" type="audio/mpeg"/>
+&lt;p&gt;This year's Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief. The Nobel committee said Ms Pillay had shown that legal measures could help prevent acts of war and violence. At a news conference after being awarded the prize, she warned against growing political attacks on international law.&lt;/p&gt;&lt;p&gt;Also: More airlines are suspending flights to Saudi Arabia after three people were killed in two Houthi attacks on Riyadh's international airport. The US Defense Department is facing criticism over plans to livestream the execution of a man who killed 13 people at an army base. Demonstrations are taking place in New York after ICE agents shot and wounded a man with his child inside his car. The BBC speaks to Ukrainians rushing to leave Kyiv before winter. Malaysia shuts schools as haze from Indonesian fires chokes South East Asia. How technology which can track the division of cells in a mouse could help scientists understand how diseases take hold in humans. And the artist behind a statue that depicted President Donald Trump naked and sitting on a man explains the artistic vision behind the work.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: South African lawyer Navi Pillay at a news conference in Nuremberg, Germany after winning the 2026 Nobel Peace Prize
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfxnwk.mp3" length="14120000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
