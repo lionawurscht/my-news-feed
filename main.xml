@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 09 Oct 2026 02:42:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:56:13 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 03:20): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3525420.html</link>
-      <pubDate>Fri, 09 Oct 2026 02:42:35 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 11:45): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3526258.html</link>
+      <pubDate>Fri, 09 Oct 2026 09:56:13 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">907e94bd-b3da-4078-b392-7c765bd02fb8</guid>
-      <description>Originally published Fri 09 Oct 2026 03:20 IDT.
+      <guid isPermaLink="false">7d2d5241-8ff9-484c-9991-6ddbcf5256f3</guid>
+      <description>Originally published Fri 09 Oct 2026 11:45 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1009/AU-20261009-0220-1600.mp3" length="2379787" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1009/AU-20261009-1045-2500.mp3" length="2613259" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 05:10): 10pm ET, October 08 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 12:10): 5am ET, October 09 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 09 Oct 2026 02:41:35 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 09:55:13 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">87787270-d079-41a5-a52d-a49c785efb44</guid>
-      <description>Originally published Fri 09 Oct 2026 05:10 IDT.
+      <guid isPermaLink="false">304d3102-05c8-474d-ad6f-86bbed859651</guid>
+      <description>Originally published Fri 09 Oct 2026 12:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0674e152-6dd5-4d8a-b147-e19984bc5fe6/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0674e152-6dd5-4d8a-b147-e19984bc5fe6&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261008-2200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/04c797e8-7db8-4ade-a7b7-f9fcb35ab753/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=04c797e8-7db8-4ade-a7b7-f9fcb35ab753&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261009-0500-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 08.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3525250.html</link>
-      <pubDate>Fri, 09 Oct 2026 02:40:35 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 09:54:13 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">0554d73d-4450-4038-9026-7510cbd5b069-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 08 Oct 2026 21:00 IDT.
@@ -46,30 +46,41 @@ Erste Beratungen im Bundestag zum Entwurf der Einkommensteuerreform, Hintergrund
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1008/AU-20261008-2025-0900.mp3" length="15088291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 05:00): Die Nachrichten vom 09.10.2026, 04:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43408.html</link>
-      <pubDate>Fri, 09 Oct 2026 02:39:35 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 12:30): Die Nachrichten vom 09.10.2026, 11:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43438.html</link>
+      <pubDate>Fri, 09 Oct 2026 09:53:13 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">283d3a9b-4fef-5ab3-a50f-2a62c081abed</guid>
-      <description>Originally published Fri 09 Oct 2026 05:00 IDT.
+      <guid isPermaLink="false">9550486a-6363-504c-81af-5c52c47594e2</guid>
+      <description>Originally published Fri 09 Oct 2026 12:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/09/nachrichten_dlf_20261009_0400_7b638477.mp3?refId=nachrichten-108" length="5022385" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/09/nachrichten_dlf_20261009_1130_77ff7ef8.mp3?refId=nachrichten-108" length="4962617" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:36): Abendjournal um 18 (08.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-08102026</link>
-      <pubDate>Fri, 09 Oct 2026 02:38:35 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:26): Morgenjournal um 8 (09.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-09102026</link>
+      <pubDate>Fri, 09 Oct 2026 09:52:13 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_e0ca268653d54ae2a1cc9c88886a4cee</guid>
-      <description>Originally published Thu 08 Oct 2026 19:36 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e0ca268653d54ae2a1cc9c88886a4cee.mp3?etag=fdf9281c1e8045a31e43803e738c9506" length="36434107" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_b34fc483b56347eb91b30425f5f78fa3</guid>
+      <description>Originally published Fri 09 Oct 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b34fc483b56347eb91b30425f5f78fa3.mp3?etag=36970c3ecae09500ee48311602b8c592" length="29044132" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 09:00): Immobilien: Warum die Preise steigen, obwohl viele nicht kaufen können</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/immobilien-warum-die-preise-steigen-obwohl-viele-nicht-kaufen-koennen/2122946</link>
+      <pubDate>Fri, 09 Oct 2026 09:51:13 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">08a33c94-e137-4cc1-9184-85feaf3fb1d9</guid>
+      <description>Originally published Fri 09 Oct 2026 09:00 IDT.
+
+Die Preise für Häuser und Wohnungen steigen vielerorts weiter, obwohl Baukredite teuer sind und sich immer weniger Menschen den Kauf leisten können. Wie passt das zusammen?</description>
+      <enclosure url="https://media.neuland.br.de/file/2122946/c/feed/immobilien-warum-die-preise-steigen-obwohl-viele-nicht-kaufen-koennen.mp3" length="8757164" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungsgespräche | Vier Tote bei Unfall | Fahrplanwechsel</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-berlin-unfall-biesenthal-vbb-fahrplanwechsel-.html</link>
-      <pubDate>Fri, 09 Oct 2026 02:37:35 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Fri, 09 Oct 2026 09:50:13 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/6e/f4/6ef421a9-38ed-4869-a146-31aa2cb62c88/6ef421a9-38ed-4869-a146-31aa2cb62c88_mp3-256kd.mp3</guid>
       <description>Originally published Thu 08 Oct 2026 19:17 IDT.
 
@@ -79,28 +90,17 @@ Berliner Linke, Gr&amp;#252;ne und SPD haben Sondierungsgespr&amp;#228;che &amp;
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/6e/f4/6ef421a9-38ed-4869-a146-31aa2cb62c88/6ef421a9-38ed-4869-a146-31aa2cb62c88_mp3-256kd.mp3" length="29503252" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:01): Tests auf Down-Syndrom: Sie sind verbreitet, doch wo liegen die Risiken?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/tests-auf-down-syndrom-sie-sind-verbreitet-doch-wo-liegen-die-risiken/2122924</link>
-      <pubDate>Fri, 09 Oct 2026 02:36:35 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">af3e1b89-a865-4b8e-a4a8-92de308cee19</guid>
-      <description>Originally published Thu 08 Oct 2026 18:01 IDT.
-
-Der Bundestag stimmt über nicht-invasive Tests in der Schwangerschaft ab. Eine Gruppe Abgeordneter will wissen, warum die Zahl dieser Untersuchungen so stark gestiegen ist.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122924/c/feed/tests-auf-down-syndrom-sie-sind-verbreitet-doch-wo-liegen-die-risiken.mp3" length="9858092" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:49): Russian strike on buses in Ukraine kills at least 30</title>
-      <link>http://www.bbc.co.uk/programmes/p0pfqtdk</link>
-      <pubDate>Fri, 09 Oct 2026 02:35:35 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:42): US military execution to be livestreamed</title>
+      <link>http://www.bbc.co.uk/programmes/p0pft7hf</link>
+      <pubDate>Fri, 09 Oct 2026 09:49:13 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pfqtdk</guid>
-      <description>Originally published Thu 08 Oct 2026 18:49 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pft7hf</guid>
+      <description>Originally published Fri 09 Oct 2026 07:42 IDT.
 
-&lt;p&gt;At least 30 people have been killed in a Russian air strike at a bus stop in the eastern Ukrainian city of Kramatorsk. Eighteen others were wounded. The attack follows a dramatic surge in Russian attacks across the country and a heavy increase in civilian casualties. President Volodymyr Zelensky says the attacks will not go unanswered.&lt;/p&gt;&lt;p&gt;Also: Israel has downgraded the British consulate in East Jerusalem, after threatening to close the site completely over the UK's decision to sanction Israeli goods from illegal West Bank settlements. It’s been nearly a year since the ceasefire between Israel and Hamas, but most of Gaza remains destroyed as a peace deal continues to stall. Recent successful recovery efforts show that species loss can still be reversed, according to a report by the environmental group WWF. The veteran Indian actor Nana Patekar, one of the most outspoken figures in the Indian film industry, has died aged 75. A BBC investigation has found workers in South East Asia are being paid less than $2 an hour to make official football shirts. Margaret Hamilton, the pioneering computer scientist who helped land US astronauts on the Moon, has died aged 90. And a man who spent 28 years walking from the UK to Chile has finally returned home.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Nidal Hasan, a former army psychiatrist who killed 13 unarmed soldiers at Fort Hood in Texas, will not only be the first person to die by a US military firing squad since 1945. His execution, which is set for December, would also be the first to be seen by the public in the US for 90 years. Also, cars have been set on fire and shops owned by foreigners were reportedly targeted during violence in South Africa because of tensions surrounding illegal immigration. Police in Britain have accepted that they behaved unlawfully when they searched the homes of Andrew Mountbatten-Windsor, the brother of King Charles and former prince who was arrested on suspicion of misconduct in public office. He denies any wrongdoing. Microsoft has been suspended from a US visa programme that hires skilled foreign workers as the Vice President, JD Vance, accuses the software giant of giving away American jobs. And could Jonathan the tortoise, who is 194, help humans live longer lives?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfqrm4.mp3" length="14152000" type="audio/mpeg"/>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pft77y.mp3" length="14816000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
