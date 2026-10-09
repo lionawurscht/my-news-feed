@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 08 Oct 2026 22:47:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:42:35 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 22:51): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3525272.html</link>
-      <pubDate>Thu, 08 Oct 2026 22:47:03 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 03:20): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3525420.html</link>
+      <pubDate>Fri, 09 Oct 2026 02:42:35 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">b5fd6dd3-0e83-454d-a765-a11e9e906ac8</guid>
-      <description>Originally published Thu 08 Oct 2026 22:51 IDT.
+      <guid isPermaLink="false">907e94bd-b3da-4078-b392-7c765bd02fb8</guid>
+      <description>Originally published Fri 09 Oct 2026 03:20 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1008/AU-20261008-2151-1900.mp3" length="1948939" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1009/AU-20261009-0220-1600.mp3" length="2379787" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 01:10): 6pm ET, October 08 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 05:10): 10pm ET, October 08 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 08 Oct 2026 22:46:03 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 02:41:35 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">17280ccf-4b1a-472b-a697-f4e2e7a8d2e5</guid>
-      <description>Originally published Fri 09 Oct 2026 01:10 IDT.
+      <guid isPermaLink="false">87787270-d079-41a5-a52d-a49c785efb44</guid>
+      <description>Originally published Fri 09 Oct 2026 05:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3a44f285-f002-4e68-a00a-f6ea5e564b1c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3a44f285-f002-4e68-a00a-f6ea5e564b1c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261008-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0674e152-6dd5-4d8a-b147-e19984bc5fe6/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0674e152-6dd5-4d8a-b147-e19984bc5fe6&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261008-2200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 08.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3525250.html</link>
-      <pubDate>Thu, 08 Oct 2026 22:45:03 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 02:40:35 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">0554d73d-4450-4038-9026-7510cbd5b069-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 08 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Erste Beratungen im Bundestag zum Entwurf der Einkommensteuerreform, Hintergrund
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1008/AU-20261008-2025-0900.mp3" length="15088291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 01:00): Die Nachrichten vom 09.10.2026, 00:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43400.html</link>
-      <pubDate>Thu, 08 Oct 2026 22:44:03 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 05:00): Die Nachrichten vom 09.10.2026, 04:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43408.html</link>
+      <pubDate>Fri, 09 Oct 2026 02:39:35 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">5a5b55e1-8aa7-59e9-b516-1534f1be9987</guid>
-      <description>Originally published Fri 09 Oct 2026 01:00 IDT.
+      <guid isPermaLink="false">283d3a9b-4fef-5ab3-a50f-2a62c081abed</guid>
+      <description>Originally published Fri 09 Oct 2026 05:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/09/nachrichten_dlf_20261009_0000_4587cd1e.mp3?refId=nachrichten-108" length="5020713" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/09/nachrichten_dlf_20261009_0400_7b638477.mp3?refId=nachrichten-108" length="5022385" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:36): Abendjournal um 18 (08.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-08102026</link>
-      <pubDate>Thu, 08 Oct 2026 22:43:03 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 02:38:35 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_e0ca268653d54ae2a1cc9c88886a4cee</guid>
       <description>Originally published Thu 08 Oct 2026 19:36 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungsgespräche | Vier Tote bei Unfall | Fahrplanwechsel</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-berlin-unfall-biesenthal-vbb-fahrplanwechsel-.html</link>
-      <pubDate>Thu, 08 Oct 2026 22:42:03 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 02:37:35 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/6e/f4/6ef421a9-38ed-4869-a146-31aa2cb62c88/6ef421a9-38ed-4869-a146-31aa2cb62c88_mp3-256kd.mp3</guid>
       <description>Originally published Thu 08 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Berliner Linke, Gr&amp;#252;ne und SPD haben Sondierungsgespr&amp;#228;che &amp;
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:01): Tests auf Down-Syndrom: Sie sind verbreitet, doch wo liegen die Risiken?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/tests-auf-down-syndrom-sie-sind-verbreitet-doch-wo-liegen-die-risiken/2122924</link>
-      <pubDate>Thu, 08 Oct 2026 22:41:03 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 02:36:35 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">af3e1b89-a865-4b8e-a4a8-92de308cee19</guid>
       <description>Originally published Thu 08 Oct 2026 18:01 IDT.
@@ -92,7 +92,7 @@ Der Bundestag stimmt über nicht-invasive Tests in der Schwangerschaft ab. Eine 
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:49): Russian strike on buses in Ukraine kills at least 30</title>
       <link>http://www.bbc.co.uk/programmes/p0pfqtdk</link>
-      <pubDate>Thu, 08 Oct 2026 22:40:03 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 02:35:35 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pfqtdk</guid>
       <description>Originally published Thu 08 Oct 2026 18:49 IDT.
