@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 10 Oct 2026 14:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:12:05 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,76 +13,63 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 17:09): 10am ET, October 10 | The latest headlines from NPR</title>
-      <link/>
-      <pubDate>Sat, 10 Oct 2026 14:59:03 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:07): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3529024.html</link>
+      <pubDate>Sat, 10 Oct 2026 19:12:05 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">16a02e83-ad78-497a-adb8-7c71067c6aa7</guid>
-      <description>Originally published Sat 10 Oct 2026 17:09 IDT.
+      <guid isPermaLink="false">0aceef7e-ea9c-4a49-ae8e-7191bd7f6ed3</guid>
+      <description>Originally published Sat 10 Oct 2026 22:07 IDT.
+
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1010/AU-20261010-2107-0300.mp3" length="1930898" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Sat 22:10): 3pm ET, October 10 | The latest headlines from NPR</title>
+      <link/>
+      <pubDate>Sat, 10 Oct 2026 19:11:05 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">008b9d79-e574-44b1-b3f1-791d3d466a05</guid>
+      <description>Originally published Sat 10 Oct 2026 22:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f2a7769f-e321-4bce-b9ee-2682911ae0e0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f2a7769f-e321-4bce-b9ee-2682911ae0e0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261010-1000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6e793eae-b177-43b3-a81d-aedfc4ab0642/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6e793eae-b177-43b3-a81d-aedfc4ab0642&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261010-1500-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 09.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3527622.html</link>
-      <pubDate>Sat, 10 Oct 2026 14:58:03 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d50b1656-3f0b-4bce-9b15-161ebb1110eb-SENDUNGSAUDIO</guid>
-      <description>Originally published Fri 09 Oct 2026 21:00 IDT.
-
-Friedensnobelpreis geht an die südafrikanische Menschenrechtlerin Navanethem Pillay, Neue US-Sanktionen gegen Internationalen Strafgerichtshof, In Halle erinnern die Menschen mit einer Schweigeminute an die Opfer des antisemitischen Anschlags vor sieben Jahren, Streit im Bundestag nach Wahl von AfD-Landtagspräsident, Bildungsministerin Prien will mit sogenannten Startchancengesetz frühkindliche Bildung stärken, EU-Handelskommissar Sefcovic versucht in Peking Handelsstreit zu entschärfen, Wie sich der Iran-Krieg auf die Menschen in der iranischen Hafenstadt Bandar Abbas auswirkt, Altkanzler Schröder reist zu Putins Geburtstagsfeier nach Russland, Zwei Tote nach Waffenkontrolle in Berngau, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1009/AU-20261009-2028-0900.mp3" length="14922401" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 17:00): Die Nachrichten vom 10.10.2026, 16:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43516.html</link>
-      <pubDate>Sat, 10 Oct 2026 14:57:03 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 10.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3529008.html</link>
+      <pubDate>Sat, 10 Oct 2026 19:10:05 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">fbf44f6a-26a5-512d-a6ad-bda87e2aec70</guid>
-      <description>Originally published Sat 10 Oct 2026 17:00 IDT.
+      <guid isPermaLink="false">9d2bc3b2-063f-4fd9-8145-7b5904e5c4a4-SENDUNGSAUDIO</guid>
+      <description>Originally published Sat 10 Oct 2026 21:00 IDT.
+
+Diesel-Deal von Trump und Putin, Viele Tote bei russischen Angriffen in der Ukraine, Trotz Waffenruhe gehen Angriffe in Gaza weiter, Kunstausstellung &quot;Nie wieder! Gegen das Vergessen der NS-Verbrechen&quot;, Gabriele Stötzer mit Goslarer Kaiserring geehrt, &quot;Ragebait&quot; ist Jugendwort des Jahres 2026, 5. Spieltag Fußball-Bundesliga, Das Wetter Hinweis: Die Beiträge zur &quot;Fußball-Bundesliga&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1010/AU-20261010-2025-1500.mp3" length="14198550" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 21:00): Die Nachrichten vom 10.10.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43524.html</link>
+      <pubDate>Sat, 10 Oct 2026 19:09:05 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">cd556a9d-c747-5302-9c4d-d25304d20c86</guid>
+      <description>Originally published Sat 10 Oct 2026 21:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/10/nachrichten_dlf_20261010_1600_f91d0d5e.mp3?refId=nachrichten-108" length="5010264" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/10/nachrichten_dlf_20261010_2000_daf8c630.mp3?refId=nachrichten-108" length="4935032" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:07): Mittagsjournal (10.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-10102026</link>
-      <pubDate>Sat, 10 Oct 2026 14:56:03 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sat, 10 Oct 2026 19:08:05 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_de22baed4e8b4a139f72570a40692164</guid>
       <description>Originally published Sat 10 Oct 2026 14:07 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_de22baed4e8b4a139f72570a40692164.mp3?etag=dc68aa338a23a7e2d6d34bafe71dc9ce" length="81224256" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:30): Tod bei Waffenkontrolle - der Tag nach den Schüssen in Berngau</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/tod-bei-waffenkontrolle-der-tag-nach-den-schuessen-in-berngau/2122977</link>
-      <pubDate>Sat, 10 Oct 2026 14:55:03 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">6b63620a-49ed-46fc-a363-346a05eb4c92</guid>
-      <description>Originally published Fri 09 Oct 2026 19:30 IDT.
-
-Am Tag nach den tödlichen Schüssen auf zwei Waffenkontrolleure in Berngau ist die Betroffenheit groß. Bayerns Innenminister Herrmann sprach den Familien der Opfer sein Beileid aus und informierte über den Stand der Ermittlungen. Beim Täter handelt es sich um einen Jäger und Sportschützen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2122977/c/feed/tod-bei-waffenkontrolle-der-tag-nach-den-schuessen-in-berngau.mp3" length="8151980" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Sondierungen | CDU-Kreischef tritt zurück | Trauer in Biesenthal</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-timur-husein-ruecktritt-gedenken-biesenthal.html</link>
-      <pubDate>Sat, 10 Oct 2026 14:54:03 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b8/67/b867511c-45e2-4d85-af8c-d7c1cb66399a/b867511c-45e2-4d85-af8c-d7c1cb66399a_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 09 Oct 2026 19:17 IDT.
-
-Linke, Gr&amp;#252;ne und SPD in Berlin sind in Sondierungsgespr&amp;#228;che eingestiegen. Die sollen Klarheit bringen, ob ein rot-gr&amp;#252;n-rotes Regierungsb&amp;#252;ndnis m&amp;#246;glich ist. Jetzt haben die drei Parteien &amp;#252;ber den zerr&amp;#252;tteten Landeshaushalt und die Themen Sicherheit und Ordnung gesprochen. Weitere Themen: CDU im Bezirk Friedrichshain-Kreuzberg verliert ihren Kreisvorsitzenden Timur Husein. Gedenken in Biesenthal nach dem schweren Verkehrsunfall. Und: Deutschlands erste &quot;Universal-Moorraupe&quot; in der Uckermark.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/b8/67/b867511c-45e2-4d85-af8c-d7c1cb66399a/b867511c-45e2-4d85-af8c-d7c1cb66399a_mp3-256kd.mp3" length="30027042" type="audio/x-mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Why I danced for seven days straight</title>
       <link>http://www.bbc.co.uk/programmes/p0pfyh48</link>
-      <pubDate>Sat, 10 Oct 2026 14:53:03 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 10 Oct 2026 19:07:05 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pfyh48</guid>
       <description>Originally published Sat 10 Oct 2026 14:00 IDT.
 
