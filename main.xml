@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 11 Oct 2026 10:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:29:46 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 12:02): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3529542.html</link>
-      <pubDate>Sun, 11 Oct 2026 10:31:31 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 18:39): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3530014.html</link>
+      <pubDate>Sun, 11 Oct 2026 16:29:46 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">07d12260-e617-42af-b1f9-9c7bdb6ee298</guid>
-      <description>Originally published Sun 11 Oct 2026 12:02 IDT.
+      <guid isPermaLink="false">e3713184-3e31-4a3c-8ab5-5a8cb4ea0aa9</guid>
+      <description>Originally published Sun 11 Oct 2026 18:39 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1011/AU-20261011-1102-0000.mp3" length="1679382" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1011/AU-20261011-1738-5900.mp3" length="1936651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 13:10): 6am ET, October 11 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 19:09): 12pm ET, October 11 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 11 Oct 2026 10:30:31 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 16:28:46 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">08cd07f3-1c87-42c2-8c23-23a09a67c1cd</guid>
-      <description>Originally published Sun 11 Oct 2026 13:10 IDT.
+      <guid isPermaLink="false">01cf89bd-81df-4ca3-a423-0a3e4bb973f6</guid>
+      <description>Originally published Sun 11 Oct 2026 19:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a6e6c0eb-850e-4671-a3eb-9b7a366dee62/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a6e6c0eb-850e-4671-a3eb-9b7a366dee62&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261011-0600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Sun 08:00): חדשון בעברית קלה (11/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Sun, 11 Oct 2026 10:29:31 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/11-10-26.m4a</guid>
-      <description>Originally published Sun 11 Oct 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• החוּתִ'ים תָקפוּ אתמוֹל נְמַל תְעוּפָה בֵּין-לְאוּמִי בּרִיאַד בִּירַת סָעוּדיה. נֶהֶרגוּ 12 בְּנֵי אָדם ויוֹתר מ-300 נִפצְעוּ
-• הנשׂיא טראמפּ: יִיתָכֵן שֶארה&quot;ב תָגִיב בּקָרוֹב למִתקָפָה בּסָעוּדיה
-• גוֹרמִים בּמַעֲרֶכת הבִּיטָחוֹן: חַמאס נֶעֱרַך לחִידוּש הלְחִימָה בּרצוּעַת עַזה, ומִשתַמֵש בּעִיקָר בּבָתֵי חוֹלים לצְרָכִים צְבָאִיִים
-• הנשׂיא הֶרצוֹג בִּישֵׂר לקַבַּרנִיט סְמִית מַאצ'הַר כּי יַעֲנִיק לו את אוֹת הגְבוּרָה האֶזרָחִית
-• צַה&quot;ל: בּקָרוֹב נַתחיל בּתַהֲלִיך הַעֲנָקַת צַלַ&quot;שִים ועִיטוּרִים על קְרָבוֹת שִבעָה בּאוֹקטוֹבֶּר
-• שְנַת הלִימוּדים האָקָדֵמִית נִפתַחַת היום. יוֹתר מ-300,000 סטוּדֶנטים וסטוּדֶנטִיוֹת יַתחִילוּ את לִימוּדֵיהֶם ב-57 מוֹסדוֹת לִימוּד בּרַחֲבֵי האָרץ
-• התִַחֲזית: טֶמפּרטוּרוֹת רְגִילוֹת בָּעוֹנָה
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/11-10-26.m4a" length="1379838" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f5818f92-63d6-4d1e-bdc4-e0c0cc98013c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f5818f92-63d6-4d1e-bdc4-e0c0cc98013c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261011-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 10.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3529008.html</link>
-      <pubDate>Sun, 11 Oct 2026 10:28:31 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sun, 11 Oct 2026 16:27:46 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">9d2bc3b2-063f-4fd9-8145-7b5904e5c4a4-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 10 Oct 2026 21:00 IDT.
 
@@ -68,30 +46,30 @@ Diesel-Deal von Trump und Putin, Viele Tote bei russischen Angriffen in der Ukra
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1010/AU-20261010-2025-1500.mp3" length="14198550" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 13:00): Die Nachrichten vom 11.10.2026, 12:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43558.html</link>
-      <pubDate>Sun, 11 Oct 2026 10:27:31 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">6391153a-91e3-5b59-9d53-14aafc9af55b</guid>
-      <description>Originally published Sun 11 Oct 2026 13:00 IDT.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/11/nachrichten_dlf_20261011_1200_c967adf5.mp3?refId=nachrichten-108" length="9679704" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (11.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-11102026</link>
+      <pubDate>Sun, 11 Oct 2026 16:26:46 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_bc50ec4f99c04f059bc3aa89c90754f4</guid>
+      <description>Originally published Sun 11 Oct 2026 19:21 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bc50ec4f99c04f059bc3aa89c90754f4.mp3?etag=5dea4aa331e585c22950ae158a0ee499" length="22108500" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 09:16): Morgenjournal um 8 (11.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-11102026</link>
-      <pubDate>Sun, 11 Oct 2026 10:26:31 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_e4ac5179951049a79ba6ecb6474a47ac</guid>
-      <description>Originally published Sun 11 Oct 2026 09:16 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e4ac5179951049a79ba6ecb6474a47ac.mp3?etag=6ee4ca44e87f049687ff4765419c1248" length="15041984" type="audio/mpeg"/>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 19:00): Die Nachrichten vom 11.10.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43570.html</link>
+      <pubDate>Sun, 11 Oct 2026 16:25:46 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">72d96563-b275-505b-8f80-e4b029ffc195</guid>
+      <description>Originally published Sun 11 Oct 2026 19:00 IDT.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/11/nachrichten_dlf_20261011_1800_f3b146d1.mp3?refId=nachrichten-108" length="9721082" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 12:00): Das Wichtigste am Sonntagvormittag</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagvormittag/2123007</link>
-      <pubDate>Sun, 11 Oct 2026 10:25:31 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sun, 11 Oct 2026 16:24:46 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">8622a8a6-09f1-4a21-8163-9d786d154017</guid>
       <description>Originally published Sun 11 Oct 2026 12:00 IDT.
 
@@ -101,8 +79,8 @@ Der Flughafen der saudi-arabischen Hauptstadt Riad ist Ziel eines schweren Raket
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:52): Trump calls for Zelensky to be replaced</title>
       <link>http://www.bbc.co.uk/programmes/p0pg3dsv</link>
-      <pubDate>Sun, 11 Oct 2026 10:24:31 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Sun, 11 Oct 2026 16:23:46 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pg3dsv</guid>
       <description>Originally published Sun 11 Oct 2026 06:52 IDT.
 
