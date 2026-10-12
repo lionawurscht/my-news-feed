@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:53:20 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,81 +13,103 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:06): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3530194.html</link>
-      <pubDate>Mon, 12 Oct 2026 00:09:17 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 05:47): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3530400.html</link>
+      <pubDate>Mon, 12 Oct 2026 06:53:20 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f929cf2b-8fbb-4375-b34c-5f53d4fa84f5</guid>
-      <description>Originally published Sun 11 Oct 2026 22:06 IDT.
+      <guid isPermaLink="false">d5e0f40b-a720-4070-85fe-76453c2b22cd</guid>
+      <description>Originally published Mon 12 Oct 2026 05:47 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1011/AU-20261011-2106-2900.mp3" length="1888267" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1012/AU-20261012-0447-4400.mp3" length="1884427" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 02:09): 7pm ET, October 11 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 09:10): 2am ET, October 12 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 12 Oct 2026 00:08:17 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 06:52:20 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">9b0fdbe0-bbbb-4f7c-93e5-4df286761f28</guid>
-      <description>Originally published Mon 12 Oct 2026 02:09 IDT.
+      <guid isPermaLink="false">bc787590-96a5-43fe-9d5c-5c8c756a181d</guid>
+      <description>Originally published Mon 12 Oct 2026 09:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/144eff10-747e-46d0-b6a1-55c56fd9f42d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=144eff10-747e-46d0-b6a1-55c56fd9f42d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261011-1900-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/868c99c7-77bd-4f28-88cb-3535020e1984/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=868c99c7-77bd-4f28-88cb-3535020e1984&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261012-0200-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Mon 08:00): חדשון בעברית קלה (12/10/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Mon, 12 Oct 2026 06:51:20 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/12-10-26.m4a</guid>
+      <description>Originally published Mon 12 Oct 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• ישׂראל אִישרָה לחֶברָה אָמֵריקָנית מִטַעַם מוֹעֶצֶת השָלוֹם להִיכָּנס בּיָמים הקרוֹבים לרְצוּעַת עַזה ולהָכין אֲתָרים שֶבָּהם יוּכלוּ אַנשֵי חַמאס לִמסוֹר את הנֶשֶק שלהם
+• הַיוֹעֵץ המִשפָּטי למֶמשָלה לשֶעָבַר, אֲבִיחַי מַנדֶלבְּלִיט, הִתחִיל אתמול לִמסוֹר את עֵדוּתוֹ בּבֵית המִשפָּט המְחוֹזִי בּירוּשלים בּמִסגֶרֶת מִשפָּטוֹ של רֹאש המֶמשָלה בּנימין נתניהוּ. מְסִירַת העֵדוּת תִימָשֵך גם היוֹם וביָמים הקרוֹבים
+• בּגלַל זִיהוּם חָרִיג בּמִתחַם בָּתֵי הזִיקוּק לנֵפְט שֶבּמִפרַץ חֵיפָה בּוּטלוּ הלימוּדים בּשנֵי בָּתֵי סֵפר בּקִריַית אָתָא. העוֹבדים בּאֵזוֹר התַעֲשִׂייָה הִתבַּקשוּ לִסגוֹר חַלוֹנוֹת ולהַפעִיל מַזגָנים
+• שָׂרֵי החוּץ של אִירַאן וסָעוּדיה שׂוֹחֲחוּ כּדֵי לקַדֵם פִּתרוֹן מְדִיני לבְעָיַית החוּתִ'ים
+• חֶברַת התְעוּפָה 'אֵייר חֵיפָה' הִשִיקָה קַו טִיסוֹת מנַתבַּ&quot;ג לאֵילַת, והוא יִפעַל מ-25 בּאוֹקטוֹבּר
+• יוֹם הקוֹלנוֹעַ הישׂראֵלי יִתקַיֵים בּיום רביעי הקָרוֹב בּבָתֵי הקוֹלנוֹעַ בּרַחֲבֵי האָרץ. סְרָטים רבּים יוּקרְנוּ בּמְחִיר של 10 שקָלים לכַרטִיס
+• התִַחֲזית: הִתקָרְרוּת קַלה
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/12-10-26.m4a" length="1719639" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 11.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3530180.html</link>
-      <pubDate>Mon, 12 Oct 2026 00:07:17 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Mon, 12 Oct 2026 06:50:20 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">5f1f8bcd-69aa-4730-afbf-227801d4221e-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 11 Oct 2026 21:00 IDT.
 
-CDU berät in Präsidiumsklausur über Wege aus der Krise, Krieg in der Golfregion: Tote bei Angriff auf Flughafen von Riad, Trump verkündet &quot;Energie-Waffenruhe&quot; zwischen Kiew und Moskau, Jurist und Autor Philippe Sands erhält den Friedenspreis des Deutschen Buchhandels, Festnahme in Polen nach geplantem Anschlag auf Regierungschef Tusk, Finanzskandal erschüttert Türkei, Mehr als 130 Flüchtlinge vor der Küste Dschibutis ertrunken, Abschiedskonzert der Toten Hosen in Buenos Aires, 5. Spieltag der Fußball-Bundesliga, Ironam-Weltmeisterschaft, Das Wetter Hinweis: Die Beiträge zur &quot;Fußball-Bundesliga&quot; und zur &quot;Ironman-Weltmeisterschaft&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+Krieg in der Golfregion: Tote bei Angriff auf Flughafen von Riad, Trump verkündet &quot;Energie-Waffenruhe&quot; zwischen Kiew und Moskau, CDU berät in Präsidiumsklausur über Wege aus der Krise, Jurist und Autor Philippe Sands erhält den Friedenspreis des Deutschen Buchhandels, Festnahme in Polen nach geplantem Anschlag auf Regierungschef Tusk, Finanzskandal erschüttert Türkei, Mehr als 130 Flüchtlinge vor der Küste Dschibutis ertrunken, Abschiedskonzert der Toten Hosen in Buenos Aires, 5. Spieltag der Fußball-Bundesliga, Ironman-Weltmeisterschaft, Das Wetter Hinweis: Die Beiträge zur &quot;Fußball-Bundesliga&quot; und zur &quot;Ironman-Weltmeisterschaft&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1011/AU-20261011-2028-2700.mp3" length="16270230" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 02:00): Die Nachrichten vom 12.10.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43584.html</link>
-      <pubDate>Mon, 12 Oct 2026 00:06:17 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">87bca340-71af-530c-a539-29989c59ebda</guid>
-      <description>Originally published Mon 12 Oct 2026 02:00 IDT.
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 09:26): Morgenjournal um 8 (12.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-12102026</link>
+      <pubDate>Mon, 12 Oct 2026 06:49:20 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_f0720ac708b64367852868ef1d34c742</guid>
+      <description>Originally published Mon 12 Oct 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f0720ac708b64367852868ef1d34c742.mp3?etag=93e7ec65c1519234dfed613846b85356" length="29333573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 08:30): Die Nachrichten vom 12.10.2026, 07:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43606.html</link>
+      <pubDate>Mon, 12 Oct 2026 06:48:20 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">b9268d63-b116-5bf0-8532-0e7f4b800517</guid>
+      <description>Originally published Mon 12 Oct 2026 08:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/12/nachrichten_dlf_20261012_0100_3531cc03.mp3?refId=nachrichten-108" length="4991874" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/12/nachrichten_dlf_20261012_0730_5a96d88b.mp3?refId=nachrichten-108" length="4942555" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (11.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-11102026</link>
-      <pubDate>Mon, 12 Oct 2026 00:05:17 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_bc50ec4f99c04f059bc3aa89c90754f4</guid>
-      <description>Originally published Sun 11 Oct 2026 19:21 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bc50ec4f99c04f059bc3aa89c90754f4.mp3?etag=5dea4aa331e585c22950ae158a0ee499" length="22108500" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 19:45): Das Wichtigste am Sonntag Abend</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntag-abend/2123013</link>
-      <pubDate>Mon, 12 Oct 2026 00:04:17 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">3d9ed499-2f3b-401e-96e6-0f9862e8d372</guid>
-      <description>Originally published Sun 11 Oct 2026 19:45 IDT.
-
-Selenskyj hält Wahlen für möglich, wenn Russland einer Waffenruhe zustimmt. Das und noch mehr in unserem BR24 Aktuelles am Abend.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123013/c/feed/das-wichtigste-am-sonntag-abend.mp3" length="13231916" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: Smart glasses or ‘pervert glasses’?</title>
-      <link>http://www.bbc.co.uk/programmes/p0pfvq1p</link>
-      <pubDate>Mon, 12 Oct 2026 00:03:17 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 09:20): Kerosin-Heizer, Ziegelsteine, Stromspeicher: Die Ukraine rüstet sich für den nächsten Kriegswinter</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/kerosin-heizer-ziegelsteine-stromspeicher-die-ukraine-ruestet-sich-fuer-den-naechsten-kriegswinter/2123031</link>
+      <pubDate>Mon, 12 Oct 2026 06:47:20 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pfvq1p</guid>
-      <description>Originally published Sun 11 Oct 2026 22:00 IDT.
+      <guid isPermaLink="false">652044c0-f5a5-4c14-bff2-37495fe5b1d5</guid>
+      <description>Originally published Mon 12 Oct 2026 09:20 IDT.
 
-&lt;p&gt;At a recent Meta product launch, Mark Zuckerberg promised that the company’s smart glasses would give wearers “new superpowers”, but what are they? 
-Amid criticisms of its privacy and child protection policies, Meta is betting big on smart glasses as a way to restyle the company’s image, but they too have caused controversy – dubbed by critics ‘pervert glasses’ because they have been used to film women without their knowledge. 
-So why are Meta and other big tech firms investing billions in this tech? Who is it for? Lily Jamali, the BBC’s North America technology correspondent, joins us to explain. &lt;/p&gt;&lt;p&gt;For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfvp21.mp3" length="13240000" type="audio/mpeg"/>
+Die Temperaturen sinken, die Angriffe auf die Energieversorgung gehen weiter. In Kiew fragen sich viele, ob dieser Winter noch härter wird als der letzte.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123031/c/feed/kerosin-heizer-ziegelsteine-stromspeicher-die-ukraine-ruestet-sich-fuer-den-naechsten-kriegswinter.mp3" length="8869676" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:20): Houthis attack Saudi airport for third time in four days</title>
+      <link>http://www.bbc.co.uk/programmes/p0pg6pdj</link>
+      <pubDate>Mon, 12 Oct 2026 06:46:20 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pg6pdj</guid>
+      <description>Originally published Mon 12 Oct 2026 07:20 IDT.
+
+&lt;p&gt;The main international airport in the Saudi Arabian capital, Riyadh, is attacked on consecutive days by the Iran-backed Houthis in Yemen. More than a dozen people have been killed and hundreds injured. The Houthis say they launched the strikes because of the Saudis' support for government forces in Yemen's civil war. &lt;/p&gt;&lt;p&gt;Also: a BBC investigation looks into the circumstances surrounding the shooting of mourners in Kenya at a national farewell for a former prime minister. The Pope is to undergo surgery to remove a lump on his lung. A boat carrying hundreds of migrants from Djibouti to Yemen sinks, leaving almost 140 people dead. And why are shark bites on the increase in Australia?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Photo: Surveillance footage shows smoke and fire as people react to the attack at Riyadh's King Khalid International Airport on 10th October 2026.
+Credit: Saudi Ministry of Media, via Reuters&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pg6pcc.mp3" length="13080000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
