@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 13 Oct 2026 05:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:25:42 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,84 +13,73 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 05:48): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3532656.html</link>
-      <pubDate>Tue, 13 Oct 2026 05:11:17 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 15:52): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3533900.html</link>
+      <pubDate>Tue, 13 Oct 2026 13:25:42 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">bec1c009-14e3-469b-8f18-f1365599f9a0</guid>
-      <description>Originally published Tue 13 Oct 2026 05:48 IDT.
+      <guid isPermaLink="false">94054a80-8a20-4901-affb-fb081220b93d</guid>
+      <description>Originally published Tue 13 Oct 2026 15:52 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-0447-5500.mp3" length="1675171" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-1452-0000.mp3" length="1920907" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 07:09): 12am ET, October 13 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 16:10): 9am ET, October 13 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 13 Oct 2026 05:10:17 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 13:24:42 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d7a3e7e2-d5b1-4846-ab9b-596c19ff63b2</guid>
-      <description>Originally published Tue 13 Oct 2026 07:09 IDT.
+      <guid isPermaLink="false">19b42a2c-fd6e-49b9-9b3c-15de47d4050f</guid>
+      <description>Originally published Tue 13 Oct 2026 16:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/553d675f-7acf-44bd-9287-c936900524cc/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=553d675f-7acf-44bd-9287-c936900524cc&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261013-0000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Tue 08:00): חדשון בעברית קלה (13/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Tue, 13 Oct 2026 05:09:17 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/13-10-26.m4a</guid>
-      <description>Originally published Tue 13 Oct 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• נַעַר בּן 14 נֶהֱרַג ושלוֹשָה נִפצְעוּ קשֶה בּפִיצוּץ נֵפֶל בּטִיוּל תַלמידים ליַד גְבוּל לבָנוֹן
-• מִשׂרַד החִינוּך הוֹדִיעַ כי טִיוּלֵי תַלמידים יוּרחֲקוּ מאֵזוֹר גבוּל הצָפוֹן ורָמַת הגוֹלָן בּיוֹמַיִים הקְרוֹבִים
-• קְבוּצָה של רְעוּלֵי פָּנִים הִצִיגוּ עַצמָם כּחַיָילִים, ותָקפוּ לִפנוֹת בּוֹקר מִשפָּחה פַלסטינית בּבֵיתה בּכּפר תַלפִית שֶבּאֵזוֹר שכֶם. ההוֹרים ושתֵי בּנוֹתֵיהֶם נִפצְעוּ
-• שָׂרַת הפְּנִים הבְּרִיטית: אִיראן מתַכנֶנֶת לִפגוֹעַ בּקְהִילה היהוּדית בּבּרִיטנַיה בּאֶמצָעוּת אִרגוּן טֵרוֹר שִיעִי. הוּגדַל תַקצִיב המִשטָרה והמֶמשָלה תִפעַל נֶגד האַנטִישֵמיוּת
-• ארה&quot;ב ומדִינוֹת בּאֵירוֹפָּה בּהַצהָרה נֶגד אִיראן: &quot;כָּל נִיסָיוֹן לאַיֵים עָלֵינוּ – לא מְקוּבָּל&quot;
-• צָרפַת: הַאקֶרים הֶעֱלוּ את הטֶמפּרטוּרה של מְקָרְרִים רבּים בּמַרכּוֹלים ל-50 מַעֲלוֹת צֶלזיוּס, וגָרמוּ לשְׂרֵפוֹת ולאוֹבדַן מָזוֹן בּמְאוֹת חנוּיוֹת בּרַחֲבֵי המדִינה, בּמִסגֶרֶת מִתקֶפֶת סַייבֵּר נִרחֶבֶת
-• התִַחֲזית: ללֹא שִינוּי נִיכָּר
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/13-10-26.m4a" length="1599160" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2b7eb9ca-3c44-4b18-a0bc-49c750cc9300/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2b7eb9ca-3c44-4b18-a0bc-49c750cc9300&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261013-0900-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 12.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3532434.html</link>
-      <pubDate>Tue, 13 Oct 2026 05:08:17 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Tue, 13 Oct 2026 13:23:42 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">cb271859-e160-4d61-a637-343dbccd8b8e-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 12 Oct 2026 21:00 IDT.
 
-Bundesarbeitsministerin und SPD-Co-Vorsitzende Bas legt alle politischen Ämter nieder, Ehemaliger rheinland-pfälzischer Ministerpräsident Schweitzer wird neuer Bundesarbeitsminister, CDU will Stromsteuer für private Haushalte senken, Koalitionsgespräche in Mecklenburg-Vorpommern, EU-Außenminister beschließen weiteres Sanktionspaket gegen Russland, Sicherheitsforum in Warschau: Kurs gegen Russland steht im Mittelpunkt des Treffens, Wirtschaftswissenschaftler Robert Hall und Michael Woodford erhalten Nobelpreis, Tennisspieler Alexander Zverev ist Weltranglistenerster, Das Wetter</description>
+Bundesarbeitsministerin und SPD-Co-Vorsitzende Bas legt alle politischen Ämter nieder, Ehemaliger rheinland-pfälzischer Ministerpräsident Schweitzer wird neuer Bundesarbeitsminister, CDU will Stromsteuer für private Haushalte senken, Koalitionsgespräche in Mecklenburg-Vorpommern, EU-Außenminister beschließen weiteres Sanktionspaket gegen Russland, Sicherheitsforum in Warschau: Kurs gegen Russland steht im Mittelpunkt des Treffens, Wirtschaftswissenschaftler Robert Hall und Michael Woodford erhalten Nobelpreis, Tennisspieler Alexander Zverev ist Weltranglistenerster, Das Wetter Ergänzung zum Beitrag EU-Außenministertreffen: Durch die Moderation könnte der Eindruck entstehen, dass der deutsche Außenminister sich in Luxemburg geäußert hat. Tatsächlich war er aber nicht vor Ort. Zudem waren die neuen Sanktionen nicht Teil des 21. Sanktionspakets. Wir haben die Moderation in der Sendung nicht bearbeitet, da der technische Aufwand für eine Bearbeitung sehr umfangreich ist und der Inhalt der Berichterstattung sich nicht verändert</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1012/AU-20261012-2024-0000.mp3" length="14208920" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 07:30): Die Nachrichten vom 13.10.2026, 06:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43674.html</link>
-      <pubDate>Tue, 13 Oct 2026 05:07:17 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">c4fc63fd-dccc-5178-b377-1bcd12b32947</guid>
-      <description>Originally published Tue 13 Oct 2026 07:30 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 16:00): Die Nachrichten vom 13.10.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43706.html</link>
+      <pubDate>Tue, 13 Oct 2026 13:22:42 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">7434231c-dd28-5e8e-8db7-7cebdf7a950a</guid>
+      <description>Originally published Tue 13 Oct 2026 16:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/13/nachrichten_dlf_20261013_0630_e7864728.mp3?refId=nachrichten-108" length="5016116" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/13/nachrichten_dlf_20261013_1500_9c593076.mp3?refId=nachrichten-108" length="4956348" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 07:16): Frühjournal um 6 (13.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-13102026</link>
-      <pubDate>Tue, 13 Oct 2026 05:06:17 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 14:41): Mittagsjournal (13.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-13102026</link>
+      <pubDate>Tue, 13 Oct 2026 13:21:42 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_118f04fe6af54b918cfc6cb4b03a4d1c</guid>
+      <description>Originally published Tue 13 Oct 2026 14:41 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_118f04fe6af54b918cfc6cb4b03a4d1c.mp3?etag=78629e052a1ba814a27436111141c24a" length="87013656" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 08:38): Erbschaftsteuer: Karlsruhe prüft Steuerprivilegien von Firmenerben</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/erbschaftsteuer-karlsruhe-prueft-steuerprivilegien-von-firmenerben/2123070</link>
+      <pubDate>Tue, 13 Oct 2026 13:20:42 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_ae0fd4daf7564200a06d465df525a428</guid>
-      <description>Originally published Tue 13 Oct 2026 07:16 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ae0fd4daf7564200a06d465df525a428.mp3?etag=ba16ab22a119d4da6321e56b41350f25" length="15066198" type="audio/mpeg"/>
+      <guid isPermaLink="false">be7866f6-c20a-4c4f-8c14-63b280565fdb</guid>
+      <description>Originally published Tue 13 Oct 2026 08:38 IDT.
+
+Die Erbschaftssteuer ist seit Jahren hochumstritten. Das Bundesverfassungsgericht prüft, ob die Steuer reformiert werden muss.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123070/c/feed/erbschaftsteuer-karlsruhe-prueft-steuerprivilegien-von-firmenerben.mp3" length="8626988" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierung gehen weiter | BM-Wahl Strausberg | Studienstart Medizin-Uni</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierung-bm-wahl-strausberg-studienstart-medizin-uni.html</link>
-      <pubDate>Tue, 13 Oct 2026 05:05:17 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 13:19:42 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/31/33/31337b45-9619-45ea-ab3b-620d39b4aaf9/31337b45-9619-45ea-ab3b-620d39b4aaf9_mp3-256kd.mp3</guid>
       <description>Originally published Mon 12 Oct 2026 19:17 IDT.
@@ -101,21 +90,10 @@ Linke, Gr&amp;#252;ne und SPD arbeiten daran, eine Regierung f&amp;#252;r Berlin
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/31/33/31337b45-9619-45ea-ab3b-620d39b4aaf9/31337b45-9619-45ea-ab3b-620d39b4aaf9_mp3-256kd.mp3" length="26792977" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 19:00): Abgang mit Vorwürfen – was macht der Rücktritt von Bärbel Bas mit der Regierung?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/abgang-mit-vorwuerfen-was-macht-der-ruecktritt-von-baerbel-bas-mit-der-regierung/2123055</link>
-      <pubDate>Tue, 13 Oct 2026 05:04:17 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">e4738bbe-844f-4f7b-b0ad-16c63b9c88ca</guid>
-      <description>Originally published Mon 12 Oct 2026 19:00 IDT.
-
-Es war ein politischer Paukenschlag heute früh - die mächtigste Frau in der SPD tritt zurück und erhebt gleichzeitig schwere Vorwürfe gegen den Koalitionspartner.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123055/c/feed/abgang-mit-vorwuerfen-was-macht-der-ruecktritt-von-baerbel-bas-mit-der-regierung.mp3" length="9119660" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:26): Annual dementia cases could double by 2050</title>
       <link>http://www.bbc.co.uk/programmes/p0pgcv8s</link>
-      <pubDate>Tue, 13 Oct 2026 05:03:17 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Tue, 13 Oct 2026 13:18:42 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pgcv8s</guid>
       <description>Originally published Tue 13 Oct 2026 07:26 IDT.
 
