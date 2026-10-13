@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:25:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:01:34 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,95 +13,95 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 15:52): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3533900.html</link>
-      <pubDate>Tue, 13 Oct 2026 13:25:42 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:36): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3534388.html</link>
+      <pubDate>Tue, 13 Oct 2026 20:01:34 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">94054a80-8a20-4901-affb-fb081220b93d</guid>
-      <description>Originally published Tue 13 Oct 2026 15:52 IDT.
+      <guid isPermaLink="false">6959790a-3333-44ec-b6c6-d9f8e6c28cc6</guid>
+      <description>Originally published Tue 13 Oct 2026 19:36 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-1452-0000.mp3" length="1920907" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-1836-0000.mp3" length="1873290" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 16:10): 9am ET, October 13 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 22:10): 3pm ET, October 13 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 13 Oct 2026 13:24:42 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 20:00:34 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">19b42a2c-fd6e-49b9-9b3c-15de47d4050f</guid>
-      <description>Originally published Tue 13 Oct 2026 16:10 IDT.
+      <guid isPermaLink="false">fcce0225-3563-4892-b99b-85180d40bc8e</guid>
+      <description>Originally published Tue 13 Oct 2026 22:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2b7eb9ca-3c44-4b18-a0bc-49c750cc9300/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2b7eb9ca-3c44-4b18-a0bc-49c750cc9300&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261013-0900-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c00d9f15-f6cc-4f2f-9b0d-d49df25db519/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c00d9f15-f6cc-4f2f-9b0d-d49df25db519&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261013-1500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 12.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3532434.html</link>
-      <pubDate>Tue, 13 Oct 2026 13:23:42 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 13.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3534606.html</link>
+      <pubDate>Tue, 13 Oct 2026 19:59:34 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">cb271859-e160-4d61-a637-343dbccd8b8e-SENDUNGSAUDIO</guid>
-      <description>Originally published Mon 12 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">9e0c8731-321e-4f59-a329-8f1ef8d02c7d-SENDUNGSAUDIO</guid>
+      <description>Originally published Tue 13 Oct 2026 21:00 IDT.
 
-Bundesarbeitsministerin und SPD-Co-Vorsitzende Bas legt alle politischen Ämter nieder, Ehemaliger rheinland-pfälzischer Ministerpräsident Schweitzer wird neuer Bundesarbeitsminister, CDU will Stromsteuer für private Haushalte senken, Koalitionsgespräche in Mecklenburg-Vorpommern, EU-Außenminister beschließen weiteres Sanktionspaket gegen Russland, Sicherheitsforum in Warschau: Kurs gegen Russland steht im Mittelpunkt des Treffens, Wirtschaftswissenschaftler Robert Hall und Michael Woodford erhalten Nobelpreis, Tennisspieler Alexander Zverev ist Weltranglistenerster, Das Wetter Ergänzung zum Beitrag EU-Außenministertreffen: Durch die Moderation könnte der Eindruck entstehen, dass der deutsche Außenminister sich in Luxemburg geäußert hat. Tatsächlich war er aber nicht vor Ort. Zudem waren die neuen Sanktionen nicht Teil des 21. Sanktionspakets. Wir haben die Moderation in der Sendung nicht bearbeitet, da der technische Aufwand für eine Bearbeitung sehr umfangreich ist und der Inhalt der Berichterstattung sich nicht verändert</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1012/AU-20261012-2024-0000.mp3" length="14208920" type="audio/mpeg"/>
+Alexander Schweitzer zum neuen Arbeits- und Sozialminister ernannt, Merz fordert auf Arbeitgebertag Tempo bei Reformen, Bundesverfassungsgericht prüft steuerliche Vorteile für Firmenerben, Missbrauchsbeauftragte berichtet von großer Gefahr für Kinder und Jugendliche im digitalen Bereich, Festnahmen in Deutschland nach Brand in polnischer Starlink-Anlage, Drohnenangriff auf zwei Handelsschiffe vor der Küste von Bulgarien im Schwarzen Meer, Zehntausende Menschen protestieren erneut auf Frankreichs Straßen für bessere Lernbedingungen, Papst Leo XIV. in Rom erfolgreich operiert, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-2142-3100.mp3" length="15214241" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 16:00): Die Nachrichten vom 13.10.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43706.html</link>
-      <pubDate>Tue, 13 Oct 2026 13:22:42 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 22:00): Die Nachrichten vom 13.10.2026, 21:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43724.html</link>
+      <pubDate>Tue, 13 Oct 2026 19:58:34 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">7434231c-dd28-5e8e-8db7-7cebdf7a950a</guid>
-      <description>Originally published Tue 13 Oct 2026 16:00 IDT.
+      <guid isPermaLink="false">983c9b9d-0e06-5274-853e-0567c5ac255c</guid>
+      <description>Originally published Tue 13 Oct 2026 22:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/13/nachrichten_dlf_20261013_1500_9c593076.mp3?refId=nachrichten-108" length="4956348" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/13/nachrichten_dlf_20261013_2100_5aa2cb9a.mp3?refId=nachrichten-108" length="5166999" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 14:41): Mittagsjournal (13.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-13102026</link>
-      <pubDate>Tue, 13 Oct 2026 13:21:42 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:31): Abendjournal um 18 (13.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-13102026</link>
+      <pubDate>Tue, 13 Oct 2026 19:57:34 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_118f04fe6af54b918cfc6cb4b03a4d1c</guid>
-      <description>Originally published Tue 13 Oct 2026 14:41 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_118f04fe6af54b918cfc6cb4b03a4d1c.mp3?etag=78629e052a1ba814a27436111141c24a" length="87013656" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_f8a377b772fb491882d0603de719cf09</guid>
+      <description>Originally published Tue 13 Oct 2026 19:31 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f8a377b772fb491882d0603de719cf09.mp3?etag=1482c5d5f4833ef30913f4216c08e23c" length="36422575" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 08:38): Erbschaftsteuer: Karlsruhe prüft Steuerprivilegien von Firmenerben</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/erbschaftsteuer-karlsruhe-prueft-steuerprivilegien-von-firmenerben/2123070</link>
-      <pubDate>Tue, 13 Oct 2026 13:20:42 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Linken-Konstituierung | Finanzplanung | Kabinett in Cottbus</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/linken-konstituierung-finanzplanung-kabinett-cottbus.html</link>
+      <pubDate>Tue, 13 Oct 2026 19:56:34 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">be7866f6-c20a-4c4f-8c14-63b280565fdb</guid>
-      <description>Originally published Tue 13 Oct 2026 08:38 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/91/cb/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc_mp3-256kd.mp3</guid>
+      <description>Originally published Tue 13 Oct 2026 19:17 IDT.
 
-Die Erbschaftssteuer ist seit Jahren hochumstritten. Das Bundesverfassungsgericht prüft, ob die Steuer reformiert werden muss.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123070/c/feed/erbschaftsteuer-karlsruhe-prueft-steuerprivilegien-von-firmenerben.mp3" length="8626988" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierung gehen weiter | BM-Wahl Strausberg | Studienstart Medizin-Uni</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierung-bm-wahl-strausberg-studienstart-medizin-uni.html</link>
-      <pubDate>Tue, 13 Oct 2026 13:19:42 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/31/33/31337b45-9619-45ea-ab3b-620d39b4aaf9/31337b45-9619-45ea-ab3b-620d39b4aaf9_mp3-256kd.mp3</guid>
-      <description>Originally published Mon 12 Oct 2026 19:17 IDT.
-
-Linke, Gr&amp;#252;ne und SPD arbeiten daran, eine Regierung f&amp;#252;r Berlin auf die Beine zu stellen. Doch noch wird &amp;#8211; auch &amp;#246;ffentlich &amp;#8211; gestritten. Au&amp;#223;erdem: B&amp;#252;rgermeister-Stichwahl in Strausberg; Studienstart Medizinische Uni Cottbus; Start f&amp;#252;r zweites Gleis zwischen Cottbus und L&amp;#252;bbenau.
+Die Linken-Fraktion hat sich am Dienstag im Abgeordnetenhaus getroffen und neu gebildet. Es wurde ein Krimi. Au&amp;#223;erdem: Finanzsenator stellt Finanzplanung vor; Kabinett in Cottbus; Simulierte Randale von Fu&amp;#223;ballfans.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/31/33/31337b45-9619-45ea-ab3b-620d39b4aaf9/31337b45-9619-45ea-ab3b-620d39b4aaf9_mp3-256kd.mp3" length="26792977" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/91/cb/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc_mp3-256kd.mp3" length="31884817" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:26): Annual dementia cases could double by 2050</title>
-      <link>http://www.bbc.co.uk/programmes/p0pgcv8s</link>
-      <pubDate>Tue, 13 Oct 2026 13:18:42 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pgcv8s</guid>
-      <description>Originally published Tue 13 Oct 2026 07:26 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 17:57): Reformdruck von allen Seiten: Was wird vom neuen Arbeitsminister erwartet?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/reformdruck-von-allen-seiten-was-wird-vom-neuen-arbeitsminister-erwartet/2123092</link>
+      <pubDate>Tue, 13 Oct 2026 19:55:34 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">ef9e8403-76be-402c-80e0-d94eddb4d30b</guid>
+      <description>Originally published Tue 13 Oct 2026 17:57 IDT.
 
-&lt;p&gt;Researchers in Australia say there were 11.4 million new dementia cases in 2023. They expect that number to more than double to 24.7 million by 2050. Women and people from lower- and middle-income countries are most likely to be affected. We speak to Professor Henry Brodaty, co-author of the study, who tells us this is because of &quot;an epidemic of ageing&quot;.  &lt;/p&gt;&lt;p&gt;Also: the BBC reports from the frontline of the conflict in Yemen. US federal agents have raided the home in Washington of the Democratic congresswoman, Ilhan Omar. Elon Musk has given what's believed to be a record amount of money to Republican groups ahead of the US midterm elections. We're in Hungary, six months on from the defeat of Viktor Orbán's party in parliamentary elections. And the actress Selma Blair is charged with assault after an alleged incident on a flight from Los Angeles to New York City. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Alexander Schweitzer wird heute vereidigt und tritt damit den Posten als Bundesarbeitsminister an, nachdem Bärbel Bas gestern ihren Rücktritt erklärt hat.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123092/c/feed/reformdruck-von-allen-seiten-was-wird-vom-neuen-arbeitsminister-erwartet.mp3" length="8594733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 17:44): IMF upgrades global economy outlook</title>
+      <link>http://www.bbc.co.uk/programmes/p0pggr8v</link>
+      <pubDate>Tue, 13 Oct 2026 19:54:34 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pggr8v</guid>
+      <description>Originally published Tue 13 Oct 2026 17:44 IDT.
+
+&lt;p&gt;The International Monetary Fund says in its latest report that global growth has weathered the Middle East conflict better than had been feared, with rerouting of oil supplies and the release of energy stocks helping reduce the negative impact of the Iran war. But the IMF also warns that emergency stocks are now depleted. Also; the authorities in the American state of Tennessee release dramatic phone calls that were made to the emergency services after the botched execution of Christa Pike; Pope Leo has been admitted to hospital for a lung operation; a leading Iraqi human rights organisation says the government must do more to protect women who speak out about sexual violence, and Rwanda has agreed to host Formula One races, bringing the sport to Africa for the first time since the South African Grand Prix in 1993.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A 90-year old man uses a walking stick at the Forget Me Not, Dementia Friendly Cafe, in Salford, England. 
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgcv5c.mp3" length="13296000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Economic Counsellor and Director of the Research Department at the International Monetary Fund Silvana Tenreyro at annual meeting of the IMF and the World Bank Group in Bangkok
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pggq4p.mp3" length="14960000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
