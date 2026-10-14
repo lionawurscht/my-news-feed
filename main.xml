@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:03:26 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 06:01): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3534816.html</link>
-      <pubDate>Wed, 14 Oct 2026 05:44:17 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 11:45): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3535536.html</link>
+      <pubDate>Wed, 14 Oct 2026 11:03:26 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">be2b5f91-0376-4bb1-a132-5a6ecf4088f7</guid>
-      <description>Originally published Wed 14 Oct 2026 06:01 IDT.
+      <guid isPermaLink="false">f54d0d77-f009-492c-af9f-11beb163e84f</guid>
+      <description>Originally published Wed 14 Oct 2026 11:45 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-0501-0800.mp3" length="1874085" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-1045-2700.mp3" length="1973908" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 08:09): 1am ET, October 14 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 13:10): 6am ET, October 14 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 14 Oct 2026 05:43:17 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 11:02:26 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">e0a8abd7-f070-416f-aad6-083a57170c2a</guid>
-      <description>Originally published Wed 14 Oct 2026 08:09 IDT.
+      <guid isPermaLink="false">23ce3c47-20e2-4da1-a9b5-339d19ade65c</guid>
+      <description>Originally published Wed 14 Oct 2026 13:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cbffa6c1-39a8-4c02-a19a-cf382b0b84d8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cbffa6c1-39a8-4c02-a19a-cf382b0b84d8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261014-0100-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Wed 08:00): חדשון בעברית קלה (14/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Wed, 14 Oct 2026 05:42:17 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/14-10-26.m4a</guid>
-      <description>Originally published Wed 14 Oct 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• רֹאש המֶמשלה נתניהו מאַשֵר כי רֹאש המוֹדִיעִין המִצרִי עַבַּאס כַּאמֶל בִּיקֵר בּישׂראל לִפנֵי 7/10, אך מַכְחִיש כי נִפגַש עִימוֹ
-• דִיווּחַ: נשׂיא ארה&quot;ב טראמפּ כָּפָה את ההֶסכֵּם לשִחרוּר החטוּפִים, שֶנֶחתַם לִפנֵי שנה, על ישׂראל וחַמאס
-• המִמשָל האָמֵריקָני מצַיֵין שנה להַפסָקת האֵש: &quot;שִיקוּם עַזה יִהיֶה ארוֹך ומְפָרֵך&quot;
-• שׂוֹרֵד השֶבי אֶלקָנה בּוּחבּוּט, המַחזיק גם בּאֶזרָחוּת קוֹלוֹמבּיָאנית, נִפגַש בּנְיוּ יוֹרְק עִם שַׂר החוּץ של קוֹלוֹמבּיָה בּמִסגֶרת אֵירוּעַ לזֵכר קוֹרבּנוֹת ה-7 בּאוֹקטוֹבּר. בּמִפגָש הִשתַתפוּ גם רַעיָיתוֹ רִבקה ושנֵי יַלדֵיהֶם
-• פַּעֲמַיִים אתמול הִתקַשֵר אָדם למִשטָרה וטָען שֶהוּטמְנָה פְּצָצָה בּטִיסָה מִניוּ יוֹרְק לנַתבַּ&quot;ג. המטוֹס נִבדַק אך לא נִמצָא בו דבר והוא קִיבֵּל אִישוּר להַמרִיא
-• היום, ג' בּמַרחֶשוָון, מָלאוּ 13 שנה לפְטִירָתוֹ של הרַב עוֹבַדיָה יוֹסֵף
-• התִַחֲזית: עלִייה קַלה בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/14-10-26.m4a" length="1589486" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/81af87fd-daa2-4071-ac8f-91592db0eccd/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=81af87fd-daa2-4071-ac8f-91592db0eccd&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261014-0600-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 13.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3534606.html</link>
-      <pubDate>Wed, 14 Oct 2026 05:41:17 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Wed, 14 Oct 2026 11:01:26 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">9e0c8731-321e-4f59-a329-8f1ef8d02c7d-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 13 Oct 2026 21:00 IDT.
 
@@ -68,29 +46,40 @@ Alexander Schweitzer zum neuen Arbeits- und Sozialminister ernannt, Merz fordert
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-2142-3100.mp3" length="15214241" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 08:30): Die Nachrichten vom 14.10.2026, 07:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43752.html</link>
-      <pubDate>Wed, 14 Oct 2026 05:40:17 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">d368583e-5cbb-524c-8999-6340ffb63ac6</guid>
-      <description>Originally published Wed 14 Oct 2026 08:30 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 13:30): Die Nachrichten vom 14.10.2026, 12:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43772.html</link>
+      <pubDate>Wed, 14 Oct 2026 11:00:26 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">156c0dc0-381e-5e06-8b47-85a109fba4f0</guid>
+      <description>Originally published Wed 14 Oct 2026 13:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/14/nachrichten_dlf_20261014_0730_61e3902f.mp3?refId=nachrichten-108" length="4982679" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/14/nachrichten_dlf_20261014_1230_67f63ad9.mp3?refId=nachrichten-108" length="4981007" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 07:15): Frühjournal um 6 (14.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-14102026</link>
-      <pubDate>Wed, 14 Oct 2026 05:39:17 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (14.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-14102026</link>
+      <pubDate>Wed, 14 Oct 2026 10:59:26 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_dce3efcee00a48c4958bd60af0aacead</guid>
+      <description>Originally published Wed 14 Oct 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_dce3efcee00a48c4958bd60af0aacead.mp3?etag=e8c9baa956da9836cd413bd9fc4713d8" length="29378546" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 09:12): Anschlag auf Nord Stream-Pipelines: Das ist zum Prozessauftakt wichtig</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/anschlag-auf-nord-stream-pipelines-das-ist-zum-prozessauftakt-wichtig/2123111</link>
+      <pubDate>Wed, 14 Oct 2026 10:58:26 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_1f3e4c3508e5405a8f6c9e899a931d4d</guid>
-      <description>Originally published Wed 14 Oct 2026 07:15 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_1f3e4c3508e5405a8f6c9e899a931d4d.mp3?etag=da512cc1dd7df6052c98df230c82159e" length="14929550" type="audio/mpeg"/>
+      <guid isPermaLink="false">f12ca863-cb82-4786-bda7-6ae4c9cb9091</guid>
+      <description>Originally published Wed 14 Oct 2026 09:12 IDT.
+
+Im Fall der Sprengung auf die Nord Stream-Pipelines steht ab heute der mutmaßliche Anführer des Sabotageteams in Hamburg vor Gericht.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123111/c/feed/anschlag-auf-nord-stream-pipelines-das-ist-zum-prozessauftakt-wichtig.mp3" length="9215277" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Linken-Konstituierung | Finanzplanung | Kabinett in Cottbus</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/linken-konstituierung-finanzplanung-kabinett-cottbus.html</link>
-      <pubDate>Wed, 14 Oct 2026 05:38:17 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 10:57:26 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/91/cb/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc_mp3-256kd.mp3</guid>
       <description>Originally published Tue 13 Oct 2026 19:17 IDT.
@@ -101,21 +90,10 @@ Die Linken-Fraktion hat sich am Dienstag im Abgeordnetenhaus getroffen und neu g
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/91/cb/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc_mp3-256kd.mp3" length="31884817" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 17:57): Reformdruck von allen Seiten: Was wird vom neuen Arbeitsminister erwartet?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/reformdruck-von-allen-seiten-was-wird-vom-neuen-arbeitsminister-erwartet/2123092</link>
-      <pubDate>Wed, 14 Oct 2026 05:37:17 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">ef9e8403-76be-402c-80e0-d94eddb4d30b</guid>
-      <description>Originally published Tue 13 Oct 2026 17:57 IDT.
-
-Alexander Schweitzer wird heute vereidigt und tritt damit den Posten als Bundesarbeitsminister an, nachdem Bärbel Bas gestern ihren Rücktritt erklärt hat.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123092/c/feed/reformdruck-von-allen-seiten-was-wird-vom-neuen-arbeitsminister-erwartet.mp3" length="8594733" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:46): Pope has surgery for lung cancer</title>
       <link>http://www.bbc.co.uk/programmes/p0pgjxdp</link>
-      <pubDate>Wed, 14 Oct 2026 05:36:17 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Wed, 14 Oct 2026 10:56:26 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pgjxdp</guid>
       <description>Originally published Wed 14 Oct 2026 07:46 IDT.
 
