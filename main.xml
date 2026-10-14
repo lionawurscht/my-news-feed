@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:24:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,96 +13,97 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 11:45): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3535536.html</link>
-      <pubDate>Wed, 14 Oct 2026 11:03:26 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 22:59): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3536786.html</link>
+      <pubDate>Wed, 14 Oct 2026 20:24:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f54d0d77-f009-492c-af9f-11beb163e84f</guid>
-      <description>Originally published Wed 14 Oct 2026 11:45 IDT.
+      <guid isPermaLink="false">b30a6e17-44ff-48cd-8ef3-0898206c1663</guid>
+      <description>Originally published Wed 14 Oct 2026 22:59 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-1045-2700.mp3" length="1973908" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-2159-3400.mp3" length="2069131" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 13:10): 6am ET, October 14 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 23:09): 4pm ET, October 14 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 14 Oct 2026 11:02:26 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 20:23:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">23ce3c47-20e2-4da1-a9b5-339d19ade65c</guid>
-      <description>Originally published Wed 14 Oct 2026 13:10 IDT.
+      <guid isPermaLink="false">c259f851-40f3-42ea-9456-317003d83515</guid>
+      <description>Originally published Wed 14 Oct 2026 23:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/81af87fd-daa2-4071-ac8f-91592db0eccd/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=81af87fd-daa2-4071-ac8f-91592db0eccd&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261014-0600-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/14bd9d00-5b5e-4df5-b814-dad84be6d44b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=14bd9d00-5b5e-4df5-b814-dad84be6d44b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261014-1600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 13.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3534606.html</link>
-      <pubDate>Wed, 14 Oct 2026 11:01:26 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 14.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3536730.html</link>
+      <pubDate>Wed, 14 Oct 2026 20:22:16 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">9e0c8731-321e-4f59-a329-8f1ef8d02c7d-SENDUNGSAUDIO</guid>
-      <description>Originally published Tue 13 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">223a52d3-879b-4287-92ba-67606d925c94-SENDUNGSAUDIO</guid>
+      <description>Originally published Wed 14 Oct 2026 21:00 IDT.
 
-Alexander Schweitzer zum neuen Arbeits- und Sozialminister ernannt, Merz fordert auf Arbeitgebertag Tempo bei Reformen, Bundesverfassungsgericht prüft steuerliche Vorteile für Firmenerben, Missbrauchsbeauftragte berichtet von großer Gefahr für Kinder und Jugendliche im digitalen Bereich, Festnahmen in Deutschland nach Brand in polnischer Starlink-Anlage, Drohnenangriff auf zwei Handelsschiffe vor der Küste von Bulgarien im Schwarzen Meer, Zehntausende Menschen protestieren erneut auf Frankreichs Straßen für bessere Lernbedingungen, Papst Leo XIV. in Rom erfolgreich operiert, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-2142-3100.mp3" length="15214241" type="audio/mpeg"/>
+Prozessbeginn gegen mutmaßlichen Drahtzieher wegen Nord-Stream-Sprengung, Ukrainischer Präsident Selenskyj beklagt fehlende Warnung vor russischen Angriffen, Regierungserklärung von Bundeskanzler Merz zu Ukraine-Hilfe, Beschluss von AfD und BSW in Sachsen-Anhalt gegen Unterstützung der Ukraine, Ermittlungen der Bundeswehr wegen sexueller Übergriffe in Kaserne in Sachsen-Anhalt, Einigung der Koalition auf Zuckersteuer, Alkoholverbot an allen deutschen Bahnhöfen, Papst Leo XIV. hat Lungenkrebs, Wildlife Photographer of the Year: Spektakuläre Naturfotos 2026, Das Wetter In der 20 Uhr haben wir im Beitrag zum Nord-Stream-Prozess in der Bauchbinde die Behörde als Generalbundesanwaltschaft bezeichnet. Wir haben dies im Anschluss korrigiert. Korrekt ist Bundesanwaltschaft.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-2039-2801.mp3" length="14725411" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 13:30): Die Nachrichten vom 14.10.2026, 12:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43772.html</link>
-      <pubDate>Wed, 14 Oct 2026 11:00:26 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 23:00): Die Nachrichten vom 14.10.2026, 22:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43802.html</link>
+      <pubDate>Wed, 14 Oct 2026 20:21:16 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">156c0dc0-381e-5e06-8b47-85a109fba4f0</guid>
-      <description>Originally published Wed 14 Oct 2026 13:30 IDT.
+      <guid isPermaLink="false">85b36080-9c6c-5582-b485-7c14073e23bc</guid>
+      <description>Originally published Wed 14 Oct 2026 23:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/14/nachrichten_dlf_20261014_1230_67f63ad9.mp3?refId=nachrichten-108" length="4981007" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/14/nachrichten_dlf_20261014_2200_5a0015b3.mp3?refId=nachrichten-108" length="4999397" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (14.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-14102026</link>
-      <pubDate>Wed, 14 Oct 2026 10:59:26 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:32): Abendjournal um 18 (14.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-14102026</link>
+      <pubDate>Wed, 14 Oct 2026 20:20:16 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_dce3efcee00a48c4958bd60af0aacead</guid>
-      <description>Originally published Wed 14 Oct 2026 09:26 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_dce3efcee00a48c4958bd60af0aacead.mp3?etag=e8c9baa956da9836cd413bd9fc4713d8" length="29378546" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_c0de6826839243608f0b750b52b7e2ec</guid>
+      <description>Originally published Wed 14 Oct 2026 19:32 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c0de6826839243608f0b750b52b7e2ec.mp3?etag=c9fd3e63b221785f73a11187bd612815" length="36362035" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 09:12): Anschlag auf Nord Stream-Pipelines: Das ist zum Prozessauftakt wichtig</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/anschlag-auf-nord-stream-pipelines-das-ist-zum-prozessauftakt-wichtig/2123111</link>
-      <pubDate>Wed, 14 Oct 2026 10:58:26 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Sondierungs-Aus? | AfD-Debatte | Vergewaltigungs-Prozess</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungs-aus-afd-debatte-vergewaltigungs-prozess.html</link>
+      <pubDate>Wed, 14 Oct 2026 20:19:16 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">f12ca863-cb82-4786-bda7-6ae4c9cb9091</guid>
-      <description>Originally published Wed 14 Oct 2026 09:12 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/0e/ef/0eefb426-75dd-43fa-9bbd-8be430ace73e/0eefb426-75dd-43fa-9bbd-8be430ace73e_mp3-256kd.mp3</guid>
+      <description>Originally published Wed 14 Oct 2026 19:17 IDT.
 
-Im Fall der Sprengung auf die Nord Stream-Pipelines steht ab heute der mutmaßliche Anführer des Sabotageteams in Hamburg vor Gericht.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123111/c/feed/anschlag-auf-nord-stream-pipelines-das-ist-zum-prozessauftakt-wichtig.mp3" length="9215277" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Linken-Konstituierung | Finanzplanung | Kabinett in Cottbus</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/linken-konstituierung-finanzplanung-kabinett-cottbus.html</link>
-      <pubDate>Wed, 14 Oct 2026 10:57:26 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/91/cb/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc_mp3-256kd.mp3</guid>
-      <description>Originally published Tue 13 Oct 2026 19:17 IDT.
-
-Die Linken-Fraktion hat sich am Dienstag im Abgeordnetenhaus getroffen und neu gebildet. Es wurde ein Krimi. Au&amp;#223;erdem: Finanzsenator stellt Finanzplanung vor; Kabinett in Cottbus; Simulierte Randale von Fu&amp;#223;ballfans.
+Die Sondierungen f&amp;#252;r ein Dreierb&amp;#252;ndnis von Berliner Linken, Gr&amp;#252;nen und SPD liegen auf Eis. Laut Gr&amp;#252;nen und SPD hat sich Die Linke sich nicht an das Ergebnis ihrer gemeinsamen Vorgespr&amp;#228;che gehalten. Au&amp;#223;erdem: AfD-Debatte zu &quot;Migranten-Gewalt&quot; im Landtag; Prozess gegen Serien-Vergewaltiger: Forderungen, kein Urteil; Bundeswehr testet Laser gegen Drohnen in Strausberg.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/91/cb/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc_mp3-256kd.mp3" length="31884817" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/0e/ef/0eefb426-75dd-43fa-9bbd-8be430ace73e/0eefb426-75dd-43fa-9bbd-8be430ace73e_mp3-256kd.mp3" length="29116953" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:46): Pope has surgery for lung cancer</title>
-      <link>http://www.bbc.co.uk/programmes/p0pgjxdp</link>
-      <pubDate>Wed, 14 Oct 2026 10:56:26 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pgjxdp</guid>
-      <description>Originally published Wed 14 Oct 2026 07:46 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 17:30): Kabinett beschließt Zuckersteuer: Süßes Steuer-Versprechen oder bittere Bürokratie-Pille?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/kabinett-beschliesst-zuckersteuer-suesses-steuer-versprechen-oder-bittere-buerokratie-pille/2123129</link>
+      <pubDate>Wed, 14 Oct 2026 20:18:16 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">68a6e47e-7e8a-4bc6-aaa6-a455faabda2a</guid>
+      <description>Originally published Wed 14 Oct 2026 17:30 IDT.
 
-&lt;p&gt;A medical bulletin from the Vatican has announced that Pope Leo has undergone a successful operation to remove a cancerous tumour from his right lung. It said the Pope had woken up normally and returned to his room after a brief period of observation. Pope Leo had announced on Sunday that his operation was imminent but the cancer diagnosis only came after the procedure had been carried out. &lt;/p&gt;&lt;p&gt;Also: 30 years after the American rapper Tupac Shakur was killed in a drive-by shooting in Las Vegas, a former gang boss has been sentenced to 40 years in prison for his part in the murder. Cornell University in the US has suspended some campus parties in response to a former student’s gang rape allegations. In Israel, Prime Minister Benjamin Netanyahu has said anonymous contributors to the Israeli documentary &quot;NAZA&quot; about the war against Hamas in Gaza must have their identities revealed; we speak to the film's directors. A major report by England's football regulator has warned that many clubs are living on edge of financial disaster. How minuscule robots piloted by magnets could deliver doses of medicine to specific parts of the body. And a new species of dinosaur is discovered by a British scientist.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Mehr Steuereinnahmen und eine gesündere Bevölkerung. Das verspricht sich die Bundesregieurng von der Zuckersteuer. Heute das hat Kabinett die Pläne auf den Weg gebracht. Aber es gibt auch Kritik, etwa von Getränkeproduzenten. Sie befürchten neue Bürokratie.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123129/c/feed/kabinett-beschliesst-zuckersteuer-suesses-steuer-versprechen-oder-bittere-buerokratie-pille.mp3" length="8500653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:53): Russian attacks leave 600,000 Ukrainians without power</title>
+      <link>http://www.bbc.co.uk/programmes/p0pgn12v</link>
+      <pubDate>Wed, 14 Oct 2026 20:17:16 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pgn12v</guid>
+      <description>Originally published Wed 14 Oct 2026 17:53 IDT.
+
+&lt;p&gt;Russian missile and drone strikes hit &quot;critical&quot; infrastructure in Kyiv and Kharkiv despite US President Donald Trump's claim on Sunday that an &quot;energy ceasefire&quot; was in place between Russia and Ukraine. Ukraine says it received no warning from allies and was hampered by restrictions to the Starlink communications network during another night of intense attacks.  Separately, speed restrictions on the key Starlink communications network have disrupted Ukraine's battlefield &quot;missions&quot;, President Volodymyr Zelensky's adviser has warned. Also: A Ukrainian man goes on trial in Hamburg accused of blowing up Russia's Nord Stream gas pipelines to Germany; Saudi Arabia's Supreme Court overturns a death sentence imposed on a Sri Lankan worker for blasphemy; The Global Penguin Society says more needs to be done to protect the birds from the impact of climate change, the El Niño weather pattern, deep sea mining and oil development; In China how the &quot;loneliness economy&quot; is growing to help people deal with feelings of isolation; and archaeologists in Turkey say they’ve found the world’s oldest shipwreck. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Pope Leo XIV arriving at the Agostino Gemelli University Hospital in Rome, 13th October.
-Credit: EPA&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgjx74.mp3" length="13904000" type="audio/mpeg"/>
+Photo: &lt;/p&gt;&lt;p&gt;Residents look on from a balcony of an apartment of a residential building which was damaged by a late evening Russian missile strike, amid Russia's attack on Ukraine, in Kyiv, Ukraine October 14, 2026. 
+Credit: 
+Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgmx1w.mp3" length="13912000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
