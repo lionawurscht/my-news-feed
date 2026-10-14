@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 13 Oct 2026 20:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:05:27 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:36): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3534388.html</link>
-      <pubDate>Tue, 13 Oct 2026 20:01:34 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 03:02): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3534738.html</link>
+      <pubDate>Wed, 14 Oct 2026 00:05:27 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">6959790a-3333-44ec-b6c6-d9f8e6c28cc6</guid>
-      <description>Originally published Tue 13 Oct 2026 19:36 IDT.
+      <guid isPermaLink="false">630afc3e-946a-42e3-805c-c6c3784472cd</guid>
+      <description>Originally published Wed 14 Oct 2026 03:02 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-1836-0000.mp3" length="1873290" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-0201-5900.mp3" length="1733157" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 22:10): 3pm ET, October 13 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 02:10): 7pm ET, October 13 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 13 Oct 2026 20:00:34 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 00:04:27 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">fcce0225-3563-4892-b99b-85180d40bc8e</guid>
-      <description>Originally published Tue 13 Oct 2026 22:10 IDT.
+      <guid isPermaLink="false">c78b2bc9-e5b2-4d59-80a9-0938b5e2473f</guid>
+      <description>Originally published Wed 14 Oct 2026 02:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c00d9f15-f6cc-4f2f-9b0d-d49df25db519/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c00d9f15-f6cc-4f2f-9b0d-d49df25db519&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261013-1500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/82112552-b60b-4ad3-866a-68d931c5130c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=82112552-b60b-4ad3-866a-68d931c5130c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261013-1900-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 13.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3534606.html</link>
-      <pubDate>Tue, 13 Oct 2026 19:59:34 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 00:03:27 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">9e0c8731-321e-4f59-a329-8f1ef8d02c7d-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 13 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Alexander Schweitzer zum neuen Arbeits- und Sozialminister ernannt, Merz fordert
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1013/AU-20261013-2142-3100.mp3" length="15214241" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 22:00): Die Nachrichten vom 13.10.2026, 21:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43724.html</link>
-      <pubDate>Tue, 13 Oct 2026 19:58:34 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 01:59): Die Nachrichten vom 14.10.2026, 00:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43732.html</link>
+      <pubDate>Wed, 14 Oct 2026 00:02:27 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">983c9b9d-0e06-5274-853e-0567c5ac255c</guid>
-      <description>Originally published Tue 13 Oct 2026 22:00 IDT.
+      <guid isPermaLink="false">7121f2df-82ca-53c4-94eb-0d58ffd3a3e5</guid>
+      <description>Originally published Wed 14 Oct 2026 01:59 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/13/nachrichten_dlf_20261013_2100_5aa2cb9a.mp3?refId=nachrichten-108" length="5166999" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/14/nachrichten_dlf_20261014_0059_897e7e64.mp3?refId=nachrichten-108" length="5026983" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:31): Abendjournal um 18 (13.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-13102026</link>
-      <pubDate>Tue, 13 Oct 2026 19:57:34 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 00:01:27 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_f8a377b772fb491882d0603de719cf09</guid>
       <description>Originally published Tue 13 Oct 2026 19:31 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Linken-Konstituierung | Finanzplanung | Kabinett in Cottbus</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/linken-konstituierung-finanzplanung-kabinett-cottbus.html</link>
-      <pubDate>Tue, 13 Oct 2026 19:56:34 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 00:00:27 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/91/cb/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc/91cbd343-23c7-4ba7-a56f-dcecfa27f1cc_mp3-256kd.mp3</guid>
       <description>Originally published Tue 13 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Die Linken-Fraktion hat sich am Dienstag im Abgeordnetenhaus getroffen und neu g
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 17:57): Reformdruck von allen Seiten: Was wird vom neuen Arbeitsminister erwartet?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/reformdruck-von-allen-seiten-was-wird-vom-neuen-arbeitsminister-erwartet/2123092</link>
-      <pubDate>Tue, 13 Oct 2026 19:55:34 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 23:59:27 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">ef9e8403-76be-402c-80e0-d94eddb4d30b</guid>
       <description>Originally published Tue 13 Oct 2026 17:57 IDT.
@@ -92,7 +92,7 @@ Alexander Schweitzer wird heute vereidigt und tritt damit den Posten als Bundesa
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 17:44): IMF upgrades global economy outlook</title>
       <link>http://www.bbc.co.uk/programmes/p0pggr8v</link>
-      <pubDate>Tue, 13 Oct 2026 19:54:34 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 23:58:27 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pggr8v</guid>
       <description>Originally published Tue 13 Oct 2026 17:44 IDT.
