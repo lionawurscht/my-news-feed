@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Oct 2026 02:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:59:24 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 02:53): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3536906.html</link>
-      <pubDate>Thu, 15 Oct 2026 02:56:00 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 10:34): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3537478.html</link>
+      <pubDate>Thu, 15 Oct 2026 07:59:24 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">7ca1f86c-9891-42e7-bfb4-0197127f23b8</guid>
-      <description>Originally published Thu 15 Oct 2026 02:53 IDT.
+      <guid isPermaLink="false">60180dcd-92cc-415a-a501-b749150590a6</guid>
+      <description>Originally published Thu 15 Oct 2026 10:34 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-0153-1100.mp3" length="99983" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-0934-4400.mp3" length="2122891" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 05:10): 10pm ET, October 14 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 10:09): 3am ET, October 15 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 15 Oct 2026 02:55:00 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 07:58:24 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">f50f2735-8c73-4f93-b2f0-23a731718494</guid>
-      <description>Originally published Thu 15 Oct 2026 05:10 IDT.
+      <guid isPermaLink="false">3e28dfe4-7feb-4aaf-8533-bda5403b9f8d</guid>
+      <description>Originally published Thu 15 Oct 2026 10:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/eded1298-1c20-4b74-9381-16eb148cf35d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=eded1298-1c20-4b74-9381-16eb148cf35d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261014-2200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4ce23f5b-b272-4cfd-80e5-e995f3d0117f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4ce23f5b-b272-4cfd-80e5-e995f3d0117f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261015-0300-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Thu 08:00): חדשון בעברית קלה (15/10/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Thu, 15 Oct 2026 07:57:24 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/15-10-26.m4a</guid>
+      <description>Originally published Thu 15 Oct 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• נִפתְחָה ההַצבָּעָה בּבְּחִירוֹת בּשַגרִירוּיוֹת ישׂראל בּעוֹלם. בּשַגרִירוּת ישׂראל בּניוּ זילַנד נִפתְחָה הלַילה הקַלפִּי הרִאשוֹנה, המיוֹעֶדת לדִיפּלוֹמָטים ושְלִיחֵי המְדינה ובנֵי מִשפּחוֹתֵיהֶם
+• יו&quot;ר וַעֲדַת הבְּחירוֹת השוֹפֵט סוֹלבֶּרג: &quot;לִגנוֹב בּחירוֹת – אִי אֶפשָר&quot;
+• בּמטוֹס המנַהֲלים המִצרִי שֶנָחַת בּנַתבַּ&quot;ג בּסוֹף ספּטמבּר 2023 לא היה רֹאש המוֹדִיעִין המִצרִי עַבַּאס כַּאמֶל אלא שנֵי אַנשֵי עֲסָקים
+• שַגרִיר ארה&quot;ב בּישׂראל מַייק הַאקבּי נִפגַש בּיָמים האַחרוֹנים בּאוֹפֶן חֲשָאִי עִם ראש מִפלֶגֶת 'יָשָר!' גדי אַיזֶנקוֹט
+• אתמוֹל הִתרַחֵש פּיצוּץ בּמִפעַל 'אִינטֶל' בּקִריַית גַת ובעִקבוֹתָיו פָּרצָה שׂרֵפָה. אָדם אחד נֶהֱרַג ושנַיִים נִפצְעוּ קָשה
+• הלמ&quot;ס: מִספַּר הסטוּדֶנטִים בּמִקצוֹעוֹת המַדָעים והטֶכנוֹלוֹגיה יָרד בּ-2026
+• התִַחֲזית: יְרִידה בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/15-10-26.m4a" length="1537320" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 14.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3536730.html</link>
-      <pubDate>Thu, 15 Oct 2026 02:54:00 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Thu, 15 Oct 2026 07:56:24 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">223a52d3-879b-4287-92ba-67606d925c94-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 14 Oct 2026 21:00 IDT.
 
@@ -46,30 +68,41 @@ Prozessbeginn gegen mutmaßlichen Drahtzieher wegen Nord-Stream-Sprengung, Ukrai
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-2039-2801.mp3" length="14725411" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 05:00): Die Nachrichten vom 15.10.2026, 04:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43814.html</link>
-      <pubDate>Thu, 15 Oct 2026 02:53:00 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">2e0dadc2-584f-583b-9a69-e78749333c9a</guid>
-      <description>Originally published Thu 15 Oct 2026 05:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 10:30): Die Nachrichten vom 15.10.2026, 09:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43836.html</link>
+      <pubDate>Thu, 15 Oct 2026 07:55:24 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">abbd73aa-4398-5c75-8592-aa708d4771f9</guid>
+      <description>Originally published Thu 15 Oct 2026 10:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/15/nachrichten_dlf_20261015_0400_7749a953.mp3?refId=nachrichten-108" length="4978081" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/15/nachrichten_dlf_20261015_0930_a077cbc0.mp3?refId=nachrichten-108" length="4945481" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:32): Abendjournal um 18 (14.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-14102026</link>
-      <pubDate>Thu, 15 Oct 2026 02:52:00 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_c0de6826839243608f0b750b52b7e2ec</guid>
-      <description>Originally published Wed 14 Oct 2026 19:32 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c0de6826839243608f0b750b52b7e2ec.mp3?etag=c9fd3e63b221785f73a11187bd612815" length="36362035" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:27): Morgenjournal um 8 (15.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-15102026</link>
+      <pubDate>Thu, 15 Oct 2026 07:54:24 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_b854bde9d7a848ca97592be8dac790d4</guid>
+      <description>Originally published Thu 15 Oct 2026 09:27 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b854bde9d7a848ca97592be8dac790d4.mp3?etag=dc27ff96f30c67471f6387173e790bb8" length="29411988" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:00): Worum es beim Streit um den neuen EU-Haushalt geht</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/worum-es-beim-streit-um-den-neuen-eu-haushalt-geht/2123151</link>
+      <pubDate>Thu, 15 Oct 2026 07:53:24 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">20ffb48b-4a3d-4b3b-8f7a-75f050affe3f</guid>
+      <description>Originally published Thu 15 Oct 2026 09:00 IDT.
+
+Der Streit ums liebe Geld steht im Fokus beim EU-Gipfel in Brüssel. Zwei Tage lang  diskutieren Bundeskanzler Friedrich Merz und die anderen Staats- und Regierungschefs der Mitgliedsstaaten über die langfristige Haushaltsplanung für die Jahre ab 2028.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123151/c/feed/worum-es-beim-streit-um-den-neuen-eu-haushalt-geht.mp3" length="8780205" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Sondierungs-Aus? | AfD-Debatte | Vergewaltigungs-Prozess</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungs-aus-afd-debatte-vergewaltigungs-prozess.html</link>
-      <pubDate>Thu, 15 Oct 2026 02:51:00 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 15 Oct 2026 07:52:24 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/0e/ef/0eefb426-75dd-43fa-9bbd-8be430ace73e/0eefb426-75dd-43fa-9bbd-8be430ace73e_mp3-256kd.mp3</guid>
       <description>Originally published Wed 14 Oct 2026 19:17 IDT.
 
@@ -79,31 +112,19 @@ Die Sondierungen f&amp;#252;r ein Dreierb&amp;#252;ndnis von Berliner Linken, Gr
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/0e/ef/0eefb426-75dd-43fa-9bbd-8be430ace73e/0eefb426-75dd-43fa-9bbd-8be430ace73e_mp3-256kd.mp3" length="29116953" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 17:30): Kabinett beschließt Zuckersteuer: Süßes Steuer-Versprechen oder bittere Bürokratie-Pille?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/kabinett-beschliesst-zuckersteuer-suesses-steuer-versprechen-oder-bittere-buerokratie-pille/2123129</link>
-      <pubDate>Thu, 15 Oct 2026 02:50:00 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">68a6e47e-7e8a-4bc6-aaa6-a455faabda2a</guid>
-      <description>Originally published Wed 14 Oct 2026 17:30 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:34): Zelensky feels 'betrayed' by Trump</title>
+      <link>http://www.bbc.co.uk/programmes/p0pgqw3y</link>
+      <pubDate>Thu, 15 Oct 2026 07:51:24 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pgqw3y</guid>
+      <description>Originally published Thu 15 Oct 2026 07:34 IDT.
 
-Mehr Steuereinnahmen und eine gesündere Bevölkerung. Das verspricht sich die Bundesregieurng von der Zuckersteuer. Heute das hat Kabinett die Pläne auf den Weg gebracht. Aber es gibt auch Kritik, etwa von Getränkeproduzenten. Sie befürchten neue Bürokratie.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123129/c/feed/kabinett-beschliesst-zuckersteuer-suesses-steuer-versprechen-oder-bittere-buerokratie-pille.mp3" length="8500653" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:53): Russian attacks leave 600,000 Ukrainians without power</title>
-      <link>http://www.bbc.co.uk/programmes/p0pgn12v</link>
-      <pubDate>Thu, 15 Oct 2026 02:49:00 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pgn12v</guid>
-      <description>Originally published Wed 14 Oct 2026 17:53 IDT.
-
-&lt;p&gt;Russian missile and drone strikes hit &quot;critical&quot; infrastructure in Kyiv and Kharkiv despite US President Donald Trump's claim on Sunday that an &quot;energy ceasefire&quot; was in place between Russia and Ukraine. Ukraine says it received no warning from allies and was hampered by restrictions to the Starlink communications network during another night of intense attacks.  Separately, speed restrictions on the key Starlink communications network have disrupted Ukraine's battlefield &quot;missions&quot;, President Volodymyr Zelensky's adviser has warned. Also: A Ukrainian man goes on trial in Hamburg accused of blowing up Russia's Nord Stream gas pipelines to Germany; Saudi Arabia's Supreme Court overturns a death sentence imposed on a Sri Lankan worker for blasphemy; The Global Penguin Society says more needs to be done to protect the birds from the impact of climate change, the El Niño weather pattern, deep sea mining and oil development; In China how the &quot;loneliness economy&quot; is growing to help people deal with feelings of isolation; and archaeologists in Turkey say they’ve found the world’s oldest shipwreck. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Volodymyr Zelensky says he feels &quot;betrayed&quot; by Donald Trump after the US-Russia diesel deal and an apparent decision to curb access to the Starlink network, which has been vital to Ukraine during the war. President Zelensky accused the White House of being on the wrong side of history. Also: student protesters attack government buildings in Albania; Turkish police raid and shut down the opposition station Halk TV; China and North Korea build bridges - metaphorically and literally; the Wildlife Photographer of the Year reflects on what his shot of a grieving elephant can teach us; and the dog that sniffs out invasive &quot;sea vomit&quot;. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: &lt;/p&gt;&lt;p&gt;Residents look on from a balcony of an apartment of a residential building which was damaged by a late evening Russian missile strike, amid Russia's attack on Ukraine, in Kyiv, Ukraine October 14, 2026. 
-Credit: 
-Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgmx1w.mp3" length="13912000" type="audio/mpeg"/>
+Photo: Ukraine's President Zelensky in London, 14th October.
+Credit: EPA/Shutterstock.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgqvvk.mp3" length="13256000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
