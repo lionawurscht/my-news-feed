@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:58:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:07:30 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,53 +13,53 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:52): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3538870.html</link>
-      <pubDate>Thu, 15 Oct 2026 17:58:19 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 22:48): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3539028.html</link>
+      <pubDate>Thu, 15 Oct 2026 21:07:30 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">6d5ebedb-5fdb-4e17-8852-900c830f98fe</guid>
-      <description>Originally published Thu 15 Oct 2026 19:52 IDT.
+      <guid isPermaLink="false">2e2783d8-65f2-4db0-a4d4-0c229beba9ab</guid>
+      <description>Originally published Thu 15 Oct 2026 22:48 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-1852-4500.mp3" length="2076427" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-2148-2001.mp3" length="2003851" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 20:10): 1pm ET, October 15 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 23:10): 4pm ET, October 15 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 15 Oct 2026 17:57:19 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:06:30 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">30f5d3ce-5c1a-4cb9-ae9e-a1d238b8e5fc</guid>
-      <description>Originally published Thu 15 Oct 2026 20:10 IDT.
+      <guid isPermaLink="false">90347918-7aee-43b7-a8e0-b04ea60e7098</guid>
+      <description>Originally published Thu 15 Oct 2026 23:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5ff76b36-ce0e-4d2c-b0b8-89efc5412ac1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5ff76b36-ce0e-4d2c-b0b8-89efc5412ac1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261015-1300-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ef1bad18-d2d8-4a0e-9377-93ff9d8582ea/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ef1bad18-d2d8-4a0e-9377-93ff9d8582ea&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261015-1600-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 14.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3536730.html</link>
-      <pubDate>Thu, 15 Oct 2026 17:56:19 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 15.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3538994.html</link>
+      <pubDate>Thu, 15 Oct 2026 21:05:30 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">223a52d3-879b-4287-92ba-67606d925c94-SENDUNGSAUDIO</guid>
-      <description>Originally published Wed 14 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">c8a892d9-797f-449a-9648-e2380e188e4e-SENDUNGSAUDIO</guid>
+      <description>Originally published Thu 15 Oct 2026 21:00 IDT.
 
-Prozessbeginn gegen mutmaßlichen Drahtzieher wegen Nord-Stream-Sprengung, Ukrainischer Präsident Selenskyj beklagt fehlende Warnung vor russischen Angriffen, Regierungserklärung von Bundeskanzler Merz zu Ukraine-Hilfe, Beschluss von AfD und BSW in Sachsen-Anhalt gegen Unterstützung der Ukraine, Ermittlungen der Bundeswehr wegen sexueller Übergriffe in Kaserne in Sachsen-Anhalt, Einigung der Koalition auf Zuckersteuer, Alkoholverbot an allen deutschen Bahnhöfen, Papst Leo XIV. hat Lungenkrebs, Wildlife Photographer of the Year: Spektakuläre Naturfotos 2026, Das Wetter In der 20 Uhr haben wir im Beitrag zum Nord-Stream-Prozess in der Bauchbinde die Behörde als Generalbundesanwaltschaft bezeichnet. Wir haben dies im Anschluss korrigiert. Korrekt ist Bundesanwaltschaft.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-2039-2801.mp3" length="14725411" type="audio/mpeg"/>
+Bundestag beschließt Reform der Notfallmedizin, Mammografie-Screening künftig bereits ab 45 Jahren, EU-Spitzen verhandeln über Haushalt der Europäischen Union, Beschluss Bundesverfassungsgericht: Wirtschaftsministerin Reiche muss Instagram-Post über Linkspartei löschen, EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten, Jugendliche in Albanien protestieren gegen Missstände im Bildungswesen, Tote nach Überschwemmungen in Istanbul, Mehlschwalbe ist Vogel des Jahres 2027, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-2026-2200.mp3" length="15076003" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 20:00): Die Nachrichten vom 15.10.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43870.html</link>
-      <pubDate>Thu, 15 Oct 2026 17:55:19 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 23:00): Die Nachrichten vom 15.10.2026, 22:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43876.html</link>
+      <pubDate>Thu, 15 Oct 2026 21:04:30 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">5521aa38-ee1f-5e95-ad44-2d6c80b237f5</guid>
-      <description>Originally published Thu 15 Oct 2026 20:00 IDT.
+      <guid isPermaLink="false">7e6caf16-c25d-53ea-885c-029e4d685dc9</guid>
+      <description>Originally published Thu 15 Oct 2026 23:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/15/nachrichten_dlf_20261015_1900_da81a44e.mp3?refId=nachrichten-108" length="4838065" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/15/nachrichten_dlf_20261015_2200_9626717c.mp3?refId=nachrichten-108" length="5034924" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:32): Abendjournal um 18 (15.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-15102026</link>
-      <pubDate>Thu, 15 Oct 2026 17:54:19 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:03:30 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_50e90d880afe44569f211bf43f887355</guid>
       <description>Originally published Thu 15 Oct 2026 19:32 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungen fortgesetzt | Wirtschaft in Brandenburg | Landeslabor in Adlershof</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-fortgesetzt-wirtschaft-brandenburg-landeslabor.html</link>
-      <pubDate>Thu, 15 Oct 2026 17:53:19 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:02:30 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/27/dd/27dd121d-7c92-49b8-a1af-c487996ff48c/27dd121d-7c92-49b8-a1af-c487996ff48c_mp3-256kd.mp3</guid>
       <description>Originally published Thu 15 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Linke, Gr&amp;#252;ne und SPD haben in Berlin die Gespr&amp;#228;che wieder aufg
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:30): Grippe &amp; Co.: Wie komme ich am besten durch die Erkältungszeit</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/grippe-co-wie-komme-ich-am-besten-durch-die-erkaeltungszeit/2123173</link>
-      <pubDate>Thu, 15 Oct 2026 17:52:19 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:01:30 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">fa6d01d9-dbba-4f3e-9813-6533af6491d1</guid>
       <description>Originally published Thu 15 Oct 2026 18:30 IDT.
@@ -92,7 +92,7 @@ Die Krankheitswelle nimmt langsam Fahrt auf. Wie können wir uns schützen?</des
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:25): Deadly school disaster in Pakistan</title>
       <link>http://www.bbc.co.uk/programmes/p0pgwm5v</link>
-      <pubDate>Thu, 15 Oct 2026 17:51:19 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 21:00:30 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pgwm5v</guid>
       <description>Originally published Thu 15 Oct 2026 18:25 IDT.
