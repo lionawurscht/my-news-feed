@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:58:19 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 15:44): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3538226.html</link>
-      <pubDate>Thu, 15 Oct 2026 13:17:21 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:52): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3538870.html</link>
+      <pubDate>Thu, 15 Oct 2026 17:58:19 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">aad8f27f-f3af-4cce-a74a-b0ef86dd1aa6</guid>
-      <description>Originally published Thu 15 Oct 2026 15:44 IDT.
+      <guid isPermaLink="false">6d5ebedb-5fdb-4e17-8852-900c830f98fe</guid>
+      <description>Originally published Thu 15 Oct 2026 19:52 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-1444-4400.mp3" length="1986187" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-1852-4500.mp3" length="2076427" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 16:09): 9am ET, October 15 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 20:10): 1pm ET, October 15 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 15 Oct 2026 13:16:21 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 17:57:19 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">796da595-f7ce-41e5-9649-32a05abb5d56</guid>
-      <description>Originally published Thu 15 Oct 2026 16:09 IDT.
+      <guid isPermaLink="false">30f5d3ce-5c1a-4cb9-ae9e-a1d238b8e5fc</guid>
+      <description>Originally published Thu 15 Oct 2026 20:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/eaa8c82b-3d8e-4bb2-bf0b-1a2567112d7e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=eaa8c82b-3d8e-4bb2-bf0b-1a2567112d7e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261015-0900-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5ff76b36-ce0e-4d2c-b0b8-89efc5412ac1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5ff76b36-ce0e-4d2c-b0b8-89efc5412ac1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261015-1300-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 14.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3536730.html</link>
-      <pubDate>Thu, 15 Oct 2026 13:15:21 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 17:56:19 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">223a52d3-879b-4287-92ba-67606d925c94-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 14 Oct 2026 21:00 IDT.
@@ -46,63 +46,60 @@ Prozessbeginn gegen mutmaßlichen Drahtzieher wegen Nord-Stream-Sprengung, Ukrai
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1014/AU-20261014-2039-2801.mp3" length="14725411" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 15:30): Die Nachrichten vom 15.10.2026, 14:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43854.html</link>
-      <pubDate>Thu, 15 Oct 2026 13:14:21 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 20:00): Die Nachrichten vom 15.10.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43870.html</link>
+      <pubDate>Thu, 15 Oct 2026 17:55:19 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">2e9df9b3-e11c-53db-81df-d12f4f78fa47</guid>
-      <description>Originally published Thu 15 Oct 2026 15:30 IDT.
+      <guid isPermaLink="false">5521aa38-ee1f-5e95-ad44-2d6c80b237f5</guid>
+      <description>Originally published Thu 15 Oct 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/15/nachrichten_dlf_20261015_1430_5d8a7328.mp3?refId=nachrichten-108" length="5019459" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/15/nachrichten_dlf_20261015_1900_da81a44e.mp3?refId=nachrichten-108" length="4838065" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 14:19): Mittagsjournal (15.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-15102026</link>
-      <pubDate>Thu, 15 Oct 2026 13:13:21 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:32): Abendjournal um 18 (15.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-15102026</link>
+      <pubDate>Thu, 15 Oct 2026 17:54:19 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_a120369c96c84936b691142e20ddd528</guid>
-      <description>Originally published Thu 15 Oct 2026 14:19 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_a120369c96c84936b691142e20ddd528.mp3?etag=45335f76c748e6da125cd441e613a385" length="86584683" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_50e90d880afe44569f211bf43f887355</guid>
+      <description>Originally published Thu 15 Oct 2026 19:32 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_50e90d880afe44569f211bf43f887355.mp3?etag=14d9d2a48ec91626a2400b553a5fff6d" length="36375296" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:00): Worum es beim Streit um den neuen EU-Haushalt geht</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/worum-es-beim-streit-um-den-neuen-eu-haushalt-geht/2123151</link>
-      <pubDate>Thu, 15 Oct 2026 13:12:21 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungen fortgesetzt | Wirtschaft in Brandenburg | Landeslabor in Adlershof</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-fortgesetzt-wirtschaft-brandenburg-landeslabor.html</link>
+      <pubDate>Thu, 15 Oct 2026 17:53:19 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">20ffb48b-4a3d-4b3b-8f7a-75f050affe3f</guid>
-      <description>Originally published Thu 15 Oct 2026 09:00 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/27/dd/27dd121d-7c92-49b8-a1af-c487996ff48c/27dd121d-7c92-49b8-a1af-c487996ff48c_mp3-256kd.mp3</guid>
+      <description>Originally published Thu 15 Oct 2026 19:17 IDT.
 
-Der Streit ums liebe Geld steht im Fokus beim EU-Gipfel in Brüssel. Zwei Tage lang  diskutieren Bundeskanzler Friedrich Merz und die anderen Staats- und Regierungschefs der Mitgliedsstaaten über die langfristige Haushaltsplanung für die Jahre ab 2028.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123151/c/feed/worum-es-beim-streit-um-den-neuen-eu-haushalt-geht.mp3" length="8780205" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Sondierungs-Aus? | AfD-Debatte | Vergewaltigungs-Prozess</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungs-aus-afd-debatte-vergewaltigungs-prozess.html</link>
-      <pubDate>Thu, 15 Oct 2026 13:11:21 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/0e/ef/0eefb426-75dd-43fa-9bbd-8be430ace73e/0eefb426-75dd-43fa-9bbd-8be430ace73e_mp3-256kd.mp3</guid>
-      <description>Originally published Wed 14 Oct 2026 19:17 IDT.
-
-Die Sondierungen f&amp;#252;r ein Dreierb&amp;#252;ndnis von Berliner Linken, Gr&amp;#252;nen und SPD liegen auf Eis. Laut Gr&amp;#252;nen und SPD hat sich Die Linke sich nicht an das Ergebnis ihrer gemeinsamen Vorgespr&amp;#228;che gehalten. Au&amp;#223;erdem: AfD-Debatte zu &quot;Migranten-Gewalt&quot; im Landtag; Prozess gegen Serien-Vergewaltiger: Forderungen, kein Urteil; Bundeswehr testet Laser gegen Drohnen in Strausberg.
+Linke, Gr&amp;#252;ne und SPD haben in Berlin die Gespr&amp;#228;che wieder aufgenommen. Dabei sind gleich mitten in eine Kundgebung geraten: Begr&amp;#252;&amp;#223;t wurden sie am Haus der Statistik von Streikenden der Charit&amp;#233;. Au&amp;#223;erdem: Brandenburger Landtag zur Wirtschaft. Klage gegen Gebetsverbot an Schule. Landeslabor Berlin-Brandenburg &amp;#246;ffnet T&amp;#252;ren.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/0e/ef/0eefb426-75dd-43fa-9bbd-8be430ace73e/0eefb426-75dd-43fa-9bbd-8be430ace73e_mp3-256kd.mp3" length="29116953" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/27/dd/27dd121d-7c92-49b8-a1af-c487996ff48c/27dd121d-7c92-49b8-a1af-c487996ff48c_mp3-256kd.mp3" length="28860439" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:34): Zelensky feels 'betrayed' by Trump</title>
-      <link>http://www.bbc.co.uk/programmes/p0pgqw3y</link>
-      <pubDate>Thu, 15 Oct 2026 13:10:21 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pgqw3y</guid>
-      <description>Originally published Thu 15 Oct 2026 07:34 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:30): Grippe &amp; Co.: Wie komme ich am besten durch die Erkältungszeit</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/grippe-co-wie-komme-ich-am-besten-durch-die-erkaeltungszeit/2123173</link>
+      <pubDate>Thu, 15 Oct 2026 17:52:19 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">fa6d01d9-dbba-4f3e-9813-6533af6491d1</guid>
+      <description>Originally published Thu 15 Oct 2026 18:30 IDT.
 
-&lt;p&gt;Volodymyr Zelensky says he feels &quot;betrayed&quot; by Donald Trump after the US-Russia diesel deal and an apparent decision to curb access to the Starlink network, which has been vital to Ukraine during the war. President Zelensky accused the White House of being on the wrong side of history. Also: student protesters attack government buildings in Albania; Turkish police raid and shut down the opposition station Halk TV; China and North Korea build bridges - metaphorically and literally; the Wildlife Photographer of the Year reflects on what his shot of a grieving elephant can teach us; and the dog that sniffs out invasive &quot;sea vomit&quot;. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Ukraine's President Zelensky in London, 14th October.
-Credit: EPA/Shutterstock.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgqvvk.mp3" length="13256000" type="audio/mpeg"/>
+Die Krankheitswelle nimmt langsam Fahrt auf. Wie können wir uns schützen?</description>
+      <enclosure url="https://media.neuland.br.de/file/2123173/c/feed/grippe-co-wie-komme-ich-am-besten-durch-die-erkaeltungszeit.mp3" length="8754093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:25): Deadly school disaster in Pakistan</title>
+      <link>http://www.bbc.co.uk/programmes/p0pgwm5v</link>
+      <pubDate>Thu, 15 Oct 2026 17:51:19 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pgwm5v</guid>
+      <description>Originally published Thu 15 Oct 2026 18:25 IDT.
+
+&lt;p&gt;More than 30 people have been killed after a school roof collapsed in Peshawar, Pakistan, with the majority thought to be children under the age of 13. The owner of the school has been arrested, with police warning the building was extremely dangerous and there was a risk of further collapse. Also: the BBC has identified 254 incidents in which the Israeli military has been accused of killing or injuring people in Gaza, Lebanon, the occupied West Bank and Israel, which it said it would investigate - but no outcome has been publicly disclosed; Prince Harry and his wife Meghan Markle carry out their first joint engagement since returning to the UK; one of the most shocking court cases of recent years, the Pelicot trial, comes to the stage in London next month. Dominique Pelicot was jailed for 20 years for drugging and raping his wife and allowing at least 50 other men to abuse her while she was unconscious; Ukraine attacks one of Russia's major oil refineries, hours after President Vlodomyr Zelenskyy vowed to renew strikes; we report from Iowa, where Democrats lead in early polls for next month's mid-term elections; the World Athletics president aims for African &quot;legacy&quot; with 2029 World Championships in Kenya; and research suggests dogs can link shapes to sounds.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Police officers and military personnel gather as they survey the site of a school roof collapse at a hospital morgue in Peshawar, Pakistan, October 15, 2026. &lt;/p&gt;&lt;p&gt;Credit: REUTERS TPX IMAGES OF THE DAY&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgwl6v.mp3" length="15168000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
