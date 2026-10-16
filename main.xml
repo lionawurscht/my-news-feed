@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:08:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 12:05): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3540038.html</link>
-      <pubDate>Fri, 16 Oct 2026 10:33:51 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:25): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3540530.html</link>
+      <pubDate>Fri, 16 Oct 2026 15:08:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">339b043e-e4fe-4985-bdfd-a4b0416e2e09</guid>
-      <description>Originally published Fri 16 Oct 2026 12:05 IDT.
+      <guid isPermaLink="false">86fb16a5-8d00-401d-a056-be6987d5f901</guid>
+      <description>Originally published Fri 16 Oct 2026 15:25 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-1105-0800.mp3" length="1677451" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-1425-2100.mp3" length="1919371" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 13:10): 6am ET, October 16 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 17:10): 10am ET, October 16 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 16 Oct 2026 10:32:51 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 15:07:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">64b309e8-f019-4899-9a10-9915449b31f9</guid>
-      <description>Originally published Fri 16 Oct 2026 13:10 IDT.
+      <guid isPermaLink="false">aacc9597-de44-4178-915b-22cd4b1a8f6a</guid>
+      <description>Originally published Fri 16 Oct 2026 17:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/82f41611-7dc9-493c-87bb-d2a81adfe43c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=82f41611-7dc9-493c-87bb-d2a81adfe43c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261016-0600-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a8693650-b768-4c64-9949-8e5742ab0dca/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a8693650-b768-4c64-9949-8e5742ab0dca&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261016-1000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 15.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3538994.html</link>
-      <pubDate>Fri, 16 Oct 2026 10:31:51 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 15:06:16 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">c8a892d9-797f-449a-9648-e2380e188e4e-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 15 Oct 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Bundestag beschließt Reform der Notfallmedizin, Mammografie-Screening künftig 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-2026-2200.mp3" length="15076003" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 13:00): Die Nachrichten vom 16.10.2026, 12:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43920.html</link>
-      <pubDate>Fri, 16 Oct 2026 10:30:51 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 17:30): Die Nachrichten vom 16.10.2026, 16:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43938.html</link>
+      <pubDate>Fri, 16 Oct 2026 15:05:16 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">fe03432d-4f08-59ea-8d8c-ea825afaac66</guid>
-      <description>Originally published Fri 16 Oct 2026 13:00 IDT.
+      <guid isPermaLink="false">342056c9-0fee-5ad6-9439-d498beb7348c</guid>
+      <description>Originally published Fri 16 Oct 2026 17:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/16/nachrichten_dlf_20261016_1200_e8277a6a.mp3?refId=nachrichten-108" length="9816377" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/16/nachrichten_dlf_20261016_1630_c21eabf4.mp3?refId=nachrichten-108" length="5020713" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:27): Morgenjournal um 8 (16.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-16102026</link>
-      <pubDate>Fri, 16 Oct 2026 10:29:51 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:25): Mittagsjournal (16.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-16102026</link>
+      <pubDate>Fri, 16 Oct 2026 15:04:16 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_f8c00c22eee940ef867f5fcc702640f6</guid>
-      <description>Originally published Fri 16 Oct 2026 09:27 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f8c00c22eee940ef867f5fcc702640f6.mp3?etag=4dfb920a4811c9f20b3e251f08f9aa66" length="29379123" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_31249796de47412c9eb5e577411a2724</guid>
+      <description>Originally published Fri 16 Oct 2026 14:25 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_31249796de47412c9eb5e577411a2724.mp3?etag=763bb572c275f26d2c7e9202cd55bdfa" length="86840107" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 09:25): Welternährungstag: In Afrika sind wieder mehr Menschen von Hunger betroffen</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/welternaehrungstag-in-afrika-sind-wieder-mehr-menschen-von-hunger-betroffen/2123202</link>
-      <pubDate>Fri, 16 Oct 2026 10:28:51 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 15:03:16 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">279a19c4-cb94-4131-bb40-b7841f13f544</guid>
       <description>Originally published Fri 16 Oct 2026 09:25 IDT.
@@ -79,7 +79,7 @@ Rund 266 Millionen Menschen sind weltweit von akutem Hunger betroffen und die La
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungen fortgesetzt | Wirtschaft in Brandenburg | Landeslabor in Adlershof</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-fortgesetzt-wirtschaft-brandenburg-landeslabor.html</link>
-      <pubDate>Fri, 16 Oct 2026 10:27:51 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 15:02:16 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/27/dd/27dd121d-7c92-49b8-a1af-c487996ff48c/27dd121d-7c92-49b8-a1af-c487996ff48c_mp3-256kd.mp3</guid>
       <description>Originally published Thu 15 Oct 2026 19:17 IDT.
@@ -90,19 +90,18 @@ Linke, Gr&amp;#252;ne und SPD haben in Berlin die Gespr&amp;#228;che wieder aufg
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/27/dd/27dd121d-7c92-49b8-a1af-c487996ff48c/27dd121d-7c92-49b8-a1af-c487996ff48c_mp3-256kd.mp3" length="28860439" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:42): Four killed in school shooting in US state of Oregon</title>
-      <link>http://www.bbc.co.uk/programmes/p0pgzr4b</link>
-      <pubDate>Fri, 16 Oct 2026 10:26:51 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:54): Israeli settlers attack Palestinians during olive harvest</title>
+      <link>http://www.bbc.co.uk/programmes/p0ph3k57</link>
+      <pubDate>Fri, 16 Oct 2026 15:01:16 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pgzr4b</guid>
-      <description>Originally published Fri 16 Oct 2026 07:42 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0ph3k57</guid>
+      <description>Originally published Fri 16 Oct 2026 17:54 IDT.
 
-&lt;p&gt;A 16-year-old has shot dead three children and a teacher at Silver Rail Elementary School in Bend, in the US state of Oregon. The gunman was shot dead by a member of the public. Also: Britain's defence secretary says he's been reassured by the US that Starlink satellite services used by Ukraine’s military have been restored. In Yemen, the presidential palace and seat of the government in the port city of Aden has been attacked by Houthi rebels. Venezuela's ousted President Nicolas Maduro pleads not guilty to conspiracy to torture in a New York court. The Fifa president, Gianni Infantino, apologizes to the organisation's council for his plan to sell stakes in the World Cup. We hear from people with sight loss that say smart glasses are a 'game changer'; and a 99-year-old becomes the world's oldest wing walker.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;The BBC has witnessed Israeli settlers attack Palestinians and set fire to olive trees in the occupied West Bank. Also: President Volodymyr Zelensky has said he is &quot;only standing up for Ukraine's interests&quot; after scathing criticism from Donald Trump. There has been a stark rise in anti-government activists deported to Russia from the EU and US, where they'd been seeking sanctuary. Researchers at the University of Maryland in the US have developed a tool to spot whether ideas are AI generated. A new version of Tesla's Roadster electric sports car, equipped with thrusters which apparently allow it to hover and turn in mid-air, has been unveiled in Texas. The number of ships that have reported being attacked in and around the Strait of Hormuz has hit a record high, BBC Verify analysis shows. A pioneering same-day test has been used to detect hidden and drug-resistant infections among children in intensive care. Experts are deciding whether to get rid of &quot;leap seconds&quot; altogether and replace them with a &quot;leap hour&quot; instead. And low-budget Spanish film La Bola Negra is emerging as a major Oscars contender.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Emergency personnel at the scene of the shooting at Silver Rail Elementary School in Bend, Oregon, 15th October. 
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgzqy6.mp3" length="12904000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Israeli settlers attack Palestinians and olive pickers in the West Bank, Abu Falah - 16 Oct 2026
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph3jfv.mp3" length="14832000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
