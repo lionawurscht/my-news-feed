@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:22:04 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 22:48): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3539028.html</link>
-      <pubDate>Fri, 16 Oct 2026 00:01:49 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 06:08): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3539252.html</link>
+      <pubDate>Fri, 16 Oct 2026 05:22:04 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">2e2783d8-65f2-4db0-a4d4-0c229beba9ab</guid>
-      <description>Originally published Thu 15 Oct 2026 22:48 IDT.
+      <guid isPermaLink="false">91e6734c-23d5-4dbd-bcae-82d9f68c0e37</guid>
+      <description>Originally published Fri 16 Oct 2026 06:08 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-2148-2001.mp3" length="2003851" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-0507-5300.mp3" length="1896331" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 02:11): 7pm ET, October 15 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 08:09): 1am ET, October 16 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 16 Oct 2026 00:00:49 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 05:21:04 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">7648f7db-668a-47ec-a001-85089fc9188f</guid>
-      <description>Originally published Fri 16 Oct 2026 02:11 IDT.
+      <guid isPermaLink="false">b0682ff2-8957-4033-af50-17b5a85dbf10</guid>
+      <description>Originally published Fri 16 Oct 2026 08:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/92d360c5-3578-443d-97ce-39392ad89c60/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=92d360c5-3578-443d-97ce-39392ad89c60&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261015-1900-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ffec029b-af8c-4b6a-b207-6ae09268c369/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ffec029b-af8c-4b6a-b207-6ae09268c369&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261016-0100-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 15.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3538994.html</link>
-      <pubDate>Thu, 15 Oct 2026 23:59:49 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 05:20:04 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">c8a892d9-797f-449a-9648-e2380e188e4e-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 15 Oct 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Bundestag beschließt Reform der Notfallmedizin, Mammografie-Screening künftig 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-2026-2200.mp3" length="15076003" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 01:59): Die Nachrichten vom 16.10.2026, 00:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43882.html</link>
-      <pubDate>Thu, 15 Oct 2026 23:58:49 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 08:00): Die Nachrichten vom 16.10.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43900.html</link>
+      <pubDate>Fri, 16 Oct 2026 05:19:04 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">dd95c136-55b3-5bd4-82c9-b4ff3bb010bd</guid>
-      <description>Originally published Fri 16 Oct 2026 01:59 IDT.
+      <guid isPermaLink="false">5dfb8766-da54-5811-8941-ff8ea542731f</guid>
+      <description>Originally published Fri 16 Oct 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/16/nachrichten_dlf_20261016_0059_fccb3887.mp3?refId=nachrichten-108" length="5017788" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/16/nachrichten_dlf_20261016_0700_ce14d2c7.mp3?refId=nachrichten-108" length="4991874" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:32): Abendjournal um 18 (15.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-15102026</link>
-      <pubDate>Thu, 15 Oct 2026 23:57:49 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 07:16): Frühjournal um 6 (16.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-16102026</link>
+      <pubDate>Fri, 16 Oct 2026 05:18:04 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_50e90d880afe44569f211bf43f887355</guid>
-      <description>Originally published Thu 15 Oct 2026 19:32 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_50e90d880afe44569f211bf43f887355.mp3?etag=14d9d2a48ec91626a2400b553a5fff6d" length="36375296" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_3d8f0e20997b44d98ca144d4889ebe47</guid>
+      <description>Originally published Fri 16 Oct 2026 07:16 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_3d8f0e20997b44d98ca144d4889ebe47.mp3?etag=8718190a882c44fb843b744536d1f360" length="14938198" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungen fortgesetzt | Wirtschaft in Brandenburg | Landeslabor in Adlershof</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-fortgesetzt-wirtschaft-brandenburg-landeslabor.html</link>
-      <pubDate>Thu, 15 Oct 2026 23:56:49 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 05:17:04 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/27/dd/27dd121d-7c92-49b8-a1af-c487996ff48c/27dd121d-7c92-49b8-a1af-c487996ff48c_mp3-256kd.mp3</guid>
       <description>Originally published Thu 15 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Linke, Gr&amp;#252;ne und SPD haben in Berlin die Gespr&amp;#228;che wieder aufg
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:30): Grippe &amp; Co.: Wie komme ich am besten durch die Erkältungszeit</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/grippe-co-wie-komme-ich-am-besten-durch-die-erkaeltungszeit/2123173</link>
-      <pubDate>Thu, 15 Oct 2026 23:55:49 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 05:16:04 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">fa6d01d9-dbba-4f3e-9813-6533af6491d1</guid>
       <description>Originally published Thu 15 Oct 2026 18:30 IDT.
@@ -90,16 +90,19 @@ Die Krankheitswelle nimmt langsam Fahrt auf. Wie können wir uns schützen?</des
       <enclosure url="https://media.neuland.br.de/file/2123173/c/feed/grippe-co-wie-komme-ich-am-besten-durch-die-erkaeltungszeit.mp3" length="8754093" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:25): Deadly school disaster in Pakistan</title>
-      <link>http://www.bbc.co.uk/programmes/p0pgwm5v</link>
-      <pubDate>Thu, 15 Oct 2026 23:54:49 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:42): Four killed in school shooting in US state of Oregon</title>
+      <link>http://www.bbc.co.uk/programmes/p0pgzr4b</link>
+      <pubDate>Fri, 16 Oct 2026 05:15:04 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pgwm5v</guid>
-      <description>Originally published Thu 15 Oct 2026 18:25 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pgzr4b</guid>
+      <description>Originally published Fri 16 Oct 2026 07:42 IDT.
 
-&lt;p&gt;More than 30 people have been killed after a school roof collapsed in Peshawar, Pakistan, with the majority thought to be children under the age of 13. The owner of the school has been arrested, with police warning the building was extremely dangerous and there was a risk of further collapse. Also: the BBC has identified 254 incidents in which the Israeli military has been accused of killing or injuring people in Gaza, Lebanon, the occupied West Bank and Israel, which it said it would investigate - but no outcome has been publicly disclosed; Prince Harry and his wife Meghan Markle carry out their first joint engagement since returning to the UK; one of the most shocking court cases of recent years, the Pelicot trial, comes to the stage in London next month. Dominique Pelicot was jailed for 20 years for drugging and raping his wife and allowing at least 50 other men to abuse her while she was unconscious; Ukraine attacks one of Russia's major oil refineries, hours after President Vlodomyr Zelenskyy vowed to renew strikes; we report from Iowa, where Democrats lead in early polls for next month's mid-term elections; the World Athletics president aims for African &quot;legacy&quot; with 2029 World Championships in Kenya; and research suggests dogs can link shapes to sounds.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Police officers and military personnel gather as they survey the site of a school roof collapse at a hospital morgue in Peshawar, Pakistan, October 15, 2026. &lt;/p&gt;&lt;p&gt;Credit: REUTERS TPX IMAGES OF THE DAY&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgwl6v.mp3" length="15168000" type="audio/mpeg"/>
+&lt;p&gt;A 16-year-old has shot dead three children and a teacher at Silver Rail Elementary School in Bend, in the US state of Oregon. The gunman was shot dead by a member of the public. Also: Britain's defence secretary says he's been reassured by the US that Starlink satellite services used by Ukraine’s military have been restored. In Yemen, the presidential palace and seat of the government in the port city of Aden has been attacked by Houthi rebels. Venezuela's ousted President Nicolas Maduro pleads not guilty to conspiracy to torture in a New York court. The Fifa president, Gianni Infantino, apologizes to the organisation's council for his plan to sell stakes in the World Cup. We hear from people with sight loss that say smart glasses are a 'game changer'; and a 99-year-old becomes the world's oldest wing walker.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Emergency personnel at the scene of the shooting at Silver Rail Elementary School in Bend, Oregon, 15th October. 
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgzqy6.mp3" length="12904000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
