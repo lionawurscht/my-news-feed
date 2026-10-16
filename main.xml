@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 16 Oct 2026 15:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:13:58 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,86 +13,85 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:25): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3540530.html</link>
-      <pubDate>Fri, 16 Oct 2026 15:08:16 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 22:11): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3541304.html</link>
+      <pubDate>Fri, 16 Oct 2026 19:13:58 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">86fb16a5-8d00-401d-a056-be6987d5f901</guid>
-      <description>Originally published Fri 16 Oct 2026 15:25 IDT.
+      <guid isPermaLink="false">b60ae003-8d7b-4ccd-8ac1-1523c4228d01</guid>
+      <description>Originally published Fri 16 Oct 2026 22:11 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-1425-2100.mp3" length="1919371" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-2111-1200.mp3" length="2108308" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 17:10): 10am ET, October 16 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 22:09): 3pm ET, October 16 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 16 Oct 2026 15:07:16 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 19:12:58 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">aacc9597-de44-4178-915b-22cd4b1a8f6a</guid>
-      <description>Originally published Fri 16 Oct 2026 17:10 IDT.
+      <guid isPermaLink="false">7ba7a548-88a7-41c1-a672-5151272f2e4d</guid>
+      <description>Originally published Fri 16 Oct 2026 22:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a8693650-b768-4c64-9949-8e5742ab0dca/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a8693650-b768-4c64-9949-8e5742ab0dca&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261016-1000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/697f867b-f50e-484e-8c1a-54d1c7e5f5c9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=697f867b-f50e-484e-8c1a-54d1c7e5f5c9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261016-1500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 15.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3538994.html</link>
-      <pubDate>Fri, 16 Oct 2026 15:06:16 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 16.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3541282.html</link>
+      <pubDate>Fri, 16 Oct 2026 19:11:58 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">c8a892d9-797f-449a-9648-e2380e188e4e-SENDUNGSAUDIO</guid>
-      <description>Originally published Thu 15 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">a415e8e0-0c8d-4dc3-99a0-ee3ae262ff7a-SENDUNGSAUDIO</guid>
+      <description>Originally published Fri 16 Oct 2026 21:00 IDT.
 
-Bundestag beschließt Reform der Notfallmedizin, Mammografie-Screening künftig bereits ab 45 Jahren, EU-Spitzen verhandeln über Haushalt der Europäischen Union, Beschluss Bundesverfassungsgericht: Wirtschaftsministerin Reiche muss Instagram-Post über Linkspartei löschen, EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten, Jugendliche in Albanien protestieren gegen Missstände im Bildungswesen, Tote nach Überschwemmungen in Istanbul, Mehlschwalbe ist Vogel des Jahres 2027, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1015/AU-20261015-2026-2200.mp3" length="15076003" type="audio/mpeg"/>
+Bundestag beschließt sogenannte „Frühstartrente&quot;, Bundestag stimmt für Anhebung der Tabaksteuer, Staats- und Regierungschefs beraten auf EU-Gipfel in Brüssel über Hilfen für die Ukraine, Papst Leo XIV. bittet im Telefonat mit Russlands Präsidenten Putin um Waffenruhe in Oleschky, Deutschland und Frankreich lockern EU-Regeln für neue Verbrenner nach 2035, Bundesrat fordert besseren Schutz Minderjähriger vor Social-Media-Challenges, 16-Jähriger erschießt an Grundschule im US-Bundesstaat Oregon drei Schüler und einen Lehrer, Kunsthalle Würth in Schwäbisch Hall stellt Werke des Malers und Bildhauers Anselm Kiefers aus, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-2025-1800.mp3" length="14981923" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 17:30): Die Nachrichten vom 16.10.2026, 16:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43938.html</link>
-      <pubDate>Fri, 16 Oct 2026 15:05:16 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 20:59): Die Nachrichten vom 16.10.2026, 19:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43948.html</link>
+      <pubDate>Fri, 16 Oct 2026 19:10:58 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">342056c9-0fee-5ad6-9439-d498beb7348c</guid>
-      <description>Originally published Fri 16 Oct 2026 17:30 IDT.
+      <guid isPermaLink="false">19277456-1e01-513d-9c89-b851d5cf1e2d</guid>
+      <description>Originally published Fri 16 Oct 2026 20:59 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/16/nachrichten_dlf_20261016_1630_c21eabf4.mp3?refId=nachrichten-108" length="5020713" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/16/nachrichten_dlf_20261016_1959_93dee8cf.mp3?refId=nachrichten-108" length="5039521" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:25): Mittagsjournal (16.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-16102026</link>
-      <pubDate>Fri, 16 Oct 2026 15:04:16 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:33): Abendjournal um 18 (16.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-16102026</link>
+      <pubDate>Fri, 16 Oct 2026 19:09:58 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_31249796de47412c9eb5e577411a2724</guid>
-      <description>Originally published Fri 16 Oct 2026 14:25 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_31249796de47412c9eb5e577411a2724.mp3?etag=763bb572c275f26d2c7e9202cd55bdfa" length="86840107" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_5f68e60373674b4d9cbf76fd6f9cc6c1</guid>
+      <description>Originally published Fri 16 Oct 2026 19:33 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_5f68e60373674b4d9cbf76fd6f9cc6c1.mp3?etag=171c3f70e7cc256940528502dccc13a1" length="36554035" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 09:25): Welternährungstag: In Afrika sind wieder mehr Menschen von Hunger betroffen</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/welternaehrungstag-in-afrika-sind-wieder-mehr-menschen-von-hunger-betroffen/2123202</link>
-      <pubDate>Fri, 16 Oct 2026 15:03:16 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Linke ohne Emde | Gewalt an Kleistschule | Tabaksteuer</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/linke-ohne-emde-gewalt-kleistschule-tabaksteuer.html</link>
+      <pubDate>Fri, 16 Oct 2026 19:08:58 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">279a19c4-cb94-4131-bb40-b7841f13f544</guid>
-      <description>Originally published Fri 16 Oct 2026 09:25 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/d8/97/d897c18f-5cdc-4645-8089-3f9bdc5ce1b0/d897c18f-5cdc-4645-8089-3f9bdc5ce1b0_mp3-256kd.mp3</guid>
+      <description>Originally published Fri 16 Oct 2026 19:17 IDT.
 
-Rund 266 Millionen Menschen sind weltweit von akutem Hunger betroffen und die Lage könnte sich noch weiter zuspitzen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123202/c/feed/welternaehrungstag-in-afrika-sind-wieder-mehr-menschen-von-hunger-betroffen.mp3" length="9939117" type="audio/mpeg"/>
+In Berlin haben Linke, Gr&amp;#252;ne und SPD ihre Sondierungsgespr&amp;#228;che fortgesetzt. Parallel dazu ist die Linke auf Abstand von der umstrittenen Abgeordneten Emke gegangen. Au&amp;#223;erdem: Gewaltvorf&amp;#228;lle an Kleistschule in FFO; Berliner Reaktionen auf Tabaksteuer; Bl&amp;#252;cherplatz in Eva-Mamlok-Platz umbenannt.
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/d8/97/d897c18f-5cdc-4645-8089-3f9bdc5ce1b0/d897c18f-5cdc-4645-8089-3f9bdc5ce1b0_mp3-256kd.mp3" length="29656081" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Sondierungen fortgesetzt | Wirtschaft in Brandenburg | Landeslabor in Adlershof</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-fortgesetzt-wirtschaft-brandenburg-landeslabor.html</link>
-      <pubDate>Fri, 16 Oct 2026 15:02:16 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 18:16): Verbrennerverbot: Deutschland und Frankreich einigen sich auf Lockerung</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/verbrennerverbot-deutschland-und-frankreich-einigen-sich-auf-lockerung/2123233</link>
+      <pubDate>Fri, 16 Oct 2026 19:07:58 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/27/dd/27dd121d-7c92-49b8-a1af-c487996ff48c/27dd121d-7c92-49b8-a1af-c487996ff48c_mp3-256kd.mp3</guid>
-      <description>Originally published Thu 15 Oct 2026 19:17 IDT.
+      <guid isPermaLink="false">22944de1-20f0-402c-8a5e-5ca683391f9c</guid>
+      <description>Originally published Fri 16 Oct 2026 18:16 IDT.
 
-Linke, Gr&amp;#252;ne und SPD haben in Berlin die Gespr&amp;#228;che wieder aufgenommen. Dabei sind gleich mitten in eine Kundgebung geraten: Begr&amp;#252;&amp;#223;t wurden sie am Haus der Statistik von Streikenden der Charit&amp;#233;. Au&amp;#223;erdem: Brandenburger Landtag zur Wirtschaft. Klage gegen Gebetsverbot an Schule. Landeslabor Berlin-Brandenburg &amp;#246;ffnet T&amp;#252;ren.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/27/dd/27dd121d-7c92-49b8-a1af-c487996ff48c/27dd121d-7c92-49b8-a1af-c487996ff48c_mp3-256kd.mp3" length="28860439" type="audio/x-mpeg"/>
+Das haben beide Regierungen heute bekannt gegeben. Wie sieht die Einigung aus? Und was bedeutet sie für Autoindustrie und Verbraucher?</description>
+      <enclosure url="https://media.neuland.br.de/file/2123233/c/feed/verbrennerverbot-deutschland-und-frankreich-einigen-sich-auf-lockerung.mp3" length="9729069" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:54): Israeli settlers attack Palestinians during olive harvest</title>
       <link>http://www.bbc.co.uk/programmes/p0ph3k57</link>
-      <pubDate>Fri, 16 Oct 2026 15:01:16 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 19:06:58 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0ph3k57</guid>
       <description>Originally published Fri 16 Oct 2026 17:54 IDT.
