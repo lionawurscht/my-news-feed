@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:49:55 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:15): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3542578.html</link>
-      <pubDate>Sat, 17 Oct 2026 20:00:29 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:49:55 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">704edfc0-5d35-42a1-ae9a-103711288472</guid>
       <description>Originally published Sat 17 Oct 2026 22:15 IDT.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-2115-3600.mp3" length="2042251" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 22:09): 3pm ET, October 17 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 01:09): 6pm ET, October 17 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 17 Oct 2026 19:59:29 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:48:55 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c5689d72-9aa4-44bc-a726-194d8ef056d8</guid>
-      <description>Originally published Sat 17 Oct 2026 22:09 IDT.
+      <guid isPermaLink="false">87ed0e14-208a-4e8c-9aa4-8bf16b54def9</guid>
+      <description>Originally published Sun 18 Oct 2026 01:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d33f18ad-4089-40af-aded-aaeb381d227d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d33f18ad-4089-40af-aded-aaeb381d227d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261017-1500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0fa29b16-9933-4949-a3d4-6c2e05463144/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0fa29b16-9933-4949-a3d4-6c2e05463144&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261017-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 17.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3542546.html</link>
-      <pubDate>Sat, 17 Oct 2026 19:58:29 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:47:55 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e4139d37-b3a3-4615-82cb-4400e72ab6fc-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 17 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Sondierungsgespräche der Dreier-Koalition in Berlin erfolgreich beendet, Kanzle
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-2024-2000.mp3" length="14049571" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 21:00): Die Nachrichten vom 17.10.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44004.html</link>
-      <pubDate>Sat, 17 Oct 2026 19:57:29 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 01:00): Die Nachrichten vom 18.10.2026, 00:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44010.html</link>
+      <pubDate>Sat, 17 Oct 2026 22:46:55 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">596cf8cc-05dd-5265-b1c1-83401481105b</guid>
-      <description>Originally published Sat 17 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">6c77ad67-22b4-55e0-ac9b-feeecd8fcad4</guid>
+      <description>Originally published Sun 18 Oct 2026 01:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/17/nachrichten_dlf_20261017_2000_7b054b20.mp3?refId=nachrichten-108" length="5011518" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_0000_5ce10491.mp3?refId=nachrichten-108" length="4967215" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:16): Mittagsjournal (17.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-17102026</link>
-      <pubDate>Sat, 17 Oct 2026 19:56:29 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:45:55 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_804ab03a96c843bcb53bb0fb028a766f</guid>
       <description>Originally published Sat 17 Oct 2026 14:16 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: An island of strangers saved our wedding</title>
       <link>http://www.bbc.co.uk/programmes/p0pgx7l6</link>
-      <pubDate>Sat, 17 Oct 2026 19:55:29 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 22:44:55 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pgx7l6</guid>
       <description>Originally published Sat 17 Oct 2026 14:00 IDT.
