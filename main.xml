@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 17 Oct 2026 00:59:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:27:22 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 02:53): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3541430.html</link>
-      <pubDate>Sat, 17 Oct 2026 00:59:21 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 05:47): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3541490.html</link>
+      <pubDate>Sat, 17 Oct 2026 05:27:22 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f16629cd-4708-4f6d-ac24-62d2a57b1f9b</guid>
-      <description>Originally published Sat 17 Oct 2026 02:53 IDT.
+      <guid isPermaLink="false">25729ba6-10fb-4cce-86c3-0a0f2ecfd92f</guid>
+      <description>Originally published Sat 17 Oct 2026 05:47 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-0152-5100.mp3" length="1877923" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-0447-5000.mp3" length="1922851" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 03:10): 8pm ET, October 16 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 08:09): 1am ET, October 17 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 17 Oct 2026 00:58:21 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 05:26:22 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">1dae6d5a-b3f4-41bf-894a-4206654fb071</guid>
-      <description>Originally published Sat 17 Oct 2026 03:10 IDT.
+      <guid isPermaLink="false">fe553331-2a79-48d8-a506-138c48db525d</guid>
+      <description>Originally published Sat 17 Oct 2026 08:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/890de098-ef48-4e08-9e90-d49159d4ca4d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=890de098-ef48-4e08-9e90-d49159d4ca4d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261016-2000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3cd41d8b-fcb6-467e-965a-3e7d2d405ffe/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3cd41d8b-fcb6-467e-965a-3e7d2d405ffe&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261017-0100-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 16.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3541282.html</link>
-      <pubDate>Sat, 17 Oct 2026 00:57:21 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 05:25:22 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">a415e8e0-0c8d-4dc3-99a0-ee3ae262ff7a-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 16 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Bundestag beschließt sogenannte „Frühstartrente&quot;, Bundestag stimmt für
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-2025-1800.mp3" length="14981923" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 03:00): Die Nachrichten vom 17.10.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43960.html</link>
-      <pubDate>Sat, 17 Oct 2026 00:56:21 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 08:00): Die Nachrichten vom 17.10.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43974.html</link>
+      <pubDate>Sat, 17 Oct 2026 05:24:22 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">5cd3acf1-1f31-5c6a-8131-b34ef13fa8c3</guid>
-      <description>Originally published Sat 17 Oct 2026 03:00 IDT.
+      <guid isPermaLink="false">524ffbaa-1136-57d3-bd8d-530c592233fe</guid>
+      <description>Originally published Sat 17 Oct 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/17/nachrichten_dlf_20261017_0200_3c2887db.mp3?refId=nachrichten-108" length="4991874" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/17/nachrichten_dlf_20261017_0700_413b2fb3.mp3?refId=nachrichten-108" length="5022385" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:33): Abendjournal um 18 (16.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-16102026</link>
-      <pubDate>Sat, 17 Oct 2026 00:55:21 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 05:23:22 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_5f68e60373674b4d9cbf76fd6f9cc6c1</guid>
       <description>Originally published Fri 16 Oct 2026 19:33 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Linke ohne Emde | Gewalt an Kleistschule | Tabaksteuer</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/linke-ohne-emde-gewalt-kleistschule-tabaksteuer.html</link>
-      <pubDate>Sat, 17 Oct 2026 00:54:21 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 05:22:22 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/d8/97/d897c18f-5cdc-4645-8089-3f9bdc5ce1b0/d897c18f-5cdc-4645-8089-3f9bdc5ce1b0_mp3-256kd.mp3</guid>
       <description>Originally published Fri 16 Oct 2026 19:17 IDT.
@@ -80,7 +80,7 @@ In Berlin haben Linke, Gr&amp;#252;ne und SPD ihre Sondierungsgespr&amp;#228;che
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 18:16): Verbrennerverbot: Deutschland und Frankreich einigen sich auf Lockerung</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/verbrennerverbot-deutschland-und-frankreich-einigen-sich-auf-lockerung/2123233</link>
-      <pubDate>Sat, 17 Oct 2026 00:53:21 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 05:21:22 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">22944de1-20f0-402c-8a5e-5ca683391f9c</guid>
       <description>Originally published Fri 16 Oct 2026 18:16 IDT.
@@ -89,18 +89,16 @@ Das haben beide Regierungen heute bekannt gegeben. Wie sieht die Einigung aus? U
       <enclosure url="https://media.neuland.br.de/file/2123233/c/feed/verbrennerverbot-deutschland-und-frankreich-einigen-sich-auf-lockerung.mp3" length="9729069" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:54): Israeli settlers attack Palestinians during olive harvest</title>
-      <link>http://www.bbc.co.uk/programmes/p0ph3k57</link>
-      <pubDate>Sat, 17 Oct 2026 00:52:21 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:31): Trump fires press secretary Katie Zacharia</title>
+      <link>http://www.bbc.co.uk/programmes/p0ph5wr3</link>
+      <pubDate>Sat, 17 Oct 2026 05:20:22 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0ph3k57</guid>
-      <description>Originally published Fri 16 Oct 2026 17:54 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0ph5wr3</guid>
+      <description>Originally published Sat 17 Oct 2026 06:31 IDT.
 
-&lt;p&gt;The BBC has witnessed Israeli settlers attack Palestinians and set fire to olive trees in the occupied West Bank. Also: President Volodymyr Zelensky has said he is &quot;only standing up for Ukraine's interests&quot; after scathing criticism from Donald Trump. There has been a stark rise in anti-government activists deported to Russia from the EU and US, where they'd been seeking sanctuary. Researchers at the University of Maryland in the US have developed a tool to spot whether ideas are AI generated. A new version of Tesla's Roadster electric sports car, equipped with thrusters which apparently allow it to hover and turn in mid-air, has been unveiled in Texas. The number of ships that have reported being attacked in and around the Strait of Hormuz has hit a record high, BBC Verify analysis shows. A pioneering same-day test has been used to detect hidden and drug-resistant infections among children in intensive care. Experts are deciding whether to get rid of &quot;leap seconds&quot; altogether and replace them with a &quot;leap hour&quot; instead. And low-budget Spanish film La Bola Negra is emerging as a major Oscars contender.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Israeli settlers attack Palestinians and olive pickers in the West Bank, Abu Falah - 16 Oct 2026
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph3jfv.mp3" length="14832000" type="audio/mpeg"/>
+&lt;p&gt;The White House press secretary Katie Zacharia has been ousted after just five days, amid criticism of her first media briefing and questions about her legal background. Also: figures released by the Brazilian government indicate that deforestation in the Amazon has hit record lows. Police in the US state of Oregon have described how a teacher and a school parent fought off the gunman who killed four people at a primary school on Thursday. Ukraine says a counteroffensive has liberated more than 270 sq km of occupied land from Russian troops - we have a special report from the frontline. More than 120 people have been arrested during clashes with police in the Albanian capital, Tirana. An investigation into fraud involving penile implant surgeries has been launched in Sicily, and should car radios be a legal requirement?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: White House Press Secretary Katie Zacharia at her first media briefing in the role, 13th October
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph5w2b.mp3" length="14056000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
