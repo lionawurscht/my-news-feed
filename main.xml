@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:01:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,21 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 10:31): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3541778.html</link>
-      <pubDate>Sat, 17 Oct 2026 10:03:46 +0000</pubDate>
-      <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1605b167-a8ca-4566-88fa-d3191ce61d68</guid>
-      <description>Originally published Sat 17 Oct 2026 10:31 IDT.
-
-tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-0931-2600.mp3" length="1809931" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|Overview] NPR News Now (Sat 12:09): 5am ET, October 17 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 16:10): 9am ET, October 17 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 17 Oct 2026 10:02:46 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c422146f-c8c1-45db-9ee3-2a9eb39c2f68</guid>
-      <description>Originally published Sat 17 Oct 2026 12:09 IDT.
+      <pubDate>Sat, 17 Oct 2026 14:01:38 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">f927bf2b-5741-41d1-abb9-e357a7cd5583</guid>
+      <description>Originally published Sat 17 Oct 2026 16:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a2d294eb-23f2-46df-bf65-7cb57586ac8d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a2d294eb-23f2-46df-bf65-7cb57586ac8d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261017-0500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c91e0424-74e0-4209-8a8c-a1a2e141d6d0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c91e0424-74e0-4209-8a8c-a1a2e141d6d0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261017-0900-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 16.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3541282.html</link>
-      <pubDate>Sat, 17 Oct 2026 10:01:46 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Sat, 17 Oct 2026 14:00:38 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
       <guid isPermaLink="false">a415e8e0-0c8d-4dc3-99a0-ee3ae262ff7a-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 16 Oct 2026 21:00 IDT.
 
@@ -46,30 +35,30 @@ Bundestag beschließt sogenannte „Frühstartrente&quot;, Bundestag stimmt für
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1016/AU-20261016-2025-1800.mp3" length="14981923" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 12:00): Die Nachrichten vom 17.10.2026, 11:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-43986.html</link>
-      <pubDate>Sat, 17 Oct 2026 10:00:46 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">22842e71-6598-5fd7-a6f7-ec9f9f778d7a</guid>
-      <description>Originally published Sat 17 Oct 2026 12:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:00): Die Nachrichten vom 17.10.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-43994.html</link>
+      <pubDate>Sat, 17 Oct 2026 13:59:38 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">f0575c3c-f215-58aa-8ad2-a4ee57a7a48a</guid>
+      <description>Originally published Sat 17 Oct 2026 16:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/17/nachrichten_dlf_20261017_1100_9416e85a.mp3?refId=nachrichten-108" length="4996472" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/17/nachrichten_dlf_20261017_1500_65f2a4b5.mp3?refId=nachrichten-108" length="4759907" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:21): Morgenjournal um 8 (17.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-17102026</link>
-      <pubDate>Sat, 17 Oct 2026 09:59:46 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_fc230ddfe6e841cfb1ef7f9acfe04305</guid>
-      <description>Originally published Sat 17 Oct 2026 09:21 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_fc230ddfe6e841cfb1ef7f9acfe04305.mp3?etag=1a0fc3f816e5509ce167c796877e3b18" length="22072175" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:16): Mittagsjournal (17.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-17102026</link>
+      <pubDate>Sat, 17 Oct 2026 13:58:38 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_804ab03a96c843bcb53bb0fb028a766f</guid>
+      <description>Originally published Sat 17 Oct 2026 14:16 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_804ab03a96c843bcb53bb0fb028a766f.mp3?etag=886a5b5e09239f46dbb16bfe0aa9754e" length="81228292" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Linke ohne Emde | Gewalt an Kleistschule | Tabaksteuer</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/linke-ohne-emde-gewalt-kleistschule-tabaksteuer.html</link>
-      <pubDate>Sat, 17 Oct 2026 09:58:46 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Sat, 17 Oct 2026 13:57:38 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/d8/97/d897c18f-5cdc-4645-8089-3f9bdc5ce1b0/d897c18f-5cdc-4645-8089-3f9bdc5ce1b0_mp3-256kd.mp3</guid>
       <description>Originally published Fri 16 Oct 2026 19:17 IDT.
 
@@ -80,8 +69,8 @@ In Berlin haben Linke, Gr&amp;#252;ne und SPD ihre Sondierungsgespr&amp;#228;che
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 18:16): Verbrennerverbot: Deutschland und Frankreich einigen sich auf Lockerung</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/verbrennerverbot-deutschland-und-frankreich-einigen-sich-auf-lockerung/2123233</link>
-      <pubDate>Sat, 17 Oct 2026 09:57:46 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 17 Oct 2026 13:56:38 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">22944de1-20f0-402c-8a5e-5ca683391f9c</guid>
       <description>Originally published Fri 16 Oct 2026 18:16 IDT.
 
@@ -89,16 +78,15 @@ Das haben beide Regierungen heute bekannt gegeben. Wie sieht die Einigung aus? U
       <enclosure url="https://media.neuland.br.de/file/2123233/c/feed/verbrennerverbot-deutschland-und-frankreich-einigen-sich-auf-lockerung.mp3" length="9729069" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:31): Trump fires press secretary Katie Zacharia</title>
-      <link>http://www.bbc.co.uk/programmes/p0ph5wr3</link>
-      <pubDate>Sat, 17 Oct 2026 09:56:46 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0ph5wr3</guid>
-      <description>Originally published Sat 17 Oct 2026 06:31 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: An island of strangers saved our wedding</title>
+      <link>http://www.bbc.co.uk/programmes/p0pgx7l6</link>
+      <pubDate>Sat, 17 Oct 2026 13:55:38 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pgx7l6</guid>
+      <description>Originally published Sat 17 Oct 2026 14:00 IDT.
 
-&lt;p&gt;The White House press secretary Katie Zacharia has been ousted after just five days, amid criticism of her first media briefing and questions about her legal background. Also: figures released by the Brazilian government indicate that deforestation in the Amazon has hit record lows. Police in the US state of Oregon have described how a teacher and a school parent fought off the gunman who killed four people at a primary school on Thursday. Ukraine says a counteroffensive has liberated more than 270 sq km of occupied land from Russian troops - we have a special report from the frontline. More than 120 people have been arrested during clashes with police in the Albanian capital, Tirana. An investigation into fraud involving penile implant surgeries has been launched in Sicily, and should car radios be a legal requirement?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: White House Press Secretary Katie Zacharia at her first media briefing in the role, 13th October
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph5w2b.mp3" length="14056000" type="audio/mpeg"/>
+&lt;p&gt;When a storm washed out the only road connecting North Carolina's Outer Banks, Kimberly and Jayden turned to the locals of Hatteras Island for help. None of their family or wedding suppliers could get there for their big day. But, after a social media appeal, the locals rallied round the couple and their wedding went ahead. The couple estimate between 500 to 800 strangers attended their wedding. &lt;/p&gt;&lt;p&gt;Also, a black Labrador has just been named as Animal of the Year. Six year old Sgaith sniffs out an invasive marine creature called the carpet sea squirt with her handler, Dr Texa Sim. &lt;/p&gt;&lt;p&gt;Archaeologists have found what they believe to be the world's oldest shipwreck. It's just off the coast of Turkey and it's thought to be 4,500 years old. Although the ship's wooden structure has not survived, some of its contents are still lying on the seabed. &lt;/p&gt;&lt;p&gt;Plus, the drug trial offering hope to people with alopecia. Why women are dominating the Motorsport, Top Fuel Drag Racing - and the man who ran a marathon, with strangers celebrating him along the way. &lt;/p&gt;&lt;p&gt;Image: Kimberly and Jayden getting married. Credit: GwenyGrace Photography&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgx6qp.mp3" length="13456000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
