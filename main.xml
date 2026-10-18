@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:15:22 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 12:39): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3543154.html</link>
-      <pubDate>Sun, 18 Oct 2026 10:16:43 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 14:04): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3543224.html</link>
+      <pubDate>Sun, 18 Oct 2026 14:15:22 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">26ff4a86-2e48-4e05-9ec8-d32031281774</guid>
-      <description>Originally published Sun 18 Oct 2026 12:39 IDT.
+      <guid isPermaLink="false">3b6e660b-b386-4f0e-9d37-a6a21f480aa1</guid>
+      <description>Originally published Sun 18 Oct 2026 14:04 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-1139-2600.mp3" length="2281099" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-1304-2500.mp3" length="2016139" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 13:10): 6am ET, October 18 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 17:10): 10am ET, October 18 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 18 Oct 2026 10:15:43 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 14:14:22 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">76d70a62-55f5-4118-b495-60db3e53d59b</guid>
-      <description>Originally published Sun 18 Oct 2026 13:10 IDT.
+      <guid isPermaLink="false">2461c978-6c94-4ab5-8b05-fb1819502c69</guid>
+      <description>Originally published Sun 18 Oct 2026 17:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0023859b-1e1c-4776-bb82-faaca79b64cf/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0023859b-1e1c-4776-bb82-faaca79b64cf&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261018-0600-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Sun 08:00): חדשון בעברית קלה (18/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Sun, 18 Oct 2026 10:14:43 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/18-10-26.m4a</guid>
-      <description>Originally published Sun 18 Oct 2026 08:00 IDT.
-
-• דלג ל
-• משרד החינוך
-• בּמַהֲלַך סוֹף השָבוּעַ תָקפוּ פּוֹרעִים יהוּדים צַלֶמֶת עִיתוֹנוּת אָמֵרִיקָנית ודִיפּלוֹמָטים אֵירוֹפִּיִים שֶבִּיקרוּ בּאֵזוֹר בִּניָמין
-• רֹאש המֶמשלה נתניהו מְגַנֶה את התְקִיפוֹת האַלִימוֹת וטוֹעֵן כי הן גוֹרמוֹת נֵזֶק לישׂראל. הוא קוֹרֵא לשַבַּ&quot;כּ לִפעוֹל בּתַקִיפוּת נֶגֶד הפּוֹרעים
-• דִיווּחַ: הרַמטכַּ&quot;ל הֶחליט להָקִים פְּלוּגָה יִיעוּדִית נוֹסֶפֶת של מִשמַר הגְבוּל כּדֵי להִתמוֹדֵד עִם הפְּשִיעָה הלְאוּמָנִית
-• צָרפַת: מְהוּמוֹת אַלִימוֹת בּרַחֲבֵי המְדִינה. מְאוֹת אֲלָפִים מוֹחים על יוֹקֶר המִחיָה ועל תְנָאֵי הלִימוּד בּבָתֵי הסֵפֶר, והם שׂוֹרפִים בִּניָינים וכְלֵי רֶכֶב ובוֹזְזִים חֲנוּיוֹת. 1,200 בּנֵי אָדם נֶעֶצרוּ בִּידֵי המִשטָרה
-• היום, ז' בּמַרחֶשוָון, מְצַיינִים בּישׂראל את יוֹם העֲלִייָה לָאָרץ
-• זַאוּדוּ בֵּרהַן, מוֹרֶה ליַהֲדוּת ולעִברית שֶעָלה לִפנֵי כ-30 שנה מאֶתיוֹפּיה, פִּרסֵם ספר מיוּחד על התַרבּוּת והמוֹרֶשֶת של יהוּדֵי אתיופּיה
-• התִַחֲזית: טמפּרטוּרוֹת נְמוּכוֹת מהרָגיל
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/18-10-26.m4a" length="1576004" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/92ebbf25-f440-4bf2-bb8a-3bef3e7bc705/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=92ebbf25-f440-4bf2-bb8a-3bef3e7bc705&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261018-1000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 17.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3542546.html</link>
-      <pubDate>Sun, 18 Oct 2026 10:13:43 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sun, 18 Oct 2026 14:13:22 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e4139d37-b3a3-4615-82cb-4400e72ab6fc-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 17 Oct 2026 21:00 IDT.
 
@@ -68,30 +46,30 @@ Sondierungsgespräche der Dreier-Koalition in Berlin erfolgreich beendet, Kanzle
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-2024-2000.mp3" length="14049571" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 12:00): Die Nachrichten vom 18.10.2026, 11:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44036.html</link>
-      <pubDate>Sun, 18 Oct 2026 10:12:43 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">4f17f3f4-4362-537c-bbd9-094a7b3137d8</guid>
-      <description>Originally published Sun 18 Oct 2026 12:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 16:00): Die Nachrichten vom 18.10.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44044.html</link>
+      <pubDate>Sun, 18 Oct 2026 14:12:22 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">235ddc66-90b4-592d-a503-228fe0f6a1e0</guid>
+      <description>Originally published Sun 18 Oct 2026 16:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_1100_4d3d45d5.mp3?refId=nachrichten-108" length="5013190" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_1500_2f18fff7.mp3?refId=nachrichten-108" length="4996472" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 09:15): Morgenjournal um 8 (18.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-18102026</link>
-      <pubDate>Sun, 18 Oct 2026 10:11:43 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_0abeaf643374451284bdc0622b662904</guid>
-      <description>Originally published Sun 18 Oct 2026 09:15 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_0abeaf643374451284bdc0622b662904.mp3?etag=59e687457e23851fa1c3546e0663a89e" length="15033912" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 14:16): Mittagsjournal (18.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-18102026</link>
+      <pubDate>Sun, 18 Oct 2026 14:11:22 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_81725ffaa3bb4bbaa6afe73b7fab19be</guid>
+      <description>Originally published Sun 18 Oct 2026 14:16 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_81725ffaa3bb4bbaa6afe73b7fab19be.mp3?etag=95f1d8e47a38f9cf1ba63da7dea270d6" length="14751386" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:40): President Macron vows to punish French rioters</title>
       <link>http://www.bbc.co.uk/programmes/p0ph9l0c</link>
-      <pubDate>Sun, 18 Oct 2026 10:10:43 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sun, 18 Oct 2026 14:10:22 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0ph9l0c</guid>
       <description>Originally published Sun 18 Oct 2026 06:40 IDT.
 
