@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:21:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:15): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3542578.html</link>
-      <pubDate>Sun, 18 Oct 2026 00:34:37 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 06:24): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3542790.html</link>
+      <pubDate>Sun, 18 Oct 2026 05:21:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">704edfc0-5d35-42a1-ae9a-103711288472</guid>
-      <description>Originally published Sat 17 Oct 2026 22:15 IDT.
+      <guid isPermaLink="false">f697cc45-6aa5-45df-925c-22cc7bf210ed</guid>
+      <description>Originally published Sun 18 Oct 2026 06:24 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-2115-3600.mp3" length="2042251" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-0524-0900.mp3" length="2245771" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 03:10): 8pm ET, October 17 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 08:10): 1am ET, October 18 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 18 Oct 2026 00:33:37 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 05:20:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">ef932baf-e194-4402-81fa-387a150dc8aa</guid>
-      <description>Originally published Sun 18 Oct 2026 03:10 IDT.
+      <guid isPermaLink="false">aed6d520-4e79-4d86-9c9b-727f17779034</guid>
+      <description>Originally published Sun 18 Oct 2026 08:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/bb9aaf62-2392-4633-a2c3-4cb1d302c59d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=bb9aaf62-2392-4633-a2c3-4cb1d302c59d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261017-2000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/06fff4dd-41ba-4916-bad0-a0b313816b70/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=06fff4dd-41ba-4916-bad0-a0b313816b70&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261018-0100-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Sun 08:00): חדשון בעברית קלה (18/10/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Sun, 18 Oct 2026 05:19:16 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/18-10-26.m4a</guid>
+      <description>Originally published Sun 18 Oct 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• בּמַהֲלַך סוֹף השָבוּעַ תָקפוּ פּוֹרעִים יהוּדים צַלֶמֶת עִיתוֹנוּת אָמֵרִיקָנית ודִיפּלוֹמָטים אֵירוֹפִּיִים שֶבִּיקרוּ בּאֵזוֹר בִּניָמין
+• רֹאש המֶמשלה נתניהו מְגַנֶה את התְקִיפוֹת האַלִימוֹת וטוֹעֵן כי הן גוֹרמוֹת נֵזֶק לישׂראל. הוא קוֹרֵא לשַבַּ&quot;כּ לִפעוֹל בּתַקִיפוּת נֶגֶד הפּוֹרעים
+• דִיווּחַ: הרַמטכַּ&quot;ל הֶחליט להָקִים פְּלוּגָה יִיעוּדִית נוֹסֶפֶת של מִשמַר הגְבוּל כּדֵי להִתמוֹדֵד עִם הפְּשִיעָה הלְאוּמָנִית
+• צָרפַת: מְהוּמוֹת אַלִימוֹת בּרַחֲבֵי המְדִינה. מְאוֹת אֲלָפִים מוֹחים על יוֹקֶר המִחיָה ועל תְנָאֵי הלִימוּד בּבָתֵי הסֵפֶר, והם שׂוֹרפִים בִּניָינים וכְלֵי רֶכֶב ובוֹזְזִים חֲנוּיוֹת. 1,200 בּנֵי אָדם נֶעֶצרוּ בִּידֵי המִשטָרה
+• היום, ז' בּמַרחֶשוָון, מְצַיינִים בּישׂראל את יוֹם העֲלִייָה לָאָרץ
+• זַאוּדוּ בֵּרהַן, מוֹרֶה ליַהֲדוּת ולעִברית שֶעָלה לִפנֵי כ-30 שנה מאֶתיוֹפּיה, פִּרסֵם ספר מיוּחד על התַרבּוּת והמוֹרֶשֶת של יהוּדֵי אתיופּיה
+• התִַחֲזית: טמפּרטוּרוֹת נְמוּכוֹת מהרָגיל
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/18-10-26.m4a" length="1576004" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 17.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3542546.html</link>
-      <pubDate>Sun, 18 Oct 2026 00:32:37 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Sun, 18 Oct 2026 05:18:16 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">e4139d37-b3a3-4615-82cb-4400e72ab6fc-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 17 Oct 2026 21:00 IDT.
 
@@ -46,35 +68,37 @@ Sondierungsgespräche der Dreier-Koalition in Berlin erfolgreich beendet, Kanzle
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-2024-2000.mp3" length="14049571" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 03:00): Die Nachrichten vom 18.10.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44014.html</link>
-      <pubDate>Sun, 18 Oct 2026 00:31:37 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">9b1cd23d-dc63-59d6-bdc4-cb55ebf547a1</guid>
-      <description>Originally published Sun 18 Oct 2026 03:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 08:00): Die Nachrichten vom 18.10.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44024.html</link>
+      <pubDate>Sun, 18 Oct 2026 05:17:16 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">f698dc2c-2612-5f9d-a762-6260525c03e8</guid>
+      <description>Originally published Sun 18 Oct 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_0200_c54ee1ed.mp3?refId=nachrichten-108" length="4971812" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_0700_fc618873.mp3?refId=nachrichten-108" length="5014862" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:16): Mittagsjournal (17.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-17102026</link>
-      <pubDate>Sun, 18 Oct 2026 00:30:37 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sun, 18 Oct 2026 05:16:16 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_804ab03a96c843bcb53bb0fb028a766f</guid>
       <description>Originally published Sat 17 Oct 2026 14:16 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_804ab03a96c843bcb53bb0fb028a766f.mp3?etag=886a5b5e09239f46dbb16bfe0aa9754e" length="81228292" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: An island of strangers saved our wedding</title>
-      <link>http://www.bbc.co.uk/programmes/p0pgx7l6</link>
-      <pubDate>Sun, 18 Oct 2026 00:29:37 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pgx7l6</guid>
-      <description>Originally published Sat 17 Oct 2026 14:00 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:40): President Macron vows to punish French rioters</title>
+      <link>http://www.bbc.co.uk/programmes/p0ph9l0c</link>
+      <pubDate>Sun, 18 Oct 2026 05:15:16 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0ph9l0c</guid>
+      <description>Originally published Sun 18 Oct 2026 06:40 IDT.
 
-&lt;p&gt;When a storm washed out the only road connecting North Carolina's Outer Banks, Kimberly and Jayden turned to the locals of Hatteras Island for help. None of their family or wedding suppliers could get there for their big day. But, after a social media appeal, the locals rallied round the couple and their wedding went ahead. The couple estimate between 500 to 800 strangers attended their wedding. &lt;/p&gt;&lt;p&gt;Also, a black Labrador has just been named as Animal of the Year. Six year old Sgaith sniffs out an invasive marine creature called the carpet sea squirt with her handler, Dr Texa Sim. &lt;/p&gt;&lt;p&gt;Archaeologists have found what they believe to be the world's oldest shipwreck. It's just off the coast of Turkey and it's thought to be 4,500 years old. Although the ship's wooden structure has not survived, some of its contents are still lying on the seabed. &lt;/p&gt;&lt;p&gt;Plus, the drug trial offering hope to people with alopecia. Why women are dominating the Motorsport, Top Fuel Drag Racing - and the man who ran a marathon, with strangers celebrating him along the way. &lt;/p&gt;&lt;p&gt;Image: Kimberly and Jayden getting married. Credit: GwenyGrace Photography&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgx6qp.mp3" length="13456000" type="audio/mpeg"/>
+&lt;p&gt;President Macron has promised that vandals and looters will be punished after a day of rioting saw businesses and public buildings damaged and set on fire across France. The protests - that have turned violent - are part of an ongoing wave of anger over declining public services and the cost of living. Also: The US, France and Belgium condemn Israeli settler attacks on diplomats and a journalist in the occupied West Bank. Donald Trump waives newly announced sanctions on Russia. We look back at the Black Panthers - a revolutionary organisation founded 60 years ago during the US civil rights movement. And a rare, flawless pink diamond is going back on public display, after being stolen and then hidden a century ago. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A protestor holds a French flag next to burning objects amid clashes in a street in Paris.
+Credit: Reuters/Jack Taylor&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph9kym.mp3" length="12976000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
