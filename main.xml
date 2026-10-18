@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 18 Oct 2026 19:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:21:53 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:04): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3543756.html</link>
-      <pubDate>Sun, 18 Oct 2026 19:59:38 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 22:21:53 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">b64db5fc-690c-42c2-8733-c13c2c2c158a</guid>
       <description>Originally published Sun 18 Oct 2026 22:04 IDT.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-2103-5300.mp3" length="1498507" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 22:09): 3pm ET, October 18 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 01:09): 6pm ET, October 18 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 18 Oct 2026 19:58:38 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 22:20:53 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">aaf30a9e-43db-44e1-98d6-63dea5c56d26</guid>
-      <description>Originally published Sun 18 Oct 2026 22:09 IDT.
+      <guid isPermaLink="false">3e3058f0-24ae-4ec6-ad2f-0254ec062726</guid>
+      <description>Originally published Mon 19 Oct 2026 01:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/478b897f-b039-46f2-9172-c1a264b0d016/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=478b897f-b039-46f2-9172-c1a264b0d016&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261018-1500-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/eba5136a-09a3-4aa8-a41c-87fe005933fa/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=eba5136a-09a3-4aa8-a41c-87fe005933fa&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261018-1800-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 18.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3543744.html</link>
-      <pubDate>Sun, 18 Oct 2026 19:57:38 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 22:19:53 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">08b14793-bf15-4025-967f-902c68c86a70-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 18 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Entsetzen über Ausschreitungen bei Protesten in Frankreich, Rot-grün-rote Sond
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-2027-3300.mp3" length="14696611" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 22:00): Die Nachrichten vom 18.10.2026, 21:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44056.html</link>
-      <pubDate>Sun, 18 Oct 2026 19:56:38 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 00:59): Die Nachrichten vom 18.10.2026, 23:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44062.html</link>
+      <pubDate>Sun, 18 Oct 2026 22:18:53 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">de505f98-7fee-505e-b9c0-ff4869c27210</guid>
-      <description>Originally published Sun 18 Oct 2026 22:00 IDT.
+      <guid isPermaLink="false">09d0baac-a742-5509-af38-817e67e8765e</guid>
+      <description>Originally published Mon 19 Oct 2026 00:59 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_2100_6262965e.mp3?refId=nachrichten-108" length="5017788" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_2359_b2075f70.mp3?refId=nachrichten-108" length="4985605" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (18.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18102026</link>
-      <pubDate>Sun, 18 Oct 2026 19:55:38 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 22:17:53 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_20abc34ad7d6447a9eab8dd7362d2124</guid>
       <description>Originally published Sun 18 Oct 2026 19:21 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story:Was World War Two worth it? Some US conservatives have doubts</title>
       <link>http://www.bbc.co.uk/programmes/p0ph1mk9</link>
-      <pubDate>Sun, 18 Oct 2026 19:54:38 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 22:16:53 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0ph1mk9</guid>
       <description>Originally published Sun 18 Oct 2026 22:00 IDT.
