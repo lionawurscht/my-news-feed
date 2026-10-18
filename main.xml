@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:44:47 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 14:04): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3543224.html</link>
-      <pubDate>Sun, 18 Oct 2026 14:15:22 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 17:32): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3543484.html</link>
+      <pubDate>Sun, 18 Oct 2026 17:44:47 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">3b6e660b-b386-4f0e-9d37-a6a21f480aa1</guid>
-      <description>Originally published Sun 18 Oct 2026 14:04 IDT.
+      <guid isPermaLink="false">c2fc8d1c-fb26-4422-b1c1-9377ffe40f33</guid>
+      <description>Originally published Sun 18 Oct 2026 17:32 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-1304-2500.mp3" length="2016139" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-1632-1000.mp3" length="1732747" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 17:10): 10am ET, October 18 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 20:09): 1pm ET, October 18 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 18 Oct 2026 14:14:22 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 17:43:47 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">2461c978-6c94-4ab5-8b05-fb1819502c69</guid>
-      <description>Originally published Sun 18 Oct 2026 17:10 IDT.
+      <guid isPermaLink="false">cb0c3206-100e-48c7-a769-9d008aa06d05</guid>
+      <description>Originally published Sun 18 Oct 2026 20:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/92ebbf25-f440-4bf2-bb8a-3bef3e7bc705/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=92ebbf25-f440-4bf2-bb8a-3bef3e7bc705&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261018-1000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/dd3b2cb3-adbc-4b7f-a937-7d3c4d2843f1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=dd3b2cb3-adbc-4b7f-a937-7d3c4d2843f1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261018-1300-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 17.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3542546.html</link>
-      <pubDate>Sun, 18 Oct 2026 14:13:22 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 17:42:47 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e4139d37-b3a3-4615-82cb-4400e72ab6fc-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 17 Oct 2026 21:00 IDT.
@@ -46,29 +46,29 @@ Sondierungsgespräche der Dreier-Koalition in Berlin erfolgreich beendet, Kanzle
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1017/AU-20261017-2024-2000.mp3" length="14049571" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 16:00): Die Nachrichten vom 18.10.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44044.html</link>
-      <pubDate>Sun, 18 Oct 2026 14:12:22 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 20:00): Die Nachrichten vom 18.10.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44052.html</link>
+      <pubDate>Sun, 18 Oct 2026 17:41:47 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">235ddc66-90b4-592d-a503-228fe0f6a1e0</guid>
-      <description>Originally published Sun 18 Oct 2026 16:00 IDT.
+      <guid isPermaLink="false">f7f1da33-5130-513c-8309-c7ad536637d3</guid>
+      <description>Originally published Sun 18 Oct 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_1500_2f18fff7.mp3?refId=nachrichten-108" length="4996472" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/18/nachrichten_dlf_20261018_1900_06f4ba14.mp3?refId=nachrichten-108" length="4983933" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 14:16): Mittagsjournal (18.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-18102026</link>
-      <pubDate>Sun, 18 Oct 2026 14:11:22 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (18.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18102026</link>
+      <pubDate>Sun, 18 Oct 2026 17:40:47 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_81725ffaa3bb4bbaa6afe73b7fab19be</guid>
-      <description>Originally published Sun 18 Oct 2026 14:16 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_81725ffaa3bb4bbaa6afe73b7fab19be.mp3?etag=95f1d8e47a38f9cf1ba63da7dea270d6" length="14751386" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_20abc34ad7d6447a9eab8dd7362d2124</guid>
+      <description>Originally published Sun 18 Oct 2026 19:21 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_20abc34ad7d6447a9eab8dd7362d2124.mp3?etag=6009f3d81761d5609c01a34e742a6451" length="22112536" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:40): President Macron vows to punish French rioters</title>
       <link>http://www.bbc.co.uk/programmes/p0ph9l0c</link>
-      <pubDate>Sun, 18 Oct 2026 14:10:22 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 17:39:47 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0ph9l0c</guid>
       <description>Originally published Sun 18 Oct 2026 06:40 IDT.
