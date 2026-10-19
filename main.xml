@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 19 Oct 2026 05:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:57:11 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 08:36): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3544228.html</link>
-      <pubDate>Mon, 19 Oct 2026 05:38:42 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 12:16): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3544776.html</link>
+      <pubDate>Mon, 19 Oct 2026 11:57:11 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">54b704a9-ff5f-4258-b7e6-4e8bf7c677ad</guid>
-      <description>Originally published Mon 19 Oct 2026 08:36 IDT.
+      <guid isPermaLink="false">76fd4815-688f-43f3-bfc0-5cb8d4f0af92</guid>
+      <description>Originally published Mon 19 Oct 2026 12:16 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-0736-3700.mp3" length="2306059" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-1115-5900.mp3" length="2109451" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 08:10): 1am ET, October 19 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 14:10): 7am ET, October 19 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 19 Oct 2026 05:37:42 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 11:56:11 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">a672e5ba-113e-4ccf-bbca-ca03119f1103</guid>
-      <description>Originally published Mon 19 Oct 2026 08:10 IDT.
+      <guid isPermaLink="false">67a0c303-0756-430a-8e5e-0311dd94f927</guid>
+      <description>Originally published Mon 19 Oct 2026 14:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c7534aab-719b-4166-95a7-4b4199861d53/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c7534aab-719b-4166-95a7-4b4199861d53&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-0100-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4472d74d-b325-4117-b0d4-7b34b5fb8ae9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4472d74d-b325-4117-b0d4-7b34b5fb8ae9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-0700-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 18.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3543744.html</link>
-      <pubDate>Mon, 19 Oct 2026 05:36:42 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 11:55:11 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">08b14793-bf15-4025-967f-902c68c86a70-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 18 Oct 2026 21:00 IDT.
@@ -46,39 +46,48 @@ Entsetzen über Ausschreitungen bei Protesten in Frankreich, Rot-grün-rote Sond
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-2027-3300.mp3" length="14696611" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 08:00): Die Nachrichten vom 19.10.2026, 07:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44082.html</link>
-      <pubDate>Mon, 19 Oct 2026 05:35:42 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 14:30): Die Nachrichten vom 19.10.2026, 13:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44108.html</link>
+      <pubDate>Mon, 19 Oct 2026 11:54:11 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">a8ff30ef-f647-502a-baa7-f9064dd990d4</guid>
-      <description>Originally published Mon 19 Oct 2026 08:00 IDT.
+      <guid isPermaLink="false">18f2951c-e6c4-5591-8b81-506593b5ed55</guid>
+      <description>Originally published Mon 19 Oct 2026 14:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/19/nachrichten_dlf_20261019_0700_5a87e840.mp3?refId=nachrichten-108" length="4979335" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/19/nachrichten_dlf_20261019_1330_6becf44a.mp3?refId=nachrichten-108" length="5001069" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 07:15): Frühjournal um 6 (19.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-19102026</link>
-      <pubDate>Mon, 19 Oct 2026 05:34:42 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 14:22): Mittagsjournal (19.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-19102026</link>
+      <pubDate>Mon, 19 Oct 2026 11:53:11 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_3598d99e155a4543940c10138152e8c4</guid>
-      <description>Originally published Mon 19 Oct 2026 07:15 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_3598d99e155a4543940c10138152e8c4.mp3?etag=e7c2f22212b9070d8e2f502446483ad9" length="14843063" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_52cf0b14f23f46409e68d05f1b1d0125</guid>
+      <description>Originally published Mon 19 Oct 2026 14:22 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_52cf0b14f23f46409e68d05f1b1d0125.mp3?etag=de78c3c6ab484ffc7710f99e18ba660a" length="87067854" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:48): How will violent unrest influence France's election?</title>
-      <link>http://www.bbc.co.uk/programmes/p0phdwjr</link>
-      <pubDate>Mon, 19 Oct 2026 05:33:42 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 09:22): Weltnaturkonferenz: Wie lässt sich das Artensterben stoppen?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/weltnaturkonferenz-wie-laesst-sich-das-artensterben-stoppen/2123281</link>
+      <pubDate>Mon, 19 Oct 2026 11:52:11 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0phdwjr</guid>
-      <description>Originally published Mon 19 Oct 2026 07:48 IDT.
+      <guid isPermaLink="false">4822502a-db1c-4952-9916-03d9545e0926</guid>
+      <description>Originally published Mon 19 Oct 2026 09:22 IDT.
 
-&lt;p&gt;With President Macron's final months in office set to be marred by the continuing protests and riots, how will the violent unrest influence France's upcoming election? Our reporter says the government's failures could help the far-left and far-right at the polls. Also: four soldiers are killed in a fire at a Canadian military base; Luiz Inácio Lula da Silva and Flávio Bolsonaro butt heads in Brazil's presidential TV debate; we speak to the son of the American journalist attacked by Israeli settlers in the occupied West Bank; a Kenyan doomsday cult leader awaits court verdict; and recycling sportswear - do you want to buy an Olympics kit originally made for an athlete?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: A French firefighter extinguishes a blaze as clashes between riot police and demonstrators continue. 
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phdw2y.mp3" length="13312000" type="audio/mpeg"/>
+Wie lässt sich das Artensterben stoppen? Bei der Weltnaturkonferenz in Armenien geht es um konkrete Fortschritte im Artenschutz. BR-Experte Simon Plentinger erklärt, was sich weltweit und in Bayern ändern muss.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123281/c/feed/weltnaturkonferenz-wie-laesst-sich-das-artensterben-stoppen.mp3" length="9079341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 12:00): Special Episode: Decoding US midterms jargon</title>
+      <link>http://www.bbc.co.uk/programmes/p0ph3tl2</link>
+      <pubDate>Mon, 19 Oct 2026 11:51:11 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0ph3tl2</guid>
+      <description>Originally published Mon 19 Oct 2026 12:00 IDT.
+
+&lt;p&gt;What happens if Donald Trump loses the midterms, and why do these elections matter for Republicans and Democrats? What is gerrymandering? A stump speech? PACs and Super PACs? Dark money? In this special joint episode, we explain some of the basics of next month's US elections. The Global News Podcast's Celia Hatton is joined by Anthony Zurcher and Sumi Somaskanda from Americast to help decode the weird and wonderful jargon surrounding the midterms. We hear from our listeners about which phrases have them stumped.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: US President Donald Trump responds to a question from the news medis.
+Credit: Shawn Thew - POOL/EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph3s29.mp3" length="15304000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
