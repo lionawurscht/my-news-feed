@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 19 Oct 2026 18:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:46:19 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,43 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 20:50): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3545918.html</link>
-      <pubDate>Mon, 19 Oct 2026 18:25:40 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:43): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3545980.html</link>
+      <pubDate>Mon, 19 Oct 2026 22:46:19 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">7dcbbe0b-d4e4-40fa-927f-7ab68f0da344</guid>
-      <description>Originally published Mon 19 Oct 2026 20:50 IDT.
+      <guid isPermaLink="false">1d645dda-8657-48eb-80b7-cf3e4e735f39</guid>
+      <description>Originally published Mon 19 Oct 2026 22:43 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-1950-1400.mp3" length="2254219" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-2143-4200.mp3" length="2235787" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 21:10): 2pm ET, October 19 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 01:10): 6pm ET, October 19 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 19 Oct 2026 18:24:40 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 22:45:19 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">0b494a25-d88e-49b3-99ce-3133ef4d0070</guid>
-      <description>Originally published Mon 19 Oct 2026 21:10 IDT.
+      <guid isPermaLink="false">3311da61-1d9d-451f-b8ba-129e24aa9500</guid>
+      <description>Originally published Tue 20 Oct 2026 01:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d8e1fa7c-04b2-412c-be0d-b60c545fc281/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d8e1fa7c-04b2-412c-be0d-b60c545fc281&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0ed686f3-7fb1-4d33-9bb5-0c8d797528f6/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0ed686f3-7fb1-4d33-9bb5-0c8d797528f6&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-1800-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 21:00): Die Nachrichten vom 19.10.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44130.html</link>
-      <pubDate>Mon, 19 Oct 2026 18:23:40 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 19.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3545952.html</link>
+      <pubDate>Mon, 19 Oct 2026 22:44:19 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">554ad053-7418-59c4-8286-35ad0f248979</guid>
+      <guid isPermaLink="false">6a5fb7f3-6e15-4a88-8f19-70dcb628e6c2-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 19 Oct 2026 21:00 IDT.
 
+Französische Regierung räumt nach Ausschreitungen am Rande von friedlichen Protesten Versäumnisse ein, Vorstand von VW plant weltweit Gehälter bis 2030 einzufrieren, Bundesregierung gibt Zusammenarbeit mit Computerchip-Hersteller Nvidia bekannt, Berliner SPD stimmt für Aufnahme der Koalitionsverhandlungen mit Linkspartei und Grünen, Polizei stellt zwei Verdächtige wegen Loch im Sicherheitszaun des Flughafen Leipzig/Halle, Ukraine stellt sich auf weiteren Winter mit russischen Angriffen ein, Schwere Überschwemmungen nach heftigen Regenfällen in der spanischen Mittelmeerregion, Sonde &quot;Idefix&quot; soll Proben auf Mars-Mond Phobos sammeln, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-2025-5900.mp3" length="15003810" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 00:00): Die Nachrichten vom 19.10.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44136.html</link>
+      <pubDate>Mon, 19 Oct 2026 22:43:19 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">19a595e2-3ccd-5a76-a521-b81f229cccb0</guid>
+      <description>Originally published Tue 20 Oct 2026 00:00 IDT.
+
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/19/nachrichten_dlf_20261019_2000_d25202c4.mp3?refId=nachrichten-108" length="9768730" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/19/nachrichten_dlf_20261019_2300_63f6cf16.mp3?refId=nachrichten-108" length="9902477" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (19.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-19102026</link>
-      <pubDate>Mon, 19 Oct 2026 18:22:40 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 19 Oct 2026 22:42:19 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_607ffa6e679a450884de6f61edd8977f</guid>
       <description>Originally published Mon 19 Oct 2026 19:33 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_607ffa6e679a450884de6f61edd8977f.mp3?etag=c100c9cb095be78721aed0f65618916e" length="36337819" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierungen beendet | Neues Umspannwerk | Weiterbau der B112</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-berlin-umspannwerk-oranienburg-umgehung-frankfurt-oder-b112.html</link>
-      <pubDate>Mon, 19 Oct 2026 18:21:40 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Mon, 19 Oct 2026 22:41:19 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/d0/38/d0382bf2-c6dc-4959-b2c9-28f936d36c97/d0382bf2-c6dc-4959-b2c9-28f936d36c97_mp3-256kd.mp3</guid>
       <description>Originally published Mon 19 Oct 2026 19:17 IDT.
 
@@ -70,8 +81,8 @@ Linke, Gr&amp;#252;ne und SPD haben sich in Berlin auf ein Sondierungspapier gee
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 18:51): Proteste in Frankreich: Werden sie zur europaweiten Welle?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/proteste-in-frankreich-werden-sie-zur-europaweiten-welle/2123299</link>
-      <pubDate>Mon, 19 Oct 2026 18:20:40 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Mon, 19 Oct 2026 22:40:19 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">363c2b7b-893d-4d4f-a096-4c59746daa7f</guid>
       <description>Originally published Mon 19 Oct 2026 18:51 IDT.
 
@@ -81,8 +92,8 @@ Nach Frankreich haben Proteste weitere Länder erreicht. Auch in Italien, Belgie
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:37): World Food Programme to cut aid to Gaza</title>
       <link>http://www.bbc.co.uk/programmes/p0phj1rg</link>
-      <pubDate>Mon, 19 Oct 2026 18:19:40 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Mon, 19 Oct 2026 22:39:19 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0phj1rg</guid>
       <description>Originally published Mon 19 Oct 2026 18:37 IDT.
 
