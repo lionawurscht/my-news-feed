@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:25:40 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,81 +13,84 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 12:16): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3544776.html</link>
-      <pubDate>Mon, 19 Oct 2026 11:57:11 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 20:50): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3545918.html</link>
+      <pubDate>Mon, 19 Oct 2026 18:25:40 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">76fd4815-688f-43f3-bfc0-5cb8d4f0af92</guid>
-      <description>Originally published Mon 19 Oct 2026 12:16 IDT.
+      <guid isPermaLink="false">7dcbbe0b-d4e4-40fa-927f-7ab68f0da344</guid>
+      <description>Originally published Mon 19 Oct 2026 20:50 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-1115-5900.mp3" length="2109451" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-1950-1400.mp3" length="2254219" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 14:10): 7am ET, October 19 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 21:10): 2pm ET, October 19 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 19 Oct 2026 11:56:11 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 18:24:40 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">67a0c303-0756-430a-8e5e-0311dd94f927</guid>
-      <description>Originally published Mon 19 Oct 2026 14:10 IDT.
+      <guid isPermaLink="false">0b494a25-d88e-49b3-99ce-3133ef4d0070</guid>
+      <description>Originally published Mon 19 Oct 2026 21:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4472d74d-b325-4117-b0d4-7b34b5fb8ae9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4472d74d-b325-4117-b0d4-7b34b5fb8ae9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-0700-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d8e1fa7c-04b2-412c-be0d-b60c545fc281/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d8e1fa7c-04b2-412c-be0d-b60c545fc281&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 18.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3543744.html</link>
-      <pubDate>Mon, 19 Oct 2026 11:55:11 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 21:00): Die Nachrichten vom 19.10.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44130.html</link>
+      <pubDate>Mon, 19 Oct 2026 18:23:40 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">08b14793-bf15-4025-967f-902c68c86a70-SENDUNGSAUDIO</guid>
-      <description>Originally published Sun 18 Oct 2026 21:00 IDT.
-
-Entsetzen über Ausschreitungen bei Protesten in Frankreich, Rot-grün-rote Sondierungsgespräche in Berlin: CSU-Chef Söder fordert Brandmauer gegen Links, Erneuter Sicherheitsvorfall am Flughafen Leipzig/Halle, Ukrainisches Militär startet Drohnenangriffe auf Region um St. Petersburg, Landesweite Proteste in den USA gegen Präsident Trump, Deutsche Ärzte versorgen Verletzte aus dem Gazastreifen in Kairo, 6. Spieltag Fußball-Bundesliga, Tischtennis-EM in Slowenien, Das Wetter Hinweis: Der Beitrag zur &quot;Fußball-Bundesliga&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-2027-3300.mp3" length="14696611" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 14:30): Die Nachrichten vom 19.10.2026, 13:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44108.html</link>
-      <pubDate>Mon, 19 Oct 2026 11:54:11 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">18f2951c-e6c4-5591-8b81-506593b5ed55</guid>
-      <description>Originally published Mon 19 Oct 2026 14:30 IDT.
+      <guid isPermaLink="false">554ad053-7418-59c4-8286-35ad0f248979</guid>
+      <description>Originally published Mon 19 Oct 2026 21:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/19/nachrichten_dlf_20261019_1330_6becf44a.mp3?refId=nachrichten-108" length="5001069" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/19/nachrichten_dlf_20261019_2000_d25202c4.mp3?refId=nachrichten-108" length="9768730" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 14:22): Mittagsjournal (19.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-19102026</link>
-      <pubDate>Mon, 19 Oct 2026 11:53:11 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (19.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-19102026</link>
+      <pubDate>Mon, 19 Oct 2026 18:22:40 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_607ffa6e679a450884de6f61edd8977f</guid>
+      <description>Originally published Mon 19 Oct 2026 19:33 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_607ffa6e679a450884de6f61edd8977f.mp3?etag=c100c9cb095be78721aed0f65618916e" length="36337819" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierungen beendet | Neues Umspannwerk | Weiterbau der B112</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-berlin-umspannwerk-oranienburg-umgehung-frankfurt-oder-b112.html</link>
+      <pubDate>Mon, 19 Oct 2026 18:21:40 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_52cf0b14f23f46409e68d05f1b1d0125</guid>
-      <description>Originally published Mon 19 Oct 2026 14:22 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_52cf0b14f23f46409e68d05f1b1d0125.mp3?etag=de78c3c6ab484ffc7710f99e18ba660a" length="87067854" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/d0/38/d0382bf2-c6dc-4959-b2c9-28f936d36c97/d0382bf2-c6dc-4959-b2c9-28f936d36c97_mp3-256kd.mp3</guid>
+      <description>Originally published Mon 19 Oct 2026 19:17 IDT.
+
+Linke, Gr&amp;#252;ne und SPD haben sich in Berlin auf ein Sondierungspapier geeinigt. Ein wichtiger Punkt: Im Falle einer Koalition wollen sie eine Vergesellschaftung, also Enteignung, gro&amp;#223;er privater Wohnungsbest&amp;#228;nde angehen. Wir schauen auf die rechtliche Lage. Weitere Themen: die hohe Verschuldung des Landes Berlin, Richtfest f&amp;#252;r ein neues Umspannwerk in Oranienburg und Spatenstich f&amp;#252;r die Ortsumgehung der B112 in Frankfurt/Oder.
+
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/d0/38/d0382bf2-c6dc-4959-b2c9-28f936d36c97/d0382bf2-c6dc-4959-b2c9-28f936d36c97_mp3-256kd.mp3" length="29719115" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 09:22): Weltnaturkonferenz: Wie lässt sich das Artensterben stoppen?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/weltnaturkonferenz-wie-laesst-sich-das-artensterben-stoppen/2123281</link>
-      <pubDate>Mon, 19 Oct 2026 11:52:11 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 18:51): Proteste in Frankreich: Werden sie zur europaweiten Welle?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/proteste-in-frankreich-werden-sie-zur-europaweiten-welle/2123299</link>
+      <pubDate>Mon, 19 Oct 2026 18:20:40 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">4822502a-db1c-4952-9916-03d9545e0926</guid>
-      <description>Originally published Mon 19 Oct 2026 09:22 IDT.
+      <guid isPermaLink="false">363c2b7b-893d-4d4f-a096-4c59746daa7f</guid>
+      <description>Originally published Mon 19 Oct 2026 18:51 IDT.
 
-Wie lässt sich das Artensterben stoppen? Bei der Weltnaturkonferenz in Armenien geht es um konkrete Fortschritte im Artenschutz. BR-Experte Simon Plentinger erklärt, was sich weltweit und in Bayern ändern muss.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123281/c/feed/weltnaturkonferenz-wie-laesst-sich-das-artensterben-stoppen.mp3" length="9079341" type="audio/mpeg"/>
+Nach Frankreich haben Proteste weitere Länder erreicht. Auch in Italien, Belgien, Portugal und Albanien formiert sich Widerstand. Was treibt die Menschen auf die Straßen - und kommt es vielleicht zu einer Protestwelle in ganz Europa?</description>
+      <enclosure url="https://media.neuland.br.de/file/2123299/c/feed/proteste-in-frankreich-werden-sie-zur-europaweiten-welle.mp3" length="8812461" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 12:00): Special Episode: Decoding US midterms jargon</title>
-      <link>http://www.bbc.co.uk/programmes/p0ph3tl2</link>
-      <pubDate>Mon, 19 Oct 2026 11:51:11 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:37): World Food Programme to cut aid to Gaza</title>
+      <link>http://www.bbc.co.uk/programmes/p0phj1rg</link>
+      <pubDate>Mon, 19 Oct 2026 18:19:40 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0ph3tl2</guid>
-      <description>Originally published Mon 19 Oct 2026 12:00 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0phj1rg</guid>
+      <description>Originally published Mon 19 Oct 2026 18:37 IDT.
 
-&lt;p&gt;What happens if Donald Trump loses the midterms, and why do these elections matter for Republicans and Democrats? What is gerrymandering? A stump speech? PACs and Super PACs? Dark money? In this special joint episode, we explain some of the basics of next month's US elections. The Global News Podcast's Celia Hatton is joined by Anthony Zurcher and Sumi Somaskanda from Americast to help decode the weird and wonderful jargon surrounding the midterms. We hear from our listeners about which phrases have them stumped.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: US President Donald Trump responds to a question from the news medis.
-Credit: Shawn Thew - POOL/EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph3s29.mp3" length="15304000" type="audio/mpeg"/>
+&lt;p&gt;Residents of Gaza have described the World Food Programme's decision to drastically reduce lifesaving assistance as &quot;disastrous&quot;. The number of people helped by the UN agency will be reduced by around a third to one-point-one million people, as it grapples with a funding shortfall. Also: An Australian lawmaker is in a critical condition after being hit by a car in what the prime minister described as an attack. A Kenyan court delivers its judgement in the trial of a cult leader accused of murdering almost two hundred people who starved to death.The French government says it's imposing temporary curfews in some cities to prevent any continuation of the violent unrest that swept the country over the weekend. A spacecraft is set to take off from Japan on the world's first mission to bring back samples from Phobos, one of two small moons orbiting Mars. And the British government has launched a campaign to clamp down on people playing music out loud on buses and trains - with fines of around $130.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Palestinian children queue to receive food from the World Food Programme (WFP)
+Credit: Reuters/Mahmoud Issa&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phj06j.mp3" length="13584000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
