@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:38:42 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 03:12): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3543898.html</link>
-      <pubDate>Mon, 19 Oct 2026 00:43:44 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 08:36): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3544228.html</link>
+      <pubDate>Mon, 19 Oct 2026 05:38:42 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4aa5deec-0c83-46f7-ba6e-5c36156f7388</guid>
-      <description>Originally published Mon 19 Oct 2026 03:12 IDT.
+      <guid isPermaLink="false">54b704a9-ff5f-4258-b7e6-4e8bf7c677ad</guid>
+      <description>Originally published Mon 19 Oct 2026 08:36 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-0212-4800.mp3" length="1685922" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-0736-3700.mp3" length="2306059" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 03:10): 8pm ET, October 18 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 08:10): 1am ET, October 19 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 19 Oct 2026 00:42:44 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 05:37:42 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">6b7ba834-f765-45da-ac42-c491418d4d55</guid>
-      <description>Originally published Mon 19 Oct 2026 03:10 IDT.
+      <guid isPermaLink="false">a672e5ba-113e-4ccf-bbca-ca03119f1103</guid>
+      <description>Originally published Mon 19 Oct 2026 08:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f0e473d7-b345-4a5a-977f-4d0048253284/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f0e473d7-b345-4a5a-977f-4d0048253284&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261018-2000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c7534aab-719b-4166-95a7-4b4199861d53/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c7534aab-719b-4166-95a7-4b4199861d53&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-0100-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 18.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3543744.html</link>
-      <pubDate>Mon, 19 Oct 2026 00:41:44 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 05:36:42 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">08b14793-bf15-4025-967f-902c68c86a70-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 18 Oct 2026 21:00 IDT.
@@ -46,35 +46,39 @@ Entsetzen über Ausschreitungen bei Protesten in Frankreich, Rot-grün-rote Sond
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1018/AU-20261018-2027-3300.mp3" length="14696611" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 03:00): Die Nachrichten vom 19.10.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44066.html</link>
-      <pubDate>Mon, 19 Oct 2026 00:40:44 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 08:00): Die Nachrichten vom 19.10.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44082.html</link>
+      <pubDate>Mon, 19 Oct 2026 05:35:42 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">66f38b3b-7044-5d64-a468-913169936a2b</guid>
-      <description>Originally published Mon 19 Oct 2026 03:00 IDT.
+      <guid isPermaLink="false">a8ff30ef-f647-502a-baa7-f9064dd990d4</guid>
+      <description>Originally published Mon 19 Oct 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/19/nachrichten_dlf_20261019_0200_38753eb9.mp3?refId=nachrichten-108" length="5008593" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/19/nachrichten_dlf_20261019_0700_5a87e840.mp3?refId=nachrichten-108" length="4979335" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (18.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18102026</link>
-      <pubDate>Mon, 19 Oct 2026 00:39:44 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 07:15): Frühjournal um 6 (19.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-19102026</link>
+      <pubDate>Mon, 19 Oct 2026 05:34:42 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_20abc34ad7d6447a9eab8dd7362d2124</guid>
-      <description>Originally published Sun 18 Oct 2026 19:21 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_20abc34ad7d6447a9eab8dd7362d2124.mp3?etag=6009f3d81761d5609c01a34e742a6451" length="22112536" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_3598d99e155a4543940c10138152e8c4</guid>
+      <description>Originally published Mon 19 Oct 2026 07:15 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_3598d99e155a4543940c10138152e8c4.mp3?etag=e7c2f22212b9070d8e2f502446483ad9" length="14843063" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story:Was World War Two worth it? Some US conservatives have doubts</title>
-      <link>http://www.bbc.co.uk/programmes/p0ph1mk9</link>
-      <pubDate>Mon, 19 Oct 2026 00:38:44 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:48): How will violent unrest influence France's election?</title>
+      <link>http://www.bbc.co.uk/programmes/p0phdwjr</link>
+      <pubDate>Mon, 19 Oct 2026 05:33:42 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0ph1mk9</guid>
-      <description>Originally published Sun 18 Oct 2026 22:00 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0phdwjr</guid>
+      <description>Originally published Mon 19 Oct 2026 07:48 IDT.
 
-&lt;p&gt;Since World War Two ended, most people living in the United States or Europe have generally upheld a consensus about its morality; that it was a just war fought against an evil Nazi regime, and the allies were right to fight it. But in a viral podcast debate with the British conservative Sir Jacob Rees-Mogg, Tucker Carlson seemed to disagree with that narrative, causing deep consternation within the wider conservative movement. The Global Story’s Tristan Redman speaks to BBC Newscast’s Adam Fleming about Sir Jacob Rees-Mogg and the strand of British conservatism he represents. We also hear from the Conservative politician and Times of London columnist Lord Daniel Finkelstein - whose parents were survivors of a Nazi concentration camps and a Russian gulag - about why he thinks one of America’s most influential right-wing voices is casting doubt on World War Two history. &lt;/p&gt;&lt;p&gt;For more from the Global Story please subscribe wherever you get your BBC podcasts.&lt;/p&gt;&lt;p&gt;(Photo: Tucker Carlson speaks at the Republican National Convention (RNC) in Milwaukee, Wisconsin, US, 18 July, 2024. He has short brown hair with side parting. He gestures with both arms outstretched to the side as he speaks into a mic. He wears a dark blue jacket, a blue and white gingham shirt and a dark blue tie with yellow, diagonal stripes. Credit: Mike Segar/Reuters) Producer: Aron Keller and Cat Farnsworth Executive producer: James Shield Digital producer: Sam Gruet Sound engineer: Travis Evans Senior news editor: China Collins&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph1k8q.mp3" length="13296000" type="audio/mpeg"/>
+&lt;p&gt;With President Macron's final months in office set to be marred by the continuing protests and riots, how will the violent unrest influence France's upcoming election? Our reporter says the government's failures could help the far-left and far-right at the polls. Also: four soldiers are killed in a fire at a Canadian military base; Luiz Inácio Lula da Silva and Flávio Bolsonaro butt heads in Brazil's presidential TV debate; we speak to the son of the American journalist attacked by Israeli settlers in the occupied West Bank; a Kenyan doomsday cult leader awaits court verdict; and recycling sportswear - do you want to buy an Olympics kit originally made for an athlete?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: A French firefighter extinguishes a blaze as clashes between riot police and demonstrators continue. 
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phdw2y.mp3" length="13312000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
