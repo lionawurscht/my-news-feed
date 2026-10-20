@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:16:36 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,96 +13,84 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 15:22): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3547424.html</link>
-      <pubDate>Tue, 20 Oct 2026 13:15:17 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:37): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3548040.html</link>
+      <pubDate>Tue, 20 Oct 2026 18:16:36 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">0862a9cd-93f0-4688-856c-ce2193255633</guid>
-      <description>Originally published Tue 20 Oct 2026 15:22 IDT.
+      <guid isPermaLink="false">44e2df42-8634-4fcd-9dc4-89f2ebbd5509</guid>
+      <description>Originally published Tue 20 Oct 2026 19:37 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-1422-1800.mp3" length="1921291" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-1836-5300.mp3" length="1947787" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 16:10): 9am ET, October 20 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 21:09): 2pm ET, October 20 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 20 Oct 2026 13:14:17 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 18:15:36 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c6a74059-2fa5-4f55-81f2-98f0d997b8fe</guid>
-      <description>Originally published Tue 20 Oct 2026 16:10 IDT.
+      <guid isPermaLink="false">50909190-c7ab-4031-aa32-7f8605682b0b</guid>
+      <description>Originally published Tue 20 Oct 2026 21:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2c886d51-23c9-4de4-9d4d-5ad2e99fb59a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2c886d51-23c9-4de4-9d4d-5ad2e99fb59a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261020-0900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/547e1ca8-34c7-4d7f-ad16-fd2bd316ae6e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=547e1ca8-34c7-4d7f-ad16-fd2bd316ae6e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261020-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 19.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3545952.html</link>
-      <pubDate>Tue, 20 Oct 2026 13:13:17 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 21:00): Die Nachrichten vom 20.10.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44208.html</link>
+      <pubDate>Tue, 20 Oct 2026 18:14:36 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">6a5fb7f3-6e15-4a88-8f19-70dcb628e6c2-SENDUNGSAUDIO</guid>
-      <description>Originally published Mon 19 Oct 2026 21:00 IDT.
-
-Französische Regierung räumt nach Ausschreitungen am Rande von friedlichen Protesten Versäumnisse ein, Vorstand von VW plant weltweit Gehälter bis 2030 einzufrieren, Bundesregierung gibt Zusammenarbeit mit Computerchip-Hersteller Nvidia bekannt, Berliner SPD stimmt für Aufnahme der Koalitionsverhandlungen mit Linkspartei und Grünen, Polizei stellt zwei Verdächtige wegen Loch im Sicherheitszaun des Flughafen Leipzig/Halle, Ukraine stellt sich auf weiteren Winter mit russischen Angriffen ein, Schwere Überschwemmungen nach heftigen Regenfällen in der spanischen Mittelmeerregion, Sonde &quot;Idefix&quot; soll Proben auf Mars-Mond Phobos sammeln, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-2025-5900.mp3" length="15003810" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 16:00): Die Nachrichten vom 20.10.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44194.html</link>
-      <pubDate>Tue, 20 Oct 2026 13:12:17 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">cd949c71-cbdd-56ec-8d58-e847945856cc</guid>
-      <description>Originally published Tue 20 Oct 2026 16:00 IDT.
+      <guid isPermaLink="false">97983c27-9e86-5ac6-b74d-26e1c343bc2b</guid>
+      <description>Originally published Tue 20 Oct 2026 21:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/20/nachrichten_dlf_20261020_1500_b965b9c4.mp3?refId=nachrichten-108" length="4959273" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/20/nachrichten_dlf_20261020_2000_53786b22.mp3?refId=nachrichten-108" length="4959273" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 14:17): Mittagsjournal (20.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-20102026</link>
-      <pubDate>Tue, 20 Oct 2026 13:11:17 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:32): Abendjournal um 18 (20.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20102026</link>
+      <pubDate>Tue, 20 Oct 2026 18:13:36 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_78bb05e5370b439f962497d740949925</guid>
+      <description>Originally published Tue 20 Oct 2026 19:32 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_78bb05e5370b439f962497d740949925.mp3?etag=f0e4639a4fe82c352c3e457252e7c0b2" length="36337819" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Wohnungsmarkt  | Lauf hinter Mauern | Auerhühner</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/wohnungsmarkt-brandenburg-lauf-hinter-mauern-auerhuehner.html</link>
+      <pubDate>Tue, 20 Oct 2026 18:12:36 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_b5ca48b1fa104d5c81e3a9afe7eea09d</guid>
-      <description>Originally published Tue 20 Oct 2026 14:17 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b5ca48b1fa104d5c81e3a9afe7eea09d.mp3?etag=dc902c1bc57acef3bd4ed9aa980000c3" length="86960034" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 10:18): Trump und die Midterms</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/trump-und-die-midterms/2123315</link>
-      <pubDate>Tue, 20 Oct 2026 13:10:17 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">96278640-9f2c-4eac-812e-ff24fc182ba6</guid>
-      <description>Originally published Tue 20 Oct 2026 10:18 IDT.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f0/bd/f0bd161c-ce39-4a37-8018-647cf86c7344/f0bd161c-ce39-4a37-8018-647cf86c7344_mp3-256kd.mp3</guid>
+      <description>Originally published Tue 20 Oct 2026 19:17 IDT.
 
-Donald Trump macht die Zwischenwahlen zur Abstimmung über seine Politik, aber seine Umfragewerte sind im Keller</description>
-      <enclosure url="https://media.neuland.br.de/file/2123315/c/feed/trump-und-die-midterms.mp3" length="10581933" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierungen beendet | Neues Umspannwerk | Weiterbau der B112</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-berlin-umspannwerk-oranienburg-umgehung-frankfurt-oder-b112.html</link>
-      <pubDate>Tue, 20 Oct 2026 13:09:17 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/d0/38/d0382bf2-c6dc-4959-b2c9-28f936d36c97/d0382bf2-c6dc-4959-b2c9-28f936d36c97_mp3-256kd.mp3</guid>
-      <description>Originally published Mon 19 Oct 2026 19:17 IDT.
-
-Linke, Gr&amp;#252;ne und SPD haben sich in Berlin auf ein Sondierungspapier geeinigt. Ein wichtiger Punkt: Im Falle einer Koalition wollen sie eine Vergesellschaftung, also Enteignung, gro&amp;#223;er privater Wohnungsbest&amp;#228;nde angehen. Wir schauen auf die rechtliche Lage. Weitere Themen: die hohe Verschuldung des Landes Berlin, Richtfest f&amp;#252;r ein neues Umspannwerk in Oranienburg und Spatenstich f&amp;#252;r die Ortsumgehung der B112 in Frankfurt/Oder.
-
+In Brandenburg gibt es in einigen Gegenden kaum bezahlbaren Wohnraum - &amp;#228;hnlich wie in Berlin. Anders sieht es im Norden oder ganz im S&amp;#252;den aus: Hier werden Wohnungen mangels Nachfrage sogar abgerissen. Weitere Themen: Ganztagsbetreuung in den Schulferien, ein Lauf hinter den Mauern der JVA Pl&amp;#246;tzensee und Auerh&amp;#252;hner in der Niederlausitz.
+&amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/d0/38/d0382bf2-c6dc-4959-b2c9-28f936d36c97/d0382bf2-c6dc-4959-b2c9-28f936d36c97_mp3-256kd.mp3" length="29719115" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/f0/bd/f0bd161c-ce39-4a37-8018-647cf86c7344/f0bd161c-ce39-4a37-8018-647cf86c7344_mp3-256kd.mp3" length="29155403" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 08:14): France halts protests with curfew crackdown</title>
-      <link>http://www.bbc.co.uk/programmes/p0phlcv5</link>
-      <pubDate>Tue, 20 Oct 2026 13:08:17 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0phlcv5</guid>
-      <description>Originally published Tue 20 Oct 2026 08:14 IDT.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 17:03): Münchner Medientage: Wie geht der BR mit KI um?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/muenchner-medientage-wie-geht-der-br-mit-ki-um/2123336</link>
+      <pubDate>Tue, 20 Oct 2026 18:11:36 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">f5e10113-dc61-4349-af3d-3e3df73fcd3b</guid>
+      <description>Originally published Tue 20 Oct 2026 17:03 IDT.
 
-&lt;p&gt;Overnight curfews are in place in parts of Paris, Lyon, Lille and Nice as the French authorities try to crack down on violence and looting which has scarred the country since Saturday. Demonstrations have been banned in the French capital, which experienced some of the worst unrest that spilled over from massive protests against the cost of living. &lt;/p&gt;&lt;p&gt;Also: Japan heads to Mars to make history in space exploration; young Israeli voters speak to the BBC ahead of next week's election; a Bangladesh minister resigns after going viral on social media for wielding a gun in suspected drugs raid; the researchers trying to solve the mysterious disappearance of the pioneering aviator Amelia Earhart; and Apu returns to the Simpsons after nine years away. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Die Rolle der KI im Journalismus ist das zentrale Thema der 40. Münchner Medientage, auch der BR ist dabei.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123336/c/feed/muenchner-medientage-wie-geht-der-br-mit-ki-um.mp3" length="14377005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:49): Alberta rejects move towards Canada independence</title>
+      <link>http://www.bbc.co.uk/programmes/p0phnspw</link>
+      <pubDate>Tue, 20 Oct 2026 18:10:36 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0phnspw</guid>
+      <description>Originally published Tue 20 Oct 2026 18:49 IDT.
+
+&lt;p&gt;Canada’s most oil and gas rich province, Alberta, has voted to reject a move towards holding a referendum on independence from Canada.  The Alberta Premier Danielle Smith and Prime Minister Mark Carney said they were pleased with the result. More than three quarters of voters said they were against holding a future binding referendum that would have split Alberta from the rest of Canada. The vote took place at a time when Canada is embroiled in a trade war with the US. &lt;/p&gt;&lt;p&gt;Also: More civilians have died in the latest round of drone attacks in Sudan. Police have charged a man alleged to have nearly killed an Australian MP. A key advisor to President Zelensky says that Ukrainians are dying because the US is &quot;restricting intelligence sharing&quot;. New evidence has found that Shakespeare was not the only author of the play Edward III.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: A protester in Paris throws a bicycle onto a burning car amid clashes during a day of demonstrations
-Credit: REUTERS/Abdul Saboor&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phl963.mp3" length="12568000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A supporter of the Forever Canadian group, who wants Alberta to remain in Canada, waits for the results of a non-binding referendum on Alberta sovereignty in Edmonton, Alberta, Canada October 19, 2026.&lt;/p&gt;&lt;p&gt;Credit:
+Reuters/Todd Korol TPX IMAGES OF THE DAY&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phnr2p.mp3" length="12168000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
