@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:02:24 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,43 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:37): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3548040.html</link>
-      <pubDate>Tue, 20 Oct 2026 18:16:36 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 22:49): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3548220.html</link>
+      <pubDate>Tue, 20 Oct 2026 22:02:24 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">44e2df42-8634-4fcd-9dc4-89f2ebbd5509</guid>
-      <description>Originally published Tue 20 Oct 2026 19:37 IDT.
+      <guid isPermaLink="false">3087ffe3-f174-4c62-a794-38889ca4898b</guid>
+      <description>Originally published Tue 20 Oct 2026 22:49 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-1836-5300.mp3" length="1947787" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-2148-5400.mp3" length="1938187" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 21:09): 2pm ET, October 20 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 00:10): 5pm ET, October 20 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 20 Oct 2026 18:15:36 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 22:01:24 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">50909190-c7ab-4031-aa32-7f8605682b0b</guid>
-      <description>Originally published Tue 20 Oct 2026 21:09 IDT.
+      <guid isPermaLink="false">3d242ec1-85bf-4e90-90c5-bf02881995a7</guid>
+      <description>Originally published Wed 21 Oct 2026 00:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/547e1ca8-34c7-4d7f-ad16-fd2bd316ae6e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=547e1ca8-34c7-4d7f-ad16-fd2bd316ae6e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261020-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/68d9432f-017e-4153-89b5-3f9befbce312/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=68d9432f-017e-4153-89b5-3f9befbce312&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261020-1700-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 21:00): Die Nachrichten vom 20.10.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44208.html</link>
-      <pubDate>Tue, 20 Oct 2026 18:14:36 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 20.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3548184.html</link>
+      <pubDate>Tue, 20 Oct 2026 22:00:24 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">97983c27-9e86-5ac6-b74d-26e1c343bc2b</guid>
+      <guid isPermaLink="false">f65c7216-6dfa-41d1-b5ff-6b8a3ddc5b6f-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 20 Oct 2026 21:00 IDT.
 
+Kanzler Merz zieht ein positives Fazit des Investorengipfels in Berlin, Unternehmen fordern bessere Rahmenbedingungen für Investitionen, Grüne und SPD für Koalitionsgespräche mit der Linkspartei in Berlin, AfD bestätigt Hackerangriff auf E-Mail-Konten, EU-Parlament stärkt Rechte von Reisenden in der EU, Treffen von ukrainischen Präsidenten Selenskyj mit US-Sondergesandten Witkoff in Oslo, Lkw-Blockaden in Italien wegen hoher Kraftstoffpreise, Porto für Briefe soll teurer werden, 65 Jahre Anwerbeabkommen mit der Türkei, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-2027-3000.mp3" length="14851363" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 00:00): Die Nachrichten vom 20.10.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44214.html</link>
+      <pubDate>Tue, 20 Oct 2026 21:59:24 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">9e960bfd-4250-538f-8b49-f284ea8e5394</guid>
+      <description>Originally published Wed 21 Oct 2026 00:00 IDT.
+
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/20/nachrichten_dlf_20261020_2000_53786b22.mp3?refId=nachrichten-108" length="4959273" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/20/nachrichten_dlf_20261020_2300_ff1d2a6e.mp3?refId=nachrichten-108" length="9868622" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:32): Abendjournal um 18 (20.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20102026</link>
-      <pubDate>Tue, 20 Oct 2026 18:13:36 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Tue, 20 Oct 2026 21:58:24 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_78bb05e5370b439f962497d740949925</guid>
       <description>Originally published Tue 20 Oct 2026 19:32 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_78bb05e5370b439f962497d740949925.mp3?etag=f0e4639a4fe82c352c3e457252e7c0b2" length="36337819" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Wohnungsmarkt  | Lauf hinter Mauern | Auerhühner</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/wohnungsmarkt-brandenburg-lauf-hinter-mauern-auerhuehner.html</link>
-      <pubDate>Tue, 20 Oct 2026 18:12:36 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Tue, 20 Oct 2026 21:57:24 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f0/bd/f0bd161c-ce39-4a37-8018-647cf86c7344/f0bd161c-ce39-4a37-8018-647cf86c7344_mp3-256kd.mp3</guid>
       <description>Originally published Tue 20 Oct 2026 19:17 IDT.
 
@@ -70,8 +81,8 @@ In Brandenburg gibt es in einigen Gegenden kaum bezahlbaren Wohnraum - &amp;#228
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 17:03): Münchner Medientage: Wie geht der BR mit KI um?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/muenchner-medientage-wie-geht-der-br-mit-ki-um/2123336</link>
-      <pubDate>Tue, 20 Oct 2026 18:11:36 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Tue, 20 Oct 2026 21:56:24 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">f5e10113-dc61-4349-af3d-3e3df73fcd3b</guid>
       <description>Originally published Tue 20 Oct 2026 17:03 IDT.
 
@@ -81,8 +92,8 @@ Die Rolle der KI im Journalismus ist das zentrale Thema der 40. Münchner Medien
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:49): Alberta rejects move towards Canada independence</title>
       <link>http://www.bbc.co.uk/programmes/p0phnspw</link>
-      <pubDate>Tue, 20 Oct 2026 18:10:36 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 20 Oct 2026 21:55:24 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0phnspw</guid>
       <description>Originally published Tue 20 Oct 2026 18:49 IDT.
 
