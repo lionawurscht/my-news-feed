@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:29:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:03:44 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 03:22): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3546128.html</link>
-      <pubDate>Tue, 20 Oct 2026 01:29:49 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 09:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3546506.html</link>
+      <pubDate>Tue, 20 Oct 2026 07:03:44 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">a5529894-f535-4ad4-8780-d07ee6b252ab</guid>
-      <description>Originally published Tue 20 Oct 2026 03:22 IDT.
+      <guid isPermaLink="false">aa245056-6a98-447a-99c3-f06702432a57</guid>
+      <description>Originally published Tue 20 Oct 2026 09:05 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-0222-0100.mp3" length="1984267" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-0804-5300.mp3" length="2113291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 04:09): 9pm ET, October 19 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 09:10): 2am ET, October 20 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 20 Oct 2026 01:28:49 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 07:02:44 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">266e89f9-d4cc-4621-93ff-bf9d1c87206f</guid>
-      <description>Originally published Tue 20 Oct 2026 04:09 IDT.
+      <guid isPermaLink="false">7fbd6627-81ae-4e7a-8262-534dc0cd36a3</guid>
+      <description>Originally published Tue 20 Oct 2026 09:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/75b3f085-c8de-4e26-992c-f4297f3de604/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=75b3f085-c8de-4e26-992c-f4297f3de604&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261019-2100-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/70873c08-f6e7-4ffd-9e8c-f856d41c1737/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=70873c08-f6e7-4ffd-9e8c-f856d41c1737&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261020-0200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Tue 08:00): חדשון בעברית קלה (20/10/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Tue, 20 Oct 2026 07:01:44 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/20-10-26.m4a</guid>
+      <description>Originally published Tue 20 Oct 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• דִיווּחַ בּאֲתַר החֲדָשוֹת &quot;אַקסְיוּס&quot;: שַׂר ההגנה האָמֵרִיקָני פִּיט הֶגסת' הִגִיעַ אתמול לבִיקוּר חֲשָאִי בּישׂראל ונִפגַש עִם רה&quot;מ נתניהו בּבָסיס צְבָאִי בּדְרוֹם האָרץ. הפְּגִישָה נֶעֶרכָה על רֶקַע הדִיוּנִים בֵּין ישׂראל לארה&quot;ב על האֶפשָרוּת של חידוּש המִלחָמה נֶגד אִיראן
+• שַבַּ&quot;כּ והמִשטָרה עָצרוּ אֶמֶש שנֵי חֲשוּדים בּתִכנוּן פִּיגוּעַ. הלוֹחֲמים פָּעֲלוּ בּהַכוָונָה מוֹדִיעִינִית מְדוּיֶקֶת של שבּ&quot;כּ, אִיתרוּ את החשוּדים בּכבִיש 1, סָמוּך למֶחלָף לַטרוּן, ועָצרוּ אוֹתם. העֲצוּרים הוֹעַברוּ להֶמשֵך חֲקירה בּשבּ&quot;כּ
+• יו&quot;ר מִפלֶגֶת 'כָּחוֹל לָבָן' בֶּני גַנְץ הוֹדִיעַ שֶלֹא יִתמוֹדֵד בַּבּחִירוֹת, והִבטִיחַ: &quot;אַמשִיך להֵיאָבֵק למַעַן מֶמשֶלת אַחדוּת&quot;
+• סְגַן נשׂיא ארה&quot;ב גֵ'יי. דִי. וַאנס: ״אני לא נֶגד נתניהו ואני לא בַּעֲדוֹ. אני לא מִתעָרֵב בּבְּחִירוֹת בּישׂראל״
+• כּמה עָרים בּצָרפַת, בּהן פָּריז, נִיס וליוֹן, הִכריזוּ על עוֹצֶר חֶלקִי, מחֲשַש לחִידוּש של המְהוּמוֹת וההִתפָּרעוּיוֹת
+• 27 חוֹדשֵי מַאֲסָר לרוֹפֵא מבֵּית החוֹלים סוֹרוֹקָה שֶהִצטָרף לאִרגוּן דַאעֶש לאַחַר 7 בּאוֹקטוֹבּר
+• התִַחֲזית: ללֹא שִינוּי בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/20-10-26.m4a" length="1811505" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 19.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3545952.html</link>
-      <pubDate>Tue, 20 Oct 2026 01:27:49 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Tue, 20 Oct 2026 07:00:44 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">6a5fb7f3-6e15-4a88-8f19-70dcb628e6c2-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 19 Oct 2026 21:00 IDT.
 
@@ -46,30 +68,30 @@ Französische Regierung räumt nach Ausschreitungen am Rande von friedlichen Pro
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1019/AU-20261019-2025-5900.mp3" length="15003810" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 04:00): Die Nachrichten vom 20.10.2026, 03:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44142.html</link>
-      <pubDate>Tue, 20 Oct 2026 01:26:49 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">fe9b088e-513b-577f-8b5d-1584b17eee7a</guid>
-      <description>Originally published Tue 20 Oct 2026 04:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 09:30): Die Nachrichten vom 20.10.2026, 08:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44162.html</link>
+      <pubDate>Tue, 20 Oct 2026 06:59:44 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">a0254707-934c-5cc8-8491-8d2f6287f190</guid>
+      <description>Originally published Tue 20 Oct 2026 09:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/20/nachrichten_dlf_20261020_0300_88d28645.mp3?refId=nachrichten-108" length="5001069" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/20/nachrichten_dlf_20261020_0830_ba00a7ed.mp3?refId=nachrichten-108" length="4990202" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (19.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-19102026</link>
-      <pubDate>Tue, 20 Oct 2026 01:25:49 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_607ffa6e679a450884de6f61edd8977f</guid>
-      <description>Originally published Mon 19 Oct 2026 19:33 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_607ffa6e679a450884de6f61edd8977f.mp3?etag=c100c9cb095be78721aed0f65618916e" length="36337819" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:26): Morgenjournal um 8 (20.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-20102026</link>
+      <pubDate>Tue, 20 Oct 2026 06:58:44 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_78163566761145189493371f612f883a</guid>
+      <description>Originally published Tue 20 Oct 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_78163566761145189493371f612f883a.mp3?etag=f69b78eedd23cf3dbe560b69cedb86d8" length="29271880" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Sondierungen beendet | Neues Umspannwerk | Weiterbau der B112</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sondierungen-berlin-umspannwerk-oranienburg-umgehung-frankfurt-oder-b112.html</link>
-      <pubDate>Tue, 20 Oct 2026 01:24:49 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Tue, 20 Oct 2026 06:57:44 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/d0/38/d0382bf2-c6dc-4959-b2c9-28f936d36c97/d0382bf2-c6dc-4959-b2c9-28f936d36c97_mp3-256kd.mp3</guid>
       <description>Originally published Mon 19 Oct 2026 19:17 IDT.
 
@@ -81,8 +103,8 @@ Linke, Gr&amp;#252;ne und SPD haben sich in Berlin auf ein Sondierungspapier gee
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 18:51): Proteste in Frankreich: Werden sie zur europaweiten Welle?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/proteste-in-frankreich-werden-sie-zur-europaweiten-welle/2123299</link>
-      <pubDate>Tue, 20 Oct 2026 01:23:49 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 20 Oct 2026 06:56:44 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">363c2b7b-893d-4d4f-a096-4c59746daa7f</guid>
       <description>Originally published Mon 19 Oct 2026 18:51 IDT.
 
@@ -90,18 +112,19 @@ Nach Frankreich haben Proteste weitere Länder erreicht. Auch in Italien, Belgie
       <enclosure url="https://media.neuland.br.de/file/2123299/c/feed/proteste-in-frankreich-werden-sie-zur-europaweiten-welle.mp3" length="8812461" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:37): World Food Programme to cut aid to Gaza</title>
-      <link>http://www.bbc.co.uk/programmes/p0phj1rg</link>
-      <pubDate>Tue, 20 Oct 2026 01:22:49 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0phj1rg</guid>
-      <description>Originally published Mon 19 Oct 2026 18:37 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 08:14): France halts protests with curfew crackdown</title>
+      <link>http://www.bbc.co.uk/programmes/p0phlcv5</link>
+      <pubDate>Tue, 20 Oct 2026 06:55:44 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0phlcv5</guid>
+      <description>Originally published Tue 20 Oct 2026 08:14 IDT.
 
-&lt;p&gt;Residents of Gaza have described the World Food Programme's decision to drastically reduce lifesaving assistance as &quot;disastrous&quot;. The number of people helped by the UN agency will be reduced by around a third to one-point-one million people, as it grapples with a funding shortfall. Also: An Australian lawmaker is in a critical condition after being hit by a car in what the prime minister described as an attack. A Kenyan court delivers its judgement in the trial of a cult leader accused of murdering almost two hundred people who starved to death.The French government says it's imposing temporary curfews in some cities to prevent any continuation of the violent unrest that swept the country over the weekend. A spacecraft is set to take off from Japan on the world's first mission to bring back samples from Phobos, one of two small moons orbiting Mars. And the British government has launched a campaign to clamp down on people playing music out loud on buses and trains - with fines of around $130.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Overnight curfews are in place in parts of Paris, Lyon, Lille and Nice as the French authorities try to crack down on violence and looting which has scarred the country since Saturday. Demonstrations have been banned in the French capital, which experienced some of the worst unrest that spilled over from massive protests against the cost of living. &lt;/p&gt;&lt;p&gt;Also: Japan heads to Mars to make history in space exploration; young Israeli voters speak to the BBC ahead of next week's election; a Bangladesh minister resigns after going viral on social media for wielding a gun in suspected drugs raid; the researchers trying to solve the mysterious disappearance of the pioneering aviator Amelia Earhart; and Apu returns to the Simpsons after nine years away. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Palestinian children queue to receive food from the World Food Programme (WFP)
-Credit: Reuters/Mahmoud Issa&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phj06j.mp3" length="13584000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: A protester in Paris throws a bicycle onto a burning car amid clashes during a day of demonstrations
+Credit: REUTERS/Abdul Saboor&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phl963.mp3" length="12568000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
