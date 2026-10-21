@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:57:22 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 02:46): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3548316.html</link>
-      <pubDate>Wed, 21 Oct 2026 01:13:17 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 09:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3548682.html</link>
+      <pubDate>Wed, 21 Oct 2026 06:57:22 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">35e1ab8b-a81b-4312-9047-664ccb619868</guid>
-      <description>Originally published Wed 21 Oct 2026 02:46 IDT.
+      <guid isPermaLink="false">2e459d34-a026-496b-9b13-b59dc9c2fb39</guid>
+      <description>Originally published Wed 21 Oct 2026 09:05 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1021/AU-20261021-0146-2600.mp3" length="1719307" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1021/AU-20261021-0805-5000.mp3" length="2224651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 04:10): 9pm ET, October 20 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 09:09): 2am ET, October 21 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 21 Oct 2026 01:12:17 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 06:56:22 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">5bcbd055-9bed-4884-b033-e6bf1d172b31</guid>
-      <description>Originally published Wed 21 Oct 2026 04:10 IDT.
+      <guid isPermaLink="false">74fc389f-5fba-4780-8372-a1d5ab5b2d1a</guid>
+      <description>Originally published Wed 21 Oct 2026 09:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7660528f-a8eb-4e33-9829-2301716d8454/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7660528f-a8eb-4e33-9829-2301716d8454&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261020-2100-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/116a90ca-e6ea-4244-85a0-92d0182bd8a8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=116a90ca-e6ea-4244-85a0-92d0182bd8a8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261021-0200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Wed 08:00): חדשון בעברית קלה (21/10/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Wed, 21 Oct 2026 06:55:22 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/21-10-26.m4a</guid>
+      <description>Originally published Wed 21 Oct 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• שַׂר ההֲגָנָה האָמֵריקָני הֶגסֶת' אִישֵר שֶבִּיקֵר בָּאָרץ ונִפגַש עִם חַיָילים אָמֵריקָנים, אך סֵירֵב לִמסוֹר פְּרָטים על פְּגישָתוֹ עִם רה&quot;מ נתניהו
+• גוֹרֵם בִּיטחוֹני ישׂראֵלי בָּכִיר: לא תִהיֶה בּרֵירָה אֶלָא לחַדֵש את המִלחָמה מוּל אִיראן, אך זה כַּנִראֶה לא יִקרֶה לִפנֵי הבְּחירוֹת בּישׂראל ובְחִירוֹת האֶמצַע בּארה&quot;ב
+• דִיווּחַ: שְלִיחַ הבַּית הלָבן סְטִיב וִויטקוֹף יִיפָּגֵש היוֹם בּסַנְט פֶּטֶרבּוּרג עִם נשׂיא רוּסיה ולַדימיר פּוּטין, ויַצִיג בּפָנָיו הַצָעָה חדָשה לסִיוּם המִלחָמה בּאוּקרַאינה
+• 42  מחֲסִידֵי חַבַּ&quot;ד נֶעֶצרוּ אתמול בּנַתבַּ&quot;ג בּגלַל הִשתַמטוּת מצַהַ&quot;ל. חֶלקָם נִשלְחוּ לכֶּלֶא הצְבָאִי, אך בּסוֹפוֹ של דבר כִּמעַט כּוּלם שוּחרְרוּ
+• אתמול הִסתַיֵים קוּרְס הקְצִינִים הרִאשוֹן של החֲטִיבָה החֲרֵדית 'חַשמוֹנָאִים', שֶבֵּין בּוֹגרָיו גם שנֵי קְצִינִים מחַבַּ&quot;ד. בּטֶקֶס הסיוּם שֶהִתקַיֵים בּירוּשלים נָכַח הרַמַטכּ&quot;ל אֱיָיל זָמיר
+• בּרִיטַניה צְפוּיה לפַרסֵם היוֹם דוּ&quot;חַ שֶלְפִיו 60 אחוּז מהסטוּדֶנטים היהוּדים בּה סוֹבלים מאַנטִישֵמיוּת
+• מָחָר, י&quot;א בּחֶשוָון, תְצַיֵין מדִינת ישׁראל 31 שנה לרֶצַח יִצחק רַבּין
+• התִַחֲזית: עלִייה קַלה בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/21-10-26.m4a" length="1819829" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 20.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3548184.html</link>
-      <pubDate>Wed, 21 Oct 2026 01:11:17 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Wed, 21 Oct 2026 06:54:22 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">f65c7216-6dfa-41d1-b5ff-6b8a3ddc5b6f-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 20 Oct 2026 21:00 IDT.
 
@@ -46,30 +68,41 @@ Kanzler Merz zieht ein positives Fazit des Investorengipfels in Berlin, Unterneh
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-2027-3000.mp3" length="14851363" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 03:00): Die Nachrichten vom 21.10.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44220.html</link>
-      <pubDate>Wed, 21 Oct 2026 01:10:17 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">c391d30f-eb4a-59eb-bd69-1e5f94902034</guid>
-      <description>Originally published Wed 21 Oct 2026 03:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 09:30): Die Nachrichten vom 21.10.2026, 08:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44242.html</link>
+      <pubDate>Wed, 21 Oct 2026 06:53:22 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">41bab974-3ef9-5460-a05d-a4a537df271f</guid>
+      <description>Originally published Wed 21 Oct 2026 09:30 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/21/nachrichten_dlf_20261021_0200_e5c1f545.mp3?refId=nachrichten-108" length="5001069" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/21/nachrichten_dlf_20261021_0830_462704a6.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:32): Abendjournal um 18 (20.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20102026</link>
-      <pubDate>Wed, 21 Oct 2026 01:09:17 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_78bb05e5370b439f962497d740949925</guid>
-      <description>Originally published Tue 20 Oct 2026 19:32 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_78bb05e5370b439f962497d740949925.mp3?etag=f0e4639a4fe82c352c3e457252e7c0b2" length="36337819" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (21.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-21102026</link>
+      <pubDate>Wed, 21 Oct 2026 06:52:22 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_84b307bc370e41b2bde163f3c7a7159c</guid>
+      <description>Originally published Wed 21 Oct 2026 09:26 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_84b307bc370e41b2bde163f3c7a7159c.mp3?etag=548298f538211323db2fef267f14ac71" length="29275339" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 09:00): Analyse zum BR-Bayerntrend: Gewinner, Verlierer und die Gesundheitsversorgung</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/analyse-zum-br-bayerntrend-gewinner-verlierer-und-die-gesundheitsversorgung/2123355</link>
+      <pubDate>Wed, 21 Oct 2026 06:51:22 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">c3159a3a-d51a-493c-aa33-80cfd49ed23b</guid>
+      <description>Originally published Wed 21 Oct 2026 09:00 IDT.
+
+Die Gesundheitssparpläne sind beschlossen - und jetzt? Wie zufrieden sind die Menschen im Freistaat mit der ärztlichen Versorgung? Aufschluss darüber gibt der BR24-Bayerntrend.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123355/c/feed/analyse-zum-br-bayerntrend-gewinner-verlierer-und-die-gesundheitsversorgung.mp3" length="9234093" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Wohnungsmarkt  | Lauf hinter Mauern | Auerhühner</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/wohnungsmarkt-brandenburg-lauf-hinter-mauern-auerhuehner.html</link>
-      <pubDate>Wed, 21 Oct 2026 01:08:17 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Wed, 21 Oct 2026 06:50:22 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/f0/bd/f0bd161c-ce39-4a37-8018-647cf86c7344/f0bd161c-ce39-4a37-8018-647cf86c7344_mp3-256kd.mp3</guid>
       <description>Originally published Tue 20 Oct 2026 19:17 IDT.
 
@@ -79,29 +112,18 @@ In Brandenburg gibt es in einigen Gegenden kaum bezahlbaren Wohnraum - &amp;#228
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/f0/bd/f0bd161c-ce39-4a37-8018-647cf86c7344/f0bd161c-ce39-4a37-8018-647cf86c7344_mp3-256kd.mp3" length="29155403" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 17:03): Münchner Medientage: Wie geht der BR mit KI um?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/muenchner-medientage-wie-geht-der-br-mit-ki-um/2123336</link>
-      <pubDate>Wed, 21 Oct 2026 01:07:17 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">f5e10113-dc61-4349-af3d-3e3df73fcd3b</guid>
-      <description>Originally published Tue 20 Oct 2026 17:03 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:52): Zelensky says US intelligence sharing is back on</title>
+      <link>http://www.bbc.co.uk/programmes/p0phqt0f</link>
+      <pubDate>Wed, 21 Oct 2026 06:49:22 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0phqt0f</guid>
+      <description>Originally published Wed 21 Oct 2026 07:52 IDT.
 
-Die Rolle der KI im Journalismus ist das zentrale Thema der 40. Münchner Medientage, auch der BR ist dabei.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123336/c/feed/muenchner-medientage-wie-geht-der-br-mit-ki-um.mp3" length="14377005" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:49): Alberta rejects move towards Canada independence</title>
-      <link>http://www.bbc.co.uk/programmes/p0phnspw</link>
-      <pubDate>Wed, 21 Oct 2026 01:06:17 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0phnspw</guid>
-      <description>Originally published Tue 20 Oct 2026 18:49 IDT.
-
-&lt;p&gt;Canada’s most oil and gas rich province, Alberta, has voted to reject a move towards holding a referendum on independence from Canada.  The Alberta Premier Danielle Smith and Prime Minister Mark Carney said they were pleased with the result. More than three quarters of voters said they were against holding a future binding referendum that would have split Alberta from the rest of Canada. The vote took place at a time when Canada is embroiled in a trade war with the US. &lt;/p&gt;&lt;p&gt;Also: More civilians have died in the latest round of drone attacks in Sudan. Police have charged a man alleged to have nearly killed an Australian MP. A key advisor to President Zelensky says that Ukrainians are dying because the US is &quot;restricting intelligence sharing&quot;. New evidence has found that Shakespeare was not the only author of the play Edward III.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Ukraine's President Volodymyr Zelensky says intelligence on early warning systems for Russian strikes &quot;works now&quot;, and that he is thankful to the US. After meeting President Zelensky, Donald Trump's envoy Steve Witkoff is now in Russia to share peace proposals with President Putin.&lt;/p&gt;&lt;p&gt;Also: We report from Kansas ahead of the US midterm elections; Indonesia's worst wildfire season in a decade causes an air pollution crisis across South East Asia; the Egyptian man sentenced to prison for impersonating a judge; the third attempt to free a shark trapped for a month in a South Korean harbour; and the trees causing an overpowering smell in Vietnam's capital. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A supporter of the Forever Canadian group, who wants Alberta to remain in Canada, waits for the results of a non-binding referendum on Alberta sovereignty in Edmonton, Alberta, Canada October 19, 2026.&lt;/p&gt;&lt;p&gt;Credit:
-Reuters/Todd Korol TPX IMAGES OF THE DAY&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phnr2p.mp3" length="12168000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Ukrainian President Vlodomyr Zelenskyy at a press conference in Norway
+Credit: Reuters/Cornelius Poppe&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phqskt.mp3" length="12752000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
