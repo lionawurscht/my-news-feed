@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:10:02 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,53 +13,53 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 19:37): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3550198.html</link>
-      <pubDate>Wed, 21 Oct 2026 17:51:27 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 23:04): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3550416.html</link>
+      <pubDate>Wed, 21 Oct 2026 21:10:02 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">dcd1ed3d-66b0-4de2-8a6f-377d49e2fa96</guid>
-      <description>Originally published Wed 21 Oct 2026 19:37 IDT.
+      <guid isPermaLink="false">d6bb2851-0908-4a81-a8dd-a653d81c7c54</guid>
+      <description>Originally published Wed 21 Oct 2026 23:04 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1021/AU-20261021-1837-0800.mp3" length="1850251" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1021/AU-20261021-2204-3200.mp3" length="1735819" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 20:10): 1pm ET, October 21 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 23:09): 4pm ET, October 21 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 21 Oct 2026 17:50:27 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 21:09:02 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c65faa19-dcbb-4263-ad86-e1212d7c17bb</guid>
-      <description>Originally published Wed 21 Oct 2026 20:10 IDT.
+      <guid isPermaLink="false">a6f1e459-4aa6-4d5f-a1bb-ee880f7780d1</guid>
+      <description>Originally published Wed 21 Oct 2026 23:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2ec5f531-5951-4ff4-adc6-4c60cdda09af/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2ec5f531-5951-4ff4-adc6-4c60cdda09af&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261021-1300-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7b22737c-0965-4664-bca7-ff4f4e308387/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7b22737c-0965-4664-bca7-ff4f4e308387&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261021-1600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 20.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3548184.html</link>
-      <pubDate>Wed, 21 Oct 2026 17:49:27 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 21.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3550364.html</link>
+      <pubDate>Wed, 21 Oct 2026 21:08:02 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">f65c7216-6dfa-41d1-b5ff-6b8a3ddc5b6f-SENDUNGSAUDIO</guid>
-      <description>Originally published Tue 20 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">4bd7bc40-286a-43af-a73b-e0f3d22bb0a8-SENDUNGSAUDIO</guid>
+      <description>Originally published Wed 21 Oct 2026 21:00 IDT.
 
-Kanzler Merz zieht ein positives Fazit des Investorengipfels in Berlin, Unternehmen fordern bessere Rahmenbedingungen für Investitionen, Grüne und SPD für Koalitionsgespräche mit der Linkspartei in Berlin, AfD bestätigt Hackerangriff auf E-Mail-Konten, EU-Parlament stärkt Rechte von Reisenden in der EU, Treffen von ukrainischen Präsidenten Selenskyj mit US-Sondergesandten Witkoff in Oslo, Lkw-Blockaden in Italien wegen hoher Kraftstoffpreise, Porto für Briefe soll teurer werden, 65 Jahre Anwerbeabkommen mit der Türkei, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1020/AU-20261020-2027-3000.mp3" length="14851363" type="audio/mpeg"/>
+Treffen von US-Sondergesandtem Witkoff und Russlands Präsident Putin in Sankt Petersburg, Frankreich unter Schock nach landesweiten Ausschreitungen, Gravierende Sicherheitslücke in Programmiersprache PHP: Bundesamt für Sicherheit warnt vor Angriffen auf Webseiten und Onlinedienste, Vereinte Nationen warnen erneut vor Auswirkungen des Klimaphänomens &quot;El Niño&quot;, Anzahl der Autounfälle durch digitale Ablenkung gestiegen, Herausgeberin Alice Schwarzer stellt feministische Zeitschrift &quot;Emma&quot; nach 50 Jahren ein, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1021/AU-20261021-2032-2900.mp3" length="14940833" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 20:00): Die Nachrichten vom 21.10.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44282.html</link>
-      <pubDate>Wed, 21 Oct 2026 17:48:27 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 23:00): Die Nachrichten vom 21.10.2026, 22:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44288.html</link>
+      <pubDate>Wed, 21 Oct 2026 21:07:02 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">19d266ba-0a5d-5e31-b0b6-f8d821f350bb</guid>
-      <description>Originally published Wed 21 Oct 2026 20:00 IDT.
+      <guid isPermaLink="false">647e2f65-0c1c-5fbc-a661-f73c888bc5cf</guid>
+      <description>Originally published Wed 21 Oct 2026 23:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/21/nachrichten_dlf_20261021_1900_1f67cc49.mp3?refId=nachrichten-108" length="4990202" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/21/nachrichten_dlf_20261021_2200_720ca166.mp3?refId=nachrichten-108" length="5024057" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:32): Abendjournal um 18 (21.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-21102026</link>
-      <pubDate>Wed, 21 Oct 2026 17:47:27 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 21:06:02 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_3b4995aa6ac14ff998fa420f929e7059</guid>
       <description>Originally published Wed 21 Oct 2026 19:32 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Sicherheitszentrum öffnet | Situation für Migranten in Frankfurt (Oder) | Deutschlandticket light</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sicherheitszentrum-migranten-in-ffo-deutschlandticket-light.html</link>
-      <pubDate>Wed, 21 Oct 2026 17:46:27 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 21:05:02 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/88/e1/88e14aee-c698-47d4-9db5-a91324b4a6b8/88e14aee-c698-47d4-9db5-a91324b4a6b8_mp3-256kd.mp3</guid>
       <description>Originally published Wed 21 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Nach den Anschl&amp;#228;gen auf das Stromnetz oder auf den CSD in Berlin m&amp;
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 18:30): Die Ukraine vor dem fünften Kriegswinter</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/die-ukraine-vor-dem-fuenften-kriegswinter/2123373</link>
-      <pubDate>Wed, 21 Oct 2026 17:45:27 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 21:04:02 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">304b68ea-f7f4-47b0-8af2-0e55dfc583d2</guid>
       <description>Originally published Wed 21 Oct 2026 18:30 IDT.
@@ -92,7 +92,7 @@ Luftalarm, Drohnenangriffe, die Sorge um Strom und Heizung: Für die Menschen in
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 19:08): Witkoff praises Putin as 'a humanitarian'</title>
       <link>http://www.bbc.co.uk/programmes/p0phvgrc</link>
-      <pubDate>Wed, 21 Oct 2026 17:44:27 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 21:03:02 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0phvgrc</guid>
       <description>Originally published Wed 21 Oct 2026 19:08 IDT.
