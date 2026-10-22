@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Oct 2026 20:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:50:27 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:36): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3552506.html</link>
-      <pubDate>Thu, 22 Oct 2026 20:23:18 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 00:59): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3552766.html</link>
+      <pubDate>Thu, 22 Oct 2026 23:50:27 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">8128fb24-706e-4e90-bdf6-86dfe63f3a49</guid>
-      <description>Originally published Thu 22 Oct 2026 19:36 IDT.
+      <guid isPermaLink="false">ccd7524c-64b0-4879-8993-82e3b0fba50b</guid>
+      <description>Originally published Fri 23 Oct 2026 00:59 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1022/AU-20261022-1836-1900.mp3" length="1987339" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1022/AU-20261022-2359-4600.mp3" length="1832971" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 23:11): 4pm ET, October 22 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 02:10): 7pm ET, October 22 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 22 Oct 2026 20:22:18 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 23:49:27 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">29634c04-4b2b-4a85-b788-3f69a06b4ca5</guid>
-      <description>Originally published Thu 22 Oct 2026 23:11 IDT.
+      <guid isPermaLink="false">54387c69-e5e8-421e-a354-a6f44ee97af1</guid>
+      <description>Originally published Fri 23 Oct 2026 02:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6e93c93c-67b3-40f0-8d80-26dd1a2a872a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6e93c93c-67b3-40f0-8d80-26dd1a2a872a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261022-1600-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6c21df45-5479-4996-a498-fdbb864bc63d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6c21df45-5479-4996-a498-fdbb864bc63d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261022-1900-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 22.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3552672.html</link>
-      <pubDate>Thu, 22 Oct 2026 20:21:18 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 23:48:27 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">7a85db75-b54a-4297-85bb-dd02f6dc177e-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 22 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ Nach Bekanntgabe von PHP-Sicherheitslücke bleiben viele Webseiten noch immer ni
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1022/AU-20261022-2027-4400.mp3" length="14783393" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 23:00): Die Nachrichten vom 22.10.2026, 22:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44362.html</link>
-      <pubDate>Thu, 22 Oct 2026 20:20:18 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 02:00): Die Nachrichten vom 23.10.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44366.html</link>
+      <pubDate>Thu, 22 Oct 2026 23:47:27 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">91de13ca-75c0-578e-b4c4-ccc4434755af</guid>
-      <description>Originally published Thu 22 Oct 2026 23:00 IDT.
+      <guid isPermaLink="false">2e16eea7-c5ad-5040-bb28-388f61340b1f</guid>
+      <description>Originally published Fri 23 Oct 2026 02:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/22/nachrichten_dlf_20261022_2200_a532f37d.mp3?refId=nachrichten-108" length="5001069" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/23/nachrichten_dlf_20261023_0100_40d7bf50.mp3?refId=nachrichten-108" length="4967215" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:31): Abendjournal um 18 (22.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-22102026</link>
-      <pubDate>Thu, 22 Oct 2026 20:19:18 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 23:46:27 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_83571707a7bc41c7b426a8478683eae1</guid>
       <description>Originally published Thu 22 Oct 2026 19:31 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): IT-Sicherheitslücke | Asylverfahren am BER | Bierpinsel bröckelt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/it-sicherheitsluecke-asylverfahren-am-ber-bierpinsel.html</link>
-      <pubDate>Thu, 22 Oct 2026 20:18:18 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 23:45:27 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/96/fe/96fead4c-327a-4144-b8c9-618491fc10ee/96fead4c-327a-4144-b8c9-618491fc10ee_mp3-256kd.mp3</guid>
       <description>Originally published Thu 22 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Wegen einer weltweiten Sicherheitsl&amp;#252;cke haben viele Einrichtungen ihre 
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 19:00): Sicherheitslücke bei Webseiten: Wie dramatisch ist die Lage?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/sicherheitsluecke-bei-webseiten-wie-dramatisch-ist-die-lage/2123416</link>
-      <pubDate>Thu, 22 Oct 2026 20:17:18 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 23:44:27 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">0e3cb963-3fa7-4a7d-b2b2-64a015c7790c</guid>
       <description>Originally published Thu 22 Oct 2026 19:00 IDT.
@@ -92,7 +92,7 @@ Schwachstellen in der populären Programmiersprache PHP haben einen Wettlauf zwi
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:22): Ukraine comes under renewed Russian attack</title>
       <link>http://www.bbc.co.uk/programmes/p0pj1x9c</link>
-      <pubDate>Thu, 22 Oct 2026 20:16:18 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 23:43:27 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pj1x9c</guid>
       <description>Originally published Thu 22 Oct 2026 18:22 IDT.
