@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:41:57 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 02:53): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3550526.html</link>
-      <pubDate>Thu, 22 Oct 2026 00:23:18 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 08:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3550786.html</link>
+      <pubDate>Thu, 22 Oct 2026 05:41:57 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">bd25f450-ded2-49ca-89c6-48209a6413f7</guid>
-      <description>Originally published Thu 22 Oct 2026 02:53 IDT.
+      <guid isPermaLink="false">51810f67-4d52-4155-9d46-26a639724e89</guid>
+      <description>Originally published Thu 22 Oct 2026 08:05 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1022/AU-20261022-0153-3000.mp3" length="1995019" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1022/AU-20261022-0705-3000.mp3" length="2062220" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 03:09): 8pm ET, October 21 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 08:09): 1am ET, October 22 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 22 Oct 2026 00:22:18 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 05:40:57 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">a1c58a5b-7120-4dcc-af13-8bee96c87ac4</guid>
-      <description>Originally published Thu 22 Oct 2026 03:09 IDT.
+      <guid isPermaLink="false">6fa6cdac-16c6-4e69-b0e9-0051fe1536d1</guid>
+      <description>Originally published Thu 22 Oct 2026 08:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a56796b4-7c96-4569-a010-dd473567c984/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a56796b4-7c96-4569-a010-dd473567c984&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261021-2000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/77809908-4358-492a-ac9e-1229fc0c0584/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=77809908-4358-492a-ac9e-1229fc0c0584&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261022-0100-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Thu 08:00): חדשון בעברית קלה (22/10/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Thu, 22 Oct 2026 05:39:57 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/22-10-26.m4a</guid>
+      <description>Originally published Thu 22 Oct 2026 08:00 IDT.
+
+• דלג ל
+• משרד החינוך
+• גוֹרמִים בּמַעֲרֶכֶת הבִּיטָחוֹן חוֹשְשִים שֶתְקִיפָה בּאִירַאן לִפנֵי הבְּחִירוֹת תֵיחָשֵב כּהִתעָרבוּת פּוֹלִיטִית בָּהֶן, ולָכֵן הִמלִיצוּ לדֶרֶג המְדִיני להִימָנַע מִמֶנָה
+• יו&quot;ר מִפלֶגֶת 'עַמךָ ישׂראל' עוֹפֶר וִינטֶר דָחָה את הַצָעָתוֹ של בּצַלאֵל סְמוֹטריץ' לקַבֵּל תַפקיד שַׂר לאַחַר הבְּחִירוֹת אִם יִפרוֹש עַכשָיו מההִתמוֹדְדוּת לכּנֶסת. גם יו&quot;ר מִפלֶגת 'הצִיבּוּר החֲרֵדי', מוֹטי לַייטנֶר, הוֹדִיעַ שֶלֹא יִפרוֹש לַמרוֹת הלְחָצים הכְּבֵדים
+• בּעִקבוֹת המְהוּמוֹת האַלִימוֹת בּצָרפַת, נִפגַש השָבוּעַ רֹאש השַבַּ&quot;כּ דוִד זִיני בּפָּריז עִם רָאשֵי שֵירוּתֵי הבִּיטָחוֹן הצָרפַתִיִים, ודָן אִיתָם בּהִתמוֹדְדוּת עִם טֵרוֹר ואִסלַאם קִיצוֹני
+• המֶרכָּז הרְפוּאִי שִיבָּא בּתֵל השוֹמֵר דוֹרַג בּמָקוֹם השִישי בּדֵירוּג בָּתֵי החוֹלים החֲכָמים והמִתקַדמִים בָּעוֹלם של המָגָזין האָמֵריקָני Newsweek
+• הלמ&quot;ס: כּ-810 אֶלף מִבַּעֲלֵי זְכוּת הבְּחִירָה בּישׂראל מִתגוֹרְרִים בּחוּ&quot;ל
+• בַּנְק ישׂראל הִשאִיר את הרִיבִּית בּמֶשֶק ללֹא שִינוּי
+• היום, י&quot;א בּחֶשוָון, מצַיֶינֶת מדִינת ישׁראל 31 שנה לרֶצַח יִצחק רַבּין
+• התִַחֲזית: עוֹד הִתחַמְמוּת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/22-10-26.m4a" length="1892639" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 21.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3550364.html</link>
-      <pubDate>Thu, 22 Oct 2026 00:21:18 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Thu, 22 Oct 2026 05:38:57 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">4bd7bc40-286a-43af-a73b-e0f3d22bb0a8-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 21 Oct 2026 21:00 IDT.
 
@@ -46,30 +68,30 @@ Treffen von US-Sondergesandtem Witkoff und Russlands Präsident Putin in Sankt P
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1021/AU-20261021-2032-2900.mp3" length="14940833" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 03:00): Die Nachrichten vom 22.10.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44294.html</link>
-      <pubDate>Thu, 22 Oct 2026 00:20:18 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">9ce72fb7-a1a1-59f7-86d9-3923cf0daef5</guid>
-      <description>Originally published Thu 22 Oct 2026 03:00 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 08:00): Die Nachrichten vom 22.10.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44310.html</link>
+      <pubDate>Thu, 22 Oct 2026 05:37:57 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">423f417b-b643-50ae-8965-f6fae238df52</guid>
+      <description>Originally published Thu 22 Oct 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/22/nachrichten_dlf_20261022_0200_e2e85211.mp3?refId=nachrichten-108" length="4974738" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/22/nachrichten_dlf_20261022_0700_e9faf8e7.mp3?refId=nachrichten-108" length="4755309" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:32): Abendjournal um 18 (21.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-21102026</link>
-      <pubDate>Thu, 22 Oct 2026 00:19:18 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_3b4995aa6ac14ff998fa420f929e7059</guid>
-      <description>Originally published Wed 21 Oct 2026 19:32 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_3b4995aa6ac14ff998fa420f929e7059.mp3?etag=d434d206ff213efca0f6ed2651011fa7" length="36470431" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 07:15): Frühjournal um 6 (22.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-22102026</link>
+      <pubDate>Thu, 22 Oct 2026 05:36:57 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_9e92d385b45b48cd97141f2f6bb7e0a0</guid>
+      <description>Originally published Thu 22 Oct 2026 07:15 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_9e92d385b45b48cd97141f2f6bb7e0a0.mp3?etag=b5690608029caf029247586fb40eb064" length="15094451" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Sicherheitszentrum öffnet | Situation für Migranten in Frankfurt (Oder) | Deutschlandticket light</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/sicherheitszentrum-migranten-in-ffo-deutschlandticket-light.html</link>
-      <pubDate>Thu, 22 Oct 2026 00:18:18 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 22 Oct 2026 05:35:57 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/88/e1/88e14aee-c698-47d4-9db5-a91324b4a6b8/88e14aee-c698-47d4-9db5-a91324b4a6b8_mp3-256kd.mp3</guid>
       <description>Originally published Wed 21 Oct 2026 19:17 IDT.
 
@@ -81,8 +103,8 @@ Nach den Anschl&amp;#228;gen auf das Stromnetz oder auf den CSD in Berlin m&amp;
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 18:30): Die Ukraine vor dem fünften Kriegswinter</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/die-ukraine-vor-dem-fuenften-kriegswinter/2123373</link>
-      <pubDate>Thu, 22 Oct 2026 00:17:18 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Thu, 22 Oct 2026 05:34:57 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">304b68ea-f7f4-47b0-8af2-0e55dfc583d2</guid>
       <description>Originally published Wed 21 Oct 2026 18:30 IDT.
 
@@ -90,15 +112,18 @@ Luftalarm, Drohnenangriffe, die Sorge um Strom und Heizung: Für die Menschen in
       <enclosure url="https://media.neuland.br.de/file/2123373/c/feed/die-ukraine-vor-dem-fuenften-kriegswinter.mp3" length="9870381" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 19:08): Witkoff praises Putin as 'a humanitarian'</title>
-      <link>http://www.bbc.co.uk/programmes/p0phvgrc</link>
-      <pubDate>Thu, 22 Oct 2026 00:16:18 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0phvgrc</guid>
-      <description>Originally published Wed 21 Oct 2026 19:08 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:41): US and European websites go offline over security concerns</title>
+      <link>http://www.bbc.co.uk/programmes/p0phxwpq</link>
+      <pubDate>Thu, 22 Oct 2026 05:33:57 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0phxwpq</guid>
+      <description>Originally published Thu 22 Oct 2026 07:41 IDT.
 
-&lt;p&gt;Russia has released a retired American teacher who was jailed for allegedly fighting on behalf of Ukraine, as President Vladimir Putin met US envoy Steve Witkoff. Mr Witkoff praised the decision, calling Mr Putin &quot;a humanitarian&quot;, while also thanking him for a diesel deal that has angered Kyiv's allies. The US envoy, who had attended talks with President Volodymyr Zelensky in Norway on Tuesday, also asked Mr Putin to consider trilateral peace talks with Ukraine.&lt;/p&gt;&lt;p&gt;Also: Hungarian police arrest the former central bank chief György Matolcsy on suspicion of fraud. South Korea's newest celebrity, Bukangi the shark, returns to sea after a third rescue attempt in Busan harbour. Australian MP Helen Haines loses both legs after alleged car attack, as suspect is charged with multiple offences. The UK government gives the green light to a new gas field in North Sea, despite protests from environment campaigners. The BBC visits Springfield, Ohio, ahead of the US midterm elections, speaking to Haitian migrants fearing deportation. Why Elon Musk wants to merge SpaceX and Tesla, and the Hokusai Mount Fuji photos going on display in London.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phvfqk.mp3" length="14720000" type="audio/mpeg"/>
+&lt;p&gt;A cyber security flaw has prompted governments in Finland and the Netherlands and websites such as Wikipedia and the BBC to go completely dark temporarily. The flaws in a programming language were discovered by AI. PHP is a scripting language that powers 70 per cent of all websites in the world. &lt;/p&gt;&lt;p&gt;Also: Three-way talks between Russia, Ukraine and the United States are scheduled to take place in Abu Dhabi next month to try to bring an end to the Russia-Ukraine war. We hear about an Iranian prisoner who went to extraordinary lengths to chronicle the brutal reality of life Inside one of the country's notorious jail's. Our correspondent details the rise in the number of wild elephants dying in Sri Lanka. The new rules that mean you won't have to clean up before you leave an Airbnb. And why John Malkovich is tipped for an Oscar for his performance in Wild Horse Nine.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: The website of the Computer Emergency Response Team for the EU Institutions, Bodies and Agencies displays a warning message after critical vulnerabilities were detected in the PHP programming language
+Credit: Rob Engelaar - EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phxwfv.mp3" length="13128000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
