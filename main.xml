@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Oct 2026 18:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:47:59 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 19:39): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3554818.html</link>
-      <pubDate>Fri, 23 Oct 2026 18:51:07 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 21:47:59 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">d7e9b97c-9c8e-496b-96f5-d3da0e325386</guid>
       <description>Originally published Fri 23 Oct 2026 19:39 IDT.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1023/AU-20261023-1839-3300.mp3" length="1849867" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 21:10): 2pm ET, October 23 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 00:09): 5pm ET, October 23 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 23 Oct 2026 18:50:07 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 21:46:59 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">cd953f56-cdc0-490a-8d3b-a61367d8159c</guid>
-      <description>Originally published Fri 23 Oct 2026 21:10 IDT.
+      <guid isPermaLink="false">8c82fc1b-192d-4141-92f2-09c4c3842aca</guid>
+      <description>Originally published Sat 24 Oct 2026 00:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/670fd089-95dc-4f43-893e-94d69b4142b5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=670fd089-95dc-4f43-893e-94d69b4142b5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261023-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5eded906-6501-4dcb-9198-aa61a3699ef7/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5eded906-6501-4dcb-9198-aa61a3699ef7&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261023-1700-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 23.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3554948.html</link>
-      <pubDate>Fri, 23 Oct 2026 18:49:07 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 21:45:59 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d7afc716-e95c-4c78-a03c-4fddfb123362-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 23 Oct 2026 21:00 IDT.
@@ -46,20 +46,20 @@ CSU trifft sich zu Parteitag in München, Leak wirft neues Licht auf AfD-Spenden
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1023/AU-20261023-2027-3500.mp3" length="15756449" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 21:00): Die Nachrichten vom 23.10.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44430.html</link>
-      <pubDate>Fri, 23 Oct 2026 18:48:07 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 00:00): Die Nachrichten vom 23.10.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44436.html</link>
+      <pubDate>Fri, 23 Oct 2026 21:44:59 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">7290cb1e-5717-581a-8e61-8234de5f2bad</guid>
-      <description>Originally published Fri 23 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">9f21fed0-6c19-529b-ad75-dd4bb08bfc38</guid>
+      <description>Originally published Sat 24 Oct 2026 00:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/23/nachrichten_dlf_20261023_2000_37eb73a3.mp3?refId=nachrichten-108" length="4997726" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/23/nachrichten_dlf_20261023_2300_ee9046ad.mp3?refId=nachrichten-108" length="9757863" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:32): Abendjournal um 18 (23.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-23102026</link>
-      <pubDate>Fri, 23 Oct 2026 18:47:07 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 21:43:59 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_630bf5a8b7714be8a62cb78b37573bb2</guid>
       <description>Originally published Fri 23 Oct 2026 19:32 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Jugendgewalt | Raffineriestrategie | Wahlrecht</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/jugend-gewalt-raffinerie-strategie-wahlrecht-merz-ihp.html</link>
-      <pubDate>Fri, 23 Oct 2026 18:46:07 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 21:42:59 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/52/66/5266de68-8667-40d5-98b9-df788ceffc49/5266de68-8667-40d5-98b9-df788ceffc49_mp3-256kd.mp3</guid>
       <description>Originally published Fri 23 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Jugendliche, die andere Jugendliche bedrohen, ausrauben, krankenhausreif schlage
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 18:24): Bayern muss auf steigende Steuereinnahmen warten</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bayern-muss-auf-steigende-steuereinnahmen-warten/2123468</link>
-      <pubDate>Fri, 23 Oct 2026 18:45:07 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 21:41:59 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">0ed39920-8590-4df0-a49a-12442812754b</guid>
       <description>Originally published Fri 23 Oct 2026 18:24 IDT.
@@ -92,7 +92,7 @@ Laut der jüngsten Steuer-Schätzung rechnet der Freistaat in diesem Jahr mit 30
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:31): Sudan's hospitals deliberately targeted by RSF fighters</title>
       <link>http://www.bbc.co.uk/programmes/p0pj95j1</link>
-      <pubDate>Fri, 23 Oct 2026 18:44:07 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 21:40:59 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pj95j1</guid>
       <description>Originally published Fri 23 Oct 2026 17:31 IDT.
