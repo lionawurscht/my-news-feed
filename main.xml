@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:47:12 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 15:08): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3555808.html</link>
-      <pubDate>Sat, 24 Oct 2026 14:12:35 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 20:30): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3556160.html</link>
+      <pubDate>Sat, 24 Oct 2026 17:47:12 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1bffca2f-7126-4d8f-90dd-93498f040724</guid>
-      <description>Originally published Sat 24 Oct 2026 15:08 IDT.
+      <guid isPermaLink="false">fe7abb3a-7125-4446-add0-1564f9926722</guid>
+      <description>Originally published Sat 24 Oct 2026 20:30 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1024/AU-20261024-1407-5800.mp3" length="1774987" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1024/AU-20261024-1930-3000.mp3" length="1906699" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 17:10): 10am ET, October 24 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 20:09): 1pm ET, October 24 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 24 Oct 2026 14:11:35 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 17:46:12 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">aa794c16-ae3b-40d3-b2b9-39595c4f0357</guid>
-      <description>Originally published Sat 24 Oct 2026 17:10 IDT.
+      <guid isPermaLink="false">c30ca67a-8801-4715-8671-98e33825f3a2</guid>
+      <description>Originally published Sat 24 Oct 2026 20:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/98a8ad66-fe27-4422-b572-89f56c2a5893/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=98a8ad66-fe27-4422-b572-89f56c2a5893&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261024-1000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/723583a9-00ce-458c-b915-91d7af6191d0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=723583a9-00ce-458c-b915-91d7af6191d0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261024-1300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 23.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3554948.html</link>
-      <pubDate>Sat, 24 Oct 2026 14:10:35 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 17:45:12 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d7afc716-e95c-4c78-a03c-4fddfb123362-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 23 Oct 2026 21:00 IDT.
@@ -46,54 +46,30 @@ CSU trifft sich zu Parteitag in München, Leak wirft neues Licht auf AfD-Spenden
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1023/AU-20261023-2027-3500.mp3" length="15756449" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:00): Die Nachrichten vom 24.10.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44476.html</link>
-      <pubDate>Sat, 24 Oct 2026 14:09:35 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 20:00): Die Nachrichten vom 24.10.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44484.html</link>
+      <pubDate>Sat, 24 Oct 2026 17:44:12 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">b9894104-63de-56a7-8c7d-4fd130b4639b</guid>
-      <description>Originally published Sat 24 Oct 2026 16:00 IDT.
+      <guid isPermaLink="false">09b5e347-2448-54a8-b334-51737fc5eabe</guid>
+      <description>Originally published Sat 24 Oct 2026 20:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/24/nachrichten_dlf_20261024_1500_56ff2531.mp3?refId=nachrichten-108" length="4917895" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/24/nachrichten_dlf_20261024_1900_8ddade65.mp3?refId=nachrichten-108" length="4913298" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:08): Mittagsjournal (24.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-24102026</link>
-      <pubDate>Sat, 24 Oct 2026 14:08:35 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 17:43:12 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_3de88db11371473cb8ff79110d046a5a</guid>
       <description>Originally published Sat 24 Oct 2026 14:08 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_3de88db11371473cb8ff79110d046a5a.mp3?etag=0a27703f51077790cafbfef481e8290c" length="81235788" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Jugendgewalt | Raffineriestrategie | Wahlrecht</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/jugend-gewalt-raffinerie-strategie-wahlrecht-merz-ihp.html</link>
-      <pubDate>Sat, 24 Oct 2026 14:07:35 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/52/66/5266de68-8667-40d5-98b9-df788ceffc49/5266de68-8667-40d5-98b9-df788ceffc49_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 23 Oct 2026 19:17 IDT.
-
-Jugendliche, die andere Jugendliche bedrohen, ausrauben, krankenhausreif schlagen: In Potsdam sitzen sechs Tatverd&amp;#228;chtige deswegen inzwischen in Untersuchungshaft. Und immer lauter wird die Kritik, die Beh&amp;#246;rden h&amp;#228;tten beim Thema Jugendgewalt zu lange weggeschaut. Weitere Themen: Reaktionen aus Schwedt auf die Raffineriestrategie der Bundeswirtschaftsministerin. Rot-Gr&amp;#252;n-Rot in Berlin will W&amp;#228;hlen ohne Pass erm&amp;#246;glichen. Und: Bundeskanzler zu Besuch beim Frankfurter Leibniz-Institut f&amp;#252;r innovative Mikroelektronik.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/52/66/5266de68-8667-40d5-98b9-df788ceffc49/5266de68-8667-40d5-98b9-df788ceffc49_mp3-256kd.mp3" length="30179867" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 18:24): Bayern muss auf steigende Steuereinnahmen warten</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bayern-muss-auf-steigende-steuereinnahmen-warten/2123468</link>
-      <pubDate>Sat, 24 Oct 2026 14:06:35 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">0ed39920-8590-4df0-a49a-12442812754b</guid>
-      <description>Originally published Fri 23 Oct 2026 18:24 IDT.
-
-Laut der jüngsten Steuer-Schätzung rechnet der Freistaat in diesem Jahr mit 300 Millionen Euro weniger als im Haushalt veranschlagt. Auch für 2027 geht man von einem Minus aus.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123468/c/feed/bayern-muss-auf-steigende-steuereinnahmen-warten.mp3" length="8855085" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Lost my ring, found some friends</title>
       <link>http://www.bbc.co.uk/programmes/p0pj9wyz</link>
-      <pubDate>Sat, 24 Oct 2026 14:05:35 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Sat, 24 Oct 2026 17:42:12 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pj9wyz</guid>
       <description>Originally published Sat 24 Oct 2026 14:00 IDT.
 
