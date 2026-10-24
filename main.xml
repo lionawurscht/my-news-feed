@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:19:35 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,21 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 03:09): 8pm ET, October 23 | The latest headlines from NPR</title>
-      <link/>
-      <pubDate>Sat, 24 Oct 2026 00:12:33 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 06:03): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3555192.html</link>
+      <pubDate>Sat, 24 Oct 2026 05:19:35 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">9aae3ad4-3f88-426f-accf-5871902f9d20</guid>
-      <description>Originally published Sat 24 Oct 2026 03:09 IDT.
+      <guid isPermaLink="false">3509e828-4ce4-48e1-8dc1-b0194e98b72f</guid>
+      <description>Originally published Sat 24 Oct 2026 06:03 IDT.
+
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1024/AU-20261024-0503-0200.mp3" length="2132515" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Sat 08:10): 1am ET, October 24 | The latest headlines from NPR</title>
+      <link/>
+      <pubDate>Sat, 24 Oct 2026 05:18:35 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">17ab4df1-bff0-4af7-9b0c-e4626229a4af</guid>
+      <description>Originally published Sat 24 Oct 2026 08:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/82ba3b78-c525-4026-a979-34518f298a4e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=82ba3b78-c525-4026-a979-34518f298a4e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261023-2000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9491ed41-04b3-42cf-a41f-a283d52c5763/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9491ed41-04b3-42cf-a41f-a283d52c5763&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261024-0100-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 23.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3554948.html</link>
-      <pubDate>Sat, 24 Oct 2026 00:11:33 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Sat, 24 Oct 2026 05:17:35 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d7afc716-e95c-4c78-a03c-4fddfb123362-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 23 Oct 2026 21:00 IDT.
 
@@ -35,21 +46,21 @@ CSU trifft sich zu Parteitag in München, Leak wirft neues Licht auf AfD-Spenden
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1023/AU-20261023-2027-3500.mp3" length="15756449" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 01:59): Die Nachrichten vom 24.10.2026, 00:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44440.html</link>
-      <pubDate>Sat, 24 Oct 2026 00:10:33 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">c7f01ce3-2941-5489-8a14-072477ee3954</guid>
-      <description>Originally published Sat 24 Oct 2026 01:59 IDT.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 08:00): Die Nachrichten vom 24.10.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44456.html</link>
+      <pubDate>Sat, 24 Oct 2026 05:16:35 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">1b4dedb0-6843-5473-beab-a3e44771e05d</guid>
+      <description>Originally published Sat 24 Oct 2026 08:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/24/nachrichten_dlf_20261024_0059_affe1396.mp3?refId=nachrichten-108" length="5022385" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/24/nachrichten_dlf_20261024_0700_6247b497.mp3?refId=nachrichten-108" length="4940883" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:32): Abendjournal um 18 (23.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-23102026</link>
-      <pubDate>Sat, 24 Oct 2026 00:09:33 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sat, 24 Oct 2026 05:15:35 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_630bf5a8b7714be8a62cb78b37573bb2</guid>
       <description>Originally published Fri 23 Oct 2026 19:32 IDT.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_630bf5a8b7714be8a62cb78b37573bb2.mp3?etag=5fa6140cbb3843dd6578ead2303d9079" length="36458900" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Jugendgewalt | Raffineriestrategie | Wahlrecht</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/jugend-gewalt-raffinerie-strategie-wahlrecht-merz-ihp.html</link>
-      <pubDate>Sat, 24 Oct 2026 00:08:33 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sat, 24 Oct 2026 05:14:35 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/52/66/5266de68-8667-40d5-98b9-df788ceffc49/5266de68-8667-40d5-98b9-df788ceffc49_mp3-256kd.mp3</guid>
       <description>Originally published Fri 23 Oct 2026 19:17 IDT.
 
@@ -70,8 +81,8 @@ Jugendliche, die andere Jugendliche bedrohen, ausrauben, krankenhausreif schlage
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 18:24): Bayern muss auf steigende Steuereinnahmen warten</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bayern-muss-auf-steigende-steuereinnahmen-warten/2123468</link>
-      <pubDate>Sat, 24 Oct 2026 00:07:33 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Sat, 24 Oct 2026 05:13:35 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">0ed39920-8590-4df0-a49a-12442812754b</guid>
       <description>Originally published Fri 23 Oct 2026 18:24 IDT.
 
@@ -79,18 +90,17 @@ Laut der jüngsten Steuer-Schätzung rechnet der Freistaat in diesem Jahr mit 30
       <enclosure url="https://media.neuland.br.de/file/2123468/c/feed/bayern-muss-auf-steigende-steuereinnahmen-warten.mp3" length="8855085" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:31): Sudan's hospitals deliberately targeted by RSF fighters</title>
-      <link>http://www.bbc.co.uk/programmes/p0pj95j1</link>
-      <pubDate>Sat, 24 Oct 2026 00:06:33 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pj95j1</guid>
-      <description>Originally published Fri 23 Oct 2026 17:31 IDT.
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:45): Melania Trump brokers ceasefire for Ukrainian city</title>
+      <link>http://www.bbc.co.uk/programmes/p0pjcwvy</link>
+      <pubDate>Sat, 24 Oct 2026 05:12:35 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pjcwvy</guid>
+      <description>Originally published Sat 24 Oct 2026 06:45 IDT.
 
-&lt;p&gt;A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed El-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. UN human rights chief Volker Türk called the findings &quot;deeply disturbing&quot;, saying multiple attacks by the Rapid Support Forces (RSF) on civilian infrastructure, including health facilities, were serious violations of international humanitarian law and may amount to war crimes. Also: the Israeli military says two soldiers were killed in an attack by Palestinian gunmen in the occupied West Bank. The two suspected attackers were shot dead by the IDF. Ukrainian defence officials say there are still restrictions on their use of the Starshield satellite  network, despite President Trump saying it was operating normally. And, the brave little octopus who escapes death after venturing from her normal underwater habitat.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;The White House says the US first lady, Melania Trump, has brokered a local ceasefire for a frontline city in a Russian-occupied part of Ukraine. The truce in Oleshky, in the Kherson region, is due to begin on October 29. The White House says the city is on &quot;the brink of disaster&quot; without medicine, food and clean water. Residents of the city have resorted to eating garden weeds to survive.  Also: Donald Trump files a lawsuit seeking to block Alaska's result in the midterms if the Republican incumbent does not win his Senate seat. We look at the legacy of the iPod as the device turns 25. The company behind ChatGPT announces that it will no longer train its AI models live on the internet amid security concerns. Brazilians go to the polls on Sunday in what’s predicted to be an incredibly close presidential election. And the hunt for the next James Bond is underway, with screen tests rumoured to be taking place in London.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A makeshift hospital in El Fasher lies in ruins after being targeted by RSF fighters.
-Credit: BBC News&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj924b.mp3" length="14160000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Rally demanding the establishment of a humanitarian corridor to evacuate Ukrainian civilians from Oleshky in Kherson region, in Kyiv. October 6, 2026. REUTERS/Alina Smutko&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjcwsp.mp3" length="13488000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
