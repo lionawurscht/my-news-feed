@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 17:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:06:44 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,53 +13,53 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 20:30): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3556160.html</link>
-      <pubDate>Sat, 24 Oct 2026 17:47:12 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3556210.html</link>
+      <pubDate>Sat, 24 Oct 2026 20:06:44 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">fe7abb3a-7125-4446-add0-1564f9926722</guid>
-      <description>Originally published Sat 24 Oct 2026 20:30 IDT.
+      <guid isPermaLink="false">a6b76b9c-adb2-44d0-ab98-dbb94d4881ab</guid>
+      <description>Originally published Sat 24 Oct 2026 22:05 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1024/AU-20261024-1930-3000.mp3" length="1906699" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1024/AU-20261024-2105-0000.mp3" length="1895179" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 20:09): 1pm ET, October 24 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 22:09): 3pm ET, October 24 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 24 Oct 2026 17:46:12 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 20:05:44 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c30ca67a-8801-4715-8671-98e33825f3a2</guid>
-      <description>Originally published Sat 24 Oct 2026 20:09 IDT.
+      <guid isPermaLink="false">c7716a24-a4c8-4829-8a5d-ba6ff5ebaadd</guid>
+      <description>Originally published Sat 24 Oct 2026 22:09 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/723583a9-00ce-458c-b915-91d7af6191d0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=723583a9-00ce-458c-b915-91d7af6191d0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261024-1300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8a9a299f-263a-4cc0-bf50-7d4232955804/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8a9a299f-263a-4cc0-bf50-7d4232955804&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261024-1500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 23.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3554948.html</link>
-      <pubDate>Sat, 24 Oct 2026 17:45:12 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 24.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3556204.html</link>
+      <pubDate>Sat, 24 Oct 2026 20:04:44 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">d7afc716-e95c-4c78-a03c-4fddfb123362-SENDUNGSAUDIO</guid>
-      <description>Originally published Fri 23 Oct 2026 21:00 IDT.
+      <guid isPermaLink="false">50e26951-105d-43c7-88c8-d396c2a30e0f-SENDUNGSAUDIO</guid>
+      <description>Originally published Sat 24 Oct 2026 21:00 IDT.
 
-CSU trifft sich zu Parteitag in München, Leak wirft neues Licht auf AfD-Spendenskandal, Israel verschärft Kontrollen an der Grenze zum Westjordanland, Musk hebt Starlink-Drosselung laut US-Präsident Trump auf, Anti-Terror-Behörde ermittelt nach Schüssen in Paris, Nach Entdeckung der PHP-Sicherheitslücke: IT-Experten fordern umfassende Maßnahmen, Sorge um Zukunft von Offshore-Windparks, Tobende Waldbrände in Indonesien, iPod vor 25 Jahren vorgestellt, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1023/AU-20261023-2027-3500.mp3" length="15756449" type="audio/mpeg"/>
+Erneut landesweite Proteste in Frankreich gegen die hohen Lebenshaltungskosten, Ebenfalls Proteste in mehreren italienischen Städten gegen Lebenshaltungskosten, Abschluss des CSU-Parteitags in München mit Rede von Bundeskanzler Merz, Proteste gegen Abschiebungen und Abschiebehaft an mehreren Flughäfen, Rettung und Versorgung von Verletzten an der ukrainischen Front durch Drohnen, Israel startet große Militäroffensive im Westjordanland, Feuer zerstört Kehlsteinhaus am Obersalzberg, Ergebnisse des 7. Spieltags der Fußball-Bundesliga, Zeitumstellung auf Winterzeit, Vor allem im Westen und Südwesten Deutschlands Schäden durch Herbststurm &quot;Luise&quot;, Das Wetter Hinweis: Die Beiträge zum Thema &quot;Fußball&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1024/AU-20261024-2028-1900.mp3" length="16412322" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 20:00): Die Nachrichten vom 24.10.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44484.html</link>
-      <pubDate>Sat, 24 Oct 2026 17:44:12 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 21:00): Die Nachrichten vom 24.10.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44486.html</link>
+      <pubDate>Sat, 24 Oct 2026 20:03:44 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">09b5e347-2448-54a8-b334-51737fc5eabe</guid>
-      <description>Originally published Sat 24 Oct 2026 20:00 IDT.
+      <guid isPermaLink="false">9ef1e624-34a9-55dc-a36f-a5d31aa5a90f</guid>
+      <description>Originally published Sat 24 Oct 2026 21:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/24/nachrichten_dlf_20261024_1900_8ddade65.mp3?refId=nachrichten-108" length="4913298" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/24/nachrichten_dlf_20261024_2000_5b11ce19.mp3?refId=nachrichten-108" length="4978081" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:08): Mittagsjournal (24.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-24102026</link>
-      <pubDate>Sat, 24 Oct 2026 17:43:12 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 20:02:44 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_3de88db11371473cb8ff79110d046a5a</guid>
       <description>Originally published Sat 24 Oct 2026 14:08 IDT.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Lost my ring, found some friends</title>
       <link>http://www.bbc.co.uk/programmes/p0pj9wyz</link>
-      <pubDate>Sat, 24 Oct 2026 17:42:12 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 20:01:44 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pj9wyz</guid>
       <description>Originally published Sat 24 Oct 2026 14:00 IDT.
