@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:12:35 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 12:35): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3555596.html</link>
-      <pubDate>Sat, 24 Oct 2026 10:10:19 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 15:08): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3555808.html</link>
+      <pubDate>Sat, 24 Oct 2026 14:12:35 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">65e5f890-b7c4-41be-ab4b-5e66a1c5b8a6</guid>
-      <description>Originally published Sat 24 Oct 2026 12:35 IDT.
+      <guid isPermaLink="false">1bffca2f-7126-4d8f-90dd-93498f040724</guid>
+      <description>Originally published Sat 24 Oct 2026 15:08 IDT.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1024/AU-20261024-1134-5200.mp3" length="1918219" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1024/AU-20261024-1407-5800.mp3" length="1774987" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 12:10): 5am ET, October 24 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 17:10): 10am ET, October 24 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 24 Oct 2026 10:09:19 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 14:11:35 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">997c16f4-2118-4267-b13b-04f71580e5b1</guid>
-      <description>Originally published Sat 24 Oct 2026 12:10 IDT.
+      <guid isPermaLink="false">aa794c16-ae3b-40d3-b2b9-39595c4f0357</guid>
+      <description>Originally published Sat 24 Oct 2026 17:10 IDT.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/634ff6d3-04e4-4459-9c91-0d83680f5170/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=634ff6d3-04e4-4459-9c91-0d83680f5170&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261024-0500-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/98a8ad66-fe27-4422-b572-89f56c2a5893/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=98a8ad66-fe27-4422-b572-89f56c2a5893&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261024-1000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 23.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3554948.html</link>
-      <pubDate>Sat, 24 Oct 2026 10:08:19 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 14:10:35 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d7afc716-e95c-4c78-a03c-4fddfb123362-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 23 Oct 2026 21:00 IDT.
@@ -46,29 +46,29 @@ CSU trifft sich zu Parteitag in München, Leak wirft neues Licht auf AfD-Spenden
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1023/AU-20261023-2027-3500.mp3" length="15756449" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 12:00): Die Nachrichten vom 24.10.2026, 11:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44468.html</link>
-      <pubDate>Sat, 24 Oct 2026 10:07:19 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:00): Die Nachrichten vom 24.10.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44476.html</link>
+      <pubDate>Sat, 24 Oct 2026 14:09:35 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">85e439f2-02f1-5c0c-87cf-4cb770dee506</guid>
-      <description>Originally published Sat 24 Oct 2026 12:00 IDT.
+      <guid isPermaLink="false">b9894104-63de-56a7-8c7d-4fd130b4639b</guid>
+      <description>Originally published Sat 24 Oct 2026 16:00 IDT.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/24/nachrichten_dlf_20261024_1100_1d236cca.mp3?refId=nachrichten-108" length="4997726" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/24/nachrichten_dlf_20261024_1500_56ff2531.mp3?refId=nachrichten-108" length="4917895" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:21): Morgenjournal um 8 (24.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-24102026</link>
-      <pubDate>Sat, 24 Oct 2026 10:06:19 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:08): Mittagsjournal (24.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-24102026</link>
+      <pubDate>Sat, 24 Oct 2026 14:08:35 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_eb449b9b7d76416e8ed4a6e7fe7503c2</guid>
-      <description>Originally published Sat 24 Oct 2026 09:21 IDT.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_eb449b9b7d76416e8ed4a6e7fe7503c2.mp3?etag=5aaedf372efa7defd77fd87c152b1e3d" length="22084860" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_3de88db11371473cb8ff79110d046a5a</guid>
+      <description>Originally published Sat 24 Oct 2026 14:08 IDT.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_3de88db11371473cb8ff79110d046a5a.mp3?etag=0a27703f51077790cafbfef481e8290c" length="81235788" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Jugendgewalt | Raffineriestrategie | Wahlrecht</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/jugend-gewalt-raffinerie-strategie-wahlrecht-merz-ihp.html</link>
-      <pubDate>Sat, 24 Oct 2026 10:05:19 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 14:07:35 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/52/66/5266de68-8667-40d5-98b9-df788ceffc49/5266de68-8667-40d5-98b9-df788ceffc49_mp3-256kd.mp3</guid>
       <description>Originally published Fri 23 Oct 2026 19:17 IDT.
@@ -81,7 +81,7 @@ Jugendliche, die andere Jugendliche bedrohen, ausrauben, krankenhausreif schlage
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 18:24): Bayern muss auf steigende Steuereinnahmen warten</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/bayern-muss-auf-steigende-steuereinnahmen-warten/2123468</link>
-      <pubDate>Sat, 24 Oct 2026 10:04:19 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 14:06:35 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">0ed39920-8590-4df0-a49a-12442812754b</guid>
       <description>Originally published Fri 23 Oct 2026 18:24 IDT.
@@ -90,17 +90,15 @@ Laut der jüngsten Steuer-Schätzung rechnet der Freistaat in diesem Jahr mit 30
       <enclosure url="https://media.neuland.br.de/file/2123468/c/feed/bayern-muss-auf-steigende-steuereinnahmen-warten.mp3" length="8855085" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:45): Melania Trump brokers ceasefire for Ukrainian city</title>
-      <link>http://www.bbc.co.uk/programmes/p0pjcwvy</link>
-      <pubDate>Sat, 24 Oct 2026 10:03:19 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Lost my ring, found some friends</title>
+      <link>http://www.bbc.co.uk/programmes/p0pj9wyz</link>
+      <pubDate>Sat, 24 Oct 2026 14:05:35 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pjcwvy</guid>
-      <description>Originally published Sat 24 Oct 2026 06:45 IDT.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pj9wyz</guid>
+      <description>Originally published Sat 24 Oct 2026 14:00 IDT.
 
-&lt;p&gt;The White House says the US first lady, Melania Trump, has brokered a local ceasefire for a frontline city in a Russian-occupied part of Ukraine. The truce in Oleshky, in the Kherson region, is due to begin on October 29. The White House says the city is on &quot;the brink of disaster&quot; without medicine, food and clean water. Residents of the city have resorted to eating garden weeds to survive.  Also: Donald Trump files a lawsuit seeking to block Alaska's result in the midterms if the Republican incumbent does not win his Senate seat. We look at the legacy of the iPod as the device turns 25. The company behind ChatGPT announces that it will no longer train its AI models live on the internet amid security concerns. Brazilians go to the polls on Sunday in what’s predicted to be an incredibly close presidential election. And the hunt for the next James Bond is underway, with screen tests rumoured to be taking place in London.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Rally demanding the establishment of a humanitarian corridor to evacuate Ukrainian civilians from Oleshky in Kherson region, in Kyiv. October 6, 2026. REUTERS/Alina Smutko&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjcwsp.mp3" length="13488000" type="audio/mpeg"/>
+&lt;p&gt;Patrick Mohr thought his wedding ring was gone after it fell off his hand while he swam in Italy, but it led to an international friendship with three locals who dived to find it. Filippo Palagi, Nicola Malloggi and Edoardo Poggi went on a trip to return it to Patrick in Ireland. &lt;/p&gt;&lt;p&gt;Also: the grandmother who competed at Miss Great Britain and made history in the process. Glamour Gran Ann wants other women to see that getting older does not mean disappearing. In Australia, the reporter who ended up saving a man's life while covering floods in Brisbane. ABC reporter Will Murray pulled a man from a sinking car, after the driver accidentally drove into the flood. &lt;/p&gt;&lt;p&gt;Plus - World Athletics are holding their first ever World Treadmill Championship. And the live stream in Finland where you can watch puppies 24/7.&lt;/p&gt;&lt;p&gt;Image: The three men who helped Patrick find his ring, posing with Patrick holding it. Credit: Patrick Mohr.&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj9f1x.mp3" length="13112000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
