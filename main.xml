@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 25 Oct 2026 18:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:21:58 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,52 +13,63 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 17:32): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3557102.html</link>
-      <pubDate>Sun, 25 Oct 2026 18:03:26 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 23:13): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3557372.html</link>
+      <pubDate>Sun, 25 Oct 2026 21:21:58 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">b692bdf5-be37-46f7-933d-2085500b5ede</guid>
-      <description>Originally published Sun 25 Oct 2026 17:32 IST.
+      <guid isPermaLink="false">f4b303cf-6158-4bd4-b1b0-6fd1b3acc180</guid>
+      <description>Originally published Sun 25 Oct 2026 23:13 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1025/AU-20261025-1632-2300.mp3" length="2006539" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1025/AU-20261025-2213-2300.mp3" length="1817227" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 19:09): 1pm ET, October 25 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 23:10): 5pm ET, October 25 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 25 Oct 2026 18:02:26 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 21:20:58 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">0178e827-ed30-477f-891e-555dd22450da</guid>
-      <description>Originally published Sun 25 Oct 2026 19:09 IST.
+      <guid isPermaLink="false">7d8cc882-1ef5-41fd-b320-4ab1c2deb37e</guid>
+      <description>Originally published Sun 25 Oct 2026 23:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8dcd85bb-7d3d-413a-ac37-5d3af345fc6f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8dcd85bb-7d3d-413a-ac37-5d3af345fc6f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261025-1300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cdfa6d0e-f11c-47f9-a81a-f6d4bc3a829d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cdfa6d0e-f11c-47f9-a81a-f6d4bc3a829d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261025-1700-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 25.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3557326.html</link>
+      <pubDate>Sun, 25 Oct 2026 21:19:58 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">5fb1e38b-aaf0-40e4-85f5-75d6d6fb372b-SENDUNGSAUDIO</guid>
+      <description>Originally published Sun 25 Oct 2026 21:00 IST.
+
+Volkswagen-Tochter Audi will neues Werk im US-Bundesstaat Georgia eröffnen, Union und SPD bei Stromsteuer-Debatte weiter uneins, Rechtspopulistische Präsidentschaftskandidatin Le Pen eröffnet Wahlkampf in Frankreich, Knappes Rennen bei Parlamentswahl in Serbien, Stichwahl um das Präsidentenamt in Brasilien, Friedensnobelpreisträgerin Machado kehrt nach Venezuela zurück, Ergebnisse der Fußball-Bundesliga, Trauer um Fernsehansagerin Hanni Vanhaiden, Das Wetter Hinweis: Der Beitrag zum Thema Bundesliga darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1025/AU-20261025-2030-0600.mp3" length="15650849" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 23:00): Die Nachrichten vom 25.10.2026, 22:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44536.html</link>
+      <pubDate>Sun, 25 Oct 2026 21:18:58 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">6f8a2950-aef3-5f40-b9ee-e0434cdd00e9</guid>
+      <description>Originally published Sun 25 Oct 2026 23:00 IST.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/25/nachrichten_dlf_20261025_2200_d6dcf7a6.mp3?refId=nachrichten-108" length="5008593" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (25.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-25102026</link>
-      <pubDate>Sun, 25 Oct 2026 18:01:26 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Sun, 25 Oct 2026 21:17:58 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_581a8f4d18164557bb90b1d46ffb0f1b</guid>
       <description>Originally published Sun 25 Oct 2026 19:21 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_581a8f4d18164557bb90b1d46ffb0f1b.mp3?etag=597d87007e30eda6b51fe4a6b34ddad9" length="22110806" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 19:00): Die Nachrichten vom 25.10.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44528.html</link>
-      <pubDate>Sun, 25 Oct 2026 18:00:26 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">6610f838-f07f-5d3d-bd86-3306049d705a</guid>
-      <description>Originally published Sun 25 Oct 2026 19:00 IST.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/25/nachrichten_dlf_20261025_1800_43013d43.mp3?refId=nachrichten-108" length="9731949" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 11:26): Das Wichtigste am Sonntagvormittag</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagvormittag-1/2123494</link>
-      <pubDate>Sun, 25 Oct 2026 17:59:26 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sun, 25 Oct 2026 21:16:58 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">6b326445-1daf-47c9-9e56-7c899e82087f</guid>
       <description>Originally published Sun 25 Oct 2026 11:26 IST.
 
@@ -66,19 +77,15 @@ Fast 1.000 Festnahmen nach Ausschreitungen in Frankreich. Außerdem: Großbrand 
       <enclosure url="https://media.neuland.br.de/file/2123494/c/feed/das-wichtigste-am-sonntagvormittag-1.mp3" length="17417517" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:39): French protesters return to the streets</title>
-      <link>http://www.bbc.co.uk/programmes/p0pjhnc5</link>
-      <pubDate>Sun, 25 Oct 2026 17:58:26 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pjhnc5</guid>
-      <description>Originally published Sun 25 Oct 2026 06:39 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: They were loyal Democrats. Then came Gaza</title>
+      <link>http://www.bbc.co.uk/programmes/p0pj7lzx</link>
+      <pubDate>Sun, 25 Oct 2026 21:15:58 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pj7lzx</guid>
+      <description>Originally published Sun 25 Oct 2026 22:00 IST.
 
-&lt;p&gt;Protests against poor economic conditions have been held across France. Nearly 1,000 people have been arrested after clashes with riot police in cities including Paris and Marseilles.&lt;/p&gt;&lt;p&gt;Also: campaigning intensifies ahead of the US mid-term elections. We have a special report from the Rio Grande Valley in South Texas. Gianni Infantino claims the &quot;vast majority&quot; supports his bid for re-election as head of world football's governing body, FIFA. Final rallies are held in Brazil ahead of Sunday's presidential run-off election between Luiz Inácio Lula da Silva and Flávio Bolsonaro. One man has been arrested after Hitler's Eagle's Nest retreat in Bavaria was engulfed in flames. And Europe's busiest shopping street, Oxford Street in London, prepares to go traffic free.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: People clash with police during a demonstration against the high cost of living in Bordeaux, France, 24 October 2026.
-Credit: EPA/Shuttershock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjhn2n.mp3" length="13360000" type="audio/mpeg"/>
+&lt;p&gt;Midterm elections in the United States are normally about domestic issues such as the economy and the cost of living. They’re often a pulse check on voter sentiment towards the party in power, or a reflection of local political battles and regional trends. Midterms are rarely impassioned referendums on a specific foreign policy issue. But this year in Michigan, for some voters, the Senate race is shaping up to be just that. Today on the show, The Global Story’s Asma Khalid shares her reporting from Michigan, where a debate among Democrats over the conflict in the Middle East has become a touchstone issue, especially among the state’s large Arab American and Jewish communities. The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj7lrp.mp3" length="16200000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
