@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:44:23 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 23:13): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3557372.html</link>
-      <pubDate>Sun, 25 Oct 2026 21:21:58 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:44:23 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">f4b303cf-6158-4bd4-b1b0-6fd1b3acc180</guid>
       <description>Originally published Sun 25 Oct 2026 23:13 IST.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1025/AU-20261025-2213-2300.mp3" length="1817227" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 23:10): 5pm ET, October 25 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 01:09): 7pm ET, October 25 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 25 Oct 2026 21:20:58 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:43:23 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">7d8cc882-1ef5-41fd-b320-4ab1c2deb37e</guid>
-      <description>Originally published Sun 25 Oct 2026 23:10 IST.
+      <guid isPermaLink="false">ffa0beae-2255-4bc0-895b-e734b9316ef9</guid>
+      <description>Originally published Mon 26 Oct 2026 01:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cdfa6d0e-f11c-47f9-a81a-f6d4bc3a829d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cdfa6d0e-f11c-47f9-a81a-f6d4bc3a829d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261025-1700-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7e99b85e-961f-4a0a-9f22-42b03dd7d8d8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7e99b85e-961f-4a0a-9f22-42b03dd7d8d8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261025-1900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 25.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3557326.html</link>
-      <pubDate>Sun, 25 Oct 2026 21:19:58 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:42:23 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">5fb1e38b-aaf0-40e4-85f5-75d6d6fb372b-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 25 Oct 2026 21:00 IST.
@@ -46,20 +46,20 @@ Volkswagen-Tochter Audi will neues Werk im US-Bundesstaat Georgia eröffnen, Uni
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1025/AU-20261025-2030-0600.mp3" length="15650849" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 23:00): Die Nachrichten vom 25.10.2026, 22:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44536.html</link>
-      <pubDate>Sun, 25 Oct 2026 21:18:58 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 00:59): Die Nachrichten vom 25.10.2026, 23:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44540.html</link>
+      <pubDate>Sun, 25 Oct 2026 23:41:23 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">6f8a2950-aef3-5f40-b9ee-e0434cdd00e9</guid>
-      <description>Originally published Sun 25 Oct 2026 23:00 IST.
+      <guid isPermaLink="false">b4096b25-5097-5b5e-a98c-a8944fdb86ff</guid>
+      <description>Originally published Mon 26 Oct 2026 00:59 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/25/nachrichten_dlf_20261025_2200_d6dcf7a6.mp3?refId=nachrichten-108" length="5008593" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/25/nachrichten_dlf_20261025_2359_bc4ad09d.mp3?refId=nachrichten-108" length="5017788" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (25.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-25102026</link>
-      <pubDate>Sun, 25 Oct 2026 21:17:58 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:40:23 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_581a8f4d18164557bb90b1d46ffb0f1b</guid>
       <description>Originally published Sun 25 Oct 2026 19:21 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 11:26): Das Wichtigste am Sonntagvormittag</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagvormittag-1/2123494</link>
-      <pubDate>Sun, 25 Oct 2026 21:16:58 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:39:23 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">6b326445-1daf-47c9-9e56-7c899e82087f</guid>
       <description>Originally published Sun 25 Oct 2026 11:26 IST.
@@ -79,7 +79,7 @@ Fast 1.000 Festnahmen nach Ausschreitungen in Frankreich. Außerdem: Großbrand 
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: They were loyal Democrats. Then came Gaza</title>
       <link>http://www.bbc.co.uk/programmes/p0pj7lzx</link>
-      <pubDate>Sun, 25 Oct 2026 21:15:58 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 23:38:23 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pj7lzx</guid>
       <description>Originally published Sun 25 Oct 2026 22:00 IST.
