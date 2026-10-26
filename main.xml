@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 08:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:46:42 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 05:48): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3557554.html</link>
-      <pubDate>Mon, 26 Oct 2026 08:26:57 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 15:36): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3558784.html</link>
+      <pubDate>Mon, 26 Oct 2026 15:46:42 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4690da63-b24b-42aa-997a-bf8b4ffe22f8</guid>
-      <description>Originally published Mon 26 Oct 2026 05:48 IST.
+      <guid isPermaLink="false">c1c792c1-e6cd-43b8-b399-0b0157cd63fc</guid>
+      <description>Originally published Mon 26 Oct 2026 15:36 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1026/AU-20261026-0448-0000.mp3" length="2033419" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1026/AU-20261026-1436-4100.mp3" length="2190091" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 10:09): 4am ET, October 26 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 17:09): 11am ET, October 26 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 26 Oct 2026 08:25:57 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 15:45:42 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">a04072cc-6ba5-4a8e-ba05-3fb611cf3702</guid>
-      <description>Originally published Mon 26 Oct 2026 10:09 IST.
+      <guid isPermaLink="false">5bc79524-a1db-44d1-a40d-e2755521f0a9</guid>
+      <description>Originally published Mon 26 Oct 2026 17:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8c143faf-d2c7-43a2-b684-5fcac667c9c7/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8c143faf-d2c7-43a2-b684-5fcac667c9c7&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261026-0400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Mon 07:00): חדשון בעברית קלה (26/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Mon, 26 Oct 2026 08:24:57 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/26-10-26.m4a</guid>
-      <description>Originally published Mon 26 Oct 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• לִקרַאת הבּחִירוֹת לכּנֶסת שֶיִתקַיימוּ מחר, נשׂיא ארה&quot;ב טראמפּ חָזַר ופִרסֵם הלַילָה בָּרֶשֶת החֶברָתִית שלו את הוֹדָעַת התְמִיכָה שלו בּרה&quot;מ נתניהו
-• הנשׂיא הֶרצוֹג: נשׂיא ארה&quot;ב אֵינוֹ יכוֹל להִתעָרֵב בּשיקוּל הדַעַת שלי. מְדוּבָּר בַּדֵמוֹקרַטיה של ישׂראל ובַחוֹק שלה
-• אתמול הִתקַיֵים דִיוּן בּבְסיס חֵיל האֲוִויר שֶרה&quot;מ בִּיקֵר בּו, ובמַהֲלָכוֹ הִתעוֹרֵר עִימוּת בֵּין רה&quot;מ נתניהו לרַמטכַּ&quot;ל זָמיר בּעִניַין התְקִיפָה בּאִירַאן
-• רה&quot;מ נתניהו נִפגַש אתמול עִם מַפכַּ&quot;ל המִשטָרה דני לֵוי לדִיוּן בּנוֹשֵׂא טוֹהַר הבּחירוֹת. בּדיוּן הִשתַתֵף גם השַׂר לבִיטָחוֹן לאוּמי אִיתָמר בּן גְבִיר
-• חֲשָד לנִיסיוֹן הַשפָּעָה פְּסוּלָה על הבְּחירוֹת: הוּסְרָה רֶשֶת חֶשבּוֹנוֹת חֲשוּדִים בX-
-• מִשׂרַד הבְּריאוּת מִינָה את הוַועֲדָה הצִיבּוּרִית להַרחָבַת סַל שֵירוּתֵי הבּריאוּת לִשנַת 2027
-• התִַחֲזית: בּלי שִינוּי נִיכָּר בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/26-10-26.m4a" length="1497985" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/26957648-84f0-4fac-a70c-3d5effad76ad/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=26957648-84f0-4fac-a70c-3d5effad76ad&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261026-1100-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 25.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3557326.html</link>
-      <pubDate>Mon, 26 Oct 2026 08:23:57 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 26 Oct 2026 15:44:42 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">5fb1e38b-aaf0-40e4-85f5-75d6d6fb372b-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 25 Oct 2026 21:00 IST.
 
@@ -68,30 +46,30 @@ Volkswagen-Tochter Audi will neues Werk im US-Bundesstaat Georgia eröffnen, Uni
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1025/AU-20261025-2030-0600.mp3" length="15650849" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 10:00): Die Nachrichten vom 26.10.2026, 09:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44568.html</link>
-      <pubDate>Mon, 26 Oct 2026 08:22:57 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">41b8185f-92b2-5fd0-8c21-da98bf22f778</guid>
-      <description>Originally published Mon 26 Oct 2026 10:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 17:30): Die Nachrichten vom 26.10.2026, 16:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44598.html</link>
+      <pubDate>Mon, 26 Oct 2026 15:43:42 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">d1502741-96ba-56c1-9cad-c0977009dfee</guid>
+      <description>Originally published Mon 26 Oct 2026 17:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/26/nachrichten_dlf_20261026_0900_643936e1.mp3?refId=nachrichten-108" length="4997726" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/26/nachrichten_dlf_20261026_1630_dad533a0.mp3?refId=nachrichten-108" length="5054568" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 09:14): Morgenjournal um 8 (26.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-26102026</link>
-      <pubDate>Mon, 26 Oct 2026 08:21:57 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_bccebaca192c480ba26b0ad402a3e9ba</guid>
-      <description>Originally published Mon 26 Oct 2026 09:14 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bccebaca192c480ba26b0ad402a3e9ba.mp3?etag=cfe1d57794735d66c7639f884d9a0988" length="14867858" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 14:14): Mittagsjournal (26.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-26102026</link>
+      <pubDate>Mon, 26 Oct 2026 15:42:42 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_8dba2e1cd8d446dab6e19d9d98ddce26</guid>
+      <description>Originally published Mon 26 Oct 2026 14:14 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8dba2e1cd8d446dab6e19d9d98ddce26.mp3?etag=f014944e36742f8c5a95dbba7aca6b2d" length="14766953" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 09:00): Wassermangel in Bayern: Was hilft langfristig?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/wassermangel-in-bayern-was-hilft-langfristig/2123512</link>
-      <pubDate>Mon, 26 Oct 2026 08:20:57 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Mon, 26 Oct 2026 15:41:42 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">aae91d1d-cb9c-48e1-9c4b-fe3c0e5a5638</guid>
       <description>Originally published Mon 26 Oct 2026 09:00 IST.
 
@@ -101,8 +79,8 @@ Der trockene Sommer ist vorbei, aber der Wassermangel bleibt. Wir blicken darauf
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:37): Brazil's President Lula defeats Bolsonaro</title>
       <link>http://www.bbc.co.uk/programmes/p0pjlyh7</link>
-      <pubDate>Mon, 26 Oct 2026 08:19:57 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Mon, 26 Oct 2026 15:40:42 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pjlyh7</guid>
       <description>Originally published Mon 26 Oct 2026 07:37 IST.
 
