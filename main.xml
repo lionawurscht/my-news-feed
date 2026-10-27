@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:55:40 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:31): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3559546.html</link>
-      <pubDate>Tue, 27 Oct 2026 00:12:08 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 05:46): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3559750.html</link>
+      <pubDate>Tue, 27 Oct 2026 05:55:40 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">445ccb23-53f3-4e89-afa4-3fa8b5160201</guid>
-      <description>Originally published Mon 26 Oct 2026 22:31 IST.
+      <guid isPermaLink="false">265088dd-bbac-41ee-a853-7a5199438769</guid>
+      <description>Originally published Tue 27 Oct 2026 05:46 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1026/AU-20261026-2131-1100.mp3" length="1726219" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1027/AU-20261027-0446-1300.mp3" length="2325259" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 02:10): 8pm ET, October 26 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 07:10): 1am ET, October 27 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 27 Oct 2026 00:11:08 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 05:54:40 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">54018584-383f-4c28-ab3b-007bb6604e2c</guid>
-      <description>Originally published Tue 27 Oct 2026 02:10 IST.
+      <guid isPermaLink="false">8a490441-87d9-482e-bbb8-94bdf3f27c49</guid>
+      <description>Originally published Tue 27 Oct 2026 07:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/baddc96a-f89d-4fb1-ba0c-eb7ed61af1be/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=baddc96a-f89d-4fb1-ba0c-eb7ed61af1be&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261026-2000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/cbea40c8-de55-4bc1-96ec-aeb32fe46d7b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=cbea40c8-de55-4bc1-96ec-aeb32fe46d7b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261027-0100-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 26.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3559522.html</link>
-      <pubDate>Tue, 27 Oct 2026 00:10:08 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 05:53:40 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">73c60467-7130-4960-9244-cb32917e3e93-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 26 Oct 2026 21:00 IST.
@@ -46,29 +46,29 @@ Studentenliste gewinnt vorgezogene Parlamentswahl in Serbien, Lula da Silva gewi
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1026/AU-20261026-2025-5400.mp3" length="15133591" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 00:59): Die Nachrichten vom 26.10.2026, 23:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44614.html</link>
-      <pubDate>Tue, 27 Oct 2026 00:09:08 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 07:30): Die Nachrichten vom 27.10.2026, 06:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44632.html</link>
+      <pubDate>Tue, 27 Oct 2026 05:52:40 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">8a552e83-7acc-5c9a-a634-81c72497f81d</guid>
-      <description>Originally published Tue 27 Oct 2026 00:59 IST.
+      <guid isPermaLink="false">be5053cc-c681-52d3-a59f-5fb199e92fab</guid>
+      <description>Originally published Tue 27 Oct 2026 07:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/26/nachrichten_dlf_20261026_2359_e1712a1e.mp3?refId=nachrichten-108" length="5042447" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/27/nachrichten_dlf_20261027_0630_b7d6421c.mp3?refId=nachrichten-108" length="10496815" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:20): Abendjournal um 18 (26.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-26102026</link>
-      <pubDate>Tue, 27 Oct 2026 00:08:08 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 07:16): Frühjournal um 6 (27.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-27102026</link>
+      <pubDate>Tue, 27 Oct 2026 05:51:40 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_8a07f73a4d284587a72f4451c657b432</guid>
-      <description>Originally published Mon 26 Oct 2026 19:20 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8a07f73a4d284587a72f4451c657b432.mp3?etag=57788d3900fe1eb9c859984c143824b2" length="22106770" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_6ddf4867575d4bdfa628258cc230dad0</guid>
+      <description>Originally published Tue 27 Oct 2026 07:16 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_6ddf4867575d4bdfa628258cc230dad0.mp3?etag=40ee1e8ec34048a8efabed1e6e89382f" length="15333730" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Studentenproteste | Video-Überwachung | Stadt in Angst</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/studentenproteste-video-ueberwachung-stadt-in-angst.html</link>
-      <pubDate>Tue, 27 Oct 2026 00:07:08 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 05:50:40 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/5e/86/5e862a41-ab85-4827-a02c-89835579309c/5e862a41-ab85-4827-a02c-89835579309c_mp3-256kd.mp3</guid>
       <description>Originally published Mon 26 Oct 2026 19:17 IST.
@@ -81,7 +81,7 @@ In ganz Europa protestieren junge Menschen f&amp;#252;r eine bessere Zukunft. Au
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 18:09): Audi in den USA: Rettung oder Marketing-Desaster</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/audi-in-den-usa-rettung-oder-marketing-desaster/2123528</link>
-      <pubDate>Tue, 27 Oct 2026 00:06:08 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 05:49:40 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">6c6c7557-5b17-4e56-982f-570ecf096dcf</guid>
       <description>Originally published Mon 26 Oct 2026 18:09 IST.
@@ -90,17 +90,16 @@ Bei Audi stehen in Deutschland tausende Jobs auf der Kippe. In den USA will der 
       <enclosure url="https://media.neuland.br.de/file/2123528/c/feed/audi-in-den-usa-rettung-oder-marketing-desaster.mp3" length="9368109" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 02:01): What's next for China after Xi Jinping?</title>
-      <link>http://www.bbc.co.uk/programmes/p0pjpv9t</link>
-      <pubDate>Tue, 27 Oct 2026 00:05:08 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:28): Israel holds first election since October 7th attacks</title>
+      <link>http://www.bbc.co.uk/programmes/p0pjrnd4</link>
+      <pubDate>Tue, 27 Oct 2026 05:48:40 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pjpv9t</guid>
-      <description>Originally published Tue 27 Oct 2026 02:01 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pjrnd4</guid>
+      <description>Originally published Tue 27 Oct 2026 07:28 IST.
 
-&lt;p&gt;This week the Chinese President Xi Jinping and his inner circle are meeting in Beijing for a series of closed-door meetings, known as plenums. Once those meetings have concluded, we're expecting to learn more about the senior figures that could shape the look of China's ruling Communist Party in the years to come. In this bonus episode we answer your questions about the next generation of Chinese leaders and how they might run the world superpower. Presenter Celia Hatton is joined by the BBC's China correspondent Stephen McDonell in Beijing and Shawn Yuan from the BBC Global China Unit and other Chinese expert guests.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Chinese President Xi Jinping pictured during a meeting in Beijing, China, May 15, 2026.
-Credit: Reuters/Evan Vucci/Pool&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptfq.mp3" length="14264000" type="audio/mpeg"/>
+&lt;p&gt;Israel is holding its first general election since the October 7th Hamas attacks in 2023, with Benjamin Netanyahu seeking to maintain his hold on power after three years of war. 
+Also: after his shock defeat in the Brazilian election, the right wing opposition candidate, Flávio Bolsonaro, says he's now been banned from leaving the country. Anthropic files for a potentially record-breaking stock market valuation. Two Catholic bishops in the US say they regret meeting President Trump, after images of them praying with him are released by a White House aide. Harry Kane becomes the first English footballer in 25 years to win the game's most prestigious individual award - the Ballon d'Or. A convicted murderer in Australia loses his legal challenge against the ban on Vegemite in prisons. 'Maxxing' is selected as Dictionary.com's word of the year.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3" length="12744000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
