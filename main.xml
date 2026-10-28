@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 06:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:46:20 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 06:19): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3561948.html</link>
-      <pubDate>Wed, 28 Oct 2026 06:36:37 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 11:46): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3562648.html</link>
+      <pubDate>Wed, 28 Oct 2026 13:46:20 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">c5e85498-e9a8-492b-82de-adee984f47fc</guid>
-      <description>Originally published Wed 28 Oct 2026 06:19 IST.
+      <guid isPermaLink="false">e9af585f-77bf-4183-b50a-c561edf841e8</guid>
+      <description>Originally published Wed 28 Oct 2026 11:46 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1028/AU-20261028-0519-3100.mp3" length="2080271" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1028/AU-20261028-1046-1800.mp3" length="2519947" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 08:10): 2am ET, October 28 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 15:13): 9am ET, October 28 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 28 Oct 2026 06:35:37 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 13:45:20 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d5d81ad3-fd97-4346-b879-fa6eb717b152</guid>
-      <description>Originally published Wed 28 Oct 2026 08:10 IST.
+      <guid isPermaLink="false">08aa244f-2f08-418b-9b94-b6b7f8815d01</guid>
+      <description>Originally published Wed 28 Oct 2026 15:13 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1a61d573-6763-4647-8c35-bf9fdd67e301/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1a61d573-6763-4647-8c35-bf9fdd67e301&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261028-0200-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Wed 07:00): חדשון בעברית קלה (28/10/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Wed, 28 Oct 2026 06:34:37 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/10/28-10-26.m4a</guid>
-      <description>Originally published Wed 28 Oct 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• הבּחירוֹת לכּנֶסת: סְפִירַת הקוֹלוֹת עֲדַיִין נִמשֶכֶת, ונִראֶה שֶהיא תוּשלַם רק מחר
-• 'הלִיכּוּד' תִהיֶה כַּנִראֶה המִפלָגָה הגדוֹלה בּיותר בּישׂראל, עִם כּ-28 מַנדָטים
-• רה&quot;מ בנימין נתניהו נָאַם לִפנוֹת בּוֹקר בּבִניינֵי האוּמה בּירוּשלים וקָרא להָקים מֶמשֶלֶת יָמין לְאוּמית חזָקה
-• יו&quot;ר מִפלֶגֶת 'יָשר!' גדי אַייזֵנקוֹט קָרא לנתניהו לִפרוֹש מהחַיִים הפּוֹלִיטִיִים
-• דִיווּחַ: ארה&quot;ב הוֹדִיעָה למְדִינוֹת המִפרָץ שֶעֲלֵיהֶן להֵיעָרֵך לתְקִיפָה קְצָרָה ומְמוּקֶדֶת בּאִירַאן, לאַחַר בּחִירוֹת האֶמצַע שֶיִתקַיימוּ בּשָבוּעַ הבּא
-• בּפַּעַם הרִאשוֹנָה: קַלפִּי צְבָאִית נִפתְחָה אתמול בּישיבַת הֶסדֵר חֲרֵדית
-• מִספַּר בַּעֲלֵי זְכוּת ההַצבָּעה בּכְּפָרים הדְרוּזִיִים בּרָמַת הגוֹלָן גָדַל כִּמעַט פִּי שְלוֹשָה מֵאָז הבְּחִירוֹת הקוֹדמוֹת
-• התִַחֲזית: ללֹא שִינוּי נִיכָּר בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/10/28-10-26.m4a" length="1443752" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/90dddee2-4d5b-43c1-abbd-34c64507ee6e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=90dddee2-4d5b-43c1-abbd-34c64507ee6e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261028-0900-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 27.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3561646.html</link>
-      <pubDate>Wed, 28 Oct 2026 06:33:37 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Wed, 28 Oct 2026 13:44:20 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">f68c2fdf-3f82-40bc-990e-6f81fad216f4-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 27 Oct 2026 21:00 IST.
 
@@ -68,29 +46,40 @@ Parlamentswahl in Israel, EU-Kommission will Grenzschutzbehörde Frontex massiv 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1027/AU-20261027-2028-2700.mp3" length="15301412" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 08:00): Die Nachrichten vom 28.10.2026, 07:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44710.html</link>
-      <pubDate>Wed, 28 Oct 2026 06:32:37 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">29ed569f-8b63-5557-b70d-bfbce161f31a</guid>
-      <description>Originally published Wed 28 Oct 2026 08:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 15:30): Die Nachrichten vom 28.10.2026, 14:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44740.html</link>
+      <pubDate>Wed, 28 Oct 2026 13:43:20 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">a1eed0b0-790b-5f34-8175-ba50758f3236</guid>
+      <description>Originally published Wed 28 Oct 2026 15:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/28/nachrichten_dlf_20261028_0700_34181083.mp3?refId=nachrichten-108" length="4940883" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/28/nachrichten_dlf_20261028_1430_0db411c9.mp3?refId=nachrichten-108" length="4967215" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 07:14): Frühjournal um 6 (28.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-28102026</link>
-      <pubDate>Wed, 28 Oct 2026 06:31:37 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 14:16): Mittagsjournal (28.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-28102026</link>
+      <pubDate>Wed, 28 Oct 2026 13:42:20 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_550326562d834a3a8ba5b3cdcf0a6ed4</guid>
+      <description>Originally published Wed 28 Oct 2026 14:16 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_550326562d834a3a8ba5b3cdcf0a6ed4.mp3?etag=bdd4336946450f6c2f1eb3da89dbd2a1" length="87137620" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 01:00): Quantenkommunikation: Wie weit sind wir auf dem Weg zum perfekten Datenschutz?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/quantenkommunikation-wie-weit-sind-wir-auf-dem-weg-zum-perfekten-datenschutz/2123592</link>
+      <pubDate>Wed, 28 Oct 2026 13:41:20 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_aeabbb8c01344a919ae36942552f9c09</guid>
-      <description>Originally published Wed 28 Oct 2026 07:14 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_aeabbb8c01344a919ae36942552f9c09.mp3?etag=125304a80b9717292df16fe2c8e6d557" length="14969910" type="audio/mpeg"/>
+      <guid isPermaLink="false">246ab9f0-82de-47c7-b4df-71068f8a1fad</guid>
+      <description>Originally published Wed 28 Oct 2026 01:00 IST.
+
+Gesundheitsdaten, Stromnetze, Finanzen: Wie schützt man sensible Informationen in Zeiten immer leistungsfähigerer Computer? Die Antwort könnte Quantenkommunikation sein.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123592/c/feed/quantenkommunikation-wie-weit-sind-wir-auf-dem-weg-zum-perfekten-datenschutz.mp3" length="7957677" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Deutsche-ukrainischer Austausch | Konferenz zu Jugendgewalt | Rettungsschwimmer WM</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/ukraine-austausch-jugendgewalt-rettungsschwimmer-wm.html</link>
-      <pubDate>Wed, 28 Oct 2026 06:30:37 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 13:40:20 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/c0/35/c0352a33-80e6-44d5-b643-a131a0f773b5/c0352a33-80e6-44d5-b643-a131a0f773b5_mp3-256kd.mp3</guid>
       <description>Originally published Tue 27 Oct 2026 19:17 IST.
@@ -101,21 +90,10 @@ In Berlin treffen sich eine Woche lang Menschen aus der Ukraine mit Gleichaltrig
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/c0/35/c0352a33-80e6-44d5-b643-a131a0f773b5/c0352a33-80e6-44d5-b643-a131a0f773b5_mp3-256kd.mp3" length="40255247" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Wohin mit dem Atommüll: Bundesgesellschaft für Endlagersuche hält an möglichen bayerischen Standorten fest</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/wohin-mit-dem-atommuell-bundesgesellschaft-fuer-endlagersuche-haelt-an-moeglichen-bayerischen-standorten-fest/2123572</link>
-      <pubDate>Wed, 28 Oct 2026 06:29:37 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">5db50677-76b9-4911-a4cc-60bbe37764ce</guid>
-      <description>Originally published Tue 27 Oct 2026 19:00 IST.
-
-Die Bundesgesellschaft für Endlagerung (BGE) hat zwar das Granitgestein im Fichtelgebirge und die Tonschichten in Schwaben inzwischen ausgeschlossen. Orte mit Granitformationen im Bayerischen Wald und in der Oberpfalz werden aber weiter geprüft. Bayerns Umweltminister Glauber nennt die Regionen &quot;ungeeignet&quot;. Moderation: Theresia GrawGesprächspartner: BR-Experte Lorenz Storch</description>
-      <enclosure url="https://media.neuland.br.de/file/2123572/c/feed/wohin-mit-dem-atommuell-bundesgesellschaft-fuer-endlagersuche-haelt-an-moeglichen-bayerischen-standorten-fest.mp3" length="8214573" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:23): Israel election too close to call</title>
       <link>http://www.bbc.co.uk/programmes/p0pjz1m1</link>
-      <pubDate>Wed, 28 Oct 2026 06:28:37 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Wed, 28 Oct 2026 13:39:20 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pjz1m1</guid>
       <description>Originally published Wed 28 Oct 2026 07:23 IST.
 
