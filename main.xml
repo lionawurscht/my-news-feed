@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 21:44:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:55:54 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 22:36): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3561704.html</link>
-      <pubDate>Tue, 27 Oct 2026 21:44:54 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 02:49): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3561862.html</link>
+      <pubDate>Wed, 28 Oct 2026 00:55:54 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">06dddde8-7f11-445d-a192-4002aa9df514</guid>
-      <description>Originally published Tue 27 Oct 2026 22:36 IST.
+      <guid isPermaLink="false">c1530ff6-f0b0-4643-80b0-a99e15ac4662</guid>
+      <description>Originally published Wed 28 Oct 2026 02:49 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1027/AU-20261027-2135-5000.mp3" length="1771147" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1028/AU-20261028-0149-3400.mp3" length="2027659" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 23:09): 5pm ET, October 27 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 02:09): 8pm ET, October 27 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 27 Oct 2026 21:43:54 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:54:54 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">91c24c42-fbe0-485d-802d-caad7f57426d</guid>
-      <description>Originally published Tue 27 Oct 2026 23:09 IST.
+      <guid isPermaLink="false">53055fcd-ab5a-4bf4-aec9-e2629cf69eae</guid>
+      <description>Originally published Wed 28 Oct 2026 02:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a0633312-de32-403a-932c-c7885a0178dc/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a0633312-de32-403a-932c-c7885a0178dc&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261027-1700-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1fdb3b3c-7b6f-4ca0-9cfc-acf141dee8aa/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1fdb3b3c-7b6f-4ca0-9cfc-acf141dee8aa&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261027-2000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 27.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3561646.html</link>
-      <pubDate>Tue, 27 Oct 2026 21:42:54 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:53:54 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">f68c2fdf-3f82-40bc-990e-6f81fad216f4-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 27 Oct 2026 21:00 IST.
@@ -46,20 +46,20 @@ Parlamentswahl in Israel, EU-Kommission will Grenzschutzbehörde Frontex massiv 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1027/AU-20261027-2028-2700.mp3" length="15301412" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 23:00): Die Nachrichten vom 27.10.2026, 22:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44686.html</link>
-      <pubDate>Tue, 27 Oct 2026 21:41:54 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 01:59): Die Nachrichten vom 28.10.2026, 00:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44692.html</link>
+      <pubDate>Wed, 28 Oct 2026 00:52:54 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">397d1bab-be45-5cfe-bb75-9ac945b0dadb</guid>
-      <description>Originally published Tue 27 Oct 2026 23:00 IST.
+      <guid isPermaLink="false">70e6d1a5-9c0e-5dca-ba3b-eae1112a920c</guid>
+      <description>Originally published Wed 28 Oct 2026 01:59 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/27/nachrichten_dlf_20261027_2200_e429af65.mp3?refId=nachrichten-108" length="5008593" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/28/nachrichten_dlf_20261028_0059_dcce76cc.mp3?refId=nachrichten-108" length="5022385" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (27.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-27102026</link>
-      <pubDate>Tue, 27 Oct 2026 21:40:54 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:51:54 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_31a9698c22524ae2a59bf82d27c66c73</guid>
       <description>Originally published Tue 27 Oct 2026 19:33 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Deutsche-ukrainischer Austausch | Konferenz zu Jugendgewalt | Rettungsschwimmer WM</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/ukraine-austausch-jugendgewalt-rettungsschwimmer-wm.html</link>
-      <pubDate>Tue, 27 Oct 2026 21:39:54 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:50:54 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/c0/35/c0352a33-80e6-44d5-b643-a131a0f773b5/c0352a33-80e6-44d5-b643-a131a0f773b5_mp3-256kd.mp3</guid>
       <description>Originally published Tue 27 Oct 2026 19:17 IST.
@@ -81,7 +81,7 @@ In Berlin treffen sich eine Woche lang Menschen aus der Ukraine mit Gleichaltrig
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Wohin mit dem Atommüll: Bundesgesellschaft für Endlagersuche hält an möglichen bayerischen Standorten fest</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/wohin-mit-dem-atommuell-bundesgesellschaft-fuer-endlagersuche-haelt-an-moeglichen-bayerischen-standorten-fest/2123572</link>
-      <pubDate>Tue, 27 Oct 2026 21:38:54 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:49:54 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">5db50677-76b9-4911-a4cc-60bbe37764ce</guid>
       <description>Originally published Tue 27 Oct 2026 19:00 IST.
@@ -92,7 +92,7 @@ Die Bundesgesellschaft für Endlagerung (BGE) hat zwar das Granitgestein im Fich
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:30): Huge turnout in Israeli election</title>
       <link>http://www.bbc.co.uk/programmes/p0pjwfwn</link>
-      <pubDate>Tue, 27 Oct 2026 21:37:54 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:48:54 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pjwfwn</guid>
       <description>Originally published Tue 27 Oct 2026 18:30 IST.
