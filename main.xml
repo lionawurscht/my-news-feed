@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 13:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:17:37 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,95 +13,84 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 11:46): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3562648.html</link>
-      <pubDate>Wed, 28 Oct 2026 13:46:20 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 17:42): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3563434.html</link>
+      <pubDate>Wed, 28 Oct 2026 19:17:37 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">e9af585f-77bf-4183-b50a-c561edf841e8</guid>
-      <description>Originally published Wed 28 Oct 2026 11:46 IST.
+      <guid isPermaLink="false">da3613ec-0451-4051-851a-7458403a2276</guid>
+      <description>Originally published Wed 28 Oct 2026 17:42 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1028/AU-20261028-1046-1800.mp3" length="2519947" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1028/AU-20261028-1642-1400.mp3" length="1902859" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 15:13): 9am ET, October 28 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 21:10): 3pm ET, October 28 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 28 Oct 2026 13:45:20 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 19:16:37 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">08aa244f-2f08-418b-9b94-b6b7f8815d01</guid>
-      <description>Originally published Wed 28 Oct 2026 15:13 IST.
+      <guid isPermaLink="false">1092efe9-08da-4ce6-99a2-e09719dad503</guid>
+      <description>Originally published Wed 28 Oct 2026 21:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/90dddee2-4d5b-43c1-abbd-34c64507ee6e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=90dddee2-4d5b-43c1-abbd-34c64507ee6e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261028-0900-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/51d68085-987e-413a-9eb7-22d7ce683529/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=51d68085-987e-413a-9eb7-22d7ce683529&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261028-1500-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 27.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3561646.html</link>
-      <pubDate>Wed, 28 Oct 2026 13:44:20 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 20:00): Die Nachrichten vom 28.10.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44756.html</link>
+      <pubDate>Wed, 28 Oct 2026 19:15:37 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">f68c2fdf-3f82-40bc-990e-6f81fad216f4-SENDUNGSAUDIO</guid>
-      <description>Originally published Tue 27 Oct 2026 21:00 IST.
-
-Parlamentswahl in Israel, EU-Kommission will Grenzschutzbehörde Frontex massiv ausbauen, Kommission soll Reformvorschläge für Stabilisierung der Pflegeversicherung erarbeiten, Weniger als 5 Prozent der Fläche in Deutschland als Atommüll-Endlager geeignet, Zeitlich begrenzte Waffenruhe für die Stadt Oleschky in der Ostukraine, Flávio Bolsonaro hat laut Medienberichten Brasilien verlassen, Regierung in Frankreich kündigt Reformen im Bildungssystem an, Bayern-Stürmer Harry Kane mit Ballon d’Or ausgezeichnet, Das Wetter Hinweis: Der Beitrag zum Thema „Verleihung des Ballon d'Or“ darf auf tagesschau.de aus rechtlichen Gründen nicht gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1027/AU-20261027-2028-2700.mp3" length="15301412" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 15:30): Die Nachrichten vom 28.10.2026, 14:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44740.html</link>
-      <pubDate>Wed, 28 Oct 2026 13:43:20 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">a1eed0b0-790b-5f34-8175-ba50758f3236</guid>
-      <description>Originally published Wed 28 Oct 2026 15:30 IST.
+      <guid isPermaLink="false">da7113c6-ae7f-5861-aa65-32770accaf98</guid>
+      <description>Originally published Wed 28 Oct 2026 20:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/28/nachrichten_dlf_20261028_1430_0db411c9.mp3?refId=nachrichten-108" length="4967215" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/28/nachrichten_dlf_20261028_1900_1fab3ff9.mp3?refId=nachrichten-108" length="5006921" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 14:16): Mittagsjournal (28.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-28102026</link>
-      <pubDate>Wed, 28 Oct 2026 13:42:20 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:31): Abendjournal um 18 (28.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-28102026</link>
+      <pubDate>Wed, 28 Oct 2026 19:14:37 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_44300a641a56416f9359bfedc19c8e47</guid>
+      <description>Originally published Wed 28 Oct 2026 19:31 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_44300a641a56416f9359bfedc19c8e47.mp3?etag=2d1e3d52da28e38733396a5417a5f137" length="36434107" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Urteil zur Serienvergewaltigung | KI-Überwachung Kottbusser Tor | Wolfsattacke</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/urteil-frank-s-ki-ueberwachung-kottbusser-tor-wolfsattacke.html</link>
+      <pubDate>Wed, 28 Oct 2026 19:13:37 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_550326562d834a3a8ba5b3cdcf0a6ed4</guid>
-      <description>Originally published Wed 28 Oct 2026 14:16 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_550326562d834a3a8ba5b3cdcf0a6ed4.mp3?etag=bdd4336946450f6c2f1eb3da89dbd2a1" length="87137620" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 01:00): Quantenkommunikation: Wie weit sind wir auf dem Weg zum perfekten Datenschutz?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/quantenkommunikation-wie-weit-sind-wir-auf-dem-weg-zum-perfekten-datenschutz/2123592</link>
-      <pubDate>Wed, 28 Oct 2026 13:41:20 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">246ab9f0-82de-47c7-b4df-71068f8a1fad</guid>
-      <description>Originally published Wed 28 Oct 2026 01:00 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/aa/bf/aabf9b11-ded2-4cb5-8be6-a29f45190a06/aabf9b11-ded2-4cb5-8be6-a29f45190a06_mp3-256kd.mp3</guid>
+      <description>Originally published Wed 28 Oct 2026 19:17 IST.
 
-Gesundheitsdaten, Stromnetze, Finanzen: Wie schützt man sensible Informationen in Zeiten immer leistungsfähigerer Computer? Die Antwort könnte Quantenkommunikation sein.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123592/c/feed/quantenkommunikation-wie-weit-sind-wir-auf-dem-weg-zum-perfekten-datenschutz.mp3" length="7957677" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Deutsche-ukrainischer Austausch | Konferenz zu Jugendgewalt | Rettungsschwimmer WM</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/ukraine-austausch-jugendgewalt-rettungsschwimmer-wm.html</link>
-      <pubDate>Wed, 28 Oct 2026 13:40:20 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/c0/35/c0352a33-80e6-44d5-b643-a131a0f773b5/c0352a33-80e6-44d5-b643-a131a0f773b5_mp3-256kd.mp3</guid>
-      <description>Originally published Tue 27 Oct 2026 19:17 IST.
-
-In Berlin treffen sich eine Woche lang Menschen aus der Ukraine mit Gleichaltrigen aus Deutschland. Organisiert wird das Austauschpogramm der Interexchange Academy von der DFB-Stiftung Egididus Braun und der Klitschko-Foundation. Au&amp;#223;erdem: Sicherheitskonferenz zu Jugendgewalt. Brandenburger Gemeinden in Finanznot. F&amp;#252;rstenwalder bei Rettungsschwimm WM.
+Wegen der Vergewaltigung von insgesamt 14 Frauen wurde am Mittwoch ein Mann vom Berliner Landgericht zu zw&amp;#246;lf Jahren Freiheitsstrafe verurteilt. Nach Verb&amp;#252;&amp;#223;ung der Haft muss er in Sicherheitsverwahrung. Au&amp;#223;erdem: KI-Video&amp;#252;berwachung am Kottbusser Tor. Wolfsattacke im Tiergehege. Juli Zeh h&amp;#246;rt als Richterin auf. R&amp;#252;stung in Brandenburg.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/c0/35/c0352a33-80e6-44d5-b643-a131a0f773b5/c0352a33-80e6-44d5-b643-a131a0f773b5_mp3-256kd.mp3" length="40255247" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/aa/bf/aabf9b11-ded2-4cb5-8be6-a29f45190a06/aabf9b11-ded2-4cb5-8be6-a29f45190a06_mp3-256kd.mp3" length="28802063" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:23): Israel election too close to call</title>
-      <link>http://www.bbc.co.uk/programmes/p0pjz1m1</link>
-      <pubDate>Wed, 28 Oct 2026 13:39:20 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pjz1m1</guid>
-      <description>Originally published Wed 28 Oct 2026 07:23 IST.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Öfter mit Holz heizen: Ist das sinnvoll?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/oefter-mit-holz-heizen-ist-das-sinnvoll/2123615</link>
+      <pubDate>Wed, 28 Oct 2026 19:12:37 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">3f6e79e3-9116-4432-b524-26dbd0ceffe6</guid>
+      <description>Originally published Wed 28 Oct 2026 19:00 IST.
 
-&lt;p&gt;There is no clear winner in Israel's election, with results remaining too close to call. As votes are being counted, Benjamin Netanyahu tells supporters he wants to form a right-wing government and &quot;remove the Iranian threat once and for all.&quot; His challenger, opposition leader Gadi Eisenkot, urges the prime minister to step down, saying the country has voted &quot;for change&quot;. Arab parties are on track to record their best results ever.&lt;/p&gt;&lt;p&gt;Also: Brazil's defeated right-wing presidential candidate, Flávio Bolsonaro, has fled to the United States amid a probe into alleged money laundering. NFL player Colin Kaepernick speaks to the BBC about his choice to protest police brutality by taking the knee on the field in 2016, causing him to lose his career. The Youth Olympic Games, held in the Senegalese capital, is set to be the first Olympic event held on African soil. And why scientists are playing underwater sounds to coral reefs.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Bayerns Wirtschaftsminister Aiwanger rät dazu, einen Holzofen zu kaufen und Brennholz zu besorgen.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123615/c/feed/oefter-mit-holz-heizen-ist-das-sinnvoll.mp3" length="8228397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:28): Dozens killed in train crash in Spain</title>
+      <link>http://www.bbc.co.uk/programmes/p0pk3hmm</link>
+      <pubDate>Wed, 28 Oct 2026 19:11:37 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pk3hmm</guid>
+      <description>Originally published Wed 28 Oct 2026 18:28 IST.
+
+&lt;p&gt;More than 60 people have died after two high-speed trains collided south of the Spanish capital, Madrid. The accident happened on the same rail line where 46 people died earlier this year. &lt;/p&gt;&lt;p&gt;Also: with most votes counted in the Israeli election, Benjamin Netanyahu's bloc is slightly ahead, but short of a majority. A luxury cruise ship on a years-long voyage around the world has suspended operations because of high fuel costs, leaving passengers stranded in Cambodia. King Charles has begun his tour of the Caribbean by acknowledging the &quot;great suffering of the past&quot; as he faced calls for slavery reparations. And the two-time Oscar winner, Michael Douglas, tells the BBC that writing a memoir was an important legacy to leave his “nepo baby” children.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Picture: Voters wave Israeli flags while awaiting results from the country's first parliamentary elections since the 7 October 2023 attacks.
-Credit: EPA/Shutterstock/Atef Safadi&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjz1h1.mp3" length="11856000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: two high-speed trains collide in Urda, Spain.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk3gws.mp3" length="13192000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
