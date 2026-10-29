@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:30:00 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,62 +13,62 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 16:32): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3565450.html</link>
-      <pubDate>Thu, 29 Oct 2026 17:57:03 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 22:48): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3566066.html</link>
+      <pubDate>Thu, 29 Oct 2026 22:30:00 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">d1c8d555-caac-43e7-8588-1e89741d75c9</guid>
-      <description>Originally published Thu 29 Oct 2026 16:32 IST.
+      <guid isPermaLink="false">7b1d7c6a-bc33-4f83-812e-7a1812cece28</guid>
+      <description>Originally published Thu 29 Oct 2026 22:48 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1029/AU-20261029-1532-3900.mp3" length="1997707" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1029/AU-20261029-2147-5900.mp3" length="2162059" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 19:10): 1pm ET, October 29 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 00:10): 6pm ET, October 29 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 29 Oct 2026 17:56:03 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 22:29:00 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">cb10b899-15f0-4eec-b068-0f0dc07e943e</guid>
-      <description>Originally published Thu 29 Oct 2026 19:10 IST.
+      <guid isPermaLink="false">2a0fa636-479a-49bd-b151-221089206faa</guid>
+      <description>Originally published Fri 30 Oct 2026 00:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b22edf57-1ea8-442e-bc8c-f3ec84246a08/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b22edf57-1ea8-442e-bc8c-f3ec84246a08&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261029-1300-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9e04b7b0-c841-4206-84b3-04414148c5e0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9e04b7b0-c841-4206-84b3-04414148c5e0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261029-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 28.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3563756.html</link>
-      <pubDate>Thu, 29 Oct 2026 17:55:03 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 29.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3566038.html</link>
+      <pubDate>Thu, 29 Oct 2026 22:28:00 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">c96db90c-0f2c-419b-ac5e-bd8202299f84-SENDUNGSAUDIO</guid>
-      <description>Originally published Wed 28 Oct 2026 21:00 IST.
+      <guid isPermaLink="false">fa46eb4b-6929-44fc-8ee0-39aaf6cae4d7-SENDUNGSAUDIO</guid>
+      <description>Originally published Thu 29 Oct 2026 21:00 IST.
 
-Mindestens 68 Tote nach Zugunglück in Spanien, Keine klaren Mehrheiten bei Parlamentswahl in Israel, Bundeskanzler Merz besucht auf seiner Asienreise Japan, Zweitägiger Russland-Afrika-Gipfel in Moskau, Elterngeld soll weiterhin für 14 Monate ausbezahlt werden, Beim VW-Werk in Zwickau sollen künftig Altfahrzeuge für die Rohstoffgewinnung zerlegt werden, Gewinner des ARD Top-Docs-Wettbewerbs bei der Leipziger Dokumentarfilmwoche gekürt, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1028/AU-20261028-2027-5300.mp3" length="16339361" type="audio/mpeg"/>
+Diskussion über Spiegel-Interview der Berliner Linken-Politikerin Eralp, Bundeskanzler Merz hebt in Südkorea die Zusammenarbeit hervor, Bundespräsident Steinmeier hält in Peking eine Grundsatzrede zu den europäisch-chinesischen Beziehungen, Seit dreieinhalb Jahren tobt in Sudan ein Krieg, Einen Tag nach dem schweren Zugunglück in Spanien suchen Rettungskräfte weiterhin nach Opfern, Zwischenbilanz nach vier Wochen &quot;Tankrabatt&quot;, Schauspielerin Elke Sommer ist mit 85 Jahren gestorben, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1029/AU-20261029-2027-1400.mp3" length="15483811" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 00:00): Die Nachrichten vom 29.10.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44840.html</link>
+      <pubDate>Thu, 29 Oct 2026 22:27:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">670814af-400f-5f89-8527-a42a396354d7</guid>
+      <description>Originally published Fri 30 Oct 2026 00:00 IST.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/29/nachrichten_dlf_20261029_2300_58ad550d.mp3?refId=nachrichten-108" length="9807182" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:32): Abendjournal um 18 (29.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-29102026</link>
-      <pubDate>Thu, 29 Oct 2026 17:54:03 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 29 Oct 2026 22:26:00 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_dc9f97afcb514baeac5aef22d5b610af</guid>
       <description>Originally published Thu 29 Oct 2026 19:32 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_dc9f97afcb514baeac5aef22d5b610af.mp3?etag=e190754a49f2f5642b1a4d828e5a223b" length="36722395" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 19:00): Die Nachrichten vom 29.10.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44830.html</link>
-      <pubDate>Thu, 29 Oct 2026 17:53:03 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">f858e701-9f0d-5828-a8ed-5d1469921433</guid>
-      <description>Originally published Thu 29 Oct 2026 19:00 IST.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/29/nachrichten_dlf_20261029_1800_339aab83.mp3?refId=nachrichten-108" length="9777925" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Konstituierende Sitzung | Hörsaal-Sanierung | Bevölkerungsschutz</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/konstituierende-sitzung-abgeordnetenhaus-hu-hoersaal-sanierung.html</link>
-      <pubDate>Thu, 29 Oct 2026 17:52:03 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 22:25:00 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/16/32/16321b2d-8588-4162-92aa-6e24962fcda3/16321b2d-8588-4162-92aa-6e24962fcda3_mp3-256kd.mp3</guid>
       <description>Originally published Fri 30 Oct 2026 19:17 IST.
@@ -81,7 +81,7 @@ In Berlin hat sich das neu gew&amp;#228;hlte Abgeordnetenhaus zu seiner ersten S
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 19:00): Hütte sucht Pächter - was macht den Alltag schwer?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/huette-sucht-paechter-was-macht-den-alltag-schwer/2123653</link>
-      <pubDate>Thu, 29 Oct 2026 17:51:03 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 22:24:00 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">78fe302f-e73f-4748-b540-8960b014438b</guid>
       <description>Originally published Thu 29 Oct 2026 19:00 IST.
@@ -92,7 +92,7 @@ In der Bergwelt herrscht nicht nur eitel Sonnenschein. In der Röhn hat jetzt di
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 17:48): Deadly Russian drone hits Ukrainian railway station</title>
       <link>http://www.bbc.co.uk/programmes/p0pk9z25</link>
-      <pubDate>Thu, 29 Oct 2026 17:50:03 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 22:23:00 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pk9z25</guid>
       <description>Originally published Thu 29 Oct 2026 17:48 IST.
