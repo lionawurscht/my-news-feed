@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 29 Oct 2026 04:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:15:09 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 05:43): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3564046.html</link>
-      <pubDate>Thu, 29 Oct 2026 04:05:15 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 10:41): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3564608.html</link>
+      <pubDate>Thu, 29 Oct 2026 11:15:09 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f43efb89-2f97-4b08-8275-0d4946937d3d</guid>
-      <description>Originally published Thu 29 Oct 2026 05:43 IST.
+      <guid isPermaLink="false">4795c8d6-bb63-40ee-92e2-09380d192658</guid>
+      <description>Originally published Thu 29 Oct 2026 10:41 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1029/AU-20261029-0443-3700.mp3" length="2405159" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1029/AU-20261029-0941-2600.mp3" length="1825291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 05:10): 11pm ET, October 28 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 13:10): 7am ET, October 29 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 29 Oct 2026 04:04:15 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 11:14:09 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">181ff703-117e-4c2f-a6a7-665cd8bf815a</guid>
-      <description>Originally published Thu 29 Oct 2026 05:10 IST.
+      <guid isPermaLink="false">97e6a764-9bb9-43f5-8389-3f5989874e5d</guid>
+      <description>Originally published Thu 29 Oct 2026 13:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a93ac4d1-af77-4e41-a55d-09f77b9ebb5c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a93ac4d1-af77-4e41-a55d-09f77b9ebb5c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261028-2300-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4de60299-230d-47c7-b9d2-648a715fca55/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4de60299-230d-47c7-b9d2-648a715fca55&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261029-0700-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 28.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3563756.html</link>
-      <pubDate>Thu, 29 Oct 2026 04:03:15 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 11:13:09 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">c96db90c-0f2c-419b-ac5e-bd8202299f84-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 28 Oct 2026 21:00 IST.
@@ -46,30 +46,41 @@ Mindestens 68 Tote nach Zugunglück in Spanien, Keine klaren Mehrheiten bei Parl
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1028/AU-20261028-2027-5300.mp3" length="16339361" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 05:00): Die Nachrichten vom 29.10.2026, 04:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44774.html</link>
-      <pubDate>Thu, 29 Oct 2026 04:02:15 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 12:30): Die Nachrichten vom 29.10.2026, 11:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44804.html</link>
+      <pubDate>Thu, 29 Oct 2026 11:12:09 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">b06d73af-055c-59e1-a3e7-51a3d50ac8d0</guid>
-      <description>Originally published Thu 29 Oct 2026 05:00 IST.
+      <guid isPermaLink="false">e37910a7-0695-59e7-95f0-c8ed53c396ad</guid>
+      <description>Originally published Thu 29 Oct 2026 12:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/29/nachrichten_dlf_20261029_0400_f099a2fd.mp3?refId=nachrichten-108" length="4976410" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/29/nachrichten_dlf_20261029_1130_75359f05.mp3?refId=nachrichten-108" length="4988530" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:31): Abendjournal um 18 (28.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-28102026</link>
-      <pubDate>Thu, 29 Oct 2026 04:01:15 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:27): Morgenjournal um 8 (29.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-29102026</link>
+      <pubDate>Thu, 29 Oct 2026 11:11:09 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_44300a641a56416f9359bfedc19c8e47</guid>
-      <description>Originally published Wed 28 Oct 2026 19:31 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_44300a641a56416f9359bfedc19c8e47.mp3?etag=2d1e3d52da28e38733396a5417a5f137" length="36434107" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_963cf0bb4a4445ac9c3578d941eb6e9c</guid>
+      <description>Originally published Thu 29 Oct 2026 09:27 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_963cf0bb4a4445ac9c3578d941eb6e9c.mp3?etag=261289914f0cbafdbbc47b80c56d6950" length="29087376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:00): Rechenzentren auf Wachstumskurs: Was bleibt vom Klimaschutz?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/rechenzentren-auf-wachstumskurs-was-bleibt-vom-klimaschutz/2123636</link>
+      <pubDate>Thu, 29 Oct 2026 11:10:09 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">012ca30c-ec8b-49e9-8c9d-d8b8f1d4f576</guid>
+      <description>Originally published Thu 29 Oct 2026 09:00 IST.
+
+Deutschland will mehr Rechenzentren und locker dafür Effizienzregeln. Welche Änderungen sind sinnvoll, wo leidet der Klimaschutz und welche Rolle spielen Stromnetze?</description>
+      <enclosure url="https://media.neuland.br.de/file/2123636/c/feed/rechenzentren-auf-wachstumskurs-was-bleibt-vom-klimaschutz.mp3" length="11230125" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Urteil zur Serienvergewaltigung | KI-Überwachung Kottbusser Tor | Wolfsattacke</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/urteil-frank-s-ki-ueberwachung-kottbusser-tor-wolfsattacke.html</link>
-      <pubDate>Thu, 29 Oct 2026 04:00:15 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 29 Oct 2026 11:09:09 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/aa/bf/aabf9b11-ded2-4cb5-8be6-a29f45190a06/aabf9b11-ded2-4cb5-8be6-a29f45190a06_mp3-256kd.mp3</guid>
       <description>Originally published Wed 28 Oct 2026 19:17 IST.
 
@@ -79,29 +90,18 @@ Wegen der Vergewaltigung von insgesamt 14 Frauen wurde am Mittwoch ein Mann vom 
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/aa/bf/aabf9b11-ded2-4cb5-8be6-a29f45190a06/aabf9b11-ded2-4cb5-8be6-a29f45190a06_mp3-256kd.mp3" length="28802063" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Öfter mit Holz heizen: Ist das sinnvoll?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/oefter-mit-holz-heizen-ist-das-sinnvoll/2123615</link>
-      <pubDate>Thu, 29 Oct 2026 03:59:15 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">3f6e79e3-9116-4432-b524-26dbd0ceffe6</guid>
-      <description>Originally published Wed 28 Oct 2026 19:00 IST.
-
-Bayerns Wirtschaftsminister Aiwanger rät dazu, einen Holzofen zu kaufen und Brennholz zu besorgen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123615/c/feed/oefter-mit-holz-heizen-ist-das-sinnvoll.mp3" length="8228397" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:28): Dozens killed in train crash in Spain</title>
-      <link>http://www.bbc.co.uk/programmes/p0pk3hmm</link>
-      <pubDate>Thu, 29 Oct 2026 03:58:15 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:29): Bolsonaro declares himself 'Brazil's leader'</title>
+      <link>http://www.bbc.co.uk/programmes/p0pk6j6v</link>
+      <pubDate>Thu, 29 Oct 2026 11:08:09 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pk3hmm</guid>
-      <description>Originally published Wed 28 Oct 2026 18:28 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pk6j6v</guid>
+      <description>Originally published Thu 29 Oct 2026 07:29 IST.
 
-&lt;p&gt;More than 60 people have died after two high-speed trains collided south of the Spanish capital, Madrid. The accident happened on the same rail line where 46 people died earlier this year. &lt;/p&gt;&lt;p&gt;Also: with most votes counted in the Israeli election, Benjamin Netanyahu's bloc is slightly ahead, but short of a majority. A luxury cruise ship on a years-long voyage around the world has suspended operations because of high fuel costs, leaving passengers stranded in Cambodia. King Charles has begun his tour of the Caribbean by acknowledging the &quot;great suffering of the past&quot; as he faced calls for slavery reparations. And the two-time Oscar winner, Michael Douglas, tells the BBC that writing a memoir was an important legacy to leave his “nepo baby” children.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Flávio Bolsonaro insists he is Brazil’s rightful leader, claiming fraud in the election he lost to President Lula da Silva - without providing evidence. He is currently in Miami in the United States but denies fleeing Brazil where he is under investigation. Also: Spanish investigators examine if negligence played a role in deadly rail crash; forest fires spark anti-government protests across Indonesia; the woman who pet a great white shark; and the art of short films, and even shorter microdramas. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: two high-speed trains collide in Urda, Spain.
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk3gws.mp3" length="13192000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Flávio Bolsonaro lands in Florida after fleeing Brazil following his defeat in the presidential election.
+Credit: Reuters/Eva Marie Uzcategui&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk6j15.mp3" length="11760000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
