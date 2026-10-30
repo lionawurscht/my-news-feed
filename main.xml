@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:29:20 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 11:13): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3566978.html</link>
-      <pubDate>Fri, 30 Oct 2026 09:31:04 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 17:52): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3567918.html</link>
+      <pubDate>Fri, 30 Oct 2026 16:29:20 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">c668ac80-bf9a-4205-ab08-81459751577d</guid>
-      <description>Originally published Fri 30 Oct 2026 11:13 IST.
+      <guid isPermaLink="false">f3677588-803c-4edd-8190-776b38f8b3d9</guid>
+      <description>Originally published Fri 30 Oct 2026 17:52 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-1013-1700.mp3" length="2023819" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-1652-1900.mp3" length="2065291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 11:10): 5am ET, October 30 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 18:09): 12pm ET, October 30 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 30 Oct 2026 09:30:04 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 16:28:20 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">7439e48a-5c8c-44e6-9dbc-7e476f5f89b0</guid>
-      <description>Originally published Fri 30 Oct 2026 11:10 IST.
+      <guid isPermaLink="false">80f5f8c7-168c-4a2e-8a2b-5d0ca4a5e9ea</guid>
+      <description>Originally published Fri 30 Oct 2026 18:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3fb7bd78-8fd1-4a56-a4bb-6ded0a6f3174/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3fb7bd78-8fd1-4a56-a4bb-6ded0a6f3174&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261030-0500-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7a9332e9-c33d-4e10-ab9f-3ce663fd6700/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7a9332e9-c33d-4e10-ab9f-3ce663fd6700&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261030-1200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 29.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3566038.html</link>
-      <pubDate>Fri, 30 Oct 2026 09:29:04 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 16:27:20 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">fa46eb4b-6929-44fc-8ee0-39aaf6cae4d7-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 29 Oct 2026 21:00 IST.
@@ -46,29 +46,29 @@ Diskussion über Spiegel-Interview der Berliner Linken-Politikerin Eralp, Bundes
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1029/AU-20261029-2027-1400.mp3" length="15483811" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 11:00): Die Nachrichten vom 30.10.2026, 10:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44874.html</link>
-      <pubDate>Fri, 30 Oct 2026 09:28:04 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 18:15): Journal um 5 (30.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-30102026</link>
+      <pubDate>Fri, 30 Oct 2026 16:26:20 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">ecac897d-c85c-5597-a639-7303c3aa3535</guid>
-      <description>Originally published Fri 30 Oct 2026 11:00 IST.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/30/nachrichten_dlf_20261030_1000_cd0995b5.mp3?refId=nachrichten-108" length="7816442" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_bd25a4a71948495bb74d4dc2bdb375bd</guid>
+      <description>Originally published Fri 30 Oct 2026 18:15 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bd25a4a71948495bb74d4dc2bdb375bd.mp3?etag=e0d4f46380796c0c4c87e1e86fc724ec" length="13373944" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:26): Morgenjournal um 8 (30.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-30102026</link>
-      <pubDate>Fri, 30 Oct 2026 09:27:04 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 18:00): Die Nachrichten vom 30.10.2026, 17:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44902.html</link>
+      <pubDate>Fri, 30 Oct 2026 16:25:20 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_9ef18f3492344125b5a9ba31b36b1141</guid>
-      <description>Originally published Fri 30 Oct 2026 09:26 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_9ef18f3492344125b5a9ba31b36b1141.mp3?etag=82d2c4c1261c15eb48a681b687d27819" length="29286294" type="audio/mpeg"/>
+      <guid isPermaLink="false">b50e3fd8-7af5-56b3-8f70-212e2c97e19f</guid>
+      <description>Originally published Fri 30 Oct 2026 18:00 IST.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/30/nachrichten_dlf_20261030_1700_178a1a72.mp3?refId=nachrichten-108" length="4807554" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Konstituierende Sitzung | Hörsaal-Sanierung | Bevölkerungsschutz</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/konstituierende-sitzung-abgeordnetenhaus-hu-hoersaal-sanierung.html</link>
-      <pubDate>Fri, 30 Oct 2026 09:26:04 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 16:24:20 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/16/32/16321b2d-8588-4162-92aa-6e24962fcda3/16321b2d-8588-4162-92aa-6e24962fcda3_mp3-256kd.mp3</guid>
       <description>Originally published Fri 30 Oct 2026 19:17 IST.
@@ -81,7 +81,7 @@ In Berlin hat sich das neu gew&amp;#228;hlte Abgeordnetenhaus zu seiner ersten S
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 09:00): Rot-Grün-Rot in Berlin: Elif Eralp, ein Interview und viele Diskussionen</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/rot-gruen-rot-in-berlin-elif-eralp-ein-interview-und-viele-diskussionen/2123675</link>
-      <pubDate>Fri, 30 Oct 2026 09:25:04 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 16:23:20 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">e00265c5-7e26-41fb-b8fe-23d805a12169</guid>
       <description>Originally published Fri 30 Oct 2026 09:00 IST.
@@ -92,7 +92,7 @@ Hat die Frau, die regierende Bürgermeisterin werden will, Angst vor Hamas-Sympa
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:57): Venezuelan opposition leader criticises US oil deal</title>
       <link>http://www.bbc.co.uk/programmes/p0pkds06</link>
-      <pubDate>Fri, 30 Oct 2026 09:24:04 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 16:22:20 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pkds06</guid>
       <description>Originally published Fri 30 Oct 2026 07:57 IST.
