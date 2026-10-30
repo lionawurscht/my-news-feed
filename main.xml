@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:20:31 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,95 +13,95 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 17:52): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3567918.html</link>
-      <pubDate>Fri, 30 Oct 2026 16:29:20 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 22:41): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3568350.html</link>
+      <pubDate>Fri, 30 Oct 2026 21:20:31 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f3677588-803c-4edd-8190-776b38f8b3d9</guid>
-      <description>Originally published Fri 30 Oct 2026 17:52 IST.
+      <guid isPermaLink="false">6617d23c-ec14-4f06-bce9-731d4dc6987b</guid>
+      <description>Originally published Fri 30 Oct 2026 22:41 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-1652-1900.mp3" length="2065291" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-2141-2700.mp3" length="2137099" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 18:09): 12pm ET, October 30 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 23:10): 5pm ET, October 30 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 30 Oct 2026 16:28:20 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 21:19:31 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">80f5f8c7-168c-4a2e-8a2b-5d0ca4a5e9ea</guid>
-      <description>Originally published Fri 30 Oct 2026 18:09 IST.
+      <guid isPermaLink="false">ac3ccdd0-b437-447c-ac25-f741f0f5babb</guid>
+      <description>Originally published Fri 30 Oct 2026 23:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7a9332e9-c33d-4e10-ab9f-3ce663fd6700/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7a9332e9-c33d-4e10-ab9f-3ce663fd6700&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261030-1200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/497ed118-282a-4803-883d-e9bcddc6bdc9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=497ed118-282a-4803-883d-e9bcddc6bdc9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261030-1700-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 29.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3566038.html</link>
-      <pubDate>Fri, 30 Oct 2026 16:27:20 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 30.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3568324.html</link>
+      <pubDate>Fri, 30 Oct 2026 21:18:31 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">fa46eb4b-6929-44fc-8ee0-39aaf6cae4d7-SENDUNGSAUDIO</guid>
-      <description>Originally published Thu 29 Oct 2026 21:00 IST.
+      <guid isPermaLink="false">37a5f584-9f12-4f42-9a71-0df845446508-SENDUNGSAUDIO</guid>
+      <description>Originally published Fri 30 Oct 2026 21:00 IST.
 
-Diskussion über Spiegel-Interview der Berliner Linken-Politikerin Eralp, Bundeskanzler Merz hebt in Südkorea die Zusammenarbeit hervor, Bundespräsident Steinmeier hält in Peking eine Grundsatzrede zu den europäisch-chinesischen Beziehungen, Seit dreieinhalb Jahren tobt in Sudan ein Krieg, Einen Tag nach dem schweren Zugunglück in Spanien suchen Rettungskräfte weiterhin nach Opfern, Zwischenbilanz nach vier Wochen &quot;Tankrabatt&quot;, Schauspielerin Elke Sommer ist mit 85 Jahren gestorben, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1029/AU-20261029-2027-1400.mp3" length="15483811" type="audio/mpeg"/>
+Initiative &quot;Gen Z regelt&quot; ruft zu bundesweiten Protesten auf, Italienische Gewerkschaft USB ruft zu Generalstreik auf, EU und Kanada gründen bei Gipfeltreffen &quot;Allianz für die Zukunft&quot;, Evakuierungen in ukrainischer Frontstadt Oleschky beginnen, Russische Zeitung &quot;Nowaja Gaseta&quot; nach mehr als 30 Jahren eingestellt, Berliner Linken-Politikerin Elif Erap nach &quot;Spiegel&quot;-Bericht massiv unter Druck, Audi beendet drittes Quartal 2026 mit Gewinneinbruch, Massiver Hackerangriff auf weltgrößte Börse für Kryptowährung &quot;Binance&quot;, Schauspieler Patrick Stewart im Alter von 86 Jahren gestorben, Das Wetter Korrektur: In der ersten Meldung der heutigen 20-Uhr-tagesschau haben wir über die bevorstehenden Proteste der Gen Z berichtet. Dabei hat sich Susanne Daubner bei der Aussprache der Organisatoren versprochen. Wir haben deshalb die Meldung noch einmal aufgezeichnet.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-2038-1300.mp3" length="15469610" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 18:15): Journal um 5 (30.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-30102026</link>
-      <pubDate>Fri, 30 Oct 2026 16:26:20 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 23:00): Die Nachrichten vom 30.10.2026, 22:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44914.html</link>
+      <pubDate>Fri, 30 Oct 2026 21:17:31 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_bd25a4a71948495bb74d4dc2bdb375bd</guid>
-      <description>Originally published Fri 30 Oct 2026 18:15 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bd25a4a71948495bb74d4dc2bdb375bd.mp3?etag=e0d4f46380796c0c4c87e1e86fc724ec" length="13373944" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 18:00): Die Nachrichten vom 30.10.2026, 17:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44902.html</link>
-      <pubDate>Fri, 30 Oct 2026 16:25:20 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">b50e3fd8-7af5-56b3-8f70-212e2c97e19f</guid>
-      <description>Originally published Fri 30 Oct 2026 18:00 IST.
+      <guid isPermaLink="false">be32b94a-cbf5-5433-9442-7550863ec66e</guid>
+      <description>Originally published Fri 30 Oct 2026 23:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/30/nachrichten_dlf_20261030_1700_178a1a72.mp3?refId=nachrichten-108" length="4807554" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/30/nachrichten_dlf_20261030_2200_e09cc028.mp3?refId=nachrichten-108" length="4985605" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Konstituierende Sitzung | Hörsaal-Sanierung | Bevölkerungsschutz</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/konstituierende-sitzung-abgeordnetenhaus-hu-hoersaal-sanierung.html</link>
-      <pubDate>Fri, 30 Oct 2026 16:24:20 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:34): Abendjournal um 18 (30.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-30102026</link>
+      <pubDate>Fri, 30 Oct 2026 21:16:31 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_b8d2072bb5a548619e1a58229a55cd84</guid>
+      <description>Originally published Fri 30 Oct 2026 19:34 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b8d2072bb5a548619e1a58229a55cd84.mp3?etag=181b6e81b69aa8b4b33145f2fc42cd8b" length="36554035" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Sat 19:17): Linke nach Bericht über Eralp | &quot;GenZ regelt&quot; Demo | Arbeitslosenzahl</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/eralp-nach-spiegel-artikel-genz-demo-arbeitslosenzahl.html</link>
+      <pubDate>Fri, 30 Oct 2026 21:15:31 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/16/32/16321b2d-8588-4162-92aa-6e24962fcda3/16321b2d-8588-4162-92aa-6e24962fcda3_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 30 Oct 2026 19:17 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/82/c8/82c89753-4cba-4f4a-a414-de2f893cb990/82c89753-4cba-4f4a-a414-de2f893cb990_mp3-256kd.mp3</guid>
+      <description>Originally published Sat 31 Oct 2026 19:17 IST.
 
-In Berlin hat sich das neu gew&amp;#228;hlte Abgeordnetenhaus zu seiner ersten Sitzung getroffen. Die Linken-Politikerin Hendrikje Klein wurde zur Parlamentspr&amp;#228;sidentin gew&amp;#228;hlt. Das aber trat pl&amp;#246;tzlich in den Hintergrund - wegen eines Berichts des &quot;Spiegel&quot;, wonach sich die B&amp;#252;rgermeisterkandidatin Elif Eralp (Linke) vor Terrorsymphatisanten f&amp;#252;rchtet. Weitere Themen: Sanierung des von pro-pal&amp;#228;stinensischen Aktivisten zerst&amp;#246;rten HU-H&amp;#246;rsaals deutlich teurer. DRK-Bev&amp;#246;lkerungsschutzzentrum in Luckenwalde er&amp;#246;ffnet. Und: Ausbau der Bahnstrecke zwischen Angerm&amp;#252;nde und Stettin verz&amp;#246;gert sich weiter.
+Der &quot;Spiegel&quot; sorgt mit einer Ver&amp;#246;ffentlichung f&amp;#252;r Wirbel. Er hatte Anmerkungen der Linken-Politikerin Elif Eralp zu einem Interview ver&amp;#246;ffentlicht. Da &amp;#228;u&amp;#223;ert sie Angst vor dem PFLP-Unterst&amp;#252;tzern in Berlin - mit der Bitte, keine Namen zu nennen. Wie geht die Partei mit dem Vorfall vor? Au&amp;#223;erdem: Jugendproteste am Samstag. Jugend simuliert EU-Parlament. Arbeitslosenzahlen in der Region.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/16/32/16321b2d-8588-4162-92aa-6e24962fcda3/16321b2d-8588-4162-92aa-6e24962fcda3_mp3-256kd.mp3" length="30516243" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/82/c8/82c89753-4cba-4f4a-a414-de2f893cb990/82c89753-4cba-4f4a-a414-de2f893cb990_mp3-256kd.mp3" length="30421072" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 09:00): Rot-Grün-Rot in Berlin: Elif Eralp, ein Interview und viele Diskussionen</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/rot-gruen-rot-in-berlin-elif-eralp-ein-interview-und-viele-diskussionen/2123675</link>
-      <pubDate>Fri, 30 Oct 2026 16:23:20 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:05): KI und der Arbeitsmarkt: Kommt der große Jobkahlschlag noch?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ki-und-der-arbeitsmarkt-kommt-der-grosse-jobkahlschlag-noch/2123706</link>
+      <pubDate>Fri, 30 Oct 2026 21:14:31 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">e00265c5-7e26-41fb-b8fe-23d805a12169</guid>
-      <description>Originally published Fri 30 Oct 2026 09:00 IST.
+      <guid isPermaLink="false">a8facf50-7a9e-419d-87d1-c834e9edca5f</guid>
+      <description>Originally published Fri 30 Oct 2026 19:05 IST.
 
-Hat die Frau, die regierende Bürgermeisterin werden will, Angst vor Hamas-Sympathisanten?</description>
-      <enclosure url="https://media.neuland.br.de/file/2123675/c/feed/rot-gruen-rot-in-berlin-elif-eralp-ein-interview-und-viele-diskussionen.mp3" length="9001005" type="audio/mpeg"/>
+Künstliche Intelligenz verändert die Arbeitswelt - aber einen großen Jobverlust durch KI gibt es bislang nicht</description>
+      <enclosure url="https://media.neuland.br.de/file/2123706/c/feed/ki-und-der-arbeitsmarkt-kommt-der-grosse-jobkahlschlag-noch.mp3" length="9134637" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:57): Venezuelan opposition leader criticises US oil deal</title>
-      <link>http://www.bbc.co.uk/programmes/p0pkds06</link>
-      <pubDate>Fri, 30 Oct 2026 16:22:20 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:51): Residents leave devastated Russian-occupied Oleshky</title>
+      <link>http://www.bbc.co.uk/programmes/p0pkhvpg</link>
+      <pubDate>Fri, 30 Oct 2026 21:13:31 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pkds06</guid>
-      <description>Originally published Fri 30 Oct 2026 07:57 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pkhvpg</guid>
+      <description>Originally published Fri 30 Oct 2026 18:51 IST.
 
-&lt;p&gt;The Venezuelan opposition leader, Maria Corina Machado, has questioned a massive oil deal agreed between Caracas and Washington earlier this year. The accord will see Venezuela hand over twenty per cent of its oil reserves to the US. Speaking at a news conference after her return from exile over the weekend, Ms Machado insisted elections would be held next year, as part of the democratic transition she said was backed by the US. Also: Spanish families desperately search local hospitals in the hope of finding relatives who were hurt in the Toledo train disaster on Wednesday.  America's First Lady, Melania Trump, says the ceasefire in the Ukrainian city of Olezhky has been expanded within the Kherson region. The British actor, Patrick Stewart, who gained fame as Captain Jean-Luc Picard in Star Trek, has died at the age of 86. The Republican governor of Alaska has ordered an investigation into an alleged scheme which led to two men named Dan Sullivan standing in the state's US Senate race. Mike Dunleavy said he was responding to a New York Times story alleging that Democratic party operatives recruited a spoiler candidate. At least 300,000 people could be at risk of future natural disasters in the Himalayas, and we hear from Iranians planning to celebrate Halloween despite the risk of arrest.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Officials confirm the evacuation of the Ukrainian city of Oleshky is under way. Russia and Ukraine have agreed a temporary local ceasefire. People who decided to leave Oleshky had a four-hour window to do so. &lt;/p&gt;&lt;p&gt;Also: Binance, the world's biggest crypto exchange, has been hit by what could be the biggest hack in history. We report from Syria, two years on from the fall of the Assad regime. Experts say the online “manosphere” should be treated as a public health issue. We look at what role Israel’s president will play in the outcome of the general election. And researchers say eating fruit and vegetable scraps could provide a health boost that most of us are missing. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Venezuela’s opposition leader Maria Corina Machado addresses the press in Caracas.
-Credit: Reuters/Gaby Oráa&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkdh9g.mp3" length="13856000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Residents in Oleshky, Ukraine, 30th October 2026.
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkhvcv.mp3" length="12992000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
