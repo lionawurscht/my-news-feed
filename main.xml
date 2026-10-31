@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:01:45 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,87 +13,52 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 12:42): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3568950.html</link>
-      <pubDate>Sat, 31 Oct 2026 14:16:12 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 19:36): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3569350.html</link>
+      <pubDate>Sat, 31 Oct 2026 19:01:45 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4433dbfc-7754-473a-9a76-c50fa73c152e</guid>
-      <description>Originally published Sat 31 Oct 2026 12:42 IST.
+      <guid isPermaLink="false">f3ed0fb0-cc51-4838-9ae2-96f40f63f97d</guid>
+      <description>Originally published Sat 31 Oct 2026 19:36 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1031/AU-20261031-1142-0400.mp3" length="2037259" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1031/AU-20261031-1836-3000.mp3" length="2208139" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 16:10): 10am ET, October 31 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 20:09): 2pm ET, October 31 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 31 Oct 2026 14:15:12 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 19:00:45 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">695e7a3b-9ced-46b3-be9e-4781168ef6ae</guid>
-      <description>Originally published Sat 31 Oct 2026 16:10 IST.
+      <guid isPermaLink="false">d684b71b-c940-4f3e-ba5c-e10e4baaf0f9</guid>
+      <description>Originally published Sat 31 Oct 2026 20:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2643cec8-ca46-4765-8fe0-014d230d0bd0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2643cec8-ca46-4765-8fe0-014d230d0bd0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261031-1000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c84d181e-ba6b-4922-9627-8e42bd387699/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c84d181e-ba6b-4922-9627-8e42bd387699&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261031-1400-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 30.10.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3568324.html</link>
-      <pubDate>Sat, 31 Oct 2026 14:14:12 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 20:00): Die Nachrichten vom 31.10.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44962.html</link>
+      <pubDate>Sat, 31 Oct 2026 18:59:45 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">37a5f584-9f12-4f42-9a71-0df845446508-SENDUNGSAUDIO</guid>
-      <description>Originally published Fri 30 Oct 2026 21:00 IST.
-
-Initiative &quot;Gen Z regelt&quot; ruft zu bundesweiten Protesten auf, Italienische Gewerkschaft USB ruft zu Generalstreik auf, EU und Kanada gründen bei Gipfeltreffen &quot;Allianz für die Zukunft&quot;, Evakuierungen in ukrainischer Frontstadt Oleschky beginnen, Russische Zeitung &quot;Nowaja Gaseta&quot; nach mehr als 30 Jahren eingestellt, Berliner Linken-Politikerin Elif Erap nach &quot;Spiegel&quot;-Bericht massiv unter Druck, Audi beendet drittes Quartal 2026 mit Gewinneinbruch, Massiver Hackerangriff auf weltgrößte Börse für Kryptowährung &quot;Binance&quot;, Schauspieler Patrick Stewart im Alter von 86 Jahren gestorben, Das Wetter Korrektur: In der ersten Meldung der heutigen 20-Uhr-tagesschau haben wir über die bevorstehenden Proteste der Gen Z berichtet. Dabei hat sich Susanne Daubner bei der Aussprache der Organisatoren versprochen. Wir haben deshalb die Meldung noch einmal aufgezeichnet.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-2038-1300.mp3" length="15469610" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:00): Die Nachrichten vom 31.10.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44954.html</link>
-      <pubDate>Sat, 31 Oct 2026 14:13:12 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">afa00fbd-7053-53d4-a8ea-6033a61c9f8a</guid>
-      <description>Originally published Sat 31 Oct 2026 16:00 IST.
+      <guid isPermaLink="false">1d3e4c1d-f36a-5304-bdcf-e9ea6f15b629</guid>
+      <description>Originally published Sat 31 Oct 2026 20:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/31/nachrichten_dlf_20261031_1500_39429976.mp3?refId=nachrichten-108" length="4985605" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/31/nachrichten_dlf_20261031_1900_3e1e53a0.mp3?refId=nachrichten-108" length="4954676" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:19): Mittagsjournal (31.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-31102026</link>
-      <pubDate>Sat, 31 Oct 2026 14:12:12 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sat, 31 Oct 2026 18:58:45 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_685018fbff924f168961fc6e79091858</guid>
       <description>Originally published Sat 31 Oct 2026 14:19 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_685018fbff924f168961fc6e79091858.mp3?etag=ed27262d92ebce26983003e4443e4b40" length="81082995" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Sat 19:17): Linke nach Bericht über Eralp | &quot;GenZ regelt&quot; Demo | Arbeitslosenzahl</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/eralp-nach-spiegel-artikel-genz-demo-arbeitslosenzahl.html</link>
-      <pubDate>Sat, 31 Oct 2026 14:11:12 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/82/c8/82c89753-4cba-4f4a-a414-de2f893cb990/82c89753-4cba-4f4a-a414-de2f893cb990_mp3-256kd.mp3</guid>
-      <description>Originally published Sat 31 Oct 2026 19:17 IST.
-
-Der &quot;Spiegel&quot; sorgt mit einer Ver&amp;#246;ffentlichung f&amp;#252;r Wirbel. Er hatte Anmerkungen der Linken-Politikerin Elif Eralp zu einem Interview ver&amp;#246;ffentlicht. Da &amp;#228;u&amp;#223;ert sie Angst vor dem PFLP-Unterst&amp;#252;tzern in Berlin - mit der Bitte, keine Namen zu nennen. Wie geht die Partei mit dem Vorfall vor? Au&amp;#223;erdem: Jugendproteste am Samstag. Jugend simuliert EU-Parlament. Arbeitslosenzahlen in der Region.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/82/c8/82c89753-4cba-4f4a-a414-de2f893cb990/82c89753-4cba-4f4a-a414-de2f893cb990_mp3-256kd.mp3" length="30421072" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:05): KI und der Arbeitsmarkt: Kommt der große Jobkahlschlag noch?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ki-und-der-arbeitsmarkt-kommt-der-grosse-jobkahlschlag-noch/2123706</link>
-      <pubDate>Sat, 31 Oct 2026 14:10:12 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">a8facf50-7a9e-419d-87d1-c834e9edca5f</guid>
-      <description>Originally published Fri 30 Oct 2026 19:05 IST.
-
-Künstliche Intelligenz verändert die Arbeitswelt - aber einen großen Jobverlust durch KI gibt es bislang nicht</description>
-      <enclosure url="https://media.neuland.br.de/file/2123706/c/feed/ki-und-der-arbeitsmarkt-kommt-der-grosse-jobkahlschlag-noch.mp3" length="9134637" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Personalised cancer vaccine shows promise in major trial</title>
       <link>http://www.bbc.co.uk/programmes/p0pkj52k</link>
-      <pubDate>Sat, 31 Oct 2026 14:09:12 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Sat, 31 Oct 2026 18:57:45 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pkj52k</guid>
       <description>Originally published Sat 31 Oct 2026 14:00 IST.
 
