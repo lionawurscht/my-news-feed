@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 19:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 22:59:45 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,43 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 19:36): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3569350.html</link>
-      <pubDate>Sat, 31 Oct 2026 19:01:45 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:06): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3569426.html</link>
+      <pubDate>Sat, 31 Oct 2026 22:59:45 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f3ed0fb0-cc51-4838-9ae2-96f40f63f97d</guid>
-      <description>Originally published Sat 31 Oct 2026 19:36 IST.
+      <guid isPermaLink="false">effb5731-1085-42bf-b577-41252d148d29</guid>
+      <description>Originally published Sat 31 Oct 2026 22:06 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1031/AU-20261031-1836-3000.mp3" length="2208139" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1031/AU-20261031-2105-5400.mp3" length="2190091" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 20:09): 2pm ET, October 31 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 00:10): 6pm ET, October 31 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 31 Oct 2026 19:00:45 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 22:58:45 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d684b71b-c940-4f3e-ba5c-e10e4baaf0f9</guid>
-      <description>Originally published Sat 31 Oct 2026 20:09 IST.
+      <guid isPermaLink="false">c633d7ce-8eb6-4ea4-a859-998eb82043de</guid>
+      <description>Originally published Sun 01 Nov 2026 00:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c84d181e-ba6b-4922-9627-8e42bd387699/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c84d181e-ba6b-4922-9627-8e42bd387699&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261031-1400-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0f8299f6-8002-4bf7-90f4-72281a3536ef/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0f8299f6-8002-4bf7-90f4-72281a3536ef&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261031-1800-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 20:00): Die Nachrichten vom 31.10.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44962.html</link>
-      <pubDate>Sat, 31 Oct 2026 18:59:45 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 31.10.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3569414.html</link>
+      <pubDate>Sat, 31 Oct 2026 22:57:45 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">1d3e4c1d-f36a-5304-bdcf-e9ea6f15b629</guid>
-      <description>Originally published Sat 31 Oct 2026 20:00 IST.
+      <guid isPermaLink="false">e96036b3-3064-4b4b-b17f-e2cae35ac414-SENDUNGSAUDIO</guid>
+      <description>Originally published Sat 31 Oct 2026 21:00 IST.
+
+Deutschlandweite &quot;GenZ&quot;-Proteste für soziale Gerechtigkeit, Landesweite Proteste in Frankreich gegen hohe Lebenshaltungskosten, USA genehmigen Verkauf von 500 Patriot-Raketen an die Ukraine, Evakuierung der ukrainischen Frontstadt Oleschky ist abgeschlossen, Konflikt über Unabhängigkeit des Verfassungsgerichts in Polen spitzt sich zu, Die Linke in Berlin stimmt für Koalitionsverhandlungen mit Grünen und SPD, Evangelische Christen feiern Reformationstag, Ergebnisse des 8. Spieltags der Fußball-Bundesliga, Auftakt der Olympischen Jugendspiele im Senegal, Das Wetter Hinweis: Die Beiträge zum Thema &quot;Fußball&quot; und zu den &quot;Olympischen Jugendspielen&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1031/AU-20261031-2029-2400.mp3" length="15441955" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 00:00): Die Nachrichten vom 31.10.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44968.html</link>
+      <pubDate>Sat, 31 Oct 2026 22:56:45 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">6a9c300a-c29f-5ef4-bb3c-0fcec87e8fff</guid>
+      <description>Originally published Sun 01 Nov 2026 00:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/31/nachrichten_dlf_20261031_1900_3e1e53a0.mp3?refId=nachrichten-108" length="4954676" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/31/nachrichten_dlf_20261031_2300_4cfa0c9f.mp3?refId=nachrichten-108" length="5044119" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:19): Mittagsjournal (31.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-31102026</link>
-      <pubDate>Sat, 31 Oct 2026 18:58:45 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sat, 31 Oct 2026 22:55:45 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_685018fbff924f168961fc6e79091858</guid>
       <description>Originally published Sat 31 Oct 2026 14:19 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_685018fbff924f168961fc6e79091858.mp3?etag=ed27262d92ebce26983003e4443e4b40" length="81082995" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Personalised cancer vaccine shows promise in major trial</title>
       <link>http://www.bbc.co.uk/programmes/p0pkj52k</link>
-      <pubDate>Sat, 31 Oct 2026 18:57:45 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sat, 31 Oct 2026 22:54:45 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pkj52k</guid>
       <description>Originally published Sat 31 Oct 2026 14:00 IST.
 
