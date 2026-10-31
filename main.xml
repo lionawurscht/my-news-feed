@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 07:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:16:12 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 06:09): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3568550.html</link>
-      <pubDate>Sat, 31 Oct 2026 07:55:50 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 12:42): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3568950.html</link>
+      <pubDate>Sat, 31 Oct 2026 14:16:12 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">560b9c13-a812-4dd7-a627-26d535ce7de1</guid>
-      <description>Originally published Sat 31 Oct 2026 06:09 IST.
+      <guid isPermaLink="false">4433dbfc-7754-473a-9a76-c50fa73c152e</guid>
+      <description>Originally published Sat 31 Oct 2026 12:42 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1031/AU-20261031-0509-2000.mp3" length="2432011" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1031/AU-20261031-1142-0400.mp3" length="2037259" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 09:10): 3am ET, October 31 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 16:10): 10am ET, October 31 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 31 Oct 2026 07:54:50 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 14:15:12 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">db07ab90-0181-40b6-9eb9-e818d4287f8c</guid>
-      <description>Originally published Sat 31 Oct 2026 09:10 IST.
+      <guid isPermaLink="false">695e7a3b-9ced-46b3-be9e-4781168ef6ae</guid>
+      <description>Originally published Sat 31 Oct 2026 16:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/250ce731-f965-4dc8-9aea-f25e7d390cb8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=250ce731-f965-4dc8-9aea-f25e7d390cb8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261031-0300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2643cec8-ca46-4765-8fe0-014d230d0bd0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2643cec8-ca46-4765-8fe0-014d230d0bd0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261031-1000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 30.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3568324.html</link>
-      <pubDate>Sat, 31 Oct 2026 07:53:50 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 14:14:12 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">37a5f584-9f12-4f42-9a71-0df845446508-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 30 Oct 2026 21:00 IST.
@@ -46,29 +46,29 @@ Initiative &quot;Gen Z regelt&quot; ruft zu bundesweiten Protesten auf, Italieni
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-2038-1300.mp3" length="15469610" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 09:30): Die Nachrichten vom 31.10.2026, 08:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44942.html</link>
-      <pubDate>Sat, 31 Oct 2026 07:52:50 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:00): Die Nachrichten vom 31.10.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44954.html</link>
+      <pubDate>Sat, 31 Oct 2026 14:13:12 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">2f659668-06d5-5e36-a140-377188ae76ba</guid>
-      <description>Originally published Sat 31 Oct 2026 09:30 IST.
+      <guid isPermaLink="false">afa00fbd-7053-53d4-a8ea-6033a61c9f8a</guid>
+      <description>Originally published Sat 31 Oct 2026 16:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/31/nachrichten_dlf_20261031_0830_e3dd8982.mp3?refId=nachrichten-108" length="4948824" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/31/nachrichten_dlf_20261031_1500_39429976.mp3?refId=nachrichten-108" length="4985605" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:20): Morgenjournal um 8 (31.10.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-31102026</link>
-      <pubDate>Sat, 31 Oct 2026 07:51:50 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:19): Mittagsjournal (31.10.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-31102026</link>
+      <pubDate>Sat, 31 Oct 2026 14:12:12 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_fbb385415d87415fb3787e7c6d27fd59</guid>
-      <description>Originally published Sat 31 Oct 2026 09:20 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_fbb385415d87415fb3787e7c6d27fd59.mp3?etag=48219c7df4f591715dffb8dd130e8eb9" length="22070446" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_685018fbff924f168961fc6e79091858</guid>
+      <description>Originally published Sat 31 Oct 2026 14:19 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_685018fbff924f168961fc6e79091858.mp3?etag=ed27262d92ebce26983003e4443e4b40" length="81082995" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Sat 19:17): Linke nach Bericht über Eralp | &quot;GenZ regelt&quot; Demo | Arbeitslosenzahl</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/eralp-nach-spiegel-artikel-genz-demo-arbeitslosenzahl.html</link>
-      <pubDate>Sat, 31 Oct 2026 07:50:50 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 14:11:12 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/82/c8/82c89753-4cba-4f4a-a414-de2f893cb990/82c89753-4cba-4f4a-a414-de2f893cb990_mp3-256kd.mp3</guid>
       <description>Originally published Sat 31 Oct 2026 19:17 IST.
@@ -81,7 +81,7 @@ Der &quot;Spiegel&quot; sorgt mit einer Ver&amp;#246;ffentlichung f&amp;#252;r W
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:05): KI und der Arbeitsmarkt: Kommt der große Jobkahlschlag noch?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ki-und-der-arbeitsmarkt-kommt-der-grosse-jobkahlschlag-noch/2123706</link>
-      <pubDate>Sat, 31 Oct 2026 07:49:50 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 14:10:12 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">a8facf50-7a9e-419d-87d1-c834e9edca5f</guid>
       <description>Originally published Fri 30 Oct 2026 19:05 IST.
@@ -90,19 +90,16 @@ Künstliche Intelligenz verändert die Arbeitswelt - aber einen großen Jobverlu
       <enclosure url="https://media.neuland.br.de/file/2123706/c/feed/ki-und-der-arbeitsmarkt-kommt-der-grosse-jobkahlschlag-noch.mp3" length="9134637" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 07:01): US approves sale of 500 Patriot missiles to Ukraine</title>
-      <link>http://www.bbc.co.uk/programmes/p0pkkxk0</link>
-      <pubDate>Sat, 31 Oct 2026 07:48:50 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Personalised cancer vaccine shows promise in major trial</title>
+      <link>http://www.bbc.co.uk/programmes/p0pkj52k</link>
+      <pubDate>Sat, 31 Oct 2026 14:09:12 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pkkxk0</guid>
-      <description>Originally published Sat 31 Oct 2026 07:01 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pkj52k</guid>
+      <description>Originally published Sat 31 Oct 2026 14:00 IST.
 
-&lt;p&gt;The US State Department says it has approved the sale of more than two billion dollars' worth of Patriot missiles to Ukraine. The 500 missiles have been paid for by contributions from Canada, Germany and Norway. Ukraine needs the interceptors to defend itself from escalating Russian attacks, but there is a global shortage due to their use by the US in its war against Iran. Also: Russia's most prominent independant paper closes after years of state persecution. Shares in US technology companies fall sharply for a second day on Wall Street as concerns rise over the hundreds of billions of dollars being invested in AI. Police Scotland confirm that they're looking into the time the King's brother Andrew Mountbatten-Windsor spent with Jeffrey Epstein and Ghislaine Maxwell at the British Royal Family's Balmoral estate in Aberdeenshire. A row in South Korea over pictures from a deadly crush being used in the latest Call of Duty video game. And Ken Russell fans gear up to see a newly restored and uncensored classic by the late acclaimed British film director.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: U.S. Army MIM-104 Patriots, surface-to-air missile (SAM) system launchers are pictured at Rzeszow-Jasionka Airport, amid Russia's invasion of Ukraine, Poland March 24, 2022  
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkkvq7.mp3" length="13376000" type="audio/mpeg"/>
+&lt;p&gt;A new personalised skin cancer vaccine has been found to reduce the risk of patients dying or their cancer returning by 42%. As part of a global two-year clinical trial, more than 1,000 patients who had already had their tumours removed were given a widely used immunotherapy drug. Around two-thirds were then given the experimental vaccine, which was developed using cells from their own tumours. Researchers say the results could mark a turning point in cancer treatment.&lt;/p&gt;&lt;p&gt;Also: How a man achieved his goal of becoming a world-famous singer without even knowing it. The neighbours who rallied together to fulfil an autistic boy's dream. The &quot;brain bank&quot; giving hope to Parkinson's patients. A ballet school offering a brighter future for children living in one of the poorest parts of the world. And how one conservationist's determination helped save the threatened African manatee.&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;(Photo: A man receives a personalised vaccine as part of a global cancer treatment trial. Credit: Addenbrooke's Hospital)&lt;/p&gt;&lt;p&gt;Presenter: Helena Burke
+Music: Iona Hampson&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkj482.mp3" length="13288000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
