@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 30 Oct 2026 21:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:23:27 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 22:41): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3568350.html</link>
-      <pubDate>Fri, 30 Oct 2026 21:20:31 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 01:23:27 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">6617d23c-ec14-4f06-bce9-731d4dc6987b</guid>
       <description>Originally published Fri 30 Oct 2026 22:41 IST.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-2141-2700.mp3" length="2137099" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 23:10): 5pm ET, October 30 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 03:10): 9pm ET, October 30 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 30 Oct 2026 21:19:31 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 01:22:27 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">ac3ccdd0-b437-447c-ac25-f741f0f5babb</guid>
-      <description>Originally published Fri 30 Oct 2026 23:10 IST.
+      <guid isPermaLink="false">a176d60c-4a4f-4aa2-b983-09c9cc3e24b8</guid>
+      <description>Originally published Sat 31 Oct 2026 03:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/497ed118-282a-4803-883d-e9bcddc6bdc9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=497ed118-282a-4803-883d-e9bcddc6bdc9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261030-1700-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c671c3d0-7afe-48a2-94e1-f989efc3af2a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c671c3d0-7afe-48a2-94e1-f989efc3af2a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261030-2100-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 30.10.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3568324.html</link>
-      <pubDate>Fri, 30 Oct 2026 21:18:31 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 01:21:27 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">37a5f584-9f12-4f42-9a71-0df845446508-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 30 Oct 2026 21:00 IST.
@@ -46,20 +46,20 @@ Initiative &quot;Gen Z regelt&quot; ruft zu bundesweiten Protesten auf, Italieni
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1030/AU-20261030-2038-1300.mp3" length="15469610" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 23:00): Die Nachrichten vom 30.10.2026, 22:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-44914.html</link>
-      <pubDate>Fri, 30 Oct 2026 21:17:31 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 03:00): Die Nachrichten vom 31.10.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-44922.html</link>
+      <pubDate>Sat, 31 Oct 2026 01:20:27 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">be32b94a-cbf5-5433-9442-7550863ec66e</guid>
-      <description>Originally published Fri 30 Oct 2026 23:00 IST.
+      <guid isPermaLink="false">15a06ce7-6dde-5d9f-bc2b-efa60d3e20f5</guid>
+      <description>Originally published Sat 31 Oct 2026 03:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/30/nachrichten_dlf_20261030_2200_e09cc028.mp3?refId=nachrichten-108" length="4985605" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/10/31/nachrichten_dlf_20261031_0200_df787b60.mp3?refId=nachrichten-108" length="5003995" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:34): Abendjournal um 18 (30.10.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-30102026</link>
-      <pubDate>Fri, 30 Oct 2026 21:16:31 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 01:19:27 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_b8d2072bb5a548619e1a58229a55cd84</guid>
       <description>Originally published Fri 30 Oct 2026 19:34 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Sat 19:17): Linke nach Bericht über Eralp | &quot;GenZ regelt&quot; Demo | Arbeitslosenzahl</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/10/eralp-nach-spiegel-artikel-genz-demo-arbeitslosenzahl.html</link>
-      <pubDate>Fri, 30 Oct 2026 21:15:31 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 01:18:27 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/82/c8/82c89753-4cba-4f4a-a414-de2f893cb990/82c89753-4cba-4f4a-a414-de2f893cb990_mp3-256kd.mp3</guid>
       <description>Originally published Sat 31 Oct 2026 19:17 IST.
@@ -81,7 +81,7 @@ Der &quot;Spiegel&quot; sorgt mit einer Ver&amp;#246;ffentlichung f&amp;#252;r W
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:05): KI und der Arbeitsmarkt: Kommt der große Jobkahlschlag noch?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ki-und-der-arbeitsmarkt-kommt-der-grosse-jobkahlschlag-noch/2123706</link>
-      <pubDate>Fri, 30 Oct 2026 21:14:31 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 01:17:27 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">a8facf50-7a9e-419d-87d1-c834e9edca5f</guid>
       <description>Originally published Fri 30 Oct 2026 19:05 IST.
@@ -92,7 +92,7 @@ Künstliche Intelligenz verändert die Arbeitswelt - aber einen großen Jobverlu
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:51): Residents leave devastated Russian-occupied Oleshky</title>
       <link>http://www.bbc.co.uk/programmes/p0pkhvpg</link>
-      <pubDate>Fri, 30 Oct 2026 21:13:31 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 01:16:27 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pkhvpg</guid>
       <description>Originally published Fri 30 Oct 2026 18:51 IST.
