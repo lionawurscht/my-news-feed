@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:44:11 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 09:04): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3571084.html</link>
-      <pubDate>Mon, 02 Nov 2026 07:08:30 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:30): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3572606.html</link>
+      <pubDate>Mon, 02 Nov 2026 17:44:11 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">109ba869-6027-48f7-b87e-afdeba512c9e</guid>
-      <description>Originally published Mon 02 Nov 2026 09:04 IST.
+      <guid isPermaLink="false">5d385757-3522-4424-89fe-4b21b777336e</guid>
+      <description>Originally published Mon 02 Nov 2026 19:30 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1102/AU-20261102-0804-3800.mp3" length="2079499" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1102/AU-20261102-1829-5300.mp3" length="2070667" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 08:10): 1am ET, November 02 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 19:09): 12pm ET, November 02 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 02 Nov 2026 07:07:30 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 17:43:11 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">52513a7e-97dc-4e19-8976-185cfa2c423a</guid>
-      <description>Originally published Mon 02 Nov 2026 08:10 IST.
+      <guid isPermaLink="false">915ef2c9-7173-4755-9762-4e4166812278</guid>
+      <description>Originally published Mon 02 Nov 2026 19:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a41d65c0-3f70-4dc1-a502-4d9bef3f6d2b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a41d65c0-3f70-4dc1-a502-4d9bef3f6d2b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261102-0100-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Mon 07:00): חדשון בעברית קלה (02/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Mon, 02 Nov 2026 07:06:30 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/2-11-26.m4a</guid>
-      <description>Originally published Mon 02 Nov 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• יו&quot;ר וַעֲדַת הבְּחירוֹת המֶרכָּזית, השוֹפֵט נוֹעַם סוֹלבֶּרג, הוֹדִיעַ אתמול יַחד עִם היוֹעַמַ&quot;שִית וראש השַבַּ&quot;כּ: &quot;הבּחירוֹת לכּנֶסת הִתנַהֲלוּ בּאוֹפֶן תַקִין והתוֹצָאוֹת יְפוּרסְמוּ בּזמַן שֶנִקבַּע. הִתגַלוּ חֲשָדוֹת והם נִבדָקים, אך הם לא יְעַרעֲרוּ על תוֹצאוֹת הבּחירוֹת&quot;
-• הנשׂיא הֶרצוֹג לרָאשֵי המִפלָגוֹת: &quot;הבְּחִירוֹת הִסתַיימוּ, תַעַצרוּ את הטִיפּוּס על העֵצִים&quot;
-• רְשִימַת 'בּיַחַד' של נַפתָלי בֶּנֶט ויָאיר לַפּיד הוֹדיעָה אתמוֹל שֶהִיא תַמלִיץ לנשׂיא על אַייזנקוֹט להַרכָּבַת המֶמשלה
-• בּסבִיבַת רה&quot;מ נתניהו הֶעֱבירוּ מֶסֶר לאַייזנקוֹט: מִפלֶגֶת הלִיכּוּד מוּכָנָה לדוּן בּפְתִיחוּת בּהֲקָמַת מֶמשֶלֶת אַחדוּת, בִּתנַאי שֶלֹא תִפעֲלוּ להַחלָפַת יו&quot;ר הכּנֶסֶת אָמיר אוֹחנה
-• בּישׂראל הוּשלְמוּ ההֲכָנוֹת של צַה&quot;ל לִקרַאת האֶפשָרוּת של חִידוּש המַעֲרָכָה מוּל אִירַאן. הצָבא מַמתִין להַחלָטַת הדֶרֶג המְדִינִי
-• הרַמטכַּ&quot;ל לשֶעָבַר הֶרצִי הלֵוי אָמר אתמול בּוְועִידָה בּנְיוּ יוֹרְק: שִבעָה בּאוֹקטוֹבּר היה כּישָלוֹן שֶאֶפשָר היה לִמנוֹעַ, אך לא הָייתה בְּגִידָה מִבִּפנִים. יש להָקים וַעֲדַת חֲקירָה מַמלַכתִית, כּחֵלֶק מִתַהֲלִיך הרִיפּוּי
-• נִבחֶרֶת 'שַלוָוה' הִשתַתפָה בּמָרָתוֹן נְיוּ יוֹרְק והִקדִישָה את הרִיצָה לזִכרוֹ של רס&quot;ן הַראֵל בּירֶנשטוֹק ז&quot;ל, שֶרָץ עִם הנִבחֶרֶת לִפנֵי שְנָתַיִים ונָפל בּלבָנוֹן
-• התִַחֲזית: הִתחַמְמוּת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/2-11-26.m4a" length="2027731" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/bed306b3-e540-4ef2-b104-625bc73ac006/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=bed306b3-e540-4ef2-b104-625bc73ac006&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261102-1200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 01.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3570546.html</link>
-      <pubDate>Mon, 02 Nov 2026 07:05:30 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 02 Nov 2026 17:42:11 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">9ddce89e-469d-4f5c-9b23-99c694286f96-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 01 Nov 2026 21:00 IST.
 
@@ -68,50 +46,47 @@ Friedliche Proteste der &quot;Gen Z regelt&quot;-Initiative enden mit Krawallen 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1101/AU-20261101-2031-2900.mp3" length="18234392" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 08:50): Morgenjournal um 7 (02.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-7-02112026</link>
-      <pubDate>Mon, 02 Nov 2026 07:04:30 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_d137842e1e2e410d872e17b839d2c198</guid>
-      <description>Originally published Mon 02 Nov 2026 08:50 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d137842e1e2e410d872e17b839d2c198.mp3?etag=a45a2fa4b785b92a0a7830ee7126f7a2" length="47943140" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:32): Abendjournal um 18 (02.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-02112026</link>
+      <pubDate>Mon, 02 Nov 2026 17:41:11 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_4b5ee5fc848842f3a822d046c6ff8180</guid>
+      <description>Originally published Mon 02 Nov 2026 19:32 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4b5ee5fc848842f3a822d046c6ff8180.mp3?etag=bebfd080f02f9c543bfade4770faf81d" length="36590359" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 08:30): Die Nachrichten vom 02.11.2026, 07:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45044.html</link>
-      <pubDate>Mon, 02 Nov 2026 07:03:30 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">eaa73116-55fc-5f30-b475-2b3e9de24034</guid>
-      <description>Originally published Mon 02 Nov 2026 08:30 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 19:00): Die Nachrichten vom 02.11.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45086.html</link>
+      <pubDate>Mon, 02 Nov 2026 17:40:11 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">e7ef58ba-4bbf-5a3d-a522-ab9894314116</guid>
+      <description>Originally published Mon 02 Nov 2026 19:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/02/nachrichten_dlf_20261102_0730_4df353c5.mp3?refId=nachrichten-108" length="5005667" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/02/nachrichten_dlf_20261102_1800_e5341bc1.mp3?refId=nachrichten-108" length="9566019" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 11:00): Das Wichtigste am Sonntagvormittag</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagvormittag-2/2123731</link>
-      <pubDate>Mon, 02 Nov 2026 07:02:30 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 10:00): Gen-Z Proteste: Warum fühlt sich die junge Generation nicht gehört?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/gen-z-proteste-warum-fuehlt-sich-die-junge-generation-nicht-gehoert/2123749</link>
+      <pubDate>Mon, 02 Nov 2026 17:39:11 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">f59efa76-90d4-4bb4-a759-32d07ef9432b</guid>
+      <description>Originally published Mon 02 Nov 2026 10:00 IST.
+
+Die Jugendstudie 2026 zeigt, dass Deutschlands Jugend die Geduld verliert.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123749/c/feed/gen-z-proteste-warum-fuehlt-sich-die-junge-generation-nicht-gehoert.mp3" length="8581677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:31): Ukraine and Russia hit by fake emergency alerts</title>
+      <link>http://www.bbc.co.uk/programmes/p0pkww1f</link>
+      <pubDate>Mon, 02 Nov 2026 17:38:11 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">6416d328-ca9f-43d4-a5e7-bd1e94149c47</guid>
-      <description>Originally published Sun 01 Nov 2026 11:00 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pkww1f</guid>
+      <description>Originally published Mon 02 Nov 2026 18:31 IST.
 
-Nach den Protesten Zehntausender junger Menschen - organisiert von der Initiative &quot;GenZ regelt&quot; - hat es in mehreren deutschen Großstädten Ausschreitungen gegeben.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123731/c/feed/das-wichtigste-am-sonntagvormittag-2.mp3" length="16454061" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:46): Trump celebrates shock endorsement ahead of US midterms</title>
-      <link>http://www.bbc.co.uk/programmes/p0pksmf2</link>
-      <pubDate>Mon, 02 Nov 2026 07:01:30 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pksmf2</guid>
-      <description>Originally published Mon 02 Nov 2026 07:46 IST.
-
-&lt;p&gt;A shock endorsement in Michigan just days before the US midterm elections has been welcomed by President Trump. Democratic Congresswoman Haley Stevens backed Republican, Mike Rogers, rather than her own party's candidate, Abdul El- Sayed. Also: Hamas says at least eight people have been killed during Israeli air strikes on Gaza. Thousands participate in demonstrations in Germany over the cost of living and spending on education. Buddhists in Bhutan gather to build 108 structures in 24 hours in order to bless a &quot;mindfulness&quot; city. We hear from Karl Bushby, the British former paratrooper who is finally home after 28 years. And 20-year old Kimi Antonelli becomes the youngest champion in the history of Formula One at the Mexico Grand Prix.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: US Representative Haley Stevens speaks with the media next to Republican US Senate candidate Mike Rogers who she endorsed, after attending church in Michigan.
-Credit: RUTERS/Rebecca Cook&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pksm1b.mp3" length="14384000" type="audio/mpeg"/>
+&lt;p&gt;Ukraine reported late on Sunday that an air alert app had been compromised - with citizens receiving several false notifications about chemical and radiological threats. A few hours later, the authorities in Russia said a similar app had been hacked after fake messages appeared about nuclear warheads being launched towards the country. The apparent cyberattack came on the same day the humanitarian ceasefire in the Russian-occupied city of Oleshky officially ended. &lt;/p&gt;&lt;p&gt;Also: Monday is the last day of campaigning before the US midterm elections - we speak to voters in a key state. In Florida, investigators are on the scene of a plane crash that killed nine people and left a burning crater in a residential area. The BBC secures rare access to people inside Iran whose lives have been changed after a year of widespread protests, a brutal crackdown by the authorities and the war with the US and Israel. Dozens of supermarkets across Europe - particularly in Belgium and Luxembourg - have been hit by a suspected cyberattack affecting refrigerators and freezers. Sudan has complained to the UN against Ethiopia over drone attacks which it says were launched from Ethiopian territory... and⁠ police in Finland have launched a criminal investigation into possible breaches ⁠of the country’s environmental ⁠laws ​at the site of a planned Google data centre.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A woman holding a mobile phone.&lt;/p&gt;&lt;p&gt;Credit: PA&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkwrw5.mp3" length="13432000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
