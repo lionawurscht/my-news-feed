@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 01 Nov 2026 20:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:15:12 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:07): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3570562.html</link>
-      <pubDate>Sun, 01 Nov 2026 20:56:15 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:15:12 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">8e78bc9a-7c6f-48b3-be0b-7c0349b24576</guid>
       <description>Originally published Sun 01 Nov 2026 22:07 IST.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1101/AU-20261101-2107-2600.mp3" length="1752331" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 22:09): 3pm ET, November 01 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 02:10): 7pm ET, November 01 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 01 Nov 2026 20:55:15 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:14:12 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">a7b5dd37-8eab-460d-8d07-2dc9b7016ff4</guid>
-      <description>Originally published Sun 01 Nov 2026 22:09 IST.
+      <guid isPermaLink="false">e355c20c-07ee-4f07-962d-d977bc887934</guid>
+      <description>Originally published Mon 02 Nov 2026 02:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/55994d8c-d231-4b5d-a1bf-4fe600143388/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=55994d8c-d231-4b5d-a1bf-4fe600143388&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261101-1500-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c8df4fa0-85bf-4072-82eb-738c59444645/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c8df4fa0-85bf-4072-82eb-738c59444645&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261101-1900-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 01.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3570546.html</link>
-      <pubDate>Sun, 01 Nov 2026 20:54:15 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:13:12 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">9ddce89e-469d-4f5c-9b23-99c694286f96-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 01 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Friedliche Proteste der &quot;Gen Z regelt&quot;-Initiative enden mit Krawallen 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1101/AU-20261101-2031-2900.mp3" length="18234392" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 22:00): Die Nachrichten vom 01.11.2026, 21:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45016.html</link>
-      <pubDate>Sun, 01 Nov 2026 20:53:15 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 02:00): Die Nachrichten vom 02.11.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45024.html</link>
+      <pubDate>Mon, 02 Nov 2026 00:12:12 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">7e2d8dd5-bccc-5d99-b4e4-c129e13e2f59</guid>
-      <description>Originally published Sun 01 Nov 2026 22:00 IST.
+      <guid isPermaLink="false">976fa26c-8e32-5b36-9e58-be787fb87d16</guid>
+      <description>Originally published Mon 02 Nov 2026 02:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/01/nachrichten_dlf_20261101_2100_4bb28a26.mp3?refId=nachrichten-108" length="5010264" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/02/nachrichten_dlf_20261102_0100_008e44e3.mp3?refId=nachrichten-108" length="4956348" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (01.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-01112026</link>
-      <pubDate>Sun, 01 Nov 2026 20:52:15 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:11:12 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_5de7f08e7d51470fb5cca0abe5f853c6</guid>
       <description>Originally published Sun 01 Nov 2026 19:21 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 11:00): Das Wichtigste am Sonntagvormittag</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagvormittag-2/2123731</link>
-      <pubDate>Sun, 01 Nov 2026 20:51:15 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:10:12 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">6416d328-ca9f-43d4-a5e7-bd1e94149c47</guid>
       <description>Originally published Sun 01 Nov 2026 11:00 IST.
@@ -79,7 +79,7 @@ Nach den Protesten Zehntausender junger Menschen - organisiert von der Initiativ
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:47): Violent protests in France for the third weekend in a row</title>
       <link>http://www.bbc.co.uk/programmes/p0pkpg0p</link>
-      <pubDate>Sun, 01 Nov 2026 20:50:15 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:09:12 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pkpg0p</guid>
       <description>Originally published Sun 01 Nov 2026 06:47 IST.
