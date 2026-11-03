@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:27:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,96 +13,93 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 15:58): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3574346.html</link>
-      <pubDate>Tue, 03 Nov 2026 15:45:31 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 22:28): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3575086.html</link>
+      <pubDate>Tue, 03 Nov 2026 21:27:38 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">786a53cb-17d0-4487-a378-7b82f58b8f60</guid>
-      <description>Originally published Tue 03 Nov 2026 15:58 IST.
+      <guid isPermaLink="false">a9d0d4d9-9b16-4d50-ae92-b773c26de9d9</guid>
+      <description>Originally published Tue 03 Nov 2026 22:28 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1103/AU-20261103-1458-0100.mp3" length="2098699" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1103/AU-20261103-2128-0000.mp3" length="1884427" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 17:10): 10am ET, November 03 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 23:10): 4pm ET, November 03 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 03 Nov 2026 15:44:31 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:26:38 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c691a412-0ce8-412f-a4d3-e2d7944e1798</guid>
-      <description>Originally published Tue 03 Nov 2026 17:10 IST.
+      <guid isPermaLink="false">8d12ee94-710f-44eb-964c-855394906504</guid>
+      <description>Originally published Tue 03 Nov 2026 23:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e45b4fd5-5d1d-41c6-9565-9ff8f6a7d2ec/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e45b4fd5-5d1d-41c6-9565-9ff8f6a7d2ec&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261103-1000-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7740c52e-6ce2-4378-8d1f-2deb21f9dce5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7740c52e-6ce2-4378-8d1f-2deb21f9dce5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261103-1600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 02.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3572818.html</link>
-      <pubDate>Tue, 03 Nov 2026 15:43:31 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 03.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3575052.html</link>
+      <pubDate>Tue, 03 Nov 2026 21:25:38 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">52190bb6-321d-49e7-ba21-b66701341b97-SENDUNGSAUDIO</guid>
-      <description>Originally published Mon 02 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">d66e72af-0044-4d68-9512-164183a0d6af-SENDUNGSAUDIO</guid>
+      <description>Originally published Tue 03 Nov 2026 21:00 IST.
 
-Wirtschaftsministerin Reiche legt ersten Entwurf für Spritpreisdeckel vor, Kanzler Merz spricht sich für Frau als Bundespräsidentin aus, Bundesregierung will Deutschland zu einer führenden KI-Nation machen, Nettetal in Nordrhein-Westfalen und die digitale Unabhängigkeit, Prozessauftakt nach Amokfahrt in Leipziger Fußgängerzone, Jüdische Akademie in Frankfurt am Main eröffnet, Tote nach russischen Luftangriffen auf die Ukraine, Midterms: Umfragen zufolge droht Republikanern der Verlust der Mehrheit im US-Repräsentantenhaus, Kimi Antonelli ist neuer und jüngster Weltmeister der Formel-1-Geschichte, Das Wetter Hinweis: Der Beitrag zum Thema „Formel 1“ darf auf tagesschau.de aus rechtlichen Gründen nicht gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1102/AU-20261102-2030-4301.mp3" length="14997283" type="audio/mpeg"/>
+Kanzler Merz sichert beim Besuch von Selenskyj in Berlin Ukraine weitere Winterhilfen zu, US-Midterms: Wahl über Sitze im Repräsentantenhaus, Fränkische Auto- und Industriezulieferer Schaeffler will fast 3.500 Stellen abbauen, EU genehmigt Übernahme von MediaMarktSaturn durch chinesischen Konzern JD.com, Ein Jahr „Bau-Turbo“: Bauministerin Hubertz wertet Neuregelung als Erfolg, Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten, Lucky Luke feiert 80. Geburtstag, Das Wetter Hinweis: Der Beitrag zum Thema „Lucky Luke“ darf auf tagesschau.de aus rechtlichen Gründen nicht gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1103/AU-20261103-2038-3600.mp3" length="14747683" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 17:30): Die Nachrichten vom 03.11.2026, 16:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45154.html</link>
-      <pubDate>Tue, 03 Nov 2026 15:42:31 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 23:00): Die Nachrichten vom 03.11.2026, 22:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45168.html</link>
+      <pubDate>Tue, 03 Nov 2026 21:24:38 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">c1ffd0c1-b990-519a-915e-991eee3ebdb1</guid>
-      <description>Originally published Tue 03 Nov 2026 17:30 IST.
+      <guid isPermaLink="false">046d58cb-162d-5993-a1c0-a364285fc5aa</guid>
+      <description>Originally published Tue 03 Nov 2026 23:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/03/nachrichten_dlf_20261103_1630_c50813f9.mp3?refId=nachrichten-108" length="5059166" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/03/nachrichten_dlf_20261103_2200_e7363305.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 14:10): Mittagsjournal (03.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-03112026</link>
-      <pubDate>Tue, 03 Nov 2026 15:41:31 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (03.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-03112026</link>
+      <pubDate>Tue, 03 Nov 2026 21:23:38 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_af6a0c6718fe416c8df326c20ad63d64</guid>
-      <description>Originally published Tue 03 Nov 2026 14:10 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_af6a0c6718fe416c8df326c20ad63d64.mp3?etag=281c41189daeec71d69d92abebff472c" length="34304231" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_e6c457b0a4ab40be902f992a71b592f2</guid>
+      <description>Originally published Tue 03 Nov 2026 19:33 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_e6c457b0a4ab40be902f992a71b592f2.mp3?etag=0d63615779b64ad73e0c8b4c32eed30a" length="36409891" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 09:12): Midterms in den USA: Droht Trump eine Schlappe?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/midterms-in-den-usa-droht-trump-eine-schlappe/2123779</link>
-      <pubDate>Tue, 03 Nov 2026 15:40:31 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Gaswerk in Jänschwalde | Handyblitzer | Waffengesetz-Reform</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/gaswerk-jaenschwalde-handyblitzer-waffengesetz-reform.html</link>
+      <pubDate>Tue, 03 Nov 2026 21:22:38 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">704d57a0-abab-4e5f-a1d4-d36ddebdc591</guid>
-      <description>Originally published Tue 03 Nov 2026 09:12 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/e8/bf/e8bf13f2-9570-4bf2-8711-abb521368c38/e8bf13f2-9570-4bf2-8711-abb521368c38_mp3-256kd.mp3</guid>
+      <description>Originally published Tue 03 Nov 2026 19:17 IST.
 
-Bei den Zwischenwahlen in den USA geht es um die Zusammensetzung des Kongresses und in beiden Kammern haben die Republikaner von US-Präsident Trump eine hauchdünne Mehrheit. Laut Umfragen könnte sich das ändern.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123779/c/feed/midterms-in-den-usa-droht-trump-eine-schlappe.mp3" length="9083181" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Kinderarzt-Prozess | Erinnerungsort Oranienburg | Nach Krawallen im MV</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/kinderarzt-prozess-erinnerungsort-oranienburg-krawalle-mv.html</link>
-      <pubDate>Tue, 03 Nov 2026 15:39:31 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/4a/bd/4abd6853-21f5-4ddc-ab38-604bb6257011/4abd6853-21f5-4ddc-ab38-604bb6257011_mp3-256kd.mp3</guid>
-      <description>Originally published Mon 02 Nov 2026 19:17 IST.
-
-In Potsdam steht seit Montag ein Kinderarzt vor Gericht. Ihm wird sexueller Missbrauch von Kindern und Jugendlichen in &amp;#252;ber 100 F&amp;#228;llen vorgeworfen. Au&amp;#223;erdem: Neuer Erinnerungsort im KZ Oranienburg wird eingeweiht; Nach Krawallen: Stimmung im M&amp;#228;rkischen Viertel; Baustelle Sch&amp;#246;nhauser Allee: Was kommt auf Anwohnende zu?
+Die Bundesnetzagentur hat heute bekanntgegeben, dass die Leag den Zuschlag f&amp;#252;r mehrere neue Gaskraftwerke erhalten hat. Au&amp;#223;erdem: Handyblitzer - was ist geplant, wie sinnvoll? Kampagne zur Reform des Waffengesetzes; Zwischenstand Baum-Entscheid.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/4a/bd/4abd6853-21f5-4ddc-ab38-604bb6257011/4abd6853-21f5-4ddc-ab38-604bb6257011_mp3-256kd.mp3" length="30182928" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/e8/bf/e8bf13f2-9570-4bf2-8711-abb521368c38/e8bf13f2-9570-4bf2-8711-abb521368c38_mp3-256kd.mp3" length="30907916" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:32): Ukraine accuses Russia of hitting school used as aid centre</title>
-      <link>http://www.bbc.co.uk/programmes/p0pkz9jt</link>
-      <pubDate>Tue, 03 Nov 2026 15:38:31 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pkz9jt</guid>
-      <description>Originally published Tue 03 Nov 2026 07:32 IST.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:08): Cyberangriff auf Kühlsysteme: Wie anfällig ist unsere Infrastruktur?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/cyberangriff-auf-kuehlsysteme-wie-anfaellig-ist-unsere-infrastruktur/2123798</link>
+      <pubDate>Tue, 03 Nov 2026 21:21:38 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">548015c8-9f42-4df8-abd6-a8eb959ba968</guid>
+      <description>Originally published Tue 03 Nov 2026 19:08 IST.
 
-&lt;p&gt;President Zelensky described as utterly horrific a Russian attack in the southern Ukrainian region of Zaporizhzhia that killed at least 26 people. He said the first air strike was on a school building which was being used as an aid distribution centre. It was followed by nine more bombs targeting a shelter where people were taking cover. Among those killed in the second attack were police and rescue workers who had gone to help. Also: final campaigning has been taking place in the United States on the eve of the midterm elections, which President Trump has described as the most important &quot;in our lifetime&quot;. We hear from a man in the Netherlands whose parents opted for duo-euthanasia, where a person receives a lethal injection at the same time as a loved one. Snapchat settles a multi-million-dollar lawsuit following claims that its app was designed to be addictive. And the million-pound game show on British television that wasn't quite what it appeared to be.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: General view of a compound of a local school where a Russian air strike hit an underground shelter, which was used as a humanitarian aid hub in the frontline town of Komyshuvakha, in Zaporizhzhia region, Ukraine, November 2, 2026. 
-Credit: Press service of the State Emergency Service of Ukraine in Zaporizhzhia region.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkz8zd.mp3" length="13680000" type="audio/mpeg"/>
+Mehrere Länder in Europa haben Cyberangriffe auf Gefrier- und Kühlanlagen in Supermärkten gemeldet.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123798/c/feed/cyberangriff-auf-kuehlsysteme-wie-anfaellig-ist-unsere-infrastruktur.mp3" length="8791341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:45): Americans vote in pivotal midterm elections</title>
+      <link>http://www.bbc.co.uk/programmes/p0pl435f</link>
+      <pubDate>Tue, 03 Nov 2026 21:20:38 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pl435f</guid>
+      <description>Originally published Tue 03 Nov 2026 18:45 IST.
+
+&lt;p&gt;US voters decide whether Donald Trump keeps control of Congress in the midterm elections. The Democrats are predicted to win back control of the House, and possibly the Senate, although many key contests are within the margin of error.&lt;/p&gt;&lt;p&gt;Also: several flights land at airports around Europe after all being targeted by suspected bomb threats; Tenerife footballer, Jesus de Miguel, dies after on-field collision; King Charles calls the slave trade a &quot;shameful chapter&quot; in Britain's history; hundreds of garment factories in Bangladesh are forced to close after several days of violent protests; North Korea denies role in the  massive theft of cryptocurrency in a major cyberattack on Binance; and the new word of the year for 2026. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Image: Voters fill out their ballots to vote in the midterm election on Election Day in Detroit, Michigan, USA, 03 November 2026
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl42gf.mp3" length="13752000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
