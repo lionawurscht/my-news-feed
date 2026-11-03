@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:24:45 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,74 +13,87 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:30): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3572606.html</link>
-      <pubDate>Mon, 02 Nov 2026 17:44:11 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:50): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3572836.html</link>
+      <pubDate>Tue, 03 Nov 2026 00:24:45 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">5d385757-3522-4424-89fe-4b21b777336e</guid>
-      <description>Originally published Mon 02 Nov 2026 19:30 IST.
+      <guid isPermaLink="false">3918e2c5-e4be-4dc4-a832-571535d873be</guid>
+      <description>Originally published Mon 02 Nov 2026 22:50 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1102/AU-20261102-1829-5300.mp3" length="2070667" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1102/AU-20261102-2150-2000.mp3" length="2230411" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 19:09): 12pm ET, November 02 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 02:10): 7pm ET, November 02 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 02 Nov 2026 17:43:11 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:23:45 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">915ef2c9-7173-4755-9762-4e4166812278</guid>
-      <description>Originally published Mon 02 Nov 2026 19:09 IST.
+      <guid isPermaLink="false">c6c62bd1-3bb5-4d95-90c0-2392551cf493</guid>
+      <description>Originally published Tue 03 Nov 2026 02:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/bed306b3-e540-4ef2-b104-625bc73ac006/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=bed306b3-e540-4ef2-b104-625bc73ac006&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261102-1200-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e99a6c97-4473-4db3-a0ba-ef279d86d177/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e99a6c97-4473-4db3-a0ba-ef279d86d177&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261102-1900-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 01.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3570546.html</link>
-      <pubDate>Mon, 02 Nov 2026 17:42:11 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 02.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3572818.html</link>
+      <pubDate>Tue, 03 Nov 2026 00:22:45 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">9ddce89e-469d-4f5c-9b23-99c694286f96-SENDUNGSAUDIO</guid>
-      <description>Originally published Sun 01 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">52190bb6-321d-49e7-ba21-b66701341b97-SENDUNGSAUDIO</guid>
+      <description>Originally published Mon 02 Nov 2026 21:00 IST.
 
-Friedliche Proteste der &quot;Gen Z regelt&quot;-Initiative enden mit Krawallen in mehreren Städten, Innenminister Dobrindt kündigt hartes Vorgehen gegen Randalierer an, Möglicher Hacker-Angriff auf Abgeordnete des Bundestages und Regierungsmitglieder, Ukraine greift Zentralrussland mit Langstreckendrohnen an, Golfstaaten sind besorgt über mögliche erneute US-Angriffe auf den Iran, EU verlangt Bearbeitungsgebühr für Pakete aus Drittstaaten, Katholische Gläubige begehen in vielen Teilen Deutschlands Allerheiligen, Film- und Fernsehproduzentin Regina Ziegler im Alter von 82 Jahren gestorben, Ergebnisse der Fußball-Bundesliga, Schnee auf dem Fichtelberg, Das Wetter Hinweis: Der Beitrag zur Fußball-Bundesliga darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1101/AU-20261101-2031-2900.mp3" length="18234392" type="audio/mpeg"/>
+Wirtschaftsministerin Reiche legt ersten Entwurf für Spritpreisdeckel vor, Kanzler Merz spricht sich für Frau als Bundespräsidentin aus, Bundesregierung will Deutschland zu einer führenden KI-Nation machen, Nettetal in Nordrhein-Westfalen und die digitale Unabhängigkeit, Prozessauftakt nach Amokfahrt in Leipziger Fußgängerzone, Jüdische Akademie in Frankfurt am Main eröffnet, Tote nach russischen Luftangriffen auf die Ukraine, Midterms: Umfragen zufolge droht Republikanern der Verlust der Mehrheit im US-Repräsentantenhaus, Kimi Antonelli ist neuer und jüngster Weltmeister der Formel-1-Geschichte, Das Wetter Hinweis: Der Beitrag zum Thema „Formel 1“ darf auf tagesschau.de aus rechtlichen Gründen nicht gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1102/AU-20261102-2030-4301.mp3" length="14997283" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 02:00): Die Nachrichten vom 03.11.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45098.html</link>
+      <pubDate>Tue, 03 Nov 2026 00:21:45 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">e6530b69-05d3-5dab-aa3d-3a3cbd04a1f1</guid>
+      <description>Originally published Tue 03 Nov 2026 02:00 IST.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/03/nachrichten_dlf_20261103_0100_9bb4a32f.mp3?refId=nachrichten-108" length="4987277" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Mon 19:32): Abendjournal um 18 (02.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-02112026</link>
-      <pubDate>Mon, 02 Nov 2026 17:41:11 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Tue, 03 Nov 2026 00:20:45 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_4b5ee5fc848842f3a822d046c6ff8180</guid>
       <description>Originally published Mon 02 Nov 2026 19:32 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4b5ee5fc848842f3a822d046c6ff8180.mp3?etag=bebfd080f02f9c543bfade4770faf81d" length="36590359" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 19:00): Die Nachrichten vom 02.11.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45086.html</link>
-      <pubDate>Mon, 02 Nov 2026 17:40:11 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">e7ef58ba-4bbf-5a3d-a522-ab9894314116</guid>
-      <description>Originally published Mon 02 Nov 2026 19:00 IST.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 19:45): Hackerangriff auf Bundestagsabgeordnete: Wie kann man sich vor Spyware schützen?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/hackerangriff-auf-bundestagsabgeordnete-wie-kann-man-sich-vor-spyware-schuetzen/2123764</link>
+      <pubDate>Tue, 03 Nov 2026 00:19:45 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">5253a172-d50d-4f3e-916b-4a16b2ddf431</guid>
+      <description>Originally published Mon 02 Nov 2026 19:45 IST.
 
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/02/nachrichten_dlf_20261102_1800_e5341bc1.mp3?refId=nachrichten-108" length="9566019" type="audio/mpeg"/>
+Die Smartphones mehrerer Bundestagsabgeordneter und auch Regierungsmitglieder wurden offenbar mit sogenannter Spyware infiziert.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123764/c/feed/hackerangriff-auf-bundestagsabgeordnete-wie-kann-man-sich-vor-spyware-schuetzen.mp3" length="7438509" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 10:00): Gen-Z Proteste: Warum fühlt sich die junge Generation nicht gehört?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/gen-z-proteste-warum-fuehlt-sich-die-junge-generation-nicht-gehoert/2123749</link>
-      <pubDate>Mon, 02 Nov 2026 17:39:11 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">f59efa76-90d4-4bb4-a759-32d07ef9432b</guid>
-      <description>Originally published Mon 02 Nov 2026 10:00 IST.
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Kinderarzt-Prozess | Erinnerungsort Oranienburg | Nach Krawallen im MV</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/kinderarzt-prozess-erinnerungsort-oranienburg-krawalle-mv.html</link>
+      <pubDate>Tue, 03 Nov 2026 00:18:45 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/4a/bd/4abd6853-21f5-4ddc-ab38-604bb6257011/4abd6853-21f5-4ddc-ab38-604bb6257011_mp3-256kd.mp3</guid>
+      <description>Originally published Mon 02 Nov 2026 19:17 IST.
 
-Die Jugendstudie 2026 zeigt, dass Deutschlands Jugend die Geduld verliert.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123749/c/feed/gen-z-proteste-warum-fuehlt-sich-die-junge-generation-nicht-gehoert.mp3" length="8581677" type="audio/mpeg"/>
+In Potsdam steht seit Montag ein Kinderarzt vor Gericht. Ihm wird sexueller Missbrauch von Kindern und Jugendlichen in &amp;#252;ber 100 F&amp;#228;llen vorgeworfen. Au&amp;#223;erdem: Neuer Erinnerungsort im KZ Oranienburg wird eingeweiht; Nach Krawallen: Stimmung im M&amp;#228;rkischen Viertel; Baustelle Sch&amp;#246;nhauser Allee: Was kommt auf Anwohnende zu?
+&amp;#160;
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/4a/bd/4abd6853-21f5-4ddc-ab38-604bb6257011/4abd6853-21f5-4ddc-ab38-604bb6257011_mp3-256kd.mp3" length="30182928" type="audio/x-mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:31): Ukraine and Russia hit by fake emergency alerts</title>
       <link>http://www.bbc.co.uk/programmes/p0pkww1f</link>
-      <pubDate>Mon, 02 Nov 2026 17:38:11 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 03 Nov 2026 00:17:45 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pkww1f</guid>
       <description>Originally published Mon 02 Nov 2026 18:31 IST.
 
