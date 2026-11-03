@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:45:31 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 07:05): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3573100.html</link>
-      <pubDate>Tue, 03 Nov 2026 07:30:36 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 15:58): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3574346.html</link>
+      <pubDate>Tue, 03 Nov 2026 15:45:31 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">96391d78-7cfa-43fe-b545-e038e69817d9</guid>
-      <description>Originally published Tue 03 Nov 2026 07:05 IST.
+      <guid isPermaLink="false">786a53cb-17d0-4487-a378-7b82f58b8f60</guid>
+      <description>Originally published Tue 03 Nov 2026 15:58 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1103/AU-20261103-0604-5800.mp3" length="2056459" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1103/AU-20261103-1458-0100.mp3" length="2098699" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 09:10): 2am ET, November 03 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 17:10): 10am ET, November 03 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 03 Nov 2026 07:29:36 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 15:44:31 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">929af8fe-ec29-44b3-ba79-045ed075dc6b</guid>
-      <description>Originally published Tue 03 Nov 2026 09:10 IST.
+      <guid isPermaLink="false">c691a412-0ce8-412f-a4d3-e2d7944e1798</guid>
+      <description>Originally published Tue 03 Nov 2026 17:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4566494f-fe6c-42b9-a1f6-6f594ca1c1b1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4566494f-fe6c-42b9-a1f6-6f594ca1c1b1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261103-0200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Tue 07:00): חדשון בעברית קלה (03/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Tue, 03 Nov 2026 07:28:36 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/3-11-26.m4a</guid>
-      <description>Originally published Tue 03 Nov 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• דִיווּחַ: ארה&quot;ב תָקפָה לאַחרוֹנָה, גם הלַילָה, כּמה פּעָמים בּאֵזוֹר מְצַר הוֹרמוּז, אך התְקִיפוֹת נִשמְרוּ בּסוֹד כּדֵי לא לִפגוֹעַ בּמַשָׂא וּמַתָן עִם אִירַאן
-• בארה&quot;ב יִתקַיימוּ היוֹם בּחִירוֹת האֶמצַע לקוֹנגְרֶס. בּישׂראל מַעֲרִיכִים כי בּשָבוּעוֹת הקְרוֹבים יַחלִיט הנשׂיא טראמפּ האִם לִתקוֹף שוב בּאירַאן
-• השַבַּ&quot;כּ מַמשִיך בּחֲקִירַת החֲשָד להִתעָרבוּת זָרָה בּהַצבָּעַת החֶברָה העַרבִית בּבּחירוֹת. גוֹרמִים בּמִשטָרה מַעֲריכים שֶהרְאָיוֹת למְעוֹרָבוּת מִצַד קַטַאר חַלָשוֹת מאוד
-• רה&quot;מ נתניהו קָרא אֶמֶש להֲקָמָתָה של מֶמשלה לאוּמית רְחָבה בּרָאשוּתוֹ, ואָמר כי הצִיבּוּר הישׂראֵלי אֵינוֹ רוצה מֶמשלה התְלוּיָה בּרַעַ&quot;ם וברְשִימָה המְשוּתֶפת, שֶתוֹמכוֹת בּטֵרוֹר ושוֹלְלוֹת את המְדינה היהוּדית
-• יו&quot;ר 'ישר!' גָדי אַייזנקוֹט הִבהִיר בּשִׂיחוֹת סְגוּרוֹת שֶלֹא יֵשֵב בּמֶמשלה שֶנתניהו עוֹמֵד בּרֹאשָה
-• אֲביגדוֹר לִיבֶּרמַן: &quot;האֶפשָרוּת הכי טוֹבה – קוֹאָלִיציָה עִם הלִיכּוּד ללֹא נתניהו. אִם אַייזנקוֹט יַרכִּיב מֶמשֶלת מִיעוּט, אֶתנַגֵד בְּתוֹקֶף&quot;
-• מַעֲרַך הסַייבֵּר הלְאוּמִי הִזהִיר חֶברוֹת מָזוֹן בּישׂראל, בּעִקבוֹת המִתקָפוֹת על מְקָרְרִים בּרִשתוֹת שִיווּק בּאֵירוֹפָּה
-• התִַחֲזית: יְרידָה נִיכֶּרֶת בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/3-11-26.m4a" length="1858469" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e45b4fd5-5d1d-41c6-9565-9ff8f6a7d2ec/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e45b4fd5-5d1d-41c6-9565-9ff8f6a7d2ec&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261103-1000-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 02.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3572818.html</link>
-      <pubDate>Tue, 03 Nov 2026 07:27:36 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Tue, 03 Nov 2026 15:43:31 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">52190bb6-321d-49e7-ba21-b66701341b97-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 02 Nov 2026 21:00 IST.
 
@@ -68,30 +46,30 @@ Wirtschaftsministerin Reiche legt ersten Entwurf für Spritpreisdeckel vor, Kanz
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1102/AU-20261102-2030-4301.mp3" length="14997283" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:26): Morgenjournal um 8 (03.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-03112026</link>
-      <pubDate>Tue, 03 Nov 2026 07:26:36 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_2fca8465e51a4301a74c70156381e37b</guid>
-      <description>Originally published Tue 03 Nov 2026 09:26 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2fca8465e51a4301a74c70156381e37b.mp3?etag=321d0dd6f6b97aa5dacbe8370bfc8ec4" length="29277646" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 09:00): Die Nachrichten vom 03.11.2026, 08:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45120.html</link>
-      <pubDate>Tue, 03 Nov 2026 07:25:36 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">f935f724-f40b-5490-922c-6bd29127ffdb</guid>
-      <description>Originally published Tue 03 Nov 2026 09:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 17:30): Die Nachrichten vom 03.11.2026, 16:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45154.html</link>
+      <pubDate>Tue, 03 Nov 2026 15:42:31 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">c1ffd0c1-b990-519a-915e-991eee3ebdb1</guid>
+      <description>Originally published Tue 03 Nov 2026 17:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/03/nachrichten_dlf_20261103_0800_163526f9.mp3?refId=nachrichten-108" length="9548883" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/03/nachrichten_dlf_20261103_1630_c50813f9.mp3?refId=nachrichten-108" length="5059166" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 14:10): Mittagsjournal (03.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-03112026</link>
+      <pubDate>Tue, 03 Nov 2026 15:41:31 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_af6a0c6718fe416c8df326c20ad63d64</guid>
+      <description>Originally published Tue 03 Nov 2026 14:10 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_af6a0c6718fe416c8df326c20ad63d64.mp3?etag=281c41189daeec71d69d92abebff472c" length="34304231" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 09:12): Midterms in den USA: Droht Trump eine Schlappe?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/midterms-in-den-usa-droht-trump-eine-schlappe/2123779</link>
-      <pubDate>Tue, 03 Nov 2026 07:24:36 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 03 Nov 2026 15:40:31 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">704d57a0-abab-4e5f-a1d4-d36ddebdc591</guid>
       <description>Originally published Tue 03 Nov 2026 09:12 IST.
 
@@ -101,8 +79,8 @@ Bei den Zwischenwahlen in den USA geht es um die Zusammensetzung des Kongresses 
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Kinderarzt-Prozess | Erinnerungsort Oranienburg | Nach Krawallen im MV</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/kinderarzt-prozess-erinnerungsort-oranienburg-krawalle-mv.html</link>
-      <pubDate>Tue, 03 Nov 2026 07:23:36 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Tue, 03 Nov 2026 15:39:31 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/4a/bd/4abd6853-21f5-4ddc-ab38-604bb6257011/4abd6853-21f5-4ddc-ab38-604bb6257011_mp3-256kd.mp3</guid>
       <description>Originally published Mon 02 Nov 2026 19:17 IST.
 
@@ -114,8 +92,8 @@ In Potsdam steht seit Montag ein Kinderarzt vor Gericht. Ihm wird sexueller Miss
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:32): Ukraine accuses Russia of hitting school used as aid centre</title>
       <link>http://www.bbc.co.uk/programmes/p0pkz9jt</link>
-      <pubDate>Tue, 03 Nov 2026 07:22:36 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
+      <pubDate>Tue, 03 Nov 2026 15:38:31 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pkz9jt</guid>
       <description>Originally published Tue 03 Nov 2026 07:32 IST.
 
