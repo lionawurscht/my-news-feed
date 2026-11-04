@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:47:14 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 10:07): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3575788.html</link>
-      <pubDate>Wed, 04 Nov 2026 08:30:55 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 15:36): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3576572.html</link>
+      <pubDate>Wed, 04 Nov 2026 16:47:14 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">e76818a8-393f-40bc-b0e5-e6985ba15ab3</guid>
-      <description>Originally published Wed 04 Nov 2026 10:07 IST.
+      <guid isPermaLink="false">859f4cfe-03a2-47cc-a7a1-696e95106e1b</guid>
+      <description>Originally published Wed 04 Nov 2026 15:36 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1104/AU-20261104-0906-5900.mp3" length="2698891" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1104/AU-20261104-1436-4800.mp3" length="1980427" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 10:10): 3am ET, November 04 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 17:14): 10am ET, November 04 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 04 Nov 2026 08:29:55 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 16:46:14 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">5fb07df8-254e-44b4-b340-7b2cc3784bb3</guid>
-      <description>Originally published Wed 04 Nov 2026 10:10 IST.
+      <guid isPermaLink="false">d398a6c1-554f-4e17-aee9-53fd890a87e0</guid>
+      <description>Originally published Wed 04 Nov 2026 17:14 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e595665a-97ed-46fe-9496-eaadb9cc4418/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e595665a-97ed-46fe-9496-eaadb9cc4418&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261104-0300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Wed 07:00): חדשון בעברית קלה (04/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Wed, 04 Nov 2026 08:28:55 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/4-11-26.m4a</guid>
-      <description>Originally published Wed 04 Nov 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• היוֹם אַחַר הצוֹהרַיִים יַתחילוּ ההִתיַיעֲצוּיוֹת עִם נצִיגֵי המִפלָגוֹת בּבֵית הנשׂיא. מִפלגוֹת ש&quot;ס, עוֹצמָה יהוּדית והצִיוֹנוּת הדָתית יַמליצוּ לנשׂיא להָטִיל על נתניהו את הַרכָּבַת המֶמשלה
-• רה&quot;מ נתניהו פִּרסֵם אתמול הוֹדָעָה רִשמִית על התְמִיכָה שלו בּחֲרֵדים, והִבטִיחַ לקַדֵם את חוֹק הפְּטוֹר מגִיוּס
-• בארה&quot;ב התקַיימוּ אתמול בּחִירוֹת האֶמצַע לקוֹנגְרֶס. הדֶמוֹקרָטים זָכוּ בּרוֹב בּבֵית הנִבחָרים וגם בּסֵנָאט
-• הנשׂיא טראמפּ הוֹדִיעַ: נַפסִיק את הסִיוּעַ הבִּיטחוֹנִי לישׂראל בּסוֹף השָנה
-• השַבַּ&quot;כּ מַמשִיך בּחֲקִירַת החֲשָד להִתעָרבוּת זָרָה בּהַצבָּעַת החֶברָה העַרבִית בּבּחירוֹת. היועַמַ&quot;שִית גַלי בַּהרַב-מִיאַרה טוֹעֶנֶת: בּמדִינַת חוֹק אִי אפשָר לַחקוֹר אנָשים ללֹא רְאָיוֹת
-• חבֵר וַעֲדַת הבּחירוֹת המֶרכָּזית מִטַעַם אגוּדַת ישׂראל דִיוֵוחַ אתמול כי בּמִסגֶרֶת בּדיקַת טוֹהַר הבּחִירוֹת נִגרְעוּ 968 קוֹלוֹת מהמִפלָגוֹת העַרבִיוֹת, ללא הַשפָּעה מַשמָעוּתית על חֲלוּקַת המַנדָטִים
-• המֶרכָּז הרְפוּאִי אִיכִילוֹב חָתם על הֶסכֵּם שִיתוּף פְּעוּלָה עִם חֶברַת בִּינָה מְלָאכוּתִית
-• התִַחֲזית: הִתקָרְרוּת קַלה
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/4-11-26.m4a" length="1726918" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f9a1a1d8-83e1-4056-bf9e-4b00b7ab9a10/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f9a1a1d8-83e1-4056-bf9e-4b00b7ab9a10&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261104-1000-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 03.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3575052.html</link>
-      <pubDate>Wed, 04 Nov 2026 08:27:55 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Wed, 04 Nov 2026 16:45:14 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d66e72af-0044-4d68-9512-164183a0d6af-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 03 Nov 2026 21:00 IST.
 
@@ -68,41 +46,41 @@ Kanzler Merz sichert beim Besuch von Selenskyj in Berlin Ukraine weitere Winterh
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1103/AU-20261103-2038-3600.mp3" length="14747683" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 10:00): Die Nachrichten vom 04.11.2026, 09:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45200.html</link>
-      <pubDate>Wed, 04 Nov 2026 08:26:55 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">7a4dbd20-953c-5fd5-b350-9c9e70b295df</guid>
-      <description>Originally published Wed 04 Nov 2026 10:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 18:30): Die Nachrichten vom 04.11.2026, 17:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45232.html</link>
+      <pubDate>Wed, 04 Nov 2026 16:44:14 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">df6d158c-a9da-5055-97ee-a04247bd3116</guid>
+      <description>Originally published Wed 04 Nov 2026 18:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/04/nachrichten_dlf_20261104_0900_ac92775d.mp3?refId=nachrichten-108" length="4936286" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/04/nachrichten_dlf_20261104_1730_a7655cdb.mp3?refId=nachrichten-108" length="4983933" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:27): Morgenjournal um 8 (04.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-04112026</link>
-      <pubDate>Wed, 04 Nov 2026 08:25:55 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 18:16): Journal um 5 (04.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-04112026</link>
+      <pubDate>Wed, 04 Nov 2026 16:43:14 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_1a028d02770d4bc3a52de3b78fb516bf</guid>
+      <description>Originally published Wed 04 Nov 2026 18:16 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_1a028d02770d4bc3a52de3b78fb516bf.mp3?etag=1bf74f3eaa83cbe95fa6c3b7bf20e44f" length="13394124" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 17:51): Eine Mordserie und viele offene Fragen: 15 Jahre Selbstenttarnung NSU</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eine-mordserie-und-viele-offene-fragen-15-jahre-selbstenttarnung-nsu/2123835</link>
+      <pubDate>Wed, 04 Nov 2026 16:42:14 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_f2452a11733c4cd493be77b355d8369f</guid>
-      <description>Originally published Wed 04 Nov 2026 09:27 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f2452a11733c4cd493be77b355d8369f.mp3?etag=85915d6e080fc6fa6a6ae1ff77030c6e" length="29374510" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 10:15): Zwischenwahlen in den USA: Was die Niederlage von Trumps Regierung jetzt bedeutet</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/zwischenwahlen-in-den-usa-was-die-niederlage-von-trumps-regierung-jetzt-bedeutet/2123814</link>
-      <pubDate>Wed, 04 Nov 2026 08:24:55 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">513c1529-4b90-408c-a719-d8a8060cf37f</guid>
-      <description>Originally published Wed 04 Nov 2026 10:15 IST.
+      <guid isPermaLink="false">74b041f2-ab2e-4e0c-93ca-be37e8d74d05</guid>
+      <description>Originally published Wed 04 Nov 2026 17:51 IST.
 
-Die Demokraten haben bei den US-Midterms überraschend deutlich sowohl die Mehrheit im Repräsentantenhaus und im Senat geholt.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123814/c/feed/zwischenwahlen-in-den-usa-was-die-niederlage-von-trumps-regierung-jetzt-bedeutet.mp3" length="10679853" type="audio/mpeg"/>
+Genau 15 Jahre ist es her, dass die Aufklärung einer Mordserie die Schlagzeilen beherrschte. Jahrelang hatte die Terrorgruppe Nationalsozialistischer Untergrund unentdeckt Rauberüberfälle verübt, Sprengstoffanschläge durchgeführt und Menschen umgebracht. Noch immer gibt es viele offene Fragen und die Aufarbeitung ist nicht abgeschlossen.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123835/c/feed/eine-mordserie-und-viele-offene-fragen-15-jahre-selbstenttarnung-nsu.mp3" length="8439213" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Gaswerk in Jänschwalde | Handyblitzer | Waffengesetz-Reform</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/gaswerk-jaenschwalde-handyblitzer-waffengesetz-reform.html</link>
-      <pubDate>Wed, 04 Nov 2026 08:23:55 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Wed, 04 Nov 2026 16:41:14 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/e8/bf/e8bf13f2-9570-4bf2-8711-abb521368c38/e8bf13f2-9570-4bf2-8711-abb521368c38_mp3-256kd.mp3</guid>
       <description>Originally published Tue 03 Nov 2026 19:17 IST.
 
@@ -112,19 +90,19 @@ Die Bundesnetzagentur hat heute bekanntgegeben, dass die Leag den Zuschlag f&amp
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/e8/bf/e8bf13f2-9570-4bf2-8711-abb521368c38/e8bf13f2-9570-4bf2-8711-abb521368c38_mp3-256kd.mp3" length="30907916" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:51): Democrats projected to take control of US Congress</title>
-      <link>http://www.bbc.co.uk/programmes/p0pl6m46</link>
-      <pubDate>Wed, 04 Nov 2026 08:22:55 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pl6m46</guid>
-      <description>Originally published Wed 04 Nov 2026 07:51 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:36): Democrats storm to success in US midterm elections</title>
+      <link>http://www.bbc.co.uk/programmes/p0pl9nf9</link>
+      <pubDate>Wed, 04 Nov 2026 16:40:14 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pl9nf9</guid>
+      <description>Originally published Wed 04 Nov 2026 18:36 IST.
 
-&lt;p&gt;The Democratic Party inflicted a huge upset on the Republicans in the US midterm elections. In the Senate race in Texas, the Democrat James Talarico is projected to beat the Republican Ken Paxton. He'll join Democratic Senators from South and North Carolina, and Ohio, who've flipped seats in a change that will see the Republicans lose control of the Senate. The Democrats are already expected to win a majority in the House of Representatives - a victory which will have a major impact on President Trump's ability to govern. Writing on social media, the president said that if he'd been on the ballot, the Republicans would have won 'in a landslide'.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Democrats have stormed to success in the US midterm elections, capitalising on voter anger about the Iran war, the economy and threats to democracy under Donald Trump. Both the Senate and the House have been flipped by a wide margin. Senate seats turned from Republican to Democrat in Texas, Ohio, Iowa, Kansas and Maine, as well as North and South Carolina. Many of the seats had been held by Republicans for decades. In a first reaction, Iran's supreme leader said he doesn't expect US policy to change, although his chief negotiator earlier said the results showed Americans didn't want war. Also; Israel's president has begun consultations with party leaders on who can form a government after last week's inconclusive vote, and President Zelensky has given Ukraine's highest civilian award for women to the American first lady, Melania Trump, for a ceasefire which she's credited with brokering in the Russian-occupied city of Oleshky.  &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Supporters react after media outlets projected Democratic US Senate candidate and Texas State Representative James Talarico's victory in the US midterm elections in Austin, Texas, US, November 3, 2026.
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl6lg9.mp3" length="10832000" type="audio/mpeg"/>
+Photo: Democratic US Senate candidate Abdul El-Sayed walks onto the stage after his victory in the US midterm elections in Detroit, Michigan
+Credit: Reuters/Brian Snyder&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl9mdm.mp3" length="11456000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
