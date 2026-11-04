@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 03 Nov 2026 21:27:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:50:59 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 22:28): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3575086.html</link>
-      <pubDate>Tue, 03 Nov 2026 21:27:38 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 01:50:59 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">a9d0d4d9-9b16-4d50-ae92-b773c26de9d9</guid>
       <description>Originally published Tue 03 Nov 2026 22:28 IST.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1103/AU-20261103-2128-0000.mp3" length="1884427" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 23:10): 4pm ET, November 03 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 03:10): 8pm ET, November 03 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 03 Nov 2026 21:26:38 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 01:49:59 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">8d12ee94-710f-44eb-964c-855394906504</guid>
-      <description>Originally published Tue 03 Nov 2026 23:10 IST.
+      <guid isPermaLink="false">e139f65f-eb01-49ea-9bb4-0caa81dd8c4a</guid>
+      <description>Originally published Wed 04 Nov 2026 03:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7740c52e-6ce2-4378-8d1f-2deb21f9dce5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7740c52e-6ce2-4378-8d1f-2deb21f9dce5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261103-1600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/29092579-17da-4318-9f1e-7e36427dee76/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=29092579-17da-4318-9f1e-7e36427dee76&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261103-2000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 03.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3575052.html</link>
-      <pubDate>Tue, 03 Nov 2026 21:25:38 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 01:48:59 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d66e72af-0044-4d68-9512-164183a0d6af-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 03 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Kanzler Merz sichert beim Besuch von Selenskyj in Berlin Ukraine weitere Winterh
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1103/AU-20261103-2038-3600.mp3" length="14747683" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 23:00): Die Nachrichten vom 03.11.2026, 22:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45168.html</link>
-      <pubDate>Tue, 03 Nov 2026 21:24:38 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 02:59): Die Nachrichten vom 04.11.2026, 01:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45176.html</link>
+      <pubDate>Wed, 04 Nov 2026 01:47:59 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">046d58cb-162d-5993-a1c0-a364285fc5aa</guid>
-      <description>Originally published Tue 03 Nov 2026 23:00 IST.
+      <guid isPermaLink="false">873159fd-de2a-51a5-808b-bfd72d16cf37</guid>
+      <description>Originally published Wed 04 Nov 2026 02:59 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/03/nachrichten_dlf_20261103_2200_e7363305.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/04/nachrichten_dlf_20261104_0159_6a11e989.mp3?refId=nachrichten-108" length="4965543" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (03.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-03112026</link>
-      <pubDate>Tue, 03 Nov 2026 21:23:38 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 01:46:59 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_e6c457b0a4ab40be902f992a71b592f2</guid>
       <description>Originally published Tue 03 Nov 2026 19:33 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Gaswerk in Jänschwalde | Handyblitzer | Waffengesetz-Reform</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/gaswerk-jaenschwalde-handyblitzer-waffengesetz-reform.html</link>
-      <pubDate>Tue, 03 Nov 2026 21:22:38 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 01:45:59 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/e8/bf/e8bf13f2-9570-4bf2-8711-abb521368c38/e8bf13f2-9570-4bf2-8711-abb521368c38_mp3-256kd.mp3</guid>
       <description>Originally published Tue 03 Nov 2026 19:17 IST.
@@ -81,7 +81,7 @@ Die Bundesnetzagentur hat heute bekanntgegeben, dass die Leag den Zuschlag f&amp
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:08): Cyberangriff auf Kühlsysteme: Wie anfällig ist unsere Infrastruktur?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/cyberangriff-auf-kuehlsysteme-wie-anfaellig-ist-unsere-infrastruktur/2123798</link>
-      <pubDate>Tue, 03 Nov 2026 21:21:38 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 01:44:59 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">548015c8-9f42-4df8-abd6-a8eb959ba968</guid>
       <description>Originally published Tue 03 Nov 2026 19:08 IST.
@@ -92,7 +92,7 @@ Mehrere Länder in Europa haben Cyberangriffe auf Gefrier- und Kühlanlagen in S
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:45): Americans vote in pivotal midterm elections</title>
       <link>http://www.bbc.co.uk/programmes/p0pl435f</link>
-      <pubDate>Tue, 03 Nov 2026 21:20:38 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 01:43:59 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pl435f</guid>
       <description>Originally published Tue 03 Nov 2026 18:45 IST.
