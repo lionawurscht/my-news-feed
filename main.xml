@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:25:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,95 +13,84 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 11:45): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3578224.html</link>
-      <pubDate>Thu, 05 Nov 2026 11:48:57 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:51): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3579456.html</link>
+      <pubDate>Thu, 05 Nov 2026 19:25:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">3800fe24-5adc-4143-a611-638a17f9e62f</guid>
-      <description>Originally published Thu 05 Nov 2026 11:45 IST.
+      <guid isPermaLink="false">c2f89215-f65a-41e5-a666-91a044068350</guid>
+      <description>Originally published Thu 05 Nov 2026 19:51 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-1045-3500.mp3" length="2455051" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-1851-5000.mp3" length="2188939" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 13:09): 6am ET, November 05 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 21:09): 2pm ET, November 05 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 05 Nov 2026 11:47:57 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 19:24:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">1b897f48-338b-4e01-bcb9-cd37f6e2e1cf</guid>
-      <description>Originally published Thu 05 Nov 2026 13:09 IST.
+      <guid isPermaLink="false">428560ef-203e-4d62-a19c-8a0a5d19153a</guid>
+      <description>Originally published Thu 05 Nov 2026 21:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/bd3f24d5-1286-4025-90c9-18d9a66cdcf5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=bd3f24d5-1286-4025-90c9-18d9a66cdcf5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261105-0600-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4225fd88-ddc5-460f-843c-0bd97858915d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4225fd88-ddc5-460f-843c-0bd97858915d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261105-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 04.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3577314.html</link>
-      <pubDate>Thu, 05 Nov 2026 11:46:57 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 20:59): Die Nachrichten vom 05.11.2026, 19:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45312.html</link>
+      <pubDate>Thu, 05 Nov 2026 19:23:16 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">d87dde5d-ac67-4b20-84f2-7fd640d3d079-SENDUNGSAUDIO</guid>
-      <description>Originally published Wed 04 Nov 2026 21:00 IST.
-
-Demokraten gewinnen beide Kongresskammern bei US-Zwischenwahlen, Reaktionen auf die Ergebnisse der US-Midterms, Europa hofft auf Kurswechsel nach US-Zwischenwahlen, Deutschland reagiert erleichtert auf Wahlausgang in den USA, Gedenken an die Opfer des NSU, Trauer um Kinderbuchautor Janosch, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1104/AU-20261104-2026-0000.mp3" length="14868643" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 13:30): Die Nachrichten vom 05.11.2026, 12:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45286.html</link>
-      <pubDate>Thu, 05 Nov 2026 11:45:57 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">732e903e-e716-5194-85ab-9d30877112cc</guid>
-      <description>Originally published Thu 05 Nov 2026 13:30 IST.
+      <guid isPermaLink="false">0c1e0acc-797d-576a-bef6-27f6381ddc78</guid>
+      <description>Originally published Thu 05 Nov 2026 20:59 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/05/nachrichten_dlf_20261105_1230_dc790eea.mp3?refId=nachrichten-108" length="4896579" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/05/nachrichten_dlf_20261105_1959_97150ad2.mp3?refId=nachrichten-108" length="9807182" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:26): Morgenjournal um 8 (05.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-05112026</link>
-      <pubDate>Thu, 05 Nov 2026 11:44:57 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:33): Abendjournal um 18 (05.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-05112026</link>
+      <pubDate>Thu, 05 Nov 2026 19:22:16 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_428e846e083947bdacd5f4bb2e37c22f</guid>
+      <description>Originally published Thu 05 Nov 2026 19:33 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_428e846e083947bdacd5f4bb2e37c22f.mp3?etag=db9c7fe757063535c7350ab71b8b4c84" length="36398359" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Friedländer-Gedenkstein | Ärzte gegen Medfakes | Klimaanpassung</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/friedlaender-gedenkstein-aerzte-gegen-medfakes-klimaanpassung.html</link>
+      <pubDate>Thu, 05 Nov 2026 19:21:16 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_8ac127c8d7c545f2ab86db1b2e15b20b</guid>
-      <description>Originally published Thu 05 Nov 2026 09:26 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8ac127c8d7c545f2ab86db1b2e15b20b.mp3?etag=ebe486b6e722dcd3b8de6a1daa772219" length="29926870" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:23): Plötzlicher Tod von Hubert Aiwanger: Wie geht es weiter?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ploetzlicher-tod-von-hubert-aiwanger-wie-geht-es-weiter/2123859</link>
-      <pubDate>Thu, 05 Nov 2026 11:43:57 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">1477883a-7944-487c-a6db-72d3c12fd6e3</guid>
-      <description>Originally published Thu 05 Nov 2026 09:23 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/98/32/983225df-5626-4d6e-97e5-6694fa6cca53/983225df-5626-4d6e-97e5-6694fa6cca53_mp3-256kd.mp3</guid>
+      <description>Originally published Thu 05 Nov 2026 19:17 IST.
 
-Nach dem überraschenden Tod von Bayerns Wirtschaftsminister Hubert Aiwanger im Alter 55 Jahren ist das Entsetzen groß.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123859/c/feed/ploetzlicher-tod-von-hubert-aiwanger-wie-geht-es-weiter.mp3" length="9125421" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Fortsetzung Koalitionsverhandlungen | Pflegefachtag | Krisenübung</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/fortsetzung-koalitionsverhandlungen-pflegefachtag-krisenuebung.html</link>
-      <pubDate>Thu, 05 Nov 2026 11:42:57 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/45/98/4598e02c-04bf-4919-93a4-716389677c83/4598e02c-04bf-4919-93a4-716389677c83_mp3-256kd.mp3</guid>
-      <description>Originally published Wed 04 Nov 2026 19:17 IST.
-
-Am zweiten Tag ihrer Koalitionsverhandlungen haben Linke, Gr&amp;#252;ne und SPD den weiteren Zeitplan festgelegt. Weitere Themen: Brandenburger Pflegefachtag; L&amp;#252;kex: Berlin nimmt an Krisen-&amp;#220;bung teil; Noosha Aubel 1 Jahr Potsdams OB.
+Einen Margot-Friedl&amp;#228;nder-Platz gibt es in Berlin schon. Nun wurde auf ihrem Grab in Berlin-Wei&amp;#223;ensee au&amp;#223;erdem ein Gedenkstein niedergelegt. Au&amp;#223;erdem: &amp;#196;rzte gegen Medfakes im Internet; Klimaanpassung: Der Berlin Kongress.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/45/98/4598e02c-04bf-4919-93a4-716389677c83/4598e02c-04bf-4919-93a4-716389677c83_mp3-256kd.mp3" length="28808976" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/98/32/983225df-5626-4d6e-97e5-6694fa6cca53/983225df-5626-4d6e-97e5-6694fa6cca53_mp3-256kd.mp3" length="28480280" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:22): Trump blames Iran war for midterm defeat</title>
-      <link>http://www.bbc.co.uk/programmes/p0plcn0g</link>
-      <pubDate>Thu, 05 Nov 2026 11:41:57 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0plcn0g</guid>
-      <description>Originally published Thu 05 Nov 2026 07:22 IST.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:20): Hubert Aiwanger ist tot - wie geht es weiter?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/hubert-aiwanger-ist-tot-wie-geht-es-weiter/2123877</link>
+      <pubDate>Thu, 05 Nov 2026 19:20:16 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">bb3b99e9-e9fb-4b31-8b6d-746065e776dd</guid>
+      <description>Originally published Thu 05 Nov 2026 18:20 IST.
 
-&lt;p&gt;President Trump said it was &quot;largely true&quot; that the Republicans' defeat in the US midterm elections was because of the war on Iran. The Vice-President, JD Vance, went further, suggesting the political fallout from the conflict wasn't worth it. We'll also have the latest on the Senate race in Alaska, in which a winner has yet to be declared. Also: tens of thousands of secret police files are released in Hungary. A Hong Kong activist is sentenced to 10 years in prison. And there's outrage in Denmark after a man was tricked into being filmed for a reality TV show. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: President Trump addresses White House construction workers, 04 Nov 2026
-Credit: Photo by Annabelle Gordon/Pool/EPA/Shutterstock.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plcmxt.mp3" length="12064000" type="audio/mpeg"/>
+Der Freie-Wähler-Chef und stellvertretende bayerische Ministerpräsident stirbt und hinterlässt eine große Lücke.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123877/c/feed/hubert-aiwanger-ist-tot-wie-geht-es-weiter.mp3" length="8783661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:22): Fresh mass protests in France</title>
+      <link>http://www.bbc.co.uk/programmes/p0plh2tw</link>
+      <pubDate>Thu, 05 Nov 2026 19:19:16 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0plh2tw</guid>
+      <description>Originally published Thu 05 Nov 2026 18:22 IST.
+
+&lt;p&gt;French riot police have fired tear gas at protesters in several cities in the latest day of demonstrations over the rising cost of living and public services that began with student strikes in September.&lt;/p&gt;&lt;p&gt;French riot police have fired tear gas at protesters in several cities. A school near the southern city of Toulouse has been set on fire. Unions, who've called a general strike to demand higher pay, say they expect 800,000 people on the streets across France.&lt;/p&gt;&lt;p&gt;Also: Flights across Europe have again been disrupted by a series of bomb threats, with at least twelve planes affected. British comedian and actor Russell Brand has been found guilty of rape and sexual assault and told he faces jail. The Portuguese striker, Cristiano Ronaldo, has announced he is retiring from international football. New Zealand's party leaders have been making their final appeals to voters, before a general election with no clear frontrunners. Was an Italian chef really fired over refusal to put pineapple on pizza? And... we speak to Keira Knightley and Ben Whishaw about their favourite moments from filming the second series of the hit Netflix spy thriller Black Doves.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: A masked protester holds a red flare during a demonstration in Paris
+Credit: REUTERS/Hannah McKay&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plh23f.mp3" length="13040000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
