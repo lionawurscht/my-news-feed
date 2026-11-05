@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Nov 2026 22:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:04:05 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 19:52): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3577196.html</link>
-      <pubDate>Wed, 04 Nov 2026 22:23:09 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 03:23): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3577476.html</link>
+      <pubDate>Thu, 05 Nov 2026 03:04:05 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">8101a8dc-caf4-4948-aca7-cec7eff28a8a</guid>
-      <description>Originally published Wed 04 Nov 2026 19:52 IST.
+      <guid isPermaLink="false">5470900d-f6e3-4d53-8094-54785e8dd45b</guid>
+      <description>Originally published Thu 05 Nov 2026 03:23 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1104/AU-20261104-1852-0700.mp3" length="2237707" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-0223-2200.mp3" length="1927847" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 00:09): 5pm ET, November 04 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 04:09): 9pm ET, November 04 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 04 Nov 2026 22:22:09 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 03:03:05 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">bcad543f-d789-4b72-946e-1b9e29d2326a</guid>
-      <description>Originally published Thu 05 Nov 2026 00:09 IST.
+      <guid isPermaLink="false">5a29e722-685c-4196-8826-5a1be5f9a0ac</guid>
+      <description>Originally published Thu 05 Nov 2026 04:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b2d3f142-003f-4c2a-a2ec-490cf5822bd9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b2d3f142-003f-4c2a-a2ec-490cf5822bd9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261104-1700-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/dfbf70e6-03a4-4f67-94db-7477dc8f9a9a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=dfbf70e6-03a4-4f67-94db-7477dc8f9a9a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261104-2100-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 04.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3577314.html</link>
-      <pubDate>Wed, 04 Nov 2026 22:21:09 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 03:02:05 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d87dde5d-ac67-4b20-84f2-7fd640d3d079-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 04 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Demokraten gewinnen beide Kongresskammern bei US-Zwischenwahlen, Reaktionen auf 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1104/AU-20261104-2026-0000.mp3" length="14868643" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 00:00): Die Nachrichten vom 04.11.2026, 23:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45242.html</link>
-      <pubDate>Wed, 04 Nov 2026 22:20:09 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 04:00): Die Nachrichten vom 05.11.2026, 03:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45250.html</link>
+      <pubDate>Thu, 05 Nov 2026 03:01:05 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">7b2f393a-6348-5ee4-8432-193683c24fb5</guid>
-      <description>Originally published Thu 05 Nov 2026 00:00 IST.
+      <guid isPermaLink="false">aca9ca54-09e0-5c26-aa71-ce4b5831de71</guid>
+      <description>Originally published Thu 05 Nov 2026 04:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/04/nachrichten_dlf_20261104_2300_44937e6b.mp3?refId=nachrichten-108" length="9788792" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/05/nachrichten_dlf_20261105_0300_776f389c.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:33): Abendjournal um 18 (04.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-04112026</link>
-      <pubDate>Wed, 04 Nov 2026 22:19:09 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 03:00:05 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_5107a28c41364076bdb3e058d4f7ba1f</guid>
       <description>Originally published Wed 04 Nov 2026 19:33 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Fortsetzung Koalitionsverhandlungen | Pflegefachtag | Krisenübung</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/fortsetzung-koalitionsverhandlungen-pflegefachtag-krisenuebung.html</link>
-      <pubDate>Wed, 04 Nov 2026 22:18:09 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 02:59:05 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/45/98/4598e02c-04bf-4919-93a4-716389677c83/4598e02c-04bf-4919-93a4-716389677c83_mp3-256kd.mp3</guid>
       <description>Originally published Wed 04 Nov 2026 19:17 IST.
@@ -81,7 +81,7 @@ Am zweiten Tag ihrer Koalitionsverhandlungen haben Linke, Gr&amp;#252;ne und SPD
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 17:51): Eine Mordserie und viele offene Fragen: 15 Jahre Selbstenttarnung NSU</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eine-mordserie-und-viele-offene-fragen-15-jahre-selbstenttarnung-nsu/2123835</link>
-      <pubDate>Wed, 04 Nov 2026 22:17:09 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 02:58:05 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">74b041f2-ab2e-4e0c-93ca-be37e8d74d05</guid>
       <description>Originally published Wed 04 Nov 2026 17:51 IST.
@@ -92,7 +92,7 @@ Genau 15 Jahre ist es her, dass die Aufklärung einer Mordserie die Schlagzeilen
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:36): Democrats storm to success in US midterm elections</title>
       <link>http://www.bbc.co.uk/programmes/p0pl9nf9</link>
-      <pubDate>Wed, 04 Nov 2026 22:16:09 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 02:57:05 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pl9nf9</guid>
       <description>Originally published Wed 04 Nov 2026 18:36 IST.
