@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:48:57 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 03:23): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3577476.html</link>
-      <pubDate>Thu, 05 Nov 2026 03:04:05 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 11:45): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3578224.html</link>
+      <pubDate>Thu, 05 Nov 2026 11:48:57 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">5470900d-f6e3-4d53-8094-54785e8dd45b</guid>
-      <description>Originally published Thu 05 Nov 2026 03:23 IST.
+      <guid isPermaLink="false">3800fe24-5adc-4143-a611-638a17f9e62f</guid>
+      <description>Originally published Thu 05 Nov 2026 11:45 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-0223-2200.mp3" length="1927847" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-1045-3500.mp3" length="2455051" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 04:09): 9pm ET, November 04 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 13:09): 6am ET, November 05 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 05 Nov 2026 03:03:05 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 11:47:57 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">5a29e722-685c-4196-8826-5a1be5f9a0ac</guid>
-      <description>Originally published Thu 05 Nov 2026 04:09 IST.
+      <guid isPermaLink="false">1b897f48-338b-4e01-bcb9-cd37f6e2e1cf</guid>
+      <description>Originally published Thu 05 Nov 2026 13:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/dfbf70e6-03a4-4f67-94db-7477dc8f9a9a/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=dfbf70e6-03a4-4f67-94db-7477dc8f9a9a&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261104-2100-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/bd3f24d5-1286-4025-90c9-18d9a66cdcf5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=bd3f24d5-1286-4025-90c9-18d9a66cdcf5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261105-0600-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 04.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3577314.html</link>
-      <pubDate>Thu, 05 Nov 2026 03:02:05 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 11:46:57 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d87dde5d-ac67-4b20-84f2-7fd640d3d079-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 04 Nov 2026 21:00 IST.
@@ -46,30 +46,41 @@ Demokraten gewinnen beide Kongresskammern bei US-Zwischenwahlen, Reaktionen auf 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1104/AU-20261104-2026-0000.mp3" length="14868643" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 04:00): Die Nachrichten vom 05.11.2026, 03:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45250.html</link>
-      <pubDate>Thu, 05 Nov 2026 03:01:05 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 13:30): Die Nachrichten vom 05.11.2026, 12:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45286.html</link>
+      <pubDate>Thu, 05 Nov 2026 11:45:57 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">aca9ca54-09e0-5c26-aa71-ce4b5831de71</guid>
-      <description>Originally published Thu 05 Nov 2026 04:00 IST.
+      <guid isPermaLink="false">732e903e-e716-5194-85ab-9d30877112cc</guid>
+      <description>Originally published Thu 05 Nov 2026 13:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/05/nachrichten_dlf_20261105_0300_776f389c.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/05/nachrichten_dlf_20261105_1230_dc790eea.mp3?refId=nachrichten-108" length="4896579" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:33): Abendjournal um 18 (04.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-04112026</link>
-      <pubDate>Thu, 05 Nov 2026 03:00:05 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:26): Morgenjournal um 8 (05.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-05112026</link>
+      <pubDate>Thu, 05 Nov 2026 11:44:57 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_5107a28c41364076bdb3e058d4f7ba1f</guid>
-      <description>Originally published Wed 04 Nov 2026 19:33 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_5107a28c41364076bdb3e058d4f7ba1f.mp3?etag=47af52f02114fc28c9f5c5917144e80a" length="36434107" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_8ac127c8d7c545f2ab86db1b2e15b20b</guid>
+      <description>Originally published Thu 05 Nov 2026 09:26 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8ac127c8d7c545f2ab86db1b2e15b20b.mp3?etag=ebe486b6e722dcd3b8de6a1daa772219" length="29926870" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:23): Plötzlicher Tod von Hubert Aiwanger: Wie geht es weiter?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/ploetzlicher-tod-von-hubert-aiwanger-wie-geht-es-weiter/2123859</link>
+      <pubDate>Thu, 05 Nov 2026 11:43:57 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">1477883a-7944-487c-a6db-72d3c12fd6e3</guid>
+      <description>Originally published Thu 05 Nov 2026 09:23 IST.
+
+Nach dem überraschenden Tod von Bayerns Wirtschaftsminister Hubert Aiwanger im Alter 55 Jahren ist das Entsetzen groß.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123859/c/feed/ploetzlicher-tod-von-hubert-aiwanger-wie-geht-es-weiter.mp3" length="9125421" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Fortsetzung Koalitionsverhandlungen | Pflegefachtag | Krisenübung</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/fortsetzung-koalitionsverhandlungen-pflegefachtag-krisenuebung.html</link>
-      <pubDate>Thu, 05 Nov 2026 02:59:05 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 05 Nov 2026 11:42:57 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/45/98/4598e02c-04bf-4919-93a4-716389677c83/4598e02c-04bf-4919-93a4-716389677c83_mp3-256kd.mp3</guid>
       <description>Originally published Wed 04 Nov 2026 19:17 IST.
 
@@ -79,30 +90,18 @@ Am zweiten Tag ihrer Koalitionsverhandlungen haben Linke, Gr&amp;#252;ne und SPD
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/45/98/4598e02c-04bf-4919-93a4-716389677c83/4598e02c-04bf-4919-93a4-716389677c83_mp3-256kd.mp3" length="28808976" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 17:51): Eine Mordserie und viele offene Fragen: 15 Jahre Selbstenttarnung NSU</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eine-mordserie-und-viele-offene-fragen-15-jahre-selbstenttarnung-nsu/2123835</link>
-      <pubDate>Thu, 05 Nov 2026 02:58:05 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">74b041f2-ab2e-4e0c-93ca-be37e8d74d05</guid>
-      <description>Originally published Wed 04 Nov 2026 17:51 IST.
-
-Genau 15 Jahre ist es her, dass die Aufklärung einer Mordserie die Schlagzeilen beherrschte. Jahrelang hatte die Terrorgruppe Nationalsozialistischer Untergrund unentdeckt Rauberüberfälle verübt, Sprengstoffanschläge durchgeführt und Menschen umgebracht. Noch immer gibt es viele offene Fragen und die Aufarbeitung ist nicht abgeschlossen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123835/c/feed/eine-mordserie-und-viele-offene-fragen-15-jahre-selbstenttarnung-nsu.mp3" length="8439213" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:36): Democrats storm to success in US midterm elections</title>
-      <link>http://www.bbc.co.uk/programmes/p0pl9nf9</link>
-      <pubDate>Thu, 05 Nov 2026 02:57:05 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:22): Trump blames Iran war for midterm defeat</title>
+      <link>http://www.bbc.co.uk/programmes/p0plcn0g</link>
+      <pubDate>Thu, 05 Nov 2026 11:41:57 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pl9nf9</guid>
-      <description>Originally published Wed 04 Nov 2026 18:36 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0plcn0g</guid>
+      <description>Originally published Thu 05 Nov 2026 07:22 IST.
 
-&lt;p&gt;Democrats have stormed to success in the US midterm elections, capitalising on voter anger about the Iran war, the economy and threats to democracy under Donald Trump. Both the Senate and the House have been flipped by a wide margin. Senate seats turned from Republican to Democrat in Texas, Ohio, Iowa, Kansas and Maine, as well as North and South Carolina. Many of the seats had been held by Republicans for decades. In a first reaction, Iran's supreme leader said he doesn't expect US policy to change, although his chief negotiator earlier said the results showed Americans didn't want war. Also; Israel's president has begun consultations with party leaders on who can form a government after last week's inconclusive vote, and President Zelensky has given Ukraine's highest civilian award for women to the American first lady, Melania Trump, for a ceasefire which she's credited with brokering in the Russian-occupied city of Oleshky.  &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;President Trump said it was &quot;largely true&quot; that the Republicans' defeat in the US midterm elections was because of the war on Iran. The Vice-President, JD Vance, went further, suggesting the political fallout from the conflict wasn't worth it. We'll also have the latest on the Senate race in Alaska, in which a winner has yet to be declared. Also: tens of thousands of secret police files are released in Hungary. A Hong Kong activist is sentenced to 10 years in prison. And there's outrage in Denmark after a man was tricked into being filmed for a reality TV show. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Democratic US Senate candidate Abdul El-Sayed walks onto the stage after his victory in the US midterm elections in Detroit, Michigan
-Credit: Reuters/Brian Snyder&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pl9mdm.mp3" length="11456000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: President Trump addresses White House construction workers, 04 Nov 2026
+Credit: Photo by Annabelle Gordon/Pool/EPA/Shutterstock.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plcmxt.mp3" length="12064000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
