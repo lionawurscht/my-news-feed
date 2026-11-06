@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:25:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:41:26 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,43 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:51): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3579456.html</link>
-      <pubDate>Thu, 05 Nov 2026 19:25:16 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 22:48): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3579616.html</link>
+      <pubDate>Fri, 06 Nov 2026 00:41:26 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">c2f89215-f65a-41e5-a666-91a044068350</guid>
-      <description>Originally published Thu 05 Nov 2026 19:51 IST.
+      <guid isPermaLink="false">8c8f3d1c-5193-499e-abcb-4203ac419485</guid>
+      <description>Originally published Thu 05 Nov 2026 22:48 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-1851-5000.mp3" length="2188939" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-2148-3900.mp3" length="1792651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 21:09): 2pm ET, November 05 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 02:09): 7pm ET, November 05 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 05 Nov 2026 19:24:16 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 00:40:26 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">428560ef-203e-4d62-a19c-8a0a5d19153a</guid>
-      <description>Originally published Thu 05 Nov 2026 21:09 IST.
+      <guid isPermaLink="false">d8fe7bd2-7c23-45b6-bfac-955dae40bfae</guid>
+      <description>Originally published Fri 06 Nov 2026 02:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/4225fd88-ddc5-460f-843c-0bd97858915d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=4225fd88-ddc5-460f-843c-0bd97858915d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261105-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0e7a5444-6a37-4efd-8376-0b88aab0ec42/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0e7a5444-6a37-4efd-8376-0b88aab0ec42&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261105-1900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 20:59): Die Nachrichten vom 05.11.2026, 19:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45312.html</link>
-      <pubDate>Thu, 05 Nov 2026 19:23:16 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 05.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3579592.html</link>
+      <pubDate>Fri, 06 Nov 2026 00:39:26 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">0c1e0acc-797d-576a-bef6-27f6381ddc78</guid>
-      <description>Originally published Thu 05 Nov 2026 20:59 IST.
+      <guid isPermaLink="false">c4fd749a-90d5-4fe7-b594-5b9bf50a519f-SENDUNGSAUDIO</guid>
+      <description>Originally published Thu 05 Nov 2026 21:00 IST.
+
+Freie Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahren gestorben, Schlechte Stimmung bei den US-Republikanern nach verlorenen Kongresswahlen, Frankreichs Gewerkschaften rufen für bessere Lebensbedingungen zum Generalstreik auf, Bundestag beschließt Führerschein-Reform, Geändertes Tierschutzgesetz: Verpflichtende Videoüberwachung soll Tierquälerei in Schlachthöfen besser sichtbar machen, Bund steigt mit 50 Prozent bei deutsch-französischem Panzerhersteller KNDS ein, Erneut Bombendrohungen gegen Passagierflugzeuge in mehreren europäischen Ländern, Hongkonger Demokratie-Aktivist Joshua Wong wird zu weiterer Gefängnisstrafe verurteilt, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-2025-2800.mp3" length="14763800" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 02:00): Die Nachrichten vom 06.11.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45322.html</link>
+      <pubDate>Fri, 06 Nov 2026 00:38:26 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">0ceca331-ce79-561d-b1c3-9e79909876e8</guid>
+      <description>Originally published Fri 06 Nov 2026 02:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/05/nachrichten_dlf_20261105_1959_97150ad2.mp3?refId=nachrichten-108" length="9807182" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/06/nachrichten_dlf_20261106_0100_4527b5f9.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:33): Abendjournal um 18 (05.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-05112026</link>
-      <pubDate>Thu, 05 Nov 2026 19:22:16 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Fri, 06 Nov 2026 00:37:26 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_428e846e083947bdacd5f4bb2e37c22f</guid>
       <description>Originally published Thu 05 Nov 2026 19:33 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_428e846e083947bdacd5f4bb2e37c22f.mp3?etag=db9c7fe757063535c7350ab71b8b4c84" length="36398359" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Friedländer-Gedenkstein | Ärzte gegen Medfakes | Klimaanpassung</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/friedlaender-gedenkstein-aerzte-gegen-medfakes-klimaanpassung.html</link>
-      <pubDate>Thu, 05 Nov 2026 19:21:16 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Fri, 06 Nov 2026 00:36:26 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/98/32/983225df-5626-4d6e-97e5-6694fa6cca53/983225df-5626-4d6e-97e5-6694fa6cca53_mp3-256kd.mp3</guid>
       <description>Originally published Thu 05 Nov 2026 19:17 IST.
 
@@ -70,8 +81,8 @@ Einen Margot-Friedl&amp;#228;nder-Platz gibt es in Berlin schon. Nun wurde auf i
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:20): Hubert Aiwanger ist tot - wie geht es weiter?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/hubert-aiwanger-ist-tot-wie-geht-es-weiter/2123877</link>
-      <pubDate>Thu, 05 Nov 2026 19:20:16 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Fri, 06 Nov 2026 00:35:26 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">bb3b99e9-e9fb-4b31-8b6d-746065e776dd</guid>
       <description>Originally published Thu 05 Nov 2026 18:20 IST.
 
@@ -81,8 +92,8 @@ Der Freie-Wähler-Chef und stellvertretende bayerische Ministerpräsident stirbt
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:22): Fresh mass protests in France</title>
       <link>http://www.bbc.co.uk/programmes/p0plh2tw</link>
-      <pubDate>Thu, 05 Nov 2026 19:19:16 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Fri, 06 Nov 2026 00:34:26 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0plh2tw</guid>
       <description>Originally published Thu 05 Nov 2026 18:22 IST.
 
