@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:37:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 09:04): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3580130.html</link>
-      <pubDate>Fri, 06 Nov 2026 07:36:42 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:29): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3581038.html</link>
+      <pubDate>Fri, 06 Nov 2026 15:37:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">a019404b-5e4a-485c-890c-9ee56ef21fec</guid>
-      <description>Originally published Fri 06 Nov 2026 09:04 IST.
+      <guid isPermaLink="false">bcb3e64b-1d35-477d-9523-b22c949974bd</guid>
+      <description>Originally published Fri 06 Nov 2026 15:29 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1106/AU-20261106-0804-4500.mp3" length="2283019" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1106/AU-20261106-1429-3400.mp3" length="2172811" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 09:09): 2am ET, November 06 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 17:09): 10am ET, November 06 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 06 Nov 2026 07:35:42 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 15:36:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">6692f38f-3c4f-4723-b723-9e97443ed72d</guid>
-      <description>Originally published Fri 06 Nov 2026 09:09 IST.
+      <guid isPermaLink="false">9e49c5ce-d314-43f4-b649-cf1c4fe99c7b</guid>
+      <description>Originally published Fri 06 Nov 2026 17:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/36fa2591-d220-4f73-b804-1b35b886c283/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=36fa2591-d220-4f73-b804-1b35b886c283&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261106-0200-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9bc736a8-7525-407c-a417-82512af4708f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9bc736a8-7525-407c-a417-82512af4708f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261106-1000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 05.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3579592.html</link>
-      <pubDate>Fri, 06 Nov 2026 07:34:42 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 15:35:16 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">c4fd749a-90d5-4fe7-b594-5b9bf50a519f-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 05 Nov 2026 21:00 IST.
@@ -46,29 +46,29 @@ Freie Wähler-Chef und bayerischer Vize-Ministerpräsident Aiwanger mit 55 Jahre
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1105/AU-20261105-2025-2800.mp3" length="14763800" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:29): Morgenjournal um 8 (06.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-06112026</link>
-      <pubDate>Fri, 06 Nov 2026 07:33:42 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 17:00): Die Nachrichten vom 06.11.2026, 16:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45376.html</link>
+      <pubDate>Fri, 06 Nov 2026 15:34:16 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_f65d37d674104a52ac365c6b5afcb4b7</guid>
-      <description>Originally published Fri 06 Nov 2026 09:29 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f65d37d674104a52ac365c6b5afcb4b7.mp3?etag=5cfe30347c056b691d3a2e77772b6a2a" length="29286294" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 09:00): Die Nachrichten vom 06.11.2026, 08:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45344.html</link>
-      <pubDate>Fri, 06 Nov 2026 07:32:42 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">ae93d9dc-a632-5377-a16f-20caf001f275</guid>
-      <description>Originally published Fri 06 Nov 2026 09:00 IST.
+      <guid isPermaLink="false">918ed1dc-8231-58c8-961c-959510870b78</guid>
+      <description>Originally published Fri 06 Nov 2026 17:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/06/nachrichten_dlf_20261106_0800_4ca83c14.mp3?refId=nachrichten-108" length="9545957" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/06/nachrichten_dlf_20261106_1600_2b5fb11e.mp3?refId=nachrichten-108" length="9767058" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:36): Mittagsjournal (06.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-06112026</link>
+      <pubDate>Fri, 06 Nov 2026 15:33:16 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_2db6cecf258f4242b343de1f2f51fb11</guid>
+      <description>Originally published Fri 06 Nov 2026 14:36 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2db6cecf258f4242b343de1f2f51fb11.mp3?etag=573172f55d45b4fcaa26f39ef70c083c" length="86863170" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 08:47): Cybermobbing: Was schützt Kinder im Netz?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/cybermobbing-was-schuetzt-kinder-im-netz/2123900</link>
-      <pubDate>Fri, 06 Nov 2026 07:31:42 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 15:32:16 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">aff60666-a473-4201-895a-ede0ab3819e0</guid>
       <description>Originally published Fri 06 Nov 2026 08:47 IST.
@@ -79,7 +79,7 @@ Cybermobbing trifft inzwischen jeden fünften Schüler. Warum digitale Angriffe 
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Friedländer-Gedenkstein | Ärzte gegen Medfakes | Klimaanpassung</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/friedlaender-gedenkstein-aerzte-gegen-medfakes-klimaanpassung.html</link>
-      <pubDate>Fri, 06 Nov 2026 07:30:42 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 15:31:16 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/98/32/983225df-5626-4d6e-97e5-6694fa6cca53/983225df-5626-4d6e-97e5-6694fa6cca53_mp3-256kd.mp3</guid>
       <description>Originally published Thu 05 Nov 2026 19:17 IST.
@@ -92,7 +92,7 @@ Einen Margot-Friedl&amp;#228;nder-Platz gibt es in Berlin schon. Nun wurde auf i
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:39): Pete Hegseth under pressure after US elections</title>
       <link>http://www.bbc.co.uk/programmes/p0plk945</link>
-      <pubDate>Fri, 06 Nov 2026 07:29:42 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 15:30:16 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0plk945</guid>
       <description>Originally published Fri 06 Nov 2026 07:39 IST.
