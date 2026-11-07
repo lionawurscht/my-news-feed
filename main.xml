@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:22:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:49:35 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,76 +13,63 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 17:09): 10am ET, November 07 | The latest headlines from NPR</title>
-      <link/>
-      <pubDate>Sat, 07 Nov 2026 15:22:42 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 20:32): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3582998.html</link>
+      <pubDate>Sat, 07 Nov 2026 19:49:35 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">d963853d-8968-4e1b-86c4-e3ab83d610d2</guid>
-      <description>Originally published Sat 07 Nov 2026 17:09 IST.
+      <guid isPermaLink="false">34788799-620e-4db7-9ab3-ace73e2025c9</guid>
+      <description>Originally published Sat 07 Nov 2026 20:32 IST.
+
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1107/AU-20261107-1932-5000.mp3" length="2052619" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Sat 21:09): 2pm ET, November 07 | The latest headlines from NPR</title>
+      <link/>
+      <pubDate>Sat, 07 Nov 2026 19:48:35 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">b3526f1a-5565-4a51-830e-923e6ff8a90d</guid>
+      <description>Originally published Sat 07 Nov 2026 21:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1ed5ea38-8911-42c5-9e9a-2b1fbb055ce0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1ed5ea38-8911-42c5-9e9a-2b1fbb055ce0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261107-1000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/721f08da-7562-4704-80dd-148f1e968266/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=721f08da-7562-4704-80dd-148f1e968266&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261107-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 06.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3581792.html</link>
-      <pubDate>Sat, 07 Nov 2026 15:21:42 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d8e58aeb-b1db-4bb0-a36c-4063a03f9995-SENDUNGSAUDIO</guid>
-      <description>Originally published Fri 06 Nov 2026 21:00 IST.
-
-Union will Aigner als Bundespräsidentin, Weltweiter Ausverkauf bei KI- und Halbleiteraktien, Erneut Bombendrohungen gegen Passagiermaschinen in Europa, Bundestag beschließt härtere Strafen für Einsatz von K.-o.-Tropfen, Beginn der 31. UN-Klimakonferenz im türkischen Antalya, Erste UNESCO-Welterbestätte im Südsudan ist die Boma-Badingilo-Landschaft, Das Wetter Korrektur: Im Beitrag über die Nominierung von Ilse Aigner war der Name der bayerischen Familienministerin nicht korrekt. Sie heißt Ulrike Scharf. Auch die Reihenfolge stimmte nicht. Wir haben beides korrigiert.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1106/AU-20261106-2035-2700.mp3" length="15283363" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:59): Die Nachrichten vom 07.11.2026, 15:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45436.html</link>
-      <pubDate>Sat, 07 Nov 2026 15:20:42 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 07.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3583032.html</link>
+      <pubDate>Sat, 07 Nov 2026 19:47:35 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">77a94876-b7e6-5cb2-9858-384480a70687</guid>
-      <description>Originally published Sat 07 Nov 2026 16:59 IST.
+      <guid isPermaLink="false">57616c2a-479f-4101-a4b7-3f14e8a86367-SENDUNGSAUDIO</guid>
+      <description>Originally published Sat 07 Nov 2026 21:00 IST.
+
+US-Präsident Trump ernennt Steven Miller als neuen Stabschef, Russland setzt Angriffe auf Energieversorgung in der Ukraine fort, Ilse Aigner soll zur Wahl als Bundespräsidentin nominiert werden, Tote und Verletzte nach Schüssen in Krakau, Friedrich-Naumann-Stiftung verleiht Freiheitspreis an iranisches Volk, Auftakt von Papst Leos Südamerika-Reise in Uruguay, Ergebnisse des 9. Spieltags der Fußball-Bundesliga, Das Wetter Hinweis: Die Beiträge zur &quot;Fußball-Bundesliga&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1107/AU-20261107-2024-1800.mp3" length="14484640" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 21:00): Die Nachrichten vom 07.11.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45444.html</link>
+      <pubDate>Sat, 07 Nov 2026 19:46:35 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">230ec34e-64ef-5475-b9ce-d13b4ccf1c78</guid>
+      <description>Originally published Sat 07 Nov 2026 21:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/07/nachrichten_dlf_20261107_1559_a38606e9.mp3?refId=nachrichten-108" length="5026983" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/07/nachrichten_dlf_20261107_2000_ad61c677.mp3?refId=nachrichten-108" length="4968886" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:09): Mittagsjournal (07.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-07112026</link>
-      <pubDate>Sat, 07 Nov 2026 15:19:42 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 19:45:35 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_ab6d09875e5940beb9b6789e8bf27068</guid>
       <description>Originally published Sat 07 Nov 2026 14:09 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ab6d09875e5940beb9b6789e8bf27068.mp3?etag=25684cf5b7334b29587dc54535350c4f" length="81204653" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Gesetz zu K.O.-Tropfen | Teures Gas | Sicherheits-Zusammenarbeit</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/gesetz-ko-tropfen-teures-gas-sicherheits-zusammenarbeit.html</link>
-      <pubDate>Sat, 07 Nov 2026 15:18:42 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3e/1d/3e1d82a6-1547-4adc-88ba-ac3bdfa46d90/3e1d82a6-1547-4adc-88ba-ac3bdfa46d90_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 06 Nov 2026 19:17 IST.
-
-Der Bundestag hat beschlossen, dass es h&amp;#246;here Strafen geben soll, wenn jemand K.O.-Tropfen einsetzt. Au&amp;#223;erdem: Heizen in der Region - Teures Gas; Sicherheit und Zusammenarbeit Sachsen und Brandenburg; Update: Totes Baby in Calau.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/3e/1d/3e1d82a6-1547-4adc-88ba-ac3bdfa46d90/3e1d82a6-1547-4adc-88ba-ac3bdfa46d90_mp3-256kd.mp3" length="30187536" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Warnstreiks bei der IG Metall: Wie Zukunftsängste der Beschäftigten die Tarifverhandlungen überschatten</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/warnstreiks-bei-der-ig-metall-wie-zukunftsaengste-der-beschaeftigten-die-tarifverhandlungen-ueberschatten/2123928</link>
-      <pubDate>Sat, 07 Nov 2026 15:17:42 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">6c47f3fd-763a-4e18-b1f4-31e5aa6e9699</guid>
-      <description>Originally published Fri 06 Nov 2026 19:00 IST.
-
-Die Gewerkschaft IG Metall erhöht den Druck auf die Arbeitgeber und hat zehntausende Beschäftigte in Bayern zu Warnsstreiks aufgerufen. Allein im Raum Nürnberg gilt das für etwa 30 Betriebe. ZF, Siemens, MAN und Schaeffler zum Beispiel. Vor dem Tor des Bosch-Werks in Nürnberg gab es eine Kundgebung. Mit unserem Tarifexperten schauen wir genauer auf die Verhandlungen, die großen Probleme in der Zulieferer-Branche und auf einen möglichen neuen wirtschaftspolitischen Ansatz im Land. Moderation: Jörg Brandscheidt</description>
-      <enclosure url="https://media.neuland.br.de/file/2123928/c/feed/warnstreiks-bei-der-ig-metall-wie-zukunftsaengste-der-beschaeftigten-die-tarifverhandlungen-ueberschatten.mp3" length="8537133" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Celebrating the wedding that never happened</title>
       <link>http://www.bbc.co.uk/programmes/p0plplrh</link>
-      <pubDate>Sat, 07 Nov 2026 15:16:42 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 19:44:35 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0plplrh</guid>
       <description>Originally published Sat 07 Nov 2026 14:00 IST.
 
