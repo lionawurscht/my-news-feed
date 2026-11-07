@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:22:42 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,21 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 05:53): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3582050.html</link>
-      <pubDate>Sat, 07 Nov 2026 08:14:14 +0000</pubDate>
-      <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">ee5aa4a7-9961-4566-9b86-c012e981e2d8</guid>
-      <description>Originally published Sat 07 Nov 2026 05:53 IST.
-
-tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1107/AU-20261107-0453-1900.mp3" length="2333707" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|Overview] NPR News Now (Sat 10:09): 3am ET, November 07 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 17:09): 10am ET, November 07 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 07 Nov 2026 08:13:14 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">3fd7d0c1-9c81-4903-8460-8b5921a3fc0e</guid>
-      <description>Originally published Sat 07 Nov 2026 10:09 IST.
+      <pubDate>Sat, 07 Nov 2026 15:22:42 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">d963853d-8968-4e1b-86c4-e3ab83d610d2</guid>
+      <description>Originally published Sat 07 Nov 2026 17:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ab81b299-fa24-4046-a2d9-09d45076dd8e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ab81b299-fa24-4046-a2d9-09d45076dd8e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261107-0300-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1ed5ea38-8911-42c5-9e9a-2b1fbb055ce0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1ed5ea38-8911-42c5-9e9a-2b1fbb055ce0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261107-1000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 06.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3581792.html</link>
-      <pubDate>Sat, 07 Nov 2026 08:12:14 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 15:21:42 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
       <guid isPermaLink="false">d8e58aeb-b1db-4bb0-a36c-4063a03f9995-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 06 Nov 2026 21:00 IST.
 
@@ -46,30 +35,30 @@ Union will Aigner als Bundespräsidentin, Weltweiter Ausverkauf bei KI- und Halb
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1106/AU-20261106-2035-2700.mp3" length="15283363" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 09:30): Die Nachrichten vom 07.11.2026, 08:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45420.html</link>
-      <pubDate>Sat, 07 Nov 2026 08:11:14 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">620ca11c-9cdd-5c0e-acda-455f1e1db1fb</guid>
-      <description>Originally published Sat 07 Nov 2026 09:30 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 16:59): Die Nachrichten vom 07.11.2026, 15:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45436.html</link>
+      <pubDate>Sat, 07 Nov 2026 15:20:42 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">77a94876-b7e6-5cb2-9858-384480a70687</guid>
+      <description>Originally published Sat 07 Nov 2026 16:59 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/07/nachrichten_dlf_20261107_0830_86ea0ecc.mp3?refId=nachrichten-108" length="5006921" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/07/nachrichten_dlf_20261107_1559_a38606e9.mp3?refId=nachrichten-108" length="5026983" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:21): Morgenjournal um 8 (07.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-07112026</link>
-      <pubDate>Sat, 07 Nov 2026 08:10:14 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_2e9aaa58fcb84ff9aeef0e91196dad94</guid>
-      <description>Originally published Sat 07 Nov 2026 09:21 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2e9aaa58fcb84ff9aeef0e91196dad94.mp3?etag=ba0d0c9602d8de162ef6a01a6d36be80" length="22147130" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:09): Mittagsjournal (07.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-07112026</link>
+      <pubDate>Sat, 07 Nov 2026 15:19:42 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_ab6d09875e5940beb9b6789e8bf27068</guid>
+      <description>Originally published Sat 07 Nov 2026 14:09 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ab6d09875e5940beb9b6789e8bf27068.mp3?etag=25684cf5b7334b29587dc54535350c4f" length="81204653" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Gesetz zu K.O.-Tropfen | Teures Gas | Sicherheits-Zusammenarbeit</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/gesetz-ko-tropfen-teures-gas-sicherheits-zusammenarbeit.html</link>
-      <pubDate>Sat, 07 Nov 2026 08:09:14 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 15:18:42 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3e/1d/3e1d82a6-1547-4adc-88ba-ac3bdfa46d90/3e1d82a6-1547-4adc-88ba-ac3bdfa46d90_mp3-256kd.mp3</guid>
       <description>Originally published Fri 06 Nov 2026 19:17 IST.
 
@@ -81,8 +70,8 @@ Der Bundestag hat beschlossen, dass es h&amp;#246;here Strafen geben soll, wenn 
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Warnstreiks bei der IG Metall: Wie Zukunftsängste der Beschäftigten die Tarifverhandlungen überschatten</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/warnstreiks-bei-der-ig-metall-wie-zukunftsaengste-der-beschaeftigten-die-tarifverhandlungen-ueberschatten/2123928</link>
-      <pubDate>Sat, 07 Nov 2026 08:08:14 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 15:17:42 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">6c47f3fd-763a-4e18-b1f4-31e5aa6e9699</guid>
       <description>Originally published Fri 06 Nov 2026 19:00 IST.
 
@@ -90,18 +79,15 @@ Die Gewerkschaft IG Metall erhöht den Druck auf die Arbeitgeber und hat zehntau
       <enclosure url="https://media.neuland.br.de/file/2123928/c/feed/warnstreiks-bei-der-ig-metall-wie-zukunftsaengste-der-beschaeftigten-die-tarifverhandlungen-ueberschatten.mp3" length="8537133" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:19): Trump appoints new chief of staff after midterm defeat</title>
-      <link>http://www.bbc.co.uk/programmes/p0plrs2j</link>
-      <pubDate>Sat, 07 Nov 2026 08:07:14 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0plrs2j</guid>
-      <description>Originally published Sat 07 Nov 2026 06:19 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Celebrating the wedding that never happened</title>
+      <link>http://www.bbc.co.uk/programmes/p0plplrh</link>
+      <pubDate>Sat, 07 Nov 2026 15:16:42 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0plplrh</guid>
+      <description>Originally published Sat 07 Nov 2026 14:00 IST.
 
-&lt;p&gt;Donald Trump names the immigration hardliner, Stephen Miller, as the new White House chief of staff after the Republican Party's historic losses in the US midterm elections. Mr Miller's appointment to one of the most powerful positions in Washington has been criticised by Democrats and some Republicans. Also: Paraguay's president, Santiago Peña, is impeached and placed under house arrest. Thomas Markle - the estranged father of Prince Harry's wife, Meghan - appears in court over child sex abuse material; he denies wrongdoing. More than 200 Palestinian couples are married at a mass ceremony in war-torn Gaza. The American-Israeli filmmaker Guy Nattiv speaks to the BBC about his new movie, The Liberation. And were ancient Siberian nomads smoking cannabis? &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Stephen Miller, the newly-appointed White House chief of staff, speaking on 20th October in the Oval Office.
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plrs0b.mp3" length="12736000" type="audio/mpeg"/>
+&lt;p&gt;When Bridget's relationship fell apart, she turned to the internet with a proposal: come to Northern Ireland and celebrate the wedding that never happened. What followed was a story that has resonated worldwide as 11 strangers answered the call and helped transform loss and heartbreak into an unforgettable week of connection, companionship and adventure.&lt;/p&gt;&lt;p&gt;Also on this podcast; meet the 25-year-old who is on a mission to give one million people access to safe water by 2030. Diana Virgovicova was diagnosed with ovarian cancer as a teenager -- a disease which she believes was linked to the use of agricultural pesticides in her town. After she realised contaminated water was a global problem, she taught herself quantum chemistry to find a way to clean up water. &lt;/p&gt;&lt;p&gt;Also, the family living on the UK's most remote inhabited island and we go to Washington DC's annual High Heel Race. &lt;/p&gt;&lt;p&gt;Picture: Eleven strangers from across the world travelled to Northern Ireland to celebrate Bridget's 'non-wedding'. Credit: Rob Dight / Epic Love Photography&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3" length="12720000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
