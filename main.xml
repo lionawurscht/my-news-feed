@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:33:32 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,21 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 19:40): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3581664.html</link>
-      <pubDate>Fri, 06 Nov 2026 21:14:14 +0000</pubDate>
-      <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">36fc85fc-b631-4510-b4d8-b3231aee7b0a</guid>
-      <description>Originally published Fri 06 Nov 2026 19:40 IST.
-
-tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1106/AU-20261106-1840-0700.mp3" length="2358667" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|Overview] NPR News Now (Fri 23:09): 4pm ET, November 06 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 03:10): 8pm ET, November 06 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 06 Nov 2026 21:13:14 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d8366156-3be2-47c5-8e96-f7c73e6b46cb</guid>
-      <description>Originally published Fri 06 Nov 2026 23:09 IST.
+      <pubDate>Sat, 07 Nov 2026 01:33:32 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">0f918df1-6777-42ad-a9bc-4bb4f6f414dd</guid>
+      <description>Originally published Sat 07 Nov 2026 03:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f3a33dbb-232f-4901-84e0-c1a036e84531/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f3a33dbb-232f-4901-84e0-c1a036e84531&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261106-1600-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0b141a15-e3a4-4348-8b0c-26bfda1ea30f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0b141a15-e3a4-4348-8b0c-26bfda1ea30f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261106-2000-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 06.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3581792.html</link>
-      <pubDate>Fri, 06 Nov 2026 21:12:14 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 01:32:32 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
       <guid isPermaLink="false">d8e58aeb-b1db-4bb0-a36c-4063a03f9995-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 06 Nov 2026 21:00 IST.
 
@@ -46,21 +35,21 @@ Union will Aigner als Bundespräsidentin, Weltweiter Ausverkauf bei KI- und Halb
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1106/AU-20261106-2035-2700.mp3" length="15283363" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 22:59): Die Nachrichten vom 06.11.2026, 21:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45392.html</link>
-      <pubDate>Fri, 06 Nov 2026 21:11:14 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">cacb3097-8255-56fb-9700-eb6d8f26f8c5</guid>
-      <description>Originally published Fri 06 Nov 2026 22:59 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 03:00): Die Nachrichten vom 07.11.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45400.html</link>
+      <pubDate>Sat, 07 Nov 2026 01:31:32 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">c800829f-775a-5b7c-9000-75cad6d9a6d7</guid>
+      <description>Originally published Sat 07 Nov 2026 03:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/06/nachrichten_dlf_20261106_2159_e8a9435b.mp3?refId=nachrichten-108" length="4999397" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/07/nachrichten_dlf_20261107_0200_9a850050.mp3?refId=nachrichten-108" length="4996472" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:32): Abendjournal um 18 (06.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-06112026</link>
-      <pubDate>Fri, 06 Nov 2026 21:10:14 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 01:30:32 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_b3a779b5eaa3469392c5d505b3ec6f8e</guid>
       <description>Originally published Fri 06 Nov 2026 19:32 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b3a779b5eaa3469392c5d505b3ec6f8e.mp3?etag=ce5c71bdc050413320e1eca0ac0df4a9" length="36471008" type="audio/mpeg"/>
@@ -68,8 +57,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Gesetz zu K.O.-Tropfen | Teures Gas | Sicherheits-Zusammenarbeit</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/gesetz-ko-tropfen-teures-gas-sicherheits-zusammenarbeit.html</link>
-      <pubDate>Fri, 06 Nov 2026 21:09:14 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 01:29:32 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3e/1d/3e1d82a6-1547-4adc-88ba-ac3bdfa46d90/3e1d82a6-1547-4adc-88ba-ac3bdfa46d90_mp3-256kd.mp3</guid>
       <description>Originally published Fri 06 Nov 2026 19:17 IST.
 
@@ -81,8 +70,8 @@ Der Bundestag hat beschlossen, dass es h&amp;#246;here Strafen geben soll, wenn 
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Warnstreiks bei der IG Metall: Wie Zukunftsängste der Beschäftigten die Tarifverhandlungen überschatten</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/warnstreiks-bei-der-ig-metall-wie-zukunftsaengste-der-beschaeftigten-die-tarifverhandlungen-ueberschatten/2123928</link>
-      <pubDate>Fri, 06 Nov 2026 21:08:14 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 01:28:32 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">6c47f3fd-763a-4e18-b1f4-31e5aa6e9699</guid>
       <description>Originally published Fri 06 Nov 2026 19:00 IST.
 
@@ -92,8 +81,8 @@ Die Gewerkschaft IG Metall erhöht den Druck auf die Arbeitgeber und hat zehntau
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:06): Tech stocks tank over AI panic</title>
       <link>http://www.bbc.co.uk/programmes/p0plnyvn</link>
-      <pubDate>Fri, 06 Nov 2026 21:07:14 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Sat, 07 Nov 2026 01:27:32 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0plnyvn</guid>
       <description>Originally published Fri 06 Nov 2026 18:06 IST.
 
