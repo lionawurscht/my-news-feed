@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:37:10 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,83 +13,79 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 18:32): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3584016.html</link>
-      <pubDate>Sun, 08 Nov 2026 17:31:37 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:06): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3584226.html</link>
+      <pubDate>Sun, 08 Nov 2026 21:37:10 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">36c35a82-c026-4ef1-ba0a-9bd99c65ca81</guid>
-      <description>Originally published Sun 08 Nov 2026 18:32 IST.
+      <guid isPermaLink="false">2f2de994-1537-45af-8a72-27b27fb3a483</guid>
+      <description>Originally published Sun 08 Nov 2026 22:06 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-1732-1900.mp3" length="1905547" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-2105-5700.mp3" length="1767691" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 19:10): 12pm ET, November 08 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 23:10): 4pm ET, November 08 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 08 Nov 2026 17:30:37 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 21:36:10 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">510efcf8-255b-4016-a9bb-5164370b3324</guid>
-      <description>Originally published Sun 08 Nov 2026 19:10 IST.
+      <guid isPermaLink="false">5ea2f8dd-6f65-4135-8f94-fcc4afcfeb33</guid>
+      <description>Originally published Sun 08 Nov 2026 23:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/17cf704e-6738-4dae-ab00-aaa0e5d01a93/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=17cf704e-6738-4dae-ab00-aaa0e5d01a93&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261108-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1951c09b-5195-4c6b-91ff-d59d36535026/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1951c09b-5195-4c6b-91ff-d59d36535026&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261108-1600-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 07.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3583032.html</link>
-      <pubDate>Sun, 08 Nov 2026 17:29:37 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 08.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3584208.html</link>
+      <pubDate>Sun, 08 Nov 2026 21:35:10 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">57616c2a-479f-4101-a4b7-3f14e8a86367-SENDUNGSAUDIO</guid>
-      <description>Originally published Sat 07 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">3bffb376-6ebf-4103-a251-95e27c0f882b-SENDUNGSAUDIO</guid>
+      <description>Originally published Sun 08 Nov 2026 21:00 IST.
 
-US-Präsident Trump ernennt Steven Miller als neuen Stabschef, Russland setzt Angriffe auf Energieversorgung in der Ukraine fort, Ilse Aigner soll zur Wahl als Bundespräsidentin nominiert werden, Tote und Verletzte nach Schüssen in Krakau, Friedrich-Naumann-Stiftung verleiht Freiheitspreis an iranisches Volk, Auftakt von Papst Leos Südamerika-Reise in Uruguay, Ergebnisse des 9. Spieltags der Fußball-Bundesliga, Das Wetter Hinweis: Die Beiträge zur &quot;Fußball-Bundesliga&quot; dürfen aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden. Korrektur: Der Autor sagt im Filmtext, dass Dortmund gegen Elversberg 2:0 gewann. Das Spiel endete aber 2:1. Alle drei Tore waren im Beitrag zu sehen.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1107/AU-20261107-2024-1800.mp3" length="14484640" type="audio/mpeg"/>
+Staatsanwaltschaft in Polen ermittelt nach Schüssen in Krakau wegen Terrorismus, Diskussion in der Regierung vor der Haushaltsberatung, Israels Präsident Herzog beauftragt Oppositionsführer Eisenkot mit der Regierungsbildung, Tausende demonstrieren in Amsterdam gegen Israels Vorgehen im Gazastreifen, Mann hisst Palästinenser-Flagge vor Reichstagsgebäude in Berlin, Immer mehr Migranten wagen Reise von Afrika nach Europa über Kanarische Inseln, Papst Leo XIV. setzt Reise durch Südamerika fort, Weltklimakonferenz COP im türkischen Antalya, Ergebnisse des neunten Spieltags der Fußball-Bundesliga, Das Wetter Hinweis: Der Beitrag zur &quot;Fußball-Bundesliga&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-2024-5300.mp3" length="14848672" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 23:00): Die Nachrichten vom 08.11.2026, 22:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45498.html</link>
+      <pubDate>Sun, 08 Nov 2026 21:34:10 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">25bbc780-15ba-5cc6-95e6-4103b8280a79</guid>
+      <description>Originally published Sun 08 Nov 2026 23:00 IST.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/08/nachrichten_dlf_20261108_2200_bbf5fe1c.mp3?refId=nachrichten-108" length="5017788" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (08.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-08112026</link>
-      <pubDate>Sun, 08 Nov 2026 17:28:37 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sun, 08 Nov 2026 21:33:10 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_2d4c685bd7104d268fc1b2873859d759</guid>
       <description>Originally published Sun 08 Nov 2026 19:21 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2d4c685bd7104d268fc1b2873859d759.mp3?etag=55b11ae07cc03c8b4a1bf3a69b5ec265" length="22109653" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 19:00): Die Nachrichten vom 08.11.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45490.html</link>
-      <pubDate>Sun, 08 Nov 2026 17:27:37 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">51de106d-a5d6-5acd-a6af-455e8e6bdb93</guid>
-      <description>Originally published Sun 08 Nov 2026 19:00 IST.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/08/nachrichten_dlf_20261108_1800_011a4310.mp3?refId=nachrichten-108" length="9799241" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 10:00): Das Wichtigste am Sonntagvormittag</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagvormittag-3/2123956</link>
-      <pubDate>Sun, 08 Nov 2026 17:26:37 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 20:10): Das Wichtigste am Sonntagabend</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagabend-4/2123960</link>
+      <pubDate>Sun, 08 Nov 2026 21:32:10 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">32dd37ba-3c30-4a47-ad92-047435935daa</guid>
-      <description>Originally published Sun 08 Nov 2026 10:00 IST.
+      <guid isPermaLink="false">34449bae-86c9-4301-9522-e3bd9517a23d</guid>
+      <description>Originally published Sun 08 Nov 2026 20:10 IST.
 
-Nach dem Schusswaffenangriff in Krakau mit 6 Toten und 15 Verletzten spricht Ministerpräsident Tusk von &quot;Terrorismus&quot; und hat zwei Tage Staatstrauer angesordnet.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123956/c/feed/das-wichtigste-am-sonntagvormittag-3.mp3" length="18523821" type="audio/mpeg"/>
+Beim Treffen der CDU soll endgültig über die Kandidatur von Ilse Aigner als Bundespräsidentin entschieden werden. BR-Hauptstadtkorrespondent Tim Aßmann hält eine Überraschung für ausgeschlossen.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123960/c/feed/das-wichtigste-am-sonntagabend-4.mp3" length="13553709" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:44): Poland in shock as six killed in shooting</title>
-      <link>http://www.bbc.co.uk/programmes/p0plw73g</link>
-      <pubDate>Sun, 08 Nov 2026 17:25:37 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: They fled Russia. The US sent them back</title>
+      <link>http://www.bbc.co.uk/programmes/p0pllbwj</link>
+      <pubDate>Sun, 08 Nov 2026 21:31:10 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0plw73g</guid>
-      <description>Originally published Sun 08 Nov 2026 06:44 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pllbwj</guid>
+      <description>Originally published Sun 08 Nov 2026 22:00 IST.
 
-&lt;p&gt;Poland has begun two days of mourning after a gunman opened fire on the main square in the city of Krakow, killing six and injuring 15 others; three more bodies were found at the suspect's home. The authorities say he used military weapons and is thought to have been inspired by far-right ideologies. Also: Israel's president invites Gadi Eisenkot, the main rival of Prime Minister Benjamin Netanyahu, to try to form a government after last week’s inconclusive election. Heavy rains in Gaza cause flooding for tens of thousands of misplaced residents living in desperate conditions in tents. The former president of Paraguay is charged in connection with the banking scandal that led to his impeachment. The Ultimate Fighting Championship boss, Dana White, tells us he is meeting President Trump on Monday after he was apparently offered the job of White House Press Secretary. The super sock that's supposed to improve running but has proved divisive. And why thousands entered a competition to find the most &quot;distinctly Boston&quot; accent.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Emergency personal  near the site of the shooting in the main market square in Krakow
-Credit: Reuters / Agencja Wyborcza.pl&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plw70f.mp3" length="13248000" type="audio/mpeg"/>
+&lt;p&gt;After Russia invaded Ukraine in 2022, many Russians who opposed the war – or feared being sent to fight in it – fled the country. In much of the West, they were welcomed as courageous dissidents. But four years on, the number of Russians being forcibly returned from the US to Russia is rising. Is the tougher stance on Russian asylum seekers evidence of the Trump administration seeking closer ties with Moscow? Or is it part of a wider immigration crackdown, driven by domestic politics? In this episode, Tristan Redman speaks to the BBC’s Will Vernon about the Russian refugees he has met who face persecution if they are forced to return home. The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3" length="13408000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
