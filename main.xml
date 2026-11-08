@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:39:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:31:37 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 10:32): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3583488.html</link>
-      <pubDate>Sun, 08 Nov 2026 11:39:16 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 18:32): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3584016.html</link>
+      <pubDate>Sun, 08 Nov 2026 17:31:37 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">0e90d063-6346-4924-bf09-a97511ea8424</guid>
-      <description>Originally published Sun 08 Nov 2026 10:32 IST.
+      <guid isPermaLink="false">36c35a82-c026-4ef1-ba0a-9bd99c65ca81</guid>
+      <description>Originally published Sun 08 Nov 2026 18:32 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-0932-3200.mp3" length="2064907" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-1732-1900.mp3" length="1905547" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 13:09): 6am ET, November 08 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 19:10): 12pm ET, November 08 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 08 Nov 2026 11:38:16 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 17:30:37 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">4c83b233-226c-4ae7-b3eb-7fb10a9da9dd</guid>
-      <description>Originally published Sun 08 Nov 2026 13:09 IST.
+      <guid isPermaLink="false">510efcf8-255b-4016-a9bb-5164370b3324</guid>
+      <description>Originally published Sun 08 Nov 2026 19:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ba906d09-66aa-49e8-888f-f60f5795041b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ba906d09-66aa-49e8-888f-f60f5795041b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261108-0600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/17cf704e-6738-4dae-ab00-aaa0e5d01a93/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=17cf704e-6738-4dae-ab00-aaa0e5d01a93&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261108-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 07.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3583032.html</link>
-      <pubDate>Sun, 08 Nov 2026 11:37:16 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 17:29:37 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">57616c2a-479f-4101-a4b7-3f14e8a86367-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 07 Nov 2026 21:00 IST.
@@ -46,29 +46,29 @@ US-Präsident Trump ernennt Steven Miller als neuen Stabschef, Russland setzt An
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1107/AU-20261107-2024-1800.mp3" length="14484640" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 13:00): Die Nachrichten vom 08.11.2026, 12:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45478.html</link>
-      <pubDate>Sun, 08 Nov 2026 11:36:16 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (08.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-08112026</link>
+      <pubDate>Sun, 08 Nov 2026 17:28:37 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">1cb20343-2099-5cbb-9fd0-7bccf49f31b7</guid>
-      <description>Originally published Sun 08 Nov 2026 13:00 IST.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/08/nachrichten_dlf_20261108_1200_c8d0ad34.mp3?refId=nachrichten-108" length="9696423" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_2d4c685bd7104d268fc1b2873859d759</guid>
+      <description>Originally published Sun 08 Nov 2026 19:21 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2d4c685bd7104d268fc1b2873859d759.mp3?etag=55b11ae07cc03c8b4a1bf3a69b5ec265" length="22109653" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 09:16): Morgenjournal um 8 (08.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-08112026</link>
-      <pubDate>Sun, 08 Nov 2026 11:35:16 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 19:00): Die Nachrichten vom 08.11.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45490.html</link>
+      <pubDate>Sun, 08 Nov 2026 17:27:37 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_8d5d39cbf773441fba99d7505955dc23</guid>
-      <description>Originally published Sun 08 Nov 2026 09:16 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8d5d39cbf773441fba99d7505955dc23.mp3?etag=ec32cd0e265caa074188e77496bbb1fa" length="14864975" type="audio/mpeg"/>
+      <guid isPermaLink="false">51de106d-a5d6-5acd-a6af-455e8e6bdb93</guid>
+      <description>Originally published Sun 08 Nov 2026 19:00 IST.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/08/nachrichten_dlf_20261108_1800_011a4310.mp3?refId=nachrichten-108" length="9799241" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 10:00): Das Wichtigste am Sonntagvormittag</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagvormittag-3/2123956</link>
-      <pubDate>Sun, 08 Nov 2026 11:34:16 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 17:26:37 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">32dd37ba-3c30-4a47-ad92-047435935daa</guid>
       <description>Originally published Sun 08 Nov 2026 10:00 IST.
@@ -79,7 +79,7 @@ Nach dem Schusswaffenangriff in Krakau mit 6 Toten und 15 Verletzten spricht Min
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:44): Poland in shock as six killed in shooting</title>
       <link>http://www.bbc.co.uk/programmes/p0plw73g</link>
-      <pubDate>Sun, 08 Nov 2026 11:33:16 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 17:25:37 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0plw73g</guid>
       <description>Originally published Sun 08 Nov 2026 06:44 IST.
