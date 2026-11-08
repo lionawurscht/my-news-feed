@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 04:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:39:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 06:01): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3583234.html</link>
-      <pubDate>Sun, 08 Nov 2026 04:04:05 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 10:32): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3583488.html</link>
+      <pubDate>Sun, 08 Nov 2026 11:39:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">c33556b7-30f2-4478-8cad-43dbf6a78390</guid>
-      <description>Originally published Sun 08 Nov 2026 06:01 IST.
+      <guid isPermaLink="false">0e90d063-6346-4924-bf09-a97511ea8424</guid>
+      <description>Originally published Sun 08 Nov 2026 10:32 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-0500-5600.mp3" length="2083" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-0932-3200.mp3" length="2064907" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 05:09): 10pm ET, November 07 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 13:09): 6am ET, November 08 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 08 Nov 2026 04:03:05 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 11:38:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">092df178-d5dd-4c1f-a43e-5420ca691034</guid>
-      <description>Originally published Sun 08 Nov 2026 05:09 IST.
+      <guid isPermaLink="false">4c83b233-226c-4ae7-b3eb-7fb10a9da9dd</guid>
+      <description>Originally published Sun 08 Nov 2026 13:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/16ead52c-f870-4595-961e-a90ddec14751/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=16ead52c-f870-4595-961e-a90ddec14751&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261107-2200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ba906d09-66aa-49e8-888f-f60f5795041b/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ba906d09-66aa-49e8-888f-f60f5795041b&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261108-0600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 07.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3583032.html</link>
-      <pubDate>Sun, 08 Nov 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 11:37:16 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">57616c2a-479f-4101-a4b7-3f14e8a86367-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 07 Nov 2026 21:00 IST.
@@ -46,35 +46,50 @@ US-Präsident Trump ernennt Steven Miller als neuen Stabschef, Russland setzt An
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1107/AU-20261107-2024-1800.mp3" length="14484640" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 05:00): Die Nachrichten vom 08.11.2026, 04:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45458.html</link>
-      <pubDate>Sun, 08 Nov 2026 04:01:05 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 13:00): Die Nachrichten vom 08.11.2026, 12:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45478.html</link>
+      <pubDate>Sun, 08 Nov 2026 11:36:16 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">ddcd3c09-6d3f-5e4b-bc8b-02b14df4f7c5</guid>
-      <description>Originally published Sun 08 Nov 2026 05:00 IST.
+      <guid isPermaLink="false">1cb20343-2099-5cbb-9fd0-7bccf49f31b7</guid>
+      <description>Originally published Sun 08 Nov 2026 13:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/08/nachrichten_dlf_20261108_0400_08193b9a.mp3?refId=nachrichten-108" length="5014862" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/08/nachrichten_dlf_20261108_1200_c8d0ad34.mp3?refId=nachrichten-108" length="9696423" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:09): Mittagsjournal (07.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-07112026</link>
-      <pubDate>Sun, 08 Nov 2026 04:00:05 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 09:16): Morgenjournal um 8 (08.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-08112026</link>
+      <pubDate>Sun, 08 Nov 2026 11:35:16 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_ab6d09875e5940beb9b6789e8bf27068</guid>
-      <description>Originally published Sat 07 Nov 2026 14:09 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ab6d09875e5940beb9b6789e8bf27068.mp3?etag=25684cf5b7334b29587dc54535350c4f" length="81204653" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_8d5d39cbf773441fba99d7505955dc23</guid>
+      <description>Originally published Sun 08 Nov 2026 09:16 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8d5d39cbf773441fba99d7505955dc23.mp3?etag=ec32cd0e265caa074188e77496bbb1fa" length="14864975" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Celebrating the wedding that never happened</title>
-      <link>http://www.bbc.co.uk/programmes/p0plplrh</link>
-      <pubDate>Sun, 08 Nov 2026 03:59:05 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 10:00): Das Wichtigste am Sonntagvormittag</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagvormittag-3/2123956</link>
+      <pubDate>Sun, 08 Nov 2026 11:34:16 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0plplrh</guid>
-      <description>Originally published Sat 07 Nov 2026 14:00 IST.
+      <guid isPermaLink="false">32dd37ba-3c30-4a47-ad92-047435935daa</guid>
+      <description>Originally published Sun 08 Nov 2026 10:00 IST.
 
-&lt;p&gt;When Bridget's relationship fell apart, she turned to the internet with a proposal: come to Northern Ireland and celebrate the wedding that never happened. What followed was a story that has resonated worldwide as 11 strangers answered the call and helped transform loss and heartbreak into an unforgettable week of connection, companionship and adventure.&lt;/p&gt;&lt;p&gt;Also on this podcast; meet the 25-year-old who is on a mission to give one million people access to safe water by 2030. Diana Virgovicova was diagnosed with ovarian cancer as a teenager -- a disease which she believes was linked to the use of agricultural pesticides in her town. After she realised contaminated water was a global problem, she taught herself quantum chemistry to find a way to clean up water. &lt;/p&gt;&lt;p&gt;Also, the family living on the UK's most remote inhabited island and we go to Washington DC's annual High Heel Race. &lt;/p&gt;&lt;p&gt;Picture: Eleven strangers from across the world travelled to Northern Ireland to celebrate Bridget's 'non-wedding'. Credit: Rob Dight / Epic Love Photography&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3" length="12720000" type="audio/mpeg"/>
+Nach dem Schusswaffenangriff in Krakau mit 6 Toten und 15 Verletzten spricht Ministerpräsident Tusk von &quot;Terrorismus&quot; und hat zwei Tage Staatstrauer angesordnet.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123956/c/feed/das-wichtigste-am-sonntagvormittag-3.mp3" length="18523821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:44): Poland in shock as six killed in shooting</title>
+      <link>http://www.bbc.co.uk/programmes/p0plw73g</link>
+      <pubDate>Sun, 08 Nov 2026 11:33:16 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0plw73g</guid>
+      <description>Originally published Sun 08 Nov 2026 06:44 IST.
+
+&lt;p&gt;Poland has begun two days of mourning after a gunman opened fire on the main square in the city of Krakow, killing six and injuring 15 others; three more bodies were found at the suspect's home. The authorities say he used military weapons and is thought to have been inspired by far-right ideologies. Also: Israel's president invites Gadi Eisenkot, the main rival of Prime Minister Benjamin Netanyahu, to try to form a government after last week’s inconclusive election. Heavy rains in Gaza cause flooding for tens of thousands of misplaced residents living in desperate conditions in tents. The former president of Paraguay is charged in connection with the banking scandal that led to his impeachment. The Ultimate Fighting Championship boss, Dana White, tells us he is meeting President Trump on Monday after he was apparently offered the job of White House Press Secretary. The super sock that's supposed to improve running but has proved divisive. And why thousands entered a competition to find the most &quot;distinctly Boston&quot; accent.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Emergency personal  near the site of the shooting in the main market square in Krakow
+Credit: Reuters / Agencja Wyborcza.pl&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plw70f.mp3" length="13248000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
