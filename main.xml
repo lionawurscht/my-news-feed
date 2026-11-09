@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:23:46 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:06): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3584226.html</link>
-      <pubDate>Sun, 08 Nov 2026 21:37:10 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 02:28): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3584332.html</link>
+      <pubDate>Mon, 09 Nov 2026 01:23:46 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">2f2de994-1537-45af-8a72-27b27fb3a483</guid>
-      <description>Originally published Sun 08 Nov 2026 22:06 IST.
+      <guid isPermaLink="false">01ab475f-d809-4409-90ff-f9d0ca83f4cb</guid>
+      <description>Originally published Mon 09 Nov 2026 02:28 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-2105-5700.mp3" length="1767691" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1109/AU-20261109-0128-2600.mp3" length="2385931" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 23:10): 4pm ET, November 08 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 03:09): 8pm ET, November 08 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 08 Nov 2026 21:36:10 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:22:46 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">5ea2f8dd-6f65-4135-8f94-fcc4afcfeb33</guid>
-      <description>Originally published Sun 08 Nov 2026 23:10 IST.
+      <guid isPermaLink="false">22bd52d4-6159-4056-a9ec-c35c6d5787f2</guid>
+      <description>Originally published Mon 09 Nov 2026 03:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1951c09b-5195-4c6b-91ff-d59d36535026/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1951c09b-5195-4c6b-91ff-d59d36535026&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261108-1600-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d7ed00a7-efb4-408f-9dd5-09ff9e759307/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d7ed00a7-efb4-408f-9dd5-09ff9e759307&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261108-2000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 08.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3584208.html</link>
-      <pubDate>Sun, 08 Nov 2026 21:35:10 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:21:46 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">3bffb376-6ebf-4103-a251-95e27c0f882b-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 08 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Staatsanwaltschaft in Polen ermittelt nach Schüssen in Krakau wegen Terrorismus
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-2024-5300.mp3" length="14848672" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 23:00): Die Nachrichten vom 08.11.2026, 22:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45498.html</link>
-      <pubDate>Sun, 08 Nov 2026 21:34:10 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 02:59): Die Nachrichten vom 09.11.2026, 01:59 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45504.html</link>
+      <pubDate>Mon, 09 Nov 2026 01:20:46 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">25bbc780-15ba-5cc6-95e6-4103b8280a79</guid>
-      <description>Originally published Sun 08 Nov 2026 23:00 IST.
+      <guid isPermaLink="false">6fefb7fd-7140-5f72-8200-4fff7744d68f</guid>
+      <description>Originally published Mon 09 Nov 2026 02:59 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/08/nachrichten_dlf_20261108_2200_bbf5fe1c.mp3?refId=nachrichten-108" length="5017788" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/09/nachrichten_dlf_20261109_0159_6ad1b339.mp3?refId=nachrichten-108" length="5019459" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (08.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-08112026</link>
-      <pubDate>Sun, 08 Nov 2026 21:33:10 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:19:46 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_2d4c685bd7104d268fc1b2873859d759</guid>
       <description>Originally published Sun 08 Nov 2026 19:21 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 20:10): Das Wichtigste am Sonntagabend</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagabend-4/2123960</link>
-      <pubDate>Sun, 08 Nov 2026 21:32:10 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:18:46 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">34449bae-86c9-4301-9522-e3bd9517a23d</guid>
       <description>Originally published Sun 08 Nov 2026 20:10 IST.
@@ -79,7 +79,7 @@ Beim Treffen der CDU soll endgültig über die Kandidatur von Ilse Aigner als Bu
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: They fled Russia. The US sent them back</title>
       <link>http://www.bbc.co.uk/programmes/p0pllbwj</link>
-      <pubDate>Sun, 08 Nov 2026 21:31:10 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:17:46 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pllbwj</guid>
       <description>Originally published Sun 08 Nov 2026 22:00 IST.
