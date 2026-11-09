@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 01:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:59:35 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 02:28): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3584332.html</link>
-      <pubDate>Mon, 09 Nov 2026 01:23:46 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 10:47): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3585024.html</link>
+      <pubDate>Mon, 09 Nov 2026 08:59:35 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">01ab475f-d809-4409-90ff-f9d0ca83f4cb</guid>
-      <description>Originally published Mon 09 Nov 2026 02:28 IST.
+      <guid isPermaLink="false">f1463871-0428-4287-a6c1-b4d60eeedb7c</guid>
+      <description>Originally published Mon 09 Nov 2026 10:47 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1109/AU-20261109-0128-2600.mp3" length="2385931" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1109/AU-20261109-0947-0100.mp3" length="5264779" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 03:09): 8pm ET, November 08 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 10:09): 3am ET, November 09 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 09 Nov 2026 01:22:46 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 08:58:35 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">22bd52d4-6159-4056-a9ec-c35c6d5787f2</guid>
-      <description>Originally published Mon 09 Nov 2026 03:09 IST.
+      <guid isPermaLink="false">b819ce92-d534-4d69-aa5d-5cdadb6b1c33</guid>
+      <description>Originally published Mon 09 Nov 2026 10:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d7ed00a7-efb4-408f-9dd5-09ff9e759307/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d7ed00a7-efb4-408f-9dd5-09ff9e759307&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261108-2000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/042fecda-7385-4ddf-9054-37be672d66f7/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=042fecda-7385-4ddf-9054-37be672d66f7&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261109-0300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Mon 07:00): חדשון בעברית קלה (09/11/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Mon, 09 Nov 2026 08:57:35 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/9.11.26.m4a</guid>
+      <description>Originally published Mon 09 Nov 2026 07:00 IST.
+
+• דלג ל
+• משרד החינוך
+• שַׂר החוּץ האָמֵריקָני מַרקוֹ רוּבּיוֹ: השִׂיחוֹת עִם אִירַאן אֵינָן מִתקַדמוֹת והדְרִישוֹת שלה אֵינָן הֶגיוֹנִיוֹת. לַמרוֹת זֹאת, ארה&quot;ב תַמשִיך לנַסות את הדֶרֶך הדִיפּלוֹמָטית
+• גוֹרמִים בּמַעֲרֶכת הבִּיטָחוֹן בּישׂראל ובארה&quot;ב תוֹמְכִים בּתְקִיפָה נוֹסֶפֶת בּאִיראן, אך לא כּוּלם מַסכִּימים על כּך, והנשׂיא טראמפּ הוא שֶיַחלִיט
+• הנשׂיא טראמפּ הִתיַיחֵס הלַילָה לאֶפשָרוּת שֶגָדי אַיזֵנקוֹט יִהיֶה רֹאש המֶמשלה הבּא, ואמר: גדי איזנקוט ובנימין נתניהו דוֹמים בּדֵעוֹתֵיהֶם ובמְדִינִיוּת שלָהם, ושְנֵיהֶם תוֹמכים מאוד בּמה שֶאֲני עוֹשֶׂה
+• גוֹרמים בּמִפלֶגֶת 'יָשר!' שׂוֹחֲחוּ בּיָמים האַחרוֹנים עִם יַזָמִים ואַנשֵי עֲסָקים חֲרֵדים, כּדֵי לנַסוֹת לִבנוֹת תוֹכנית מֶמשַלתִית לקִידוּם גִיוּס חֲרֵדִים לצַהַ&quot;ל ולאַפשֵר שִיתוּף פְּעוּלה עִם המִפלָגוֹת החֲרֵדיוֹת
+• היום, כ&quot;ט בּמַרחֶשוון, חָל חג הסִיגְד – אחד החגים החשוּבים של יהוּדֵי אֶתיופּיה
+• לִקרַאת חג הסִיגְד, פּוּרסמוּ נְתוּנִים סְטָטִיסטִיים על קְהִילַת יוֹצאֵי אֶתיופּיָה בּישׂראל
+• זַאוּדוּ בֵּרהַן, מוֹרֶה ליַהֲדוּת ולעִברית שֶעָלה לִפנֵי כ-30 שנה מאֶתיוֹפּיה, פִּרסֵם ספר מיוּחד על התַרבּוּת והמוֹרֶשֶת של יהוּדֵי אתיופּיה
+• התִַחֲזית: עֲדַיִין קר מהָרָגיל
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/9.11.26.m4a" length="1788765" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 08.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3584208.html</link>
-      <pubDate>Mon, 09 Nov 2026 01:21:46 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Mon, 09 Nov 2026 08:56:35 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">3bffb376-6ebf-4103-a251-95e27c0f882b-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 08 Nov 2026 21:00 IST.
 
@@ -46,46 +68,50 @@ Staatsanwaltschaft in Polen ermittelt nach Schüssen in Krakau wegen Terrorismus
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1108/AU-20261108-2024-5300.mp3" length="14848672" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 02:59): Die Nachrichten vom 09.11.2026, 01:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45504.html</link>
-      <pubDate>Mon, 09 Nov 2026 01:20:46 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">6fefb7fd-7140-5f72-8200-4fff7744d68f</guid>
-      <description>Originally published Mon 09 Nov 2026 02:59 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 10:30): Die Nachrichten vom 09.11.2026, 09:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45530.html</link>
+      <pubDate>Mon, 09 Nov 2026 08:55:35 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">bf817c3e-1b9a-562e-9c2d-7c4c86039ca1</guid>
+      <description>Originally published Mon 09 Nov 2026 10:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/09/nachrichten_dlf_20261109_0159_6ad1b339.mp3?refId=nachrichten-108" length="5019459" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/09/nachrichten_dlf_20261109_0930_866db67d.mp3?refId=nachrichten-108" length="4987277" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:21): Abendjournal um 18 (08.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-08112026</link>
-      <pubDate>Mon, 09 Nov 2026 01:19:46 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_2d4c685bd7104d268fc1b2873859d759</guid>
-      <description>Originally published Sun 08 Nov 2026 19:21 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2d4c685bd7104d268fc1b2873859d759.mp3?etag=55b11ae07cc03c8b4a1bf3a69b5ec265" length="22109653" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 20:10): Das Wichtigste am Sonntagabend</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagabend-4/2123960</link>
-      <pubDate>Mon, 09 Nov 2026 01:18:46 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 09:27): Morgenjournal um 8 (09.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-09112026</link>
+      <pubDate>Mon, 09 Nov 2026 08:54:35 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">34449bae-86c9-4301-9522-e3bd9517a23d</guid>
-      <description>Originally published Sun 08 Nov 2026 20:10 IST.
-
-Beim Treffen der CDU soll endgültig über die Kandidatur von Ilse Aigner als Bundespräsidentin entschieden werden. BR-Hauptstadtkorrespondent Tim Aßmann hält eine Überraschung für ausgeschlossen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2123960/c/feed/das-wichtigste-am-sonntagabend-4.mp3" length="13553709" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_1d481872dfc749889b7033241e35bd1d</guid>
+      <description>Originally published Mon 09 Nov 2026 09:27 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_1d481872dfc749889b7033241e35bd1d.mp3?etag=50684b63f333a0469f23ee67a57ffb34" length="29286871" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: They fled Russia. The US sent them back</title>
-      <link>http://www.bbc.co.uk/programmes/p0pllbwj</link>
-      <pubDate>Mon, 09 Nov 2026 01:17:46 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 09:14): Wie sehen die Menschen in Bayern unsere Demokratie? ARD-Umfrage für &quot;Deine Meinung zählt&quot; gibt Antworten</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/wie-sehen-die-menschen-in-bayern-unsere-demokratie-ard-umfrage-fuer-deine-meinung-zaehlt-gibt-antworten/2123972</link>
+      <pubDate>Mon, 09 Nov 2026 08:53:35 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pllbwj</guid>
-      <description>Originally published Sun 08 Nov 2026 22:00 IST.
+      <guid isPermaLink="false">a885ee98-29eb-44e0-8ff6-2e49ca8b56f1</guid>
+      <description>Originally published Mon 09 Nov 2026 09:14 IST.
 
-&lt;p&gt;After Russia invaded Ukraine in 2022, many Russians who opposed the war – or feared being sent to fight in it – fled the country. In much of the West, they were welcomed as courageous dissidents. But four years on, the number of Russians being forcibly returned from the US to Russia is rising. Is the tougher stance on Russian asylum seekers evidence of the Trump administration seeking closer ties with Moscow? Or is it part of a wider immigration crackdown, driven by domestic politics? In this episode, Tristan Redman speaks to the BBC’s Will Vernon about the Russian refugees he has met who face persecution if they are forced to return home. The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pllbml.mp3" length="13408000" type="audio/mpeg"/>
+Wie ist es um die Demokratie bestellt? Und wie zufrieden sind die Bürger mit ihr? Das haben wir in einer bundesweiten Internet-Umfrage der ARD ermittelt.</description>
+      <enclosure url="https://media.neuland.br.de/file/2123972/c/feed/wie-sehen-die-menschen-in-bayern-unsere-demokratie-ard-umfrage-fuer-deine-meinung-zaehlt-gibt-antworten.mp3" length="9124653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:32): Nvidia investigates CEO's affair with suspected Chinese spy</title>
+      <link>http://www.bbc.co.uk/programmes/p0plzjqt</link>
+      <pubDate>Mon, 09 Nov 2026 08:52:35 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0plzjqt</guid>
+      <description>Originally published Mon 09 Nov 2026 07:32 IST.
+
+&lt;p&gt;The US tech giant Nvidia has opened an independent investigation following reports its chief executive, Jensen Huang, had a relationship with a woman suspected of spying for China. Mr Huang apologized to his wife and his children for being unfaithful.  The chip maker said it had no reason to believe its secrets or US national security were compromised.  Also: an anti-terrorism investigation is launched in Poland after a mass shooting in the city of Krakow left six people dead. In Egypt two trains have crashed south of the capital, Cairo, killing seven people and injuring more than 100. South Africa’s governing party, the African National Congress, has recorded its worst result in local elections since Nelson Mandela led the country into democracy. The Indian capital Delhi records very poor air quality during Diwali celebrations. Billionaires on the ballot in California - should they pay more tax? And a miraculous rescue in the Pacific Ocean as cruise ship pianist is picked up by fishermen. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Nvidia boss Jensen Huang at the US Institute of Peace in Washington, 8th October. 
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plzjbf.mp3" length="13384000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
