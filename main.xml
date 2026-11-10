@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 19:42:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 02:30:24 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:34): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3586278.html</link>
-      <pubDate>Mon, 09 Nov 2026 19:42:31 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 03:12): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3586646.html</link>
+      <pubDate>Tue, 10 Nov 2026 02:30:24 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">920fd863-dec3-41b6-95a0-d950ec050216</guid>
-      <description>Originally published Mon 09 Nov 2026 19:34 IST.
+      <guid isPermaLink="false">9b7225e5-2d63-4741-8e92-3b6001905a5f</guid>
+      <description>Originally published Tue 10 Nov 2026 03:12 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1109/AU-20261109-1834-0600.mp3" length="2080651" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1110/AU-20261110-0212-0400.mp3" length="2251531" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 21:09): 2pm ET, November 09 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 04:09): 9pm ET, November 09 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 09 Nov 2026 19:41:31 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:29:24 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">4fa5fd44-3d61-4bc6-9dfc-db564cf76c9f</guid>
-      <description>Originally published Mon 09 Nov 2026 21:09 IST.
+      <guid isPermaLink="false">2ec798b7-962e-4fce-8383-44af55278b0c</guid>
+      <description>Originally published Tue 10 Nov 2026 04:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c0e42e91-3a0d-443f-bcd1-87c1fee564d0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c0e42e91-3a0d-443f-bcd1-87c1fee564d0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261109-1400-long&amp;p=500005&amp;d=280&amp;size=4585475" length="4585475" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e978851a-6313-450c-8562-1f2047432e14/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e978851a-6313-450c-8562-1f2047432e14&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261109-2100-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 09.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3586464.html</link>
-      <pubDate>Mon, 09 Nov 2026 19:40:31 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:28:24 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">8c12a253-6177-4ee1-9448-9c93d4dc1b60-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 09 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ CSU-Politikerin Ilse Aigner wird Kandidatin der Union für die Wahl der nächste
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1109/AU-20261109-2027-0000.mp3" length="15705761" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 21:00): Die Nachrichten vom 09.11.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45568.html</link>
-      <pubDate>Mon, 09 Nov 2026 19:39:31 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 04:00): Die Nachrichten vom 10.11.2026, 03:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45582.html</link>
+      <pubDate>Tue, 10 Nov 2026 02:27:24 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">236a0a8e-4fb1-519d-8b46-e7e95047481f</guid>
-      <description>Originally published Mon 09 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">bf2cbdb4-5a19-5226-b87a-eb5a07c6e3e9</guid>
+      <description>Originally published Tue 10 Nov 2026 04:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/09/nachrichten_dlf_20261109_2000_f6ae7d2c.mp3?refId=nachrichten-108" length="9822646" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/10/nachrichten_dlf_20261110_0300_042f037d.mp3?refId=nachrichten-108" length="4999397" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (09.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-09112026</link>
-      <pubDate>Mon, 09 Nov 2026 19:38:31 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:26:24 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_74fdff6adc864e8182f03252eef58245</guid>
       <description>Originally published Mon 09 Nov 2026 19:33 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Mauergedenken | Zeitzeugen-Truck | Getötete 13-Jährige</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/mauerfall-gedenken-zeitzeugen-truck-lisa-marzahn-kita.html</link>
-      <pubDate>Mon, 09 Nov 2026 19:37:31 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:25:24 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/87/bf/87bf3ed2-a8a7-4d88-b6f9-f41817f4cdd8/87bf3ed2-a8a7-4d88-b6f9-f41817f4cdd8_mp3-256kd.mp3</guid>
       <description>Originally published Mon 09 Nov 2026 19:17 IST.
@@ -81,7 +81,7 @@ Vor 37 Jahren ist die Mauer gefallen. Das besiegelte das Ende der deutsch-deutsc
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 19:00): Eine Bayerin fürs höchste Staatsamt: Was Aigners Kandidatur über CDU und CSU sagt</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eine-bayerin-fuers-hoechste-staatsamt-was-aigners-kandidatur-ueber-cdu-und-csu-sagt/2123996</link>
-      <pubDate>Mon, 09 Nov 2026 19:36:31 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:24:24 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">a69eba98-5f4e-4ca8-9cac-be56fd158bc1</guid>
       <description>Originally published Mon 09 Nov 2026 19:00 IST.
@@ -92,7 +92,7 @@ Es ist offiziell: Die Union schickt die bayerische Landtagspräsidentin Ilse Aig
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 17:29): China denies spying on Nvidia boss</title>
       <link>http://www.bbc.co.uk/programmes/p0pm36r2</link>
-      <pubDate>Mon, 09 Nov 2026 19:35:31 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:23:24 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pm36r2</guid>
       <description>Originally published Mon 09 Nov 2026 17:29 IST.
