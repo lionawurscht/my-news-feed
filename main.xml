@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:52:35 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,53 +13,53 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:31): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3588258.html</link>
-      <pubDate>Tue, 10 Nov 2026 18:26:43 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 22:48): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3588652.html</link>
+      <pubDate>Tue, 10 Nov 2026 23:52:35 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">db19faf6-996e-4c07-adef-7a6223c8a8ae</guid>
-      <description>Originally published Tue 10 Nov 2026 19:31 IST.
+      <guid isPermaLink="false">55cbb97e-d471-431c-beed-4089a01decb2</guid>
+      <description>Originally published Tue 10 Nov 2026 22:48 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1110/AU-20261110-1831-5100.mp3" length="1819147" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1110/AU-20261110-2148-1700.mp3" length="1769227" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 20:09): 1pm ET, November 10 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 01:09): 6pm ET, November 10 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 10 Nov 2026 18:25:43 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 23:51:35 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">ac53fc7d-ad40-4a39-ad45-6eacefd8a9de</guid>
-      <description>Originally published Tue 10 Nov 2026 20:09 IST.
+      <guid isPermaLink="false">60f9ba32-5ed2-4c6e-8c43-c43827feab4c</guid>
+      <description>Originally published Wed 11 Nov 2026 01:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9c0da101-2d56-45f2-a092-1e771baddd6d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9c0da101-2d56-45f2-a092-1e771baddd6d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261110-1300-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/93635c7a-7940-441e-a41f-ada843c7bca0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=93635c7a-7940-441e-a41f-ada843c7bca0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261110-1800-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 09.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3586464.html</link>
-      <pubDate>Tue, 10 Nov 2026 18:24:43 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 10.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3588592.html</link>
+      <pubDate>Tue, 10 Nov 2026 23:50:35 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">8c12a253-6177-4ee1-9448-9c93d4dc1b60-SENDUNGSAUDIO</guid>
-      <description>Originally published Mon 09 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">e176c380-92bf-432d-8db3-4d6688c3de73-SENDUNGSAUDIO</guid>
+      <description>Originally published Tue 10 Nov 2026 21:00 IST.
 
-CSU-Politikerin Ilse Aigner wird Kandidatin der Union für die Wahl der nächsten Bundespräsidentin, Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich, Mutmaßliche Spionageaffäre um Nvidia-Chef Huang lässt Aktie einbrechen, 31. Klimakonferenz beginnt im türkischen Badeort Antalya, Todesschütze von Krakau im Krankenhaus gestorben, Steinmeier betont am Jahrestag der Novemberpogrome von 1938 historische Verantwortung Deutschlands, ARD-Aktion &quot;Deine Meinung zählt!&quot;, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1109/AU-20261109-2027-0000.mp3" length="15705761" type="audio/mpeg"/>
+Präsident des Maschinenbauverbandes macht Bundesregierung für die Krise in der Branche verantwortlich, Immer mehr Unternehmen im Maschinenbau sehen Künstliche Intelligenz als Chance, Bundesregierung will offenbar E-Auto-Prämie aufstocken, Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges, Trauerzeremonie für die Opfer des Zugunglücks in Spanien, Urteil im Mordfall Fabian: Gina H. zu lebenslanger Haft verurteilt, Prozessbeginn gegen Ex-rbb-Intendantin Schlesinger, Bilger will sogenannte Handy-Blitzer bundesweit einführen, Eishockey-WM der Frauen: Deutschland gewinnt gegen Tschechien 2:1, Das Wetter Hinweis: Der Beitrag zum Thema „Eishockey-WM der Frauen“ darf auf tagesschau.de aus rechtlichen Gründen nicht gezeigt werden. Das Hintergrund-Foto bei den Ukraine-Gesprächen in Abu Dhabi zeigte die Gesprächsrunde mit europäischen Teilnehmern. Es hätten die Gespräche zwischen Russland, der Ukraine und den USA sein müssen. Wir haben das Foto ausgetauscht.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1110/AU-20261110-2049-0100.mp3" length="15230371" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 20:00): Die Nachrichten vom 10.11.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45642.html</link>
-      <pubDate>Tue, 10 Nov 2026 18:23:43 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 01:00): Die Nachrichten vom 11.11.2026, 00:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45652.html</link>
+      <pubDate>Tue, 10 Nov 2026 23:49:35 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">4cc68077-17a2-5e8c-a259-e38312399c25</guid>
-      <description>Originally published Tue 10 Nov 2026 20:00 IST.
+      <guid isPermaLink="false">5fecfff4-8175-5955-a7b9-396fad653da0</guid>
+      <description>Originally published Wed 11 Nov 2026 01:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/10/nachrichten_dlf_20261110_1900_ac9deb8f.mp3?refId=nachrichten-108" length="5005667" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/11/nachrichten_dlf_20261111_0000_75b092e7.mp3?refId=nachrichten-108" length="4994800" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (10.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-10112026</link>
-      <pubDate>Tue, 10 Nov 2026 18:22:43 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 23:48:35 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_15dd12161343412d8adf9905940e0b43</guid>
       <description>Originally published Tue 10 Nov 2026 19:33 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Schlesinger-Prozess | Respekt-Kampagne | Wieder Jugendgewalt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/schlesinger-prozess-respekt-kampagne-wieder-jugendgewalt.html</link>
-      <pubDate>Tue, 10 Nov 2026 18:21:43 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 23:47:35 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3c/f8/3cf8a9e9-dfa4-448d-be1d-af40c3ad5b3c/3cf8a9e9-dfa4-448d-be1d-af40c3ad5b3c_mp3-256kd.mp3</guid>
       <description>Originally published Tue 10 Nov 2026 19:17 IST.
@@ -81,7 +81,7 @@ Vor dem Landgericht Berlin hat der Prozess gegen die fr&amp;#252;here Intendanti
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Machtpoker in Jerusalem: Eisenkot gegen Netanjahu</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/machtpoker-in-jerusalem-eisenkot-gegen-netanjahu/2124031</link>
-      <pubDate>Tue, 10 Nov 2026 18:20:43 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 23:46:35 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">eb9bd3da-2713-4f45-b180-9959865ff612</guid>
       <description>Originally published Tue 10 Nov 2026 19:00 IST.
@@ -92,7 +92,7 @@ Israels neues Parlament ist erstmals zusammengekommen. Oppositionsführer Gadi E
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 17:47): How US model agencies helped Epstein access victims</title>
       <link>http://www.bbc.co.uk/programmes/p0pm9szt</link>
-      <pubDate>Tue, 10 Nov 2026 18:19:43 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 23:45:35 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pm9szt</guid>
       <description>Originally published Tue 10 Nov 2026 17:47 IST.
