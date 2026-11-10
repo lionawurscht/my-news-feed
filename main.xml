@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Nov 2026 10:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:26:43 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 11:45): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3587378.html</link>
-      <pubDate>Tue, 10 Nov 2026 10:42:46 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:31): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3588258.html</link>
+      <pubDate>Tue, 10 Nov 2026 18:26:43 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">3bbeb1d2-41d0-44cf-bb7d-81451080d74e</guid>
-      <description>Originally published Tue 10 Nov 2026 11:45 IST.
+      <guid isPermaLink="false">db19faf6-996e-4c07-adef-7a6223c8a8ae</guid>
+      <description>Originally published Tue 10 Nov 2026 19:31 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1110/AU-20261110-1045-2000.mp3" length="2994187" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1110/AU-20261110-1831-5100.mp3" length="1819147" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 12:09): 5am ET, November 10 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 20:09): 1pm ET, November 10 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 10 Nov 2026 10:41:46 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 18:25:43 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">130a057a-a996-4560-83a0-f5b1c5826813</guid>
-      <description>Originally published Tue 10 Nov 2026 12:09 IST.
+      <guid isPermaLink="false">ac53fc7d-ad40-4a39-ad45-6eacefd8a9de</guid>
+      <description>Originally published Tue 10 Nov 2026 20:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e70faf35-e8e9-4fc5-93a6-48da4d78c995/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e70faf35-e8e9-4fc5-93a6-48da4d78c995&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261110-0500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Tue 07:00): חדשון בעברית קלה (10/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Tue, 10 Nov 2026 10:40:46 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/10-11-26.m4a</guid>
-      <description>Originally published Tue 10 Nov 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• הכּנֶסֶת ה-26 תוּשבַּע היום אַחַר הצוֹהרַיִים בּישיבה חֲגִיגִית
-• בּכּנֶסת יִהיוּ 46 חֲבֵרים חדשים. בּסַך הכּוֹל יהיוּ בּה 87 גְבָרים ו-33 נָשים. חבֵר הכּנסת הצָעיר בּיוֹתר בּן 24, והמְבוּגָר בּיוֹתר – בּן 78
-• אַיזנקוֹט ולִיבֶּרמן סִיכּמוּ בֵּינֵיהם לנַהֵל שִׂיחוֹת עִם החֲרֵדים על חֲקִיקַת חוֹק גִיוּס מָתוּן יוֹתֵר, בּתְמוּרָה לתְמִיכָתָם בּמֶמשָלה בּרָאשוּת אַיזנקוֹט
-• הנשיא טראמפּ: ארה&quot;ב לא תִתקוֹף בּאִירַאן בּשָלָב זה. יש סִיכּוּי טוב לעִסקָה, אך נחַדֵש את המִלחָמה אִם יהיה צוֹרֶך בּכָך
-• הנשׂיא הֶרצוֹג בּעֲצֶרֶת חג הסִיגד בּירוּשלים: הַיימָנוֹט עֲדַיִין לא חָזרה הבַּיתָה
-• מִשׂרַד הבִּיטָחוֹן: נוֹסעֵי טִיסַת 'פְלַיי דוּבַּאי' יוּכּרוּ כּנִפגְעֵי פּעוּלוֹת אֵיבָה
-• התִַחֲזית: הִתחַמְמוּת קַלה, ועֲדַיִין קר מהרָגיל
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/10-11-26.m4a" length="1459610" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/9c0da101-2d56-45f2-a092-1e771baddd6d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=9c0da101-2d56-45f2-a092-1e771baddd6d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261110-1300-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 09.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3586464.html</link>
-      <pubDate>Tue, 10 Nov 2026 10:39:46 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Tue, 10 Nov 2026 18:24:43 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">8c12a253-6177-4ee1-9448-9c93d4dc1b60-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 09 Nov 2026 21:00 IST.
 
@@ -68,62 +46,62 @@ CSU-Politikerin Ilse Aigner wird Kandidatin der Union für die Wahl der nächste
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1109/AU-20261109-2027-0000.mp3" length="15705761" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 12:30): Die Nachrichten vom 10.11.2026, 11:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45614.html</link>
-      <pubDate>Tue, 10 Nov 2026 10:38:46 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">22495599-7d5e-5881-bded-6e568770d524</guid>
-      <description>Originally published Tue 10 Nov 2026 12:30 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 20:00): Die Nachrichten vom 10.11.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45642.html</link>
+      <pubDate>Tue, 10 Nov 2026 18:23:43 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">4cc68077-17a2-5e8c-a259-e38312399c25</guid>
+      <description>Originally published Tue 10 Nov 2026 20:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/10/nachrichten_dlf_20261110_1130_c901ec55.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/10/nachrichten_dlf_20261110_1900_ac9deb8f.mp3?refId=nachrichten-108" length="5005667" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:27): Morgenjournal um 8 (10.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-10112026</link>
-      <pubDate>Tue, 10 Nov 2026 10:37:46 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (10.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-10112026</link>
+      <pubDate>Tue, 10 Nov 2026 18:22:43 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_15dd12161343412d8adf9905940e0b43</guid>
+      <description>Originally published Tue 10 Nov 2026 19:33 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_15dd12161343412d8adf9905940e0b43.mp3?etag=580c4939d067b03980ff5e942a4f3596" length="36487003" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Schlesinger-Prozess | Respekt-Kampagne | Wieder Jugendgewalt</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/schlesinger-prozess-respekt-kampagne-wieder-jugendgewalt.html</link>
+      <pubDate>Tue, 10 Nov 2026 18:21:43 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_8c3171f22f214bc883ed815637dec5d9</guid>
-      <description>Originally published Tue 10 Nov 2026 09:27 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8c3171f22f214bc883ed815637dec5d9.mp3?etag=7d658385645d4a1594801738e6ab2eb3" length="29381280" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 09:11): Kampf gegen den CO2-Ausstoß: Wie geht es voran?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/kampf-gegen-den-co2-ausstoss-wie-geht-es-voran/2124013</link>
-      <pubDate>Tue, 10 Nov 2026 10:36:46 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">5f01e846-3205-4932-882d-1e94d3c21919</guid>
-      <description>Originally published Tue 10 Nov 2026 09:11 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3c/f8/3cf8a9e9-dfa4-448d-be1d-af40c3ad5b3c/3cf8a9e9-dfa4-448d-be1d-af40c3ad5b3c_mp3-256kd.mp3</guid>
+      <description>Originally published Tue 10 Nov 2026 19:17 IST.
 
-Immer mehr Länder setzen auf erneuerbare Energien, ihr Ausstoß von Kohlendioxid geht zurück - trotzdem ist weltweit gesehen mehr CO2 in der Luft als in den vergangenen Jahren. Wie kann das sein? Das klären wir mit unserem Klimaexperten.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124013/c/feed/kampf-gegen-den-co2-ausstoss-wie-geht-es-voran.mp3" length="7931181" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Mauergedenken | Zeitzeugen-Truck | Getötete 13-Jährige</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/mauerfall-gedenken-zeitzeugen-truck-lisa-marzahn-kita.html</link>
-      <pubDate>Tue, 10 Nov 2026 10:35:46 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/87/bf/87bf3ed2-a8a7-4d88-b6f9-f41817f4cdd8/87bf3ed2-a8a7-4d88-b6f9-f41817f4cdd8_mp3-256kd.mp3</guid>
-      <description>Originally published Mon 09 Nov 2026 19:17 IST.
-
-Vor 37 Jahren ist die Mauer gefallen. Das besiegelte das Ende der deutsch-deutschen Teilung. An diesen Tag ist in Berlin erinnert worden. Weitere Themen: Mobile Ausstellung &quot;In Echt? Begegnungen mit NS-Zeitzeugen&quot; in Cottbus. Vermisste 13-j&amp;#228;hrige Lisa tot aufgefunden. Brandenburgs Landesregierung will l&amp;#228;ngere &amp;#214;ffnungszeiten in Kitas weiter finanzieren.
+Vor dem Landgericht Berlin hat der Prozess gegen die fr&amp;#252;here Intendantin des rbb, Patricia Schlesinger, begonnen. Die Generalstaatsanwaltschaft wirft ihr und drei weiteren Angeklagten Untreue zum Nachteil des Senders vor. Weitere Themen: Plakatkampage in Berlin gegen Gewalt, wieder Angriff auf Jugendliche in Potsdam und Landesregierung streicht F&amp;#246;rderung f&amp;#252;r &amp;#214;kolandbau.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/87/bf/87bf3ed2-a8a7-4d88-b6f9-f41817f4cdd8/87bf3ed2-a8a7-4d88-b6f9-f41817f4cdd8_mp3-256kd.mp3" length="29673768" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/3c/f8/3cf8a9e9-dfa4-448d-be1d-af40c3ad5b3c/3cf8a9e9-dfa4-448d-be1d-af40c3ad5b3c_mp3-256kd.mp3" length="31141390" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:19): Trump backs Hegseth as he faces impeachment push</title>
-      <link>http://www.bbc.co.uk/programmes/p0pm6qtr</link>
-      <pubDate>Tue, 10 Nov 2026 10:34:46 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pm6qtr</guid>
-      <description>Originally published Tue 10 Nov 2026 07:19 IST.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Machtpoker in Jerusalem: Eisenkot gegen Netanjahu</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/machtpoker-in-jerusalem-eisenkot-gegen-netanjahu/2124031</link>
+      <pubDate>Tue, 10 Nov 2026 18:20:43 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">eb9bd3da-2713-4f45-b180-9959865ff612</guid>
+      <description>Originally published Tue 10 Nov 2026 19:00 IST.
 
-&lt;p&gt;President Trump has said the resumption of US strikes against Iran is &quot;quite unlikely and unnecessary&quot;. He expressed support for his defence secretary, Pete Hegseth, after a Republican Congressman, Thomas Massie, introduced articles of impeachment against him for waging war in Iran and elsewhere without Congressional approval. Also: President Trump says the FBI is investigating claims that Jensen Huang, the boss of the US tech giant Nvidia, had an affair with a suspected Chinese agent. He said he'd spoken to Mr Huang - who'd told him he had no idea that the woman was a spy. France has accused Iran of being behind cyberattacks last month that heated up supermarket fridges and freezers, spoiling millions of dollars' worth of food. The former British comedian and actor, Russell Brand is beginning a prison sentence of ten-and-a-half years for raping one woman and sexually assaulting three others between 2004 and 2009. We have a special report from the Libyan city of Derna, which has been rebuilt after Storm Daniel triggered the worst flood disaster in the world this century. Astronomers say the Earth has another temporary moon that's fallen into our planet's gravitational pull. And the author M John Harrison is awarded the prestigious Booker Prize for his dystopian novel, The End of Everything. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: US Defence Secretary Pete Hegseth speaking at the Pentagon in March.
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm6qfc.mp3" length="13064000" type="audio/mpeg"/>
+Israels neues Parlament ist erstmals zusammengekommen. Oppositionsführer Gadi Eisenkot hat nur wenige Wochen Zeit, eine Regierung ohne Benjamin Netanjahu zu bilden. Präsident Izchak Herzog hat den Oppositionspolitiker am Sonntag beauftragt, da ihm bessere Erfolgschancen zugemessen werden. Unsere Korrespondenten erklären, wer gerade am längeren Hebel sitzt, welche Rolle die arabischen Parteien spielen und was passiert, wenn Eisenkot scheitert.Moderation: Claudia AichbergerBeitrag: Bettina MeierGesprächspartner: ARD-Korrespondent Jan-Christoph Kitzler</description>
+      <enclosure url="https://media.neuland.br.de/file/2124031/c/feed/machtpoker-in-jerusalem-eisenkot-gegen-netanjahu.mp3" length="8641197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 17:47): How US model agencies helped Epstein access victims</title>
+      <link>http://www.bbc.co.uk/programmes/p0pm9szt</link>
+      <pubDate>Tue, 10 Nov 2026 18:19:43 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pm9szt</guid>
+      <description>Originally published Tue 10 Nov 2026 17:47 IST.
+
+&lt;p&gt;A BBC investigation uncovers new evidence about how model agencies, scouts and powerful fashion figures helped Jeffrey Epstein gain access to young women after his conviction for sex offences. A woman raped by the financier says the president of her model agency put her in danger when he sent her to two photoshoots at Epstein's Florida beach house. At the time, in 2009, Epstein was serving a jail sentence for sex offences against a minor but was allowed to work each day from his home.&lt;/p&gt;&lt;p&gt;Also: dozens of soldiers in the eastern Democratic Republic of Congo are sentenced to death by a military court for offences including cowardice and mutiny. Negotiators from Ukraine, Russia and the US begin two days of talks in Abu Dhabi, aimed at ending the war. One of Russia's few independent news outlets, Novaya Gazeta, is shut down. In a unique experiment, movie fans in the Netherlands are hypnotised before watching their favourite film, so they can experience the movie as if for the first time. A round-the-world cruise ship, which left passengers stranded in Cambodia after its operator ran out of money, has been seized in Singapore. And five stars are shortlisted for the 2026 BBC World Service Women’s Footballer of the Year.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Jeffrey Epstein
+Credit: New York State Division of Criminal Justice Services sex offender registry&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3" length="13792000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
