@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Nov 2026 04:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:23:03 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 06:03): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3588862.html</link>
-      <pubDate>Wed, 11 Nov 2026 04:25:08 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 13:14): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3589868.html</link>
+      <pubDate>Wed, 11 Nov 2026 12:23:03 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">448b0e7c-c9fe-4096-b992-089f6e1fcf86</guid>
-      <description>Originally published Wed 11 Nov 2026 06:03 IST.
+      <guid isPermaLink="false">f3451317-4a32-4ca0-a589-97070bdc5209</guid>
+      <description>Originally published Wed 11 Nov 2026 13:14 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1111/AU-20261111-0503-1500.mp3" length="1733925" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1111/AU-20261111-1214-2700.mp3" length="1843339" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 06:09): 11pm ET, November 10 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 14:09): 7am ET, November 11 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 11 Nov 2026 04:24:08 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 12:22:03 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">c70ddd7f-299b-4040-ba02-be23ccb815a8</guid>
-      <description>Originally published Wed 11 Nov 2026 06:09 IST.
+      <guid isPermaLink="false">84811159-1ce2-4913-b874-d1716756f43f</guid>
+      <description>Originally published Wed 11 Nov 2026 14:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ac883578-129a-43d8-b5f9-59399c1a79a5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ac883578-129a-43d8-b5f9-59399c1a79a5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261110-2300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2c36c838-05e2-4b23-af3a-6c6e7b159566/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2c36c838-05e2-4b23-af3a-6c6e7b159566&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261111-0700-long&amp;p=500005&amp;d=280&amp;size=4585474" length="4585474" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 10.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3588592.html</link>
-      <pubDate>Wed, 11 Nov 2026 04:23:08 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 12:21:03 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">e176c380-92bf-432d-8db3-4d6688c3de73-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 10 Nov 2026 21:00 IST.
@@ -46,29 +46,29 @@ Präsident des Maschinenbauverbandes macht Bundesregierung für die Krise in der
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1110/AU-20261110-2049-0100.mp3" length="15230371" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 06:00): Die Nachrichten vom 11.11.2026, 05:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45664.html</link>
-      <pubDate>Wed, 11 Nov 2026 04:22:08 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 14:00): Die Nachrichten vom 11.11.2026, 13:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45698.html</link>
+      <pubDate>Wed, 11 Nov 2026 12:20:03 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">a5720dd8-382f-509c-a32c-83e857dfd735</guid>
-      <description>Originally published Wed 11 Nov 2026 06:00 IST.
+      <guid isPermaLink="false">a876c6d5-2774-5b65-88ca-82f0d19af0ee</guid>
+      <description>Originally published Wed 11 Nov 2026 14:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/11/nachrichten_dlf_20261111_0500_a0c33d53.mp3?refId=nachrichten-108" length="5006921" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/11/nachrichten_dlf_20261111_1300_3a7aaeba.mp3?refId=nachrichten-108" length="9837693" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (10.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-10112026</link>
-      <pubDate>Wed, 11 Nov 2026 04:21:08 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:26): Morgenjournal um 8 (11.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-11112026</link>
+      <pubDate>Wed, 11 Nov 2026 12:19:03 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_15dd12161343412d8adf9905940e0b43</guid>
-      <description>Originally published Tue 10 Nov 2026 19:33 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_15dd12161343412d8adf9905940e0b43.mp3?etag=580c4939d067b03980ff5e942a4f3596" length="36487003" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_7366ffe6dee245429dfbc6223fba7280</guid>
+      <description>Originally published Wed 11 Nov 2026 09:26 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_7366ffe6dee245429dfbc6223fba7280.mp3?etag=b60e850240e95e9d2a1c31991f4b02c1" length="29415875" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Schlesinger-Prozess | Respekt-Kampagne | Wieder Jugendgewalt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/schlesinger-prozess-respekt-kampagne-wieder-jugendgewalt.html</link>
-      <pubDate>Wed, 11 Nov 2026 04:20:08 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 12:18:03 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/3c/f8/3cf8a9e9-dfa4-448d-be1d-af40c3ad5b3c/3cf8a9e9-dfa4-448d-be1d-af40c3ad5b3c_mp3-256kd.mp3</guid>
       <description>Originally published Tue 10 Nov 2026 19:17 IST.
@@ -81,7 +81,7 @@ Vor dem Landgericht Berlin hat der Prozess gegen die fr&amp;#252;here Intendanti
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:00): Machtpoker in Jerusalem: Eisenkot gegen Netanjahu</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/machtpoker-in-jerusalem-eisenkot-gegen-netanjahu/2124031</link>
-      <pubDate>Wed, 11 Nov 2026 04:19:08 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 12:17:03 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">eb9bd3da-2713-4f45-b180-9959865ff612</guid>
       <description>Originally published Tue 10 Nov 2026 19:00 IST.
@@ -90,18 +90,19 @@ Israels neues Parlament ist erstmals zusammengekommen. Oppositionsführer Gadi E
       <enclosure url="https://media.neuland.br.de/file/2124031/c/feed/machtpoker-in-jerusalem-eisenkot-gegen-netanjahu.mp3" length="8641197" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 17:47): How US model agencies helped Epstein access victims</title>
-      <link>http://www.bbc.co.uk/programmes/p0pm9szt</link>
-      <pubDate>Wed, 11 Nov 2026 04:18:08 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:27): US soldier arrested in UK on suspicion of spying for Russia</title>
+      <link>http://www.bbc.co.uk/programmes/p0pmcskb</link>
+      <pubDate>Wed, 11 Nov 2026 12:16:03 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pm9szt</guid>
-      <description>Originally published Tue 10 Nov 2026 17:47 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pmcskb</guid>
+      <description>Originally published Wed 11 Nov 2026 07:27 IST.
 
-&lt;p&gt;A BBC investigation uncovers new evidence about how model agencies, scouts and powerful fashion figures helped Jeffrey Epstein gain access to young women after his conviction for sex offences. A woman raped by the financier says the president of her model agency put her in danger when he sent her to two photoshoots at Epstein's Florida beach house. At the time, in 2009, Epstein was serving a jail sentence for sex offences against a minor but was allowed to work each day from his home.&lt;/p&gt;&lt;p&gt;Also: dozens of soldiers in the eastern Democratic Republic of Congo are sentenced to death by a military court for offences including cowardice and mutiny. Negotiators from Ukraine, Russia and the US begin two days of talks in Abu Dhabi, aimed at ending the war. One of Russia's few independent news outlets, Novaya Gazeta, is shut down. In a unique experiment, movie fans in the Netherlands are hypnotised before watching their favourite film, so they can experience the movie as if for the first time. A round-the-world cruise ship, which left passengers stranded in Cambodia after its operator ran out of money, has been seized in Singapore. And five stars are shortlisted for the 2026 BBC World Service Women’s Footballer of the Year.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Jeffrey Epstein
-Credit: New York State Division of Criminal Justice Services sex offender registry&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm9s2k.mp3" length="13792000" type="audio/mpeg"/>
+&lt;p&gt;A senior American soldier is in custody at a London police station after being arrested on suspicion of spying for Russia. The 41-year-old man was held during a counter-terrorism operation involving the US military and the FBI, and is understood to have been stationed at Imjin Barracks in Gloucestershire - the headquarters of NATO's Allied Rapid Reaction Corps. Also: US Republicans block efforts to impeach the defence secretary, Pete Hegseth. Anti-homosexuality laws are overturned in Trinidad and Tobago - we hear from the man behind the 11-year legal battle. We meet the &quot;Peaky Blinders&quot; drone unit fighting in Ukraine's front line city of Sloviansk. A federal judge in Florida rules that Donald Trump's 10 billion dollar defamation lawsuit against the BBC for misleading editing can proceed. One of the last surviving heroes of the French Resistance, Solange Alexandre, has died. And fury and amusement over Kim Kardashian's Skims advent calender. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Imjin Barracks, Innsworth, Gloucestershire. Home of ARRC - Allied Rapid Reaction Corps 
+Credit: BBC&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmcsh6.mp3" length="13120000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
