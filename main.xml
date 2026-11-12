@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:52:15 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 10:47): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3591804.html</link>
-      <pubDate>Thu, 12 Nov 2026 09:10:16 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:34): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3593174.html</link>
+      <pubDate>Thu, 12 Nov 2026 17:52:15 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">b81c9cbc-44bc-4df1-9503-0422a7e6fdd5</guid>
-      <description>Originally published Thu 12 Nov 2026 10:47 IST.
+      <guid isPermaLink="false">ce1e5ac0-f005-4c72-8aa6-8283d2f84a61</guid>
+      <description>Originally published Thu 12 Nov 2026 19:34 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1112/AU-20261112-0947-0400.mp3" length="2152459" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1112/AU-20261112-1834-3200.mp3" length="1976587" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 11:09): 4am ET, November 12 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 19:09): 12pm ET, November 12 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 12 Nov 2026 09:09:16 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 17:51:15 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">75862328-3bc7-4dc8-8ccc-dd0ac9092d7d</guid>
-      <description>Originally published Thu 12 Nov 2026 11:09 IST.
+      <guid isPermaLink="false">0dce2e2e-5385-4d90-929d-f89cbdabbcc2</guid>
+      <description>Originally published Thu 12 Nov 2026 19:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/3c338010-fb65-4d99-a05a-7a9634607115/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=3c338010-fb65-4d99-a05a-7a9634607115&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261112-0400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Thu 07:00): חדשון בעברית קלה (12/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Thu, 12 Nov 2026 09:08:16 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/12-11-26.m4a</guid>
-      <description>Originally published Thu 12 Nov 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• חֵיל האֲוִויר תָקף הלַילָה את בֵּית החוֹלים נַאסֶר בּחַ'אן יוּנֵס שֶבּרצוּעַת עַזה. צַה&quot;ל הוֹדִיעַ בּעָבר שֶמחַבּלֵי חַמאס פּוֹעֲלים מִתוֹך בּית החוֹלים
-• הוַועֲדָה המְסַדֶרֶת בּכּנֶסת אִישרָה אתמול את הֶרכֵּבֵי הוַועֲדוֹת הזְמַנִיוֹת –  וַעֲדַת הכְּסָפִים ווַעֲדַת החוּץ והבִּיטָחוֹן
-• הקַבִּינֵט המְדִינִי-בּיטחוֹני צָפוּי להִתכַּנֵס בּיום ראשון, אַחרֵי יותר מחוֹדֶש שֶבּוֹ לא הָיוּ פְּגִישוֹת
-• אַיזֵנקוֹט בּמִכתָב לנתניהו: הִימָנַע מפְּעוּלוֹת צְבָאִיוֹת ללֹא אִיוּם יָשִיר
-• רה&quot;מ נתניהו בּתְגוּבָה להוֹדָעַת הנשׂיא טראמפּ על הַפסָקַת הסִיוּעַ האָמֵריקָני: כַּלכָּלַת ישׂראל חזָקה ויַצִיבָה מַספִּיק. ישׂראל וארה&quot;ב עוֹשׂוֹת צַעַד מַשמָעוּתי בּמַעֲבָר מִסִיוּעַ לשוּתָפוּת
-• היום הוא יום הקוֹלנוֹעַ הבֵּין-לְאוּמִי. בּבָתֵי קוֹלנוֹעַ רבּים בּכָל האָרץ יוּקרְנוּ היום סְרָטים ישׂראֵלִיִים וסְרָטים מחוּ&quot;ל בּמְחִיר מוּזָל – 10 שקָלים לכַרטִיס
-• התִַחֲזית: הִתחַמְמוּת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/12-11-26.m4a" length="1520737" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/64082f76-0b13-42d2-9a8f-a470e393f5dd/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=64082f76-0b13-42d2-9a8f-a470e393f5dd&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261112-1200-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 11.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3590912.html</link>
-      <pubDate>Thu, 12 Nov 2026 09:07:16 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 12 Nov 2026 17:50:15 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">f2ed1a87-5e06-420a-88e6-5a848a2efdab-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 11 Nov 2026 21:00 IST.
 
@@ -68,62 +46,59 @@ Dunkelfeldstudie bei der Bundeswehr berichtet von hoher Zahl an Fällen von sexu
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1111/AU-20261111-2026-2800.mp3" length="15223843" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 10:30): Die Nachrichten vom 12.11.2026, 09:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45760.html</link>
-      <pubDate>Thu, 12 Nov 2026 09:06:16 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:33): Abendjournal um 18 (12.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-12112026</link>
+      <pubDate>Thu, 12 Nov 2026 17:49:15 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_01791cb3fb4f4a889d3cf25128c9a019</guid>
+      <description>Originally published Thu 12 Nov 2026 19:33 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_01791cb3fb4f4a889d3cf25128c9a019.mp3?etag=0d8f0104682d8d4ecc3feaea3e100db0" length="36341706" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 19:00): Die Nachrichten vom 12.11.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45794.html</link>
+      <pubDate>Thu, 12 Nov 2026 17:48:15 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">b36b37dd-3dd4-5acb-a221-8f667e8ca696</guid>
-      <description>Originally published Thu 12 Nov 2026 10:30 IST.
+      <guid isPermaLink="false">1432dc81-d5b8-568a-bb6e-13ed78adaeb6</guid>
+      <description>Originally published Thu 12 Nov 2026 19:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/12/nachrichten_dlf_20261112_0930_afe0ca27.mp3?refId=nachrichten-108" length="4344873" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/12/nachrichten_dlf_20261112_1800_48b3b664.mp3?refId=nachrichten-108" length="9820975" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:29): Morgenjournal um 8 (12.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-12112026</link>
-      <pubDate>Thu, 12 Nov 2026 09:05:16 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Spursperrungen auf Brücke | Radfahren in Brandenburg | Gedenken im AGH</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/a100-rudolf-wissell-bruecke-erste-mobilitaetskonferenz-brandenburg-aktuelle-stunde-9-november-agh.html</link>
+      <pubDate>Thu, 12 Nov 2026 17:47:15 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_180e44be265c43fb8874d16522b22b36</guid>
-      <description>Originally published Thu 12 Nov 2026 09:29 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_180e44be265c43fb8874d16522b22b36.mp3?etag=d75210288bcb85ceb8961db6d95ed1ec" length="29555983" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Tatverdächtiger im Fall Lisa T. tot  | Wolfsmanagement  | Jugendgewalt</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/lisa-tatverdaechtiger-tot-wolfsmanagement-plan-jugendgewalt.html</link>
-      <pubDate>Thu, 12 Nov 2026 09:04:16 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/9c/5e/9c5e95c8-734d-4482-9eae-587219f9dcb3/9c5e95c8-734d-4482-9eae-587219f9dcb3_mp3-256kd.mp3</guid>
-      <description>Originally published Wed 11 Nov 2026 19:17 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/5f/28/5f28c48d-4128-4f7a-a61c-a24f765304d2/5f28c48d-4128-4f7a-a61c-a24f765304d2_mp3-256kd.mp3</guid>
+      <description>Originally published Thu 12 Nov 2026 19:17 IST.
 
-Der Tatverd&amp;#228;chtigte im Fall der tot aufgefundenen 13-j&amp;#228;hrigen Lisa T. ist an seinen Verletzungen gestorben. Weitere Themen: In Brandenburg gilt ein neuer Wolfsmanagement-Plan. Und der Innenausschuss des Brandenburger Landtags debatttiert &amp;#252;ber Jugendgewalt.
+Seit Anfang Oktober kommen Autofahrer in Berlin an der Rudolf-Wissell-Br&amp;#252;cke auf der A100 nur eingeschr&amp;#228;nkt voran. Die jeweils rechten Fahrspuren sind gesperrt - und das bleibt wohl noch bis Ende Januar so, wie heute die Autobahn Nordost mitgeteilt hat. Unsere Reporterin hat sich das vor Ort angeschaut. Weitere Themen: In Potsdam hat die erste Brandenburger Mobilit&amp;#228;tskonferenz stattgefunden, bei der es unter anderem um Radwege ging. Und das Berliner Abgeordnetenhaus hat mit einer Aktuellen Stunde der historischen Ereignisse des 9. November gedacht.
+
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/9c/5e/9c5e95c8-734d-4482-9eae-587219f9dcb3/9c5e95c8-734d-4482-9eae-587219f9dcb3_mp3-256kd.mp3" length="28311304" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/5f/28/5f28c48d-4128-4f7a-a61c-a24f765304d2/5f28c48d-4128-4f7a-a61c-a24f765304d2_mp3-256kd.mp3" length="29303628" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Untersuchung zu sexualisiertem Fehlverhalten bei der Bundeswehr</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/untersuchung-zu-sexualisiertem-fehlverhalten-bei-der-bundeswehr/2124063</link>
-      <pubDate>Thu, 12 Nov 2026 09:03:16 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 17:00): Jugendmedientag bei BR24: Social Media neu denken</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/jugendmedientag-bei-br24-social-media-neu-denken/2124107</link>
+      <pubDate>Thu, 12 Nov 2026 17:46:15 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">930cf18f-46bc-4637-b200-85014e2ea06b</guid>
+      <description>Originally published Thu 12 Nov 2026 17:00 IST.
+
+Bundesweit - bei ARD, ZDF und Deutschlandfunk - findet heute der Jugendmedientag statt. Auch bei BR24. Wir beschäftigen uns im Thema des Tages mit dem Schwerpunkt der Veranstaltung &quot;repeat oder reset - Social Media neu denken&quot;.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124107/c/feed/jugendmedientag-bei-br24-social-media-neu-denken.mp3" length="9242541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:07): Nvidia CEO Jensen Huang resigns</title>
+      <link>http://www.bbc.co.uk/programmes/p0pmn84n</link>
+      <pubDate>Thu, 12 Nov 2026 17:45:15 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">6fa39543-b111-401a-94c0-7e2e777cdc3c</guid>
-      <description>Originally published Wed 11 Nov 2026 19:00 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pmn84n</guid>
+      <description>Originally published Thu 12 Nov 2026 18:07 IST.
 
-Die Bundeswehr hat sexualisiertes Fehlverhalten in ihren Reihen untersucht - und zahlreiche Fälle gefunden. Wir blicken ausführlich auf die Studie, sprechen über Maßnahmen und die Rolle der Frauen beim Bund. Außerdem klären wir, ob sich tatsächlich ausreichend Freiwillige finden und warum die Zahl der Kriegsdienstverweigerer auch ohne Wehrpflicht steigt.Moderation: Claudia Aichberger, Autor: Joachim Dangel</description>
-      <enclosure url="https://media.neuland.br.de/file/2124063/c/feed/untersuchung-zu-sexualisiertem-fehlverhalten-bei-der-bundeswehr.mp3" length="8795181" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:19): Democrat Scott Colom wins Mississippi in historic victory</title>
-      <link>http://www.bbc.co.uk/programmes/p0pmjmtq</link>
-      <pubDate>Thu, 12 Nov 2026 09:02:16 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pmjmtq</guid>
-      <description>Originally published Thu 12 Nov 2026 07:19 IST.
-
-&lt;p&gt;Democrat Scott Colom has won the Mississippi senate race in a shock midterms victory. He will become the state's first Democratic senator in four decades. Exit polls showed Mr Colom benefitted from surging support among black and young voters. &lt;/p&gt;&lt;p&gt;Also: Nvidia considers ousting CEO Jensen Huang after his admitted affair with a suspected Chinese spy. A warm welcome for the Pope on his homecoming to Peru. The US Treasure Secretary, Scott Besset, relocates from his home to an unnamed military base after reports of unspecified “threats” from Tehran. Kenya prepares for the extreme weather and flooding expected from El Niño. And the manhunt for the Italian man who escaped house arrest in Argentina by abseiling off his balcony. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Democrat Scott Colom speaks to the media in Jackson, Mississippi, US November 4, 2026
-Credit: Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmjmlw.mp3" length="13920000" type="audio/mpeg"/>
+&lt;p&gt;Nvidia's chief financial officer, Colette Kress, will take over as interim CEO following Jensen Huang's departure. Shares in the company plummeted as US markets opened. It comes days after Huang admitted to an affair with a suspected Chinese spy, although Beijing denies the allegations. It also follows a New York Times report of a second affair with an executive at his own company.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmn5x9.mp3" length="13776000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
