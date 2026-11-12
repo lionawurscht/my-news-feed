@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Nov 2026 19:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:50:46 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 19:31): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3590792.html</link>
-      <pubDate>Wed, 11 Nov 2026 19:58:30 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 03:29): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3591144.html</link>
+      <pubDate>Thu, 12 Nov 2026 01:50:46 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4950ad8c-d210-4c48-a604-aba5815e9891</guid>
-      <description>Originally published Wed 11 Nov 2026 19:31 IST.
+      <guid isPermaLink="false">2cc222b4-f2a6-46c3-bc7e-8548b0f78340</guid>
+      <description>Originally published Thu 12 Nov 2026 03:29 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1111/AU-20261111-1831-1100.mp3" length="1537291" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1112/AU-20261112-0229-1700.mp3" length="1957799" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 21:09): 2pm ET, November 11 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 03:10): 8pm ET, November 11 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 11 Nov 2026 19:57:30 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 01:49:46 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">38f2d3de-c3c1-4507-a1d9-ac3599790c9a</guid>
-      <description>Originally published Wed 11 Nov 2026 21:09 IST.
+      <guid isPermaLink="false">8006bd32-3822-43c1-ab89-adfdeb8ed904</guid>
+      <description>Originally published Thu 12 Nov 2026 03:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/78f73e52-5820-47af-8912-ce67c82dc46c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=78f73e52-5820-47af-8912-ce67c82dc46c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261111-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/184bf8b3-0dbc-4043-91b1-a11644827ca0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=184bf8b3-0dbc-4043-91b1-a11644827ca0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261111-2000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 11.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3590912.html</link>
-      <pubDate>Wed, 11 Nov 2026 19:56:30 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 01:48:46 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">f2ed1a87-5e06-420a-88e6-5a848a2efdab-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 11 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Dunkelfeldstudie bei der Bundeswehr berichtet von hoher Zahl an Fällen von sexu
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1111/AU-20261111-2026-2800.mp3" length="15223843" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 21:00): Die Nachrichten vom 11.11.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45722.html</link>
-      <pubDate>Wed, 11 Nov 2026 19:55:30 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 03:00): Die Nachrichten vom 12.11.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45734.html</link>
+      <pubDate>Thu, 12 Nov 2026 01:47:46 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">2a231c22-0597-5df3-84cb-52ded5ee58c1</guid>
-      <description>Originally published Wed 11 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">2df91bfe-9755-52e1-98c6-12174bd98620</guid>
+      <description>Originally published Thu 12 Nov 2026 03:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/11/nachrichten_dlf_20261111_2000_10fb3761.mp3?refId=nachrichten-108" length="9851486" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/12/nachrichten_dlf_20261112_0200_2a44cef0.mp3?refId=nachrichten-108" length="4991874" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:35): Abendjournal um 18 (11.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-11112026</link>
-      <pubDate>Wed, 11 Nov 2026 19:54:30 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 01:46:46 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_0d8bd67da0e442d5a8c15e28ab2176bb</guid>
       <description>Originally published Wed 11 Nov 2026 19:35 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Tatverdächtiger im Fall Lisa T. tot  | Wolfsmanagement  | Jugendgewalt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/lisa-tatverdaechtiger-tot-wolfsmanagement-plan-jugendgewalt.html</link>
-      <pubDate>Wed, 11 Nov 2026 19:53:30 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 01:45:46 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/9c/5e/9c5e95c8-734d-4482-9eae-587219f9dcb3/9c5e95c8-734d-4482-9eae-587219f9dcb3_mp3-256kd.mp3</guid>
       <description>Originally published Wed 11 Nov 2026 19:17 IST.
@@ -80,7 +80,7 @@ Der Tatverd&amp;#228;chtigte im Fall der tot aufgefundenen 13-j&amp;#228;hrigen 
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Untersuchung zu sexualisiertem Fehlverhalten bei der Bundeswehr</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/untersuchung-zu-sexualisiertem-fehlverhalten-bei-der-bundeswehr/2124063</link>
-      <pubDate>Wed, 11 Nov 2026 19:52:30 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 01:44:46 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">6fa39543-b111-401a-94c0-7e2e777cdc3c</guid>
       <description>Originally published Wed 11 Nov 2026 19:00 IST.
@@ -91,7 +91,7 @@ Die Bundeswehr hat sexualisiertes Fehlverhalten in ihren Reihen untersucht - und
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:24): Russia-Ukraine talks: Prisoner release agreed</title>
       <link>http://www.bbc.co.uk/programmes/p0pmgsdd</link>
-      <pubDate>Wed, 11 Nov 2026 19:51:30 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 01:43:46 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pmgsdd</guid>
       <description>Originally published Wed 11 Nov 2026 18:24 IST.
