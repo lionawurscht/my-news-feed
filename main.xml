@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:08:09 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,62 +13,62 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:34): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3593174.html</link>
-      <pubDate>Thu, 12 Nov 2026 17:52:15 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 23:01): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3593386.html</link>
+      <pubDate>Thu, 12 Nov 2026 23:08:09 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">ce1e5ac0-f005-4c72-8aa6-8283d2f84a61</guid>
-      <description>Originally published Thu 12 Nov 2026 19:34 IST.
+      <guid isPermaLink="false">683b66eb-65b8-4723-83aa-f0b868551018</guid>
+      <description>Originally published Thu 12 Nov 2026 23:01 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1112/AU-20261112-1834-3200.mp3" length="1976587" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1112/AU-20261112-2201-3200.mp3" length="1875211" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 19:09): 12pm ET, November 12 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 23:12): 4pm ET, November 12 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 12 Nov 2026 17:51:15 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 23:07:09 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">0dce2e2e-5385-4d90-929d-f89cbdabbcc2</guid>
-      <description>Originally published Thu 12 Nov 2026 19:09 IST.
+      <guid isPermaLink="false">4b6927ed-01ba-4835-8303-9d34683004f4</guid>
+      <description>Originally published Thu 12 Nov 2026 23:12 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/64082f76-0b13-42d2-9a8f-a470e393f5dd/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=64082f76-0b13-42d2-9a8f-a470e393f5dd&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261112-1200-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2e8f8eb1-18d2-4d67-ad88-9778dc6687a2/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2e8f8eb1-18d2-4d67-ad88-9778dc6687a2&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261112-1600-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 11.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3590912.html</link>
-      <pubDate>Thu, 12 Nov 2026 17:50:15 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 12.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3593358.html</link>
+      <pubDate>Thu, 12 Nov 2026 23:06:09 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">f2ed1a87-5e06-420a-88e6-5a848a2efdab-SENDUNGSAUDIO</guid>
-      <description>Originally published Wed 11 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">27d6e997-e4e3-4bee-9596-2f96d61448c1-SENDUNGSAUDIO</guid>
+      <description>Originally published Thu 12 Nov 2026 21:00 IST.
 
-Dunkelfeldstudie bei der Bundeswehr berichtet von hoher Zahl an Fällen von sexualisiertem Fehlverhalten, Wirtschaftsweise korrigieren Konjunkturprognose für dieses und das kommende Jahr deutlich nach oben, Zahl der arbeitslosen Akademiker auf Höchststand, Deutschland rutscht im Klimaschutz-Index auf Rang 25, Russland und Ukraine vereinbaren bei Gesprächen in Abu Dhabi Gefangenenaustausch, Unabhängigkeitstag in Polen, &quot;Digital Fairness Act&quot;: EU will mehr gegen manipulatives Marketing im Internet vorgehen, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1111/AU-20261111-2026-2800.mp3" length="15223843" type="audio/mpeg"/>
+Union und SPD ringen über den Bundeshaushalt 2027, Gipfel der Europäischen Politischen Gemeinschaft in Dublin, Nvidia-Chef Huang tritt nach Spionageaffäre zurück, Mercedes-Benz will Investitionen in deutsche Standorte stoppen, In Deutschland verschulden sich laut Schuldneratlas 2026 immer mehr Menschen, Die Nations League, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1112/AU-20261112-2025-5200.mp3" length="15101729" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 00:00): Die Nachrichten vom 12.11.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45804.html</link>
+      <pubDate>Thu, 12 Nov 2026 23:05:09 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">9d706e1b-bc1b-5787-ba25-6c9a9b9f1b20</guid>
+      <description>Originally published Fri 13 Nov 2026 00:00 IST.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/12/nachrichten_dlf_20261112_2300_acc65d22.mp3?refId=nachrichten-108" length="9793389" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:33): Abendjournal um 18 (12.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-12112026</link>
-      <pubDate>Thu, 12 Nov 2026 17:49:15 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 12 Nov 2026 23:04:09 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_01791cb3fb4f4a889d3cf25128c9a019</guid>
       <description>Originally published Thu 12 Nov 2026 19:33 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_01791cb3fb4f4a889d3cf25128c9a019.mp3?etag=0d8f0104682d8d4ecc3feaea3e100db0" length="36341706" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 19:00): Die Nachrichten vom 12.11.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45794.html</link>
-      <pubDate>Thu, 12 Nov 2026 17:48:15 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">1432dc81-d5b8-568a-bb6e-13ed78adaeb6</guid>
-      <description>Originally published Thu 12 Nov 2026 19:00 IST.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/12/nachrichten_dlf_20261112_1800_48b3b664.mp3?refId=nachrichten-108" length="9820975" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Spursperrungen auf Brücke | Radfahren in Brandenburg | Gedenken im AGH</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/a100-rudolf-wissell-bruecke-erste-mobilitaetskonferenz-brandenburg-aktuelle-stunde-9-november-agh.html</link>
-      <pubDate>Thu, 12 Nov 2026 17:47:15 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 23:03:09 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/5f/28/5f28c48d-4128-4f7a-a61c-a24f765304d2/5f28c48d-4128-4f7a-a61c-a24f765304d2_mp3-256kd.mp3</guid>
       <description>Originally published Thu 12 Nov 2026 19:17 IST.
@@ -81,7 +81,7 @@ Seit Anfang Oktober kommen Autofahrer in Berlin an der Rudolf-Wissell-Br&amp;#25
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 17:00): Jugendmedientag bei BR24: Social Media neu denken</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/jugendmedientag-bei-br24-social-media-neu-denken/2124107</link>
-      <pubDate>Thu, 12 Nov 2026 17:46:15 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 23:02:09 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">930cf18f-46bc-4637-b200-85014e2ea06b</guid>
       <description>Originally published Thu 12 Nov 2026 17:00 IST.
@@ -92,7 +92,7 @@ Bundesweit - bei ARD, ZDF und Deutschlandfunk - findet heute der Jugendmedientag
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:07): Nvidia CEO Jensen Huang resigns</title>
       <link>http://www.bbc.co.uk/programmes/p0pmn84n</link>
-      <pubDate>Thu, 12 Nov 2026 17:45:15 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 23:01:09 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pmn84n</guid>
       <description>Originally published Thu 12 Nov 2026 18:07 IST.
