@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:49:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:15:51 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,96 +13,94 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 11:46): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3594318.html</link>
-      <pubDate>Fri, 13 Nov 2026 12:49:04 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 19:46): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3595470.html</link>
+      <pubDate>Fri, 13 Nov 2026 20:15:51 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4cce0f29-46b7-441e-b2d8-e1a8f3eeecaa</guid>
-      <description>Originally published Fri 13 Nov 2026 11:46 IST.
+      <guid isPermaLink="false">c597fdd5-3d39-40d9-967d-501512e1c7d7</guid>
+      <description>Originally published Fri 13 Nov 2026 19:46 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1113/AU-20261113-1045-5300.mp3" length="2110219" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1113/AU-20261113-1846-2900.mp3" length="2327947" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 14:10): 7am ET, November 13 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 22:09): 3pm ET, November 13 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 13 Nov 2026 12:48:04 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 20:14:51 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">06090f28-b9c9-4ad8-bdff-93192ccfdcfb</guid>
-      <description>Originally published Fri 13 Nov 2026 14:10 IST.
+      <guid isPermaLink="false">8840fc5d-aa10-4fad-bc3b-0fccfc5ae108</guid>
+      <description>Originally published Fri 13 Nov 2026 22:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6ecbff5d-7677-46cd-96d8-8c9af3f206a5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6ecbff5d-7677-46cd-96d8-8c9af3f206a5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261113-0700-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/da23c387-b970-4182-80dc-1a8f8743c8c3/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=da23c387-b970-4182-80dc-1a8f8743c8c3&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261113-1500-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 12.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3593358.html</link>
-      <pubDate>Fri, 13 Nov 2026 12:47:04 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 13.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3595616.html</link>
+      <pubDate>Fri, 13 Nov 2026 20:13:51 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">27d6e997-e4e3-4bee-9596-2f96d61448c1-SENDUNGSAUDIO</guid>
-      <description>Originally published Thu 12 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">7f476d08-79a4-4699-a1cd-bfa4a07b5881-SENDUNGSAUDIO</guid>
+      <description>Originally published Fri 13 Nov 2026 21:00 IST.
 
-Union und SPD ringen um den Bundeshaushalt 2027, Gipfel der Europäischen Politischen Gemeinschaft in Dublin, Nvidia-Chef Huang tritt nach Spionageaffäre zurück, Mercedes-Benz will Investitionen in deutsche Standorte stoppen, In Deutschland verschulden sich laut Schuldneratlas 2026 immer mehr Menschen, Die Nations League, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1112/AU-20261112-2025-5200.mp3" length="15101729" type="audio/mpeg"/>
+Technisches Problem war Ursache für weltweite Störung von Microsoft-Diensten, Bundeshaushalt 2027 mit hoher Neuverschuldung beschlossen, Bundesnachrichtendienste erhalten nach Reform mehr Befugnisse, AfD will ehemaligen Fußball-Weltmeister Berthold als Kandidat für Bundespräsidentenamt aufstellen, Ukraine-Friedensgespräche sollen mit mehr europäischer Beteiligung stattfinden, Gericht in Ägypten ordnet Schließung von unabhängigem Nachrichtenportal an, Papst Leo XIV. fordert bei Peru-Reise mehr Schutz für Frauen und Mädchen, Ölskizzen von Maler Rubens erstmal wieder gemeinsam in Gotha zu sehen, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1113/AU-20261113-2027-5000.mp3" length="15424291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 14:30): Die Nachrichten vom 13.11.2026, 13:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45850.html</link>
-      <pubDate>Fri, 13 Nov 2026 12:46:04 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 21:00): Die Nachrichten vom 13.11.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45872.html</link>
+      <pubDate>Fri, 13 Nov 2026 20:12:51 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">47825f2c-a4f3-5878-8e70-ab33d016ffc0</guid>
-      <description>Originally published Fri 13 Nov 2026 14:30 IST.
+      <guid isPermaLink="false">1bac5e96-bccb-55a6-85d6-1b26286b4fe8</guid>
+      <description>Originally published Fri 13 Nov 2026 21:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/13/nachrichten_dlf_20261113_1330_0de2de8d.mp3?refId=nachrichten-108" length="4822601" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/13/nachrichten_dlf_20261113_2000_c347ebce.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 14:23): Mittagsjournal (13.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-13112026</link>
-      <pubDate>Fri, 13 Nov 2026 12:45:04 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:33): Abendjournal um 18 (13.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-13112026</link>
+      <pubDate>Fri, 13 Nov 2026 20:11:51 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_35f8c2dc15cc4d9e9e734eee8bafd5e6</guid>
-      <description>Originally published Fri 13 Nov 2026 14:23 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_35f8c2dc15cc4d9e9e734eee8bafd5e6.mp3?etag=1432bbacacccccca0dc78c1f199fd985" length="86873976" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_a5c93e3e4d284975a441bb0f5b0c7e88</guid>
+      <description>Originally published Fri 13 Nov 2026 19:33 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_a5c93e3e4d284975a441bb0f5b0c7e88.mp3?etag=69330849e73e68e6a3016a78b699daa3" length="36330174" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 09:20): Hackerangriffe: Wie steht es um die Cybersicherheit in Deutschland?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/hackerangriffe-wie-steht-es-um-die-cybersicherheit-in-deutschland/2124129</link>
-      <pubDate>Fri, 13 Nov 2026 12:44:04 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:30): Großpanne bei Microsoft: Was abhängig sind wir von den Tech-Giganten?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/grosspanne-bei-microsoft-was-abhaengig-sind-wir-von-den-tech-giganten/2124154</link>
+      <pubDate>Fri, 13 Nov 2026 20:10:51 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">f0d99975-17fa-417f-9290-7bb04995a542</guid>
-      <description>Originally published Fri 13 Nov 2026 09:20 IST.
+      <guid isPermaLink="false">98619dd6-4c6e-43b4-897a-762617993004</guid>
+      <description>Originally published Fri 13 Nov 2026 19:30 IST.
 
-Der  Drohnenhersteller Quantum Systems ist Opfer eines Cyberangriffs geworden. Zuletzt haben außerdem Hacker-Angriffe auf Supermärkte, Blutbanken und Kliniken für Schlagzeilen gesorgt. Aber auch Privathaushalte könnten bald betroffen sein.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124129/c/feed/hackerangriffe-wie-steht-es-um-die-cybersicherheit-in-deutschland.mp3" length="9745581" type="audio/mpeg"/>
+Eine massive Störung bei Microsoft hat weltweit Unternehmen und Verbraucher von zentralen Cloud-Angeboten abgeschnitten.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124154/c/feed/grosspanne-bei-microsoft-was-abhaengig-sind-wir-von-den-tech-giganten.mp3" length="8474541" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Spursperrungen auf Brücke | Radfahren in Brandenburg | Gedenken im AGH</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/a100-rudolf-wissell-bruecke-erste-mobilitaetskonferenz-brandenburg-aktuelle-stunde-9-november-agh.html</link>
-      <pubDate>Fri, 13 Nov 2026 12:43:04 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Microsoft-Störungen | Drohnenfabrik | Weihnachtsmarkt</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/microsoft-stoerungen-drohnenfabrik-weihnachtsmarkt.html</link>
+      <pubDate>Fri, 13 Nov 2026 20:09:51 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/5f/28/5f28c48d-4128-4f7a-a61c-a24f765304d2/5f28c48d-4128-4f7a-a61c-a24f765304d2_mp3-256kd.mp3</guid>
-      <description>Originally published Thu 12 Nov 2026 19:17 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/42/5f/425fc88a-3ef7-4d8f-b70c-864b1a33e95d/425fc88a-3ef7-4d8f-b70c-864b1a33e95d_mp3-256kd.mp3</guid>
+      <description>Originally published Fri 13 Nov 2026 19:17 IST.
 
-Seit Anfang Oktober kommen Autofahrer in Berlin an der Rudolf-Wissell-Br&amp;#252;cke auf der A100 nur eingeschr&amp;#228;nkt voran. Die jeweils rechten Fahrspuren sind gesperrt - und das bleibt wohl noch bis Ende Januar so, wie heute die Autobahn Nordost mitgeteilt hat. Unsere Reporterin hat sich das vor Ort angeschaut. Weitere Themen: In Potsdam hat die erste Brandenburger Mobilit&amp;#228;tskonferenz stattgefunden, bei der es unter anderem um Radwege ging. Und das Berliner Abgeordnetenhaus hat mit einer Aktuellen Stunde der historischen Ereignisse des 9. November gedacht.
-
+St&amp;#246;rungen beim US-Konzern Microsoft haben seit Donnerstagabend zu Ausf&amp;#228;llen vieler Programme gef&amp;#252;hrt. Auch in der Region hatte das Folgen: Drohnenfabrik f&amp;#252;r Kremmen? Weihnachtsmarkt am Berliner Breitscheidplatz er&amp;#246;ffnet.
+&amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/5f/28/5f28c48d-4128-4f7a-a61c-a24f765304d2/5f28c48d-4128-4f7a-a61c-a24f765304d2_mp3-256kd.mp3" length="29303628" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/42/5f/425fc88a-3ef7-4d8f-b70c-864b1a33e95d/425fc88a-3ef7-4d8f-b70c-864b1a33e95d_mp3-256kd.mp3" length="27004940" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:28): Putin lets Europe join Ukraine peace talks</title>
-      <link>http://www.bbc.co.uk/programmes/p0pmr8st</link>
-      <pubDate>Fri, 13 Nov 2026 12:42:04 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:51): Microsoft outage: Millions affected in over 70 countries</title>
+      <link>http://www.bbc.co.uk/programmes/p0pmwsp6</link>
+      <pubDate>Fri, 13 Nov 2026 20:08:51 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pmr8st</guid>
-      <description>Originally published Fri 13 Nov 2026 07:28 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pmwsp6</guid>
+      <description>Originally published Fri 13 Nov 2026 17:51 IST.
 
-&lt;p&gt;Ukraine's President Zelensky has welcomed efforts by Jared Kushner and Steve Witkoff, to secure European involvement at the next round of peace talks with Russia. He was speaking alongside the US envoys in Dublin, where they'd flown to brief Mr Zelensky on their earlier discussions with Vladimir Putin in Moscow. Mr Zelensky said it made sense for Europeans to be involved as Ukraine would eventually be an EU member.&lt;/p&gt;&lt;p&gt;Also: One of the most powerful men in the AI industry -Jensen Huang- will appear before Congress in the US after being forced to resign over a sex and spying scandal. Schools in Italy have been evacuated for a second day in a row after receiving hoax bomb threats. US Defence Secretary Pete Hegseth has awarded a medal to the guard who reprimanded his group for laughing at Arlington National Cemetery. Haiti's security forces say they've regained control of the country’s main stadium in the capital Port au Prince, which has held by gangs for two years. How Pakistan is leading the way in solar energy... and, as matcha continues to boom, a new Japanese matcha congress meets to try and stop it being a victim of its own success.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Russian President Vladimir Putin chairs a meeting in Moscow, Russia.
-Credit: Sergey Builkin / Sputnik&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmr8dk.mp3" length="13600000" type="audio/mpeg"/>
+&lt;p&gt;A global Microsoft outage hits schools, doctors and businesses. The tech giant is scrambling the fix the issue - but with so many of us relying on its products such as Outlook and Teams, it has prompted a conversation about how reliant we are on its services. Microsoft says it's not found any evidence that malicious activity caused the problems, and in its latest update it reported that &quot;broader improvements&quot; were being observed in North America and Europe. &lt;/p&gt;&lt;p&gt;Also: El Salvador soldiers use combat robot dogs equipped with assault rifles to re-take the national football stadium from gangs in Haiti. The FBI says North Korean hackers used fake video calls in a 400-million dollar crypto hack. Mauricio Pochettino is finally confirmed as Manchester United's new manager.  We go inside a secret wartime bunker rediscovered beneath cliffs on the south coast England.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: The icons for several Microsoft apps, including Microsoft Outlook.
+Credit: Yui Mok / PA&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3" length="11040000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
