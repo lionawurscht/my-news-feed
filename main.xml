@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:13:07 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 19:46): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3595470.html</link>
-      <pubDate>Fri, 13 Nov 2026 20:15:51 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 02:35): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3595768.html</link>
+      <pubDate>Sat, 14 Nov 2026 01:13:07 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">c597fdd5-3d39-40d9-967d-501512e1c7d7</guid>
-      <description>Originally published Fri 13 Nov 2026 19:46 IST.
+      <guid isPermaLink="false">f641536b-ec7c-4944-9aa9-bb68255c199c</guid>
+      <description>Originally published Sat 14 Nov 2026 02:35 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1113/AU-20261113-1846-2900.mp3" length="2327947" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1114/AU-20261114-0134-5400.mp3" length="2009227" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 22:09): 3pm ET, November 13 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 03:09): 8pm ET, November 13 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 13 Nov 2026 20:14:51 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 01:12:07 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">8840fc5d-aa10-4fad-bc3b-0fccfc5ae108</guid>
-      <description>Originally published Fri 13 Nov 2026 22:09 IST.
+      <guid isPermaLink="false">7fbb7a2d-1d13-4f96-bf9a-0570940b6a9b</guid>
+      <description>Originally published Sat 14 Nov 2026 03:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/da23c387-b970-4182-80dc-1a8f8743c8c3/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=da23c387-b970-4182-80dc-1a8f8743c8c3&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261113-1500-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/80350fc2-e074-4090-b90b-0954a4a3b942/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=80350fc2-e074-4090-b90b-0954a4a3b942&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261113-2000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 13.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3595616.html</link>
-      <pubDate>Fri, 13 Nov 2026 20:13:51 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 01:11:07 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">7f476d08-79a4-4699-a1cd-bfa4a07b5881-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 13 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Technisches Problem war Ursache für weltweite Störung von Microsoft-Diensten, 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1113/AU-20261113-2027-5000.mp3" length="15424291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 21:00): Die Nachrichten vom 13.11.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45872.html</link>
-      <pubDate>Fri, 13 Nov 2026 20:12:51 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 02:00): Die Nachrichten vom 14.11.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45882.html</link>
+      <pubDate>Sat, 14 Nov 2026 01:10:07 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">1bac5e96-bccb-55a6-85d6-1b26286b4fe8</guid>
-      <description>Originally published Fri 13 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">6564ec9b-5940-5daf-b746-c11ea3df0648</guid>
+      <description>Originally published Sat 14 Nov 2026 02:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/13/nachrichten_dlf_20261113_2000_c347ebce.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/14/nachrichten_dlf_20261114_0100_9f5a97e1.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:33): Abendjournal um 18 (13.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-13112026</link>
-      <pubDate>Fri, 13 Nov 2026 20:11:51 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 01:09:07 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_a5c93e3e4d284975a441bb0f5b0c7e88</guid>
       <description>Originally published Fri 13 Nov 2026 19:33 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:30): Großpanne bei Microsoft: Was abhängig sind wir von den Tech-Giganten?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/grosspanne-bei-microsoft-was-abhaengig-sind-wir-von-den-tech-giganten/2124154</link>
-      <pubDate>Fri, 13 Nov 2026 20:10:51 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 01:08:07 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">98619dd6-4c6e-43b4-897a-762617993004</guid>
       <description>Originally published Fri 13 Nov 2026 19:30 IST.
@@ -79,7 +79,7 @@ Eine massive Störung bei Microsoft hat weltweit Unternehmen und Verbraucher von
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Microsoft-Störungen | Drohnenfabrik | Weihnachtsmarkt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/microsoft-stoerungen-drohnenfabrik-weihnachtsmarkt.html</link>
-      <pubDate>Fri, 13 Nov 2026 20:09:51 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 01:07:07 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/42/5f/425fc88a-3ef7-4d8f-b70c-864b1a33e95d/425fc88a-3ef7-4d8f-b70c-864b1a33e95d_mp3-256kd.mp3</guid>
       <description>Originally published Fri 13 Nov 2026 19:17 IST.
@@ -92,7 +92,7 @@ St&amp;#246;rungen beim US-Konzern Microsoft haben seit Donnerstagabend zu Ausf&
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:51): Microsoft outage: Millions affected in over 70 countries</title>
       <link>http://www.bbc.co.uk/programmes/p0pmwsp6</link>
-      <pubDate>Fri, 13 Nov 2026 20:08:51 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 01:06:07 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pmwsp6</guid>
       <description>Originally published Fri 13 Nov 2026 17:51 IST.
