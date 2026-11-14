@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 15:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:20:25 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,76 +13,63 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 17:09): 10am ET, November 14 | The latest headlines from NPR</title>
-      <link/>
-      <pubDate>Sat, 14 Nov 2026 15:29:40 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 18:33): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3596800.html</link>
+      <pubDate>Sat, 14 Nov 2026 20:20:25 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">6907e1a3-db85-40b4-b06e-062aea561bc7</guid>
-      <description>Originally published Sat 14 Nov 2026 17:09 IST.
+      <guid isPermaLink="false">e7d9f05b-74f0-49a5-83c5-4477f2e455e9</guid>
+      <description>Originally published Sat 14 Nov 2026 18:33 IST.
+
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1114/AU-20261114-1732-5800.mp3" length="2132491" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Sat 22:09): 3pm ET, November 14 | The latest headlines from NPR</title>
+      <link/>
+      <pubDate>Sat, 14 Nov 2026 20:19:25 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">a656cf88-b86e-419a-bca4-c8b697ce2035</guid>
+      <description>Originally published Sat 14 Nov 2026 22:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/34212d3b-6155-4dbd-bfca-e738516a0275/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=34212d3b-6155-4dbd-bfca-e738516a0275&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261114-1000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8ce95ca2-5f05-45b6-b783-59ecda47e69c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8ce95ca2-5f05-45b6-b783-59ecda47e69c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261114-1500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 13.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3595616.html</link>
-      <pubDate>Sat, 14 Nov 2026 15:28:40 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">7f476d08-79a4-4699-a1cd-bfa4a07b5881-SENDUNGSAUDIO</guid>
-      <description>Originally published Fri 13 Nov 2026 21:00 IST.
-
-Technisches Problem war Ursache für weltweite Störung von Microsoft-Diensten, Bundeshaushalt 2027 mit hoher Neuverschuldung beschlossen, Bundesnachrichtendienste erhalten nach Reform mehr Befugnisse, AfD will ehemaligen Fußball-Weltmeister Berthold als Kandidat für Bundespräsidentenamt aufstellen, Ukraine-Friedensgespräche sollen mit mehr europäischer Beteiligung stattfinden, Gericht in Ägypten ordnet Schließung von unabhängigem Nachrichtenportal an, Papst Leo XIV. fordert bei Peru-Reise mehr Schutz für Frauen und Mädchen, Ölskizzen von Maler Rubens erstmal wieder gemeinsam in Gotha zu sehen, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1113/AU-20261113-2027-5000.mp3" length="15424291" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 17:00): Die Nachrichten vom 14.11.2026, 16:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45920.html</link>
-      <pubDate>Sat, 14 Nov 2026 15:27:40 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 14.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3596978.html</link>
+      <pubDate>Sat, 14 Nov 2026 20:18:25 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">98de6192-64fe-5c5b-8235-6a8f7f5adef6</guid>
-      <description>Originally published Sat 14 Nov 2026 17:00 IST.
+      <guid isPermaLink="false">2236e59b-5fd8-4713-aea6-16b081753cda-SENDUNGSAUDIO</guid>
+      <description>Originally published Sat 14 Nov 2026 21:00 IST.
+
+Früherer Arbeitsminister Heil will für SPD-Vorsitz kandidieren, Mecklenburg-Vorpommern einigt sich auf rot-rot-grüne Landesregierung, US-Flugverkehr nach Technik-Panne für Stunden eingestellt, Weltweite Störung bei Microsoft ist behoben, &quot;Klimagipfel der Völker&quot; als Gegenveranstaltung zur COP31, Papst Leo XIV. besucht frühere Diözese in Peru, Bayern würdigt Aiwanger mit einem Trauerstaatsakt, Tanker rammt US-Kreuzfahrtschiff in New Orleans, DFB-Elf setzt sich in der Nations League mit 3:1 gegen Serbien durch, FC Bayern Fußballerinnen gewinnen im Bundesliga-Spitzenspiel 4:1 gegen Wolfsburg, Emma Aicher gewinnt ersten Slalom-Sieg ihrer Weltcup-Karriere, Das Wetter Hinweis: Der Beitrag zur &quot;Fußball Nations League&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1114/AU-20261114-2026-4600.mp3" length="14461603" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 21:00): Die Nachrichten vom 14.11.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45928.html</link>
+      <pubDate>Sat, 14 Nov 2026 20:17:25 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">1542ad72-dd81-5c72-9004-6b4505fc9df0</guid>
+      <description>Originally published Sat 14 Nov 2026 21:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/14/nachrichten_dlf_20261114_1600_149290d4.mp3?refId=nachrichten-108" length="5031580" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/14/nachrichten_dlf_20261114_2000_f96e4831.mp3?refId=nachrichten-108" length="5020713" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:11): Mittagsjournal (14.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-14112026</link>
-      <pubDate>Sat, 14 Nov 2026 15:26:40 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sat, 14 Nov 2026 20:16:25 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_9a8b5a1e2a3b42f99ca23a0159eb60e5</guid>
       <description>Originally published Sat 14 Nov 2026 14:11 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_9a8b5a1e2a3b42f99ca23a0159eb60e5.mp3?etag=8bb4d0de6622f355e8fae4887a4bb7fc" length="81216612" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:30): Großpanne bei Microsoft: Was abhängig sind wir von den Tech-Giganten?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/grosspanne-bei-microsoft-was-abhaengig-sind-wir-von-den-tech-giganten/2124154</link>
-      <pubDate>Sat, 14 Nov 2026 15:25:40 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">98619dd6-4c6e-43b4-897a-762617993004</guid>
-      <description>Originally published Fri 13 Nov 2026 19:30 IST.
-
-Eine massive Störung bei Microsoft hat weltweit Unternehmen und Verbraucher von zentralen Cloud-Angeboten abgeschnitten.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124154/c/feed/grosspanne-bei-microsoft-was-abhaengig-sind-wir-von-den-tech-giganten.mp3" length="8474541" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Microsoft-Störungen | Drohnenfabrik | Weihnachtsmarkt</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/microsoft-stoerungen-drohnenfabrik-weihnachtsmarkt.html</link>
-      <pubDate>Sat, 14 Nov 2026 15:24:40 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/42/5f/425fc88a-3ef7-4d8f-b70c-864b1a33e95d/425fc88a-3ef7-4d8f-b70c-864b1a33e95d_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 13 Nov 2026 19:17 IST.
-
-St&amp;#246;rungen beim US-Konzern Microsoft haben seit Donnerstagabend zu Ausf&amp;#228;llen vieler Programme gef&amp;#252;hrt. Auch in der Region hatte das Folgen: Drohnenfabrik f&amp;#252;r Kremmen? Weihnachtsmarkt am Berliner Breitscheidplatz er&amp;#246;ffnet.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/42/5f/425fc88a-3ef7-4d8f-b70c-864b1a33e95d/425fc88a-3ef7-4d8f-b70c-864b1a33e95d_mp3-256kd.mp3" length="27004940" type="audio/x-mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: I've put women on the map with Antarctic record</title>
       <link>http://www.bbc.co.uk/programmes/p0pmw5pp</link>
-      <pubDate>Sat, 14 Nov 2026 15:23:40 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 14 Nov 2026 20:15:25 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pmw5pp</guid>
       <description>Originally published Sat 14 Nov 2026 14:00 IST.
 
