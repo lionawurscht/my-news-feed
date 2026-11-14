@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:29:49 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 02:35): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3595768.html</link>
-      <pubDate>Sat, 14 Nov 2026 01:13:07 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 06:33): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3595856.html</link>
+      <pubDate>Sat, 14 Nov 2026 08:29:49 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f641536b-ec7c-4944-9aa9-bb68255c199c</guid>
-      <description>Originally published Sat 14 Nov 2026 02:35 IST.
+      <guid isPermaLink="false">92fad999-7200-4a80-95f6-be8d6dd1c02a</guid>
+      <description>Originally published Sat 14 Nov 2026 06:33 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1114/AU-20261114-0134-5400.mp3" length="2009227" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1114/AU-20261114-0533-4400.mp3" length="2136331" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 03:09): 8pm ET, November 13 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 10:09): 3am ET, November 14 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 14 Nov 2026 01:12:07 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 08:28:49 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">7fbb7a2d-1d13-4f96-bf9a-0570940b6a9b</guid>
-      <description>Originally published Sat 14 Nov 2026 03:09 IST.
+      <guid isPermaLink="false">1876d3b3-89ec-4c6b-958d-78a40963e48c</guid>
+      <description>Originally published Sat 14 Nov 2026 10:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/80350fc2-e074-4090-b90b-0954a4a3b942/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=80350fc2-e074-4090-b90b-0954a4a3b942&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261113-2000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e7042c0d-979c-4cc5-a789-652563677f14/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e7042c0d-979c-4cc5-a789-652563677f14&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261114-0300-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 13.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3595616.html</link>
-      <pubDate>Sat, 14 Nov 2026 01:11:07 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 08:27:49 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">7f476d08-79a4-4699-a1cd-bfa4a07b5881-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 13 Nov 2026 21:00 IST.
@@ -46,29 +46,29 @@ Technisches Problem war Ursache für weltweite Störung von Microsoft-Diensten, 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1113/AU-20261113-2027-5000.mp3" length="15424291" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 02:00): Die Nachrichten vom 14.11.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45882.html</link>
-      <pubDate>Sat, 14 Nov 2026 01:10:07 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 10:00): Die Nachrichten vom 14.11.2026, 09:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45906.html</link>
+      <pubDate>Sat, 14 Nov 2026 08:26:49 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">6564ec9b-5940-5daf-b746-c11ea3df0648</guid>
-      <description>Originally published Sat 14 Nov 2026 02:00 IST.
+      <guid isPermaLink="false">1479e206-dd73-5fb9-b8d0-a65c24340ab0</guid>
+      <description>Originally published Sat 14 Nov 2026 10:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/14/nachrichten_dlf_20261114_0100_9f5a97e1.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/14/nachrichten_dlf_20261114_0900_6b120943.mp3?refId=nachrichten-108" length="5011518" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:33): Abendjournal um 18 (13.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-13112026</link>
-      <pubDate>Sat, 14 Nov 2026 01:09:07 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:22): Morgenjournal um 8 (14.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-14112026</link>
+      <pubDate>Sat, 14 Nov 2026 08:25:49 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_a5c93e3e4d284975a441bb0f5b0c7e88</guid>
-      <description>Originally published Fri 13 Nov 2026 19:33 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_a5c93e3e4d284975a441bb0f5b0c7e88.mp3?etag=69330849e73e68e6a3016a78b699daa3" length="36330174" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_b5c89acd3f4b400f843c9f7fd122452e</guid>
+      <description>Originally published Sat 14 Nov 2026 09:22 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b5c89acd3f4b400f843c9f7fd122452e.mp3?etag=2233042c4a20f59df0719756ffb44089" length="22039738" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:30): Großpanne bei Microsoft: Was abhängig sind wir von den Tech-Giganten?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/grosspanne-bei-microsoft-was-abhaengig-sind-wir-von-den-tech-giganten/2124154</link>
-      <pubDate>Sat, 14 Nov 2026 01:08:07 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 08:24:49 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">98619dd6-4c6e-43b4-897a-762617993004</guid>
       <description>Originally published Fri 13 Nov 2026 19:30 IST.
@@ -79,7 +79,7 @@ Eine massive Störung bei Microsoft hat weltweit Unternehmen und Verbraucher von
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Microsoft-Störungen | Drohnenfabrik | Weihnachtsmarkt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/microsoft-stoerungen-drohnenfabrik-weihnachtsmarkt.html</link>
-      <pubDate>Sat, 14 Nov 2026 01:07:07 +0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 08:23:49 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/42/5f/425fc88a-3ef7-4d8f-b70c-864b1a33e95d/425fc88a-3ef7-4d8f-b70c-864b1a33e95d_mp3-256kd.mp3</guid>
       <description>Originally published Fri 13 Nov 2026 19:17 IST.
@@ -90,17 +90,19 @@ St&amp;#246;rungen beim US-Konzern Microsoft haben seit Donnerstagabend zu Ausf&
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/42/5f/425fc88a-3ef7-4d8f-b70c-864b1a33e95d/425fc88a-3ef7-4d8f-b70c-864b1a33e95d_mp3-256kd.mp3" length="27004940" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:51): Microsoft outage: Millions affected in over 70 countries</title>
-      <link>http://www.bbc.co.uk/programmes/p0pmwsp6</link>
-      <pubDate>Sat, 14 Nov 2026 01:06:07 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:41): US airspace reopens after flights grounded for several hours</title>
+      <link>http://www.bbc.co.uk/programmes/p0pmzyrg</link>
+      <pubDate>Sat, 14 Nov 2026 08:22:49 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pmwsp6</guid>
-      <description>Originally published Fri 13 Nov 2026 17:51 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pmzyrg</guid>
+      <description>Originally published Sat 14 Nov 2026 06:41 IST.
 
-&lt;p&gt;A global Microsoft outage hits schools, doctors and businesses. The tech giant is scrambling the fix the issue - but with so many of us relying on its products such as Outlook and Teams, it has prompted a conversation about how reliant we are on its services. Microsoft says it's not found any evidence that malicious activity caused the problems, and in its latest update it reported that &quot;broader improvements&quot; were being observed in North America and Europe. &lt;/p&gt;&lt;p&gt;Also: El Salvador soldiers use combat robot dogs equipped with assault rifles to re-take the national football stadium from gangs in Haiti. The FBI says North Korean hackers used fake video calls in a 400-million dollar crypto hack. Mauricio Pochettino is finally confirmed as Manchester United's new manager.  We go inside a secret wartime bunker rediscovered beneath cliffs on the south coast England.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: The icons for several Microsoft apps, including Microsoft Outlook.
-Credit: Yui Mok / PA&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3" length="11040000" type="audio/mpeg"/>
+&lt;p&gt;On Friday, the US made the rare decision to ground flights nationwide, leaving tens of thousands of people stranded. An overloaded air traffic control system triggered communications failures across the country. The White House says there's no evidence of a cyberattack. Flights resumed after four hours, but Transportation Secretary Sean Duffy has warned that getting the aviation network back to normal will take time.&lt;/p&gt;&lt;p&gt;Also: Divisions deepen inside the Trump administration as the US Commerce Secretary comes under criticism for his failure to ban exports of advanced Nvidia chips to a company linked to a suspected Chinese spy. Microsoft says its services are gradually returning to normal after a global outage that affected hundreds of millions of people. Pope Leo says he's overcoming cancer as huge crowds turn out to welcome him in Peru. We report from India, where members of the Gen-Z &quot;Cockroach&quot; protest movement face growing legal pressure and detentions. And the grand final of the first-ever Asian Eurovision Song Contest is about to get underway.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Plane landing at Ronald Reagan Washington National Airport after the US FAA issued a national ground stop.  
+Credit: Reuters/Jonathan Ernst&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmzy3x.mp3" length="13288000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
