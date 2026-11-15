@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:44:59 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,72 +13,79 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 17:09): 10am ET, November 15 | The latest headlines from NPR</title>
-      <link/>
-      <pubDate>Sun, 15 Nov 2026 15:14:59 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:25): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3598178.html</link>
+      <pubDate>Sun, 15 Nov 2026 20:44:59 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">15d167b5-a11e-458a-a559-fd4eea6102ba</guid>
-      <description>Originally published Sun 15 Nov 2026 17:09 IST.
+      <guid isPermaLink="false">55bc9a73-14a0-41e1-860e-2e24ddb0f41f</guid>
+      <description>Originally published Sun 15 Nov 2026 22:25 IST.
+
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1115/AU-20261115-2124-5600.mp3" length="1944331" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Sun 22:09): 3pm ET, November 15 | The latest headlines from NPR</title>
+      <link/>
+      <pubDate>Sun, 15 Nov 2026 20:43:59 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">7cb748f2-b78d-4305-91d1-d3d0cfabbd20</guid>
+      <description>Originally published Sun 15 Nov 2026 22:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/05cad7b3-7370-4ee4-8196-f654dd8e015d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=05cad7b3-7370-4ee4-8196-f654dd8e015d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261115-1000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/7635b61e-63e7-40c3-bf2e-cdbeaf9a1e17/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=7635b61e-63e7-40c3-bf2e-cdbeaf9a1e17&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261115-1500-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 14.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3596978.html</link>
-      <pubDate>Sun, 15 Nov 2026 15:13:59 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">2236e59b-5fd8-4713-aea6-16b081753cda-SENDUNGSAUDIO</guid>
-      <description>Originally published Sat 14 Nov 2026 21:00 IST.
-
-Früherer Arbeitsminister Heil will für SPD-Vorsitz kandidieren, Mecklenburg-Vorpommern einigt sich auf rot-rot-grüne Landesregierung, US-Flugverkehr nach Technik-Panne für Stunden eingestellt, Weltweite Störung bei Microsoft ist behoben, &quot;Klimagipfel der Völker&quot; als Gegenveranstaltung zur COP31, Papst Leo XIV. besucht frühere Diözese in Peru, Bayern würdigt Aiwanger mit einem Trauerstaatsakt, Tanker rammt US-Kreuzfahrtschiff in New Orleans, DFB-Elf setzt sich in der Nations League mit 3:1 gegen Serbien durch, FC Bayern Fußballerinnen gewinnen im Bundesliga-Spitzenspiel 4:1 gegen Wolfsburg, Emma Aicher gewinnt ersten Slalom-Sieg ihrer Weltcup-Karriere, Das Wetter Hinweis: Der Beitrag zur &quot;Fußball Nations League&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1114/AU-20261114-2026-4600.mp3" length="14461603" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 16:00): Die Nachrichten vom 15.11.2026, 15:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45968.html</link>
-      <pubDate>Sun, 15 Nov 2026 15:12:59 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 15.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3598158.html</link>
+      <pubDate>Sun, 15 Nov 2026 20:42:59 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">bb84cbda-2446-54bd-897d-400c8ce4eece</guid>
-      <description>Originally published Sun 15 Nov 2026 16:00 IST.
+      <guid isPermaLink="false">034c7aa3-07c9-4244-85d1-1c8a9abf4fbc-SENDUNGSAUDIO</guid>
+      <description>Originally published Sun 15 Nov 2026 21:00 IST.
+
+Hunderttausende demonstrieren gegen Rundfunkreform von Tschechiens rechter Regierung, Gedenken zum Volkstrauertag im Bundestag, Ex-Arbeitsminister Heil will als SPD-Parteichef kandidieren, Russland und Ukraine melden gegenseitige Angriffe, Extrem angespannte humanitäre Lage in Kuba, &quot;Starship&quot;-Rakete kehrt nach Flug zur Startrampe zurück, DFB-Team vor Niederlande-Spiel, 600 Schafe durchqueren Nürnberger Altstadt, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1115/AU-20261115-2026-0200.mp3" length="14996502" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 22:00): Die Nachrichten vom 15.11.2026, 21:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45980.html</link>
+      <pubDate>Sun, 15 Nov 2026 20:41:59 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">c5c33770-0b15-536c-9692-1450556b85d6</guid>
+      <description>Originally published Sun 15 Nov 2026 22:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/15/nachrichten_dlf_20261115_1500_4b81fdef.mp3?refId=nachrichten-108" length="5014862" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/15/nachrichten_dlf_20261115_2100_a3cb93a2.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 14:17): Mittagsjournal (15.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-15112026</link>
-      <pubDate>Sun, 15 Nov 2026 15:11:59 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_f4d63c7be21a43158f23ea6bfdcf7b22</guid>
-      <description>Originally published Sun 15 Nov 2026 14:17 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f4d63c7be21a43158f23ea6bfdcf7b22.mp3?etag=b4703953394670ed08f40c212638c2a5" length="14939777" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 11:30): Das Wichtigste am Sonntagmorgen</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagmorgen-2/2124180</link>
-      <pubDate>Sun, 15 Nov 2026 15:10:59 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:20): Abendjournal um 18 (15.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-15112026</link>
+      <pubDate>Sun, 15 Nov 2026 20:40:59 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">a473070f-93f4-48d0-a170-c82d5e0b2e38</guid>
-      <description>Originally published Sun 15 Nov 2026 11:30 IST.
-
-In der SPD bahnt sich ein Machtkampf um die künftige Führung der Partei an. Der frühere Bundesarbeitsminister Hubertus Heil will Vorsitzender werden.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124180/c/feed/das-wichtigste-am-sonntagmorgen-2.mp3" length="17805357" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_d9f4a03d64a84e3a99f03ab07d4f6cde</guid>
+      <description>Originally published Sun 15 Nov 2026 19:20 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d9f4a03d64a84e3a99f03ab07d4f6cde.mp3?etag=020da2942a35a0eb3a23c01fc05c9eba" length="22101432" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:59): SpaceX makes history catching part of returning spacecraft</title>
-      <link>http://www.bbc.co.uk/programmes/p0pn35d7</link>
-      <pubDate>Sun, 15 Nov 2026 15:09:59 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 20:00): Das Wichtigste am Sonntagabend</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagabend-5/2124182</link>
+      <pubDate>Sun, 15 Nov 2026 20:39:59 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pn35d7</guid>
-      <description>Originally published Sun 15 Nov 2026 06:59 IST.
+      <guid isPermaLink="false">fda358ab-737e-48d8-8402-d5d6f8b79c08</guid>
+      <description>Originally published Sun 15 Nov 2026 20:00 IST.
 
-&lt;p&gt;Part of SpaceX's Starship rocket was caught as it descended back to Earth in Texas. It's the first time the upper section of a reusable rocket has ever been captured. Mechanical arms carried out a &quot;chopstick&quot; manoeuvre to catch the spacecraft. The breakthrough could dramatically cut the cost of space travel and marks a major step towards making Starship suitable for human spaceflight.&lt;/p&gt;&lt;p&gt;Also: Ukraine's president says the US has, for the first time, floated the idea of Ukraine joining NATO in exchange for ceding control of the Donbas region to Russia. We hear from the first black senator of the US state of Mississippi in 145 years. A fierce debate is brewing in Germany over the future of Hitler's Eagle's Nest after the building was destroyed by fire. A leading specialist in detecting digitally manipulated images warns that deepfakes are becoming almost impossible to spot. And a Philippine teenager has won the first-ever Eurovision Asia competition.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: SpaceX Starship 42 returns from orbit to the launch pad on the 15th test flight from the SpaceX launch complex in Starbase, Texas, US, November 14, 2026.  
-Credit: REUTERS/Steve Nesius&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn353v.mp3" length="14688000" type="audio/mpeg"/>
+Eines unserer Themen heute Abend sind die Gesundheitskosten mit der Diskussion über mehr Selbstzahler-Angebote.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124182/c/feed/das-wichtigste-am-sonntagabend-5.mp3" length="14996781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: How North Korea pulled off a $6bn heist</title>
+      <link>http://www.bbc.co.uk/programmes/p0pmv9b1</link>
+      <pubDate>Sun, 15 Nov 2026 20:38:59 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pmv9b1</guid>
+      <description>Originally published Sun 15 Nov 2026 22:00 IST.
+
+&lt;p&gt;Last week saw what could be the biggest heist in history: $6.3bn was stolen from the cryptocurrency exchange Binance. North Korean hackers are suspected of being behind the attack, which saw billions of dollars disappear in just 20 minutes. It’s far from the first time North Korea has been accused of a major cyber-attack. Over the past decade, hackers linked to the country have targeted banks, public institutions and even Sony Pictures. On The Global Story, Asma Khalid speaks with journalist Geoff White, host of the BBC investigative podcast The Lazarus Heist. He explains how this isolated country become a major player in the world of cyber-crime – and where all that money goes. The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmv7s7.mp3" length="12920000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
