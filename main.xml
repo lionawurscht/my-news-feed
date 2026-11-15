@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:28:47 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,21 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 02:10): 7pm ET, November 14 | The latest headlines from NPR</title>
-      <link/>
-      <pubDate>Sun, 15 Nov 2026 00:40:16 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 05:41): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3597184.html</link>
+      <pubDate>Sun, 15 Nov 2026 07:28:47 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">7afdb48e-f53f-478c-86c2-c3bc6300dc10</guid>
-      <description>Originally published Sun 15 Nov 2026 02:10 IST.
+      <guid isPermaLink="false">de299811-dd29-4ca8-aa53-173979a3a749</guid>
+      <description>Originally published Sun 15 Nov 2026 05:41 IST.
+
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1115/AU-20261115-0441-0400.mp3" length="1888272" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Sun 07:09): 12am ET, November 15 | The latest headlines from NPR</title>
+      <link/>
+      <pubDate>Sun, 15 Nov 2026 07:27:47 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">9a90c3d3-fb93-46af-b850-89844fbb370f</guid>
+      <description>Originally published Sun 15 Nov 2026 07:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/a7036317-e87f-442b-ac2b-793941bb229e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=a7036317-e87f-442b-ac2b-793941bb229e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261114-1900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/31c7fda4-3483-4303-ae3c-dcc9a9493f52/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=31c7fda4-3483-4303-ae3c-dcc9a9493f52&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261115-0000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Sun 07:00): חדשון בעברית קלה (15/11/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Sun, 15 Nov 2026 07:26:47 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/15-11-26.m4a</guid>
+      <description>Originally published Sun 15 Nov 2026 07:00 IST.
+
+• דלג ל
+• משרד החינוך
+• חַמאס מְאַשֵר: מפַקֵד חֲטִיבַת רָפִיחַ, סַמִיר אַבּוּ-יוּנֵס, חוּסַל הלַילָה בּתקִיפָה של צַה&quot;ל בּאֵזוֹר חַ'אן יוּנֵס. הוא היה בֵּין אֵלה שֶתִכנְנוּ את טֶבַח 7 בּאוֹקטוֹבּר ופִיקדוּ עָלָיו. קוֹדמוֹ בּתַפקִיד חוּסַל לִפנֵי כּחוֹדשַיִים
+• נתניהו קָרא אֶמֶש לאַיזנקוֹט להָקִים מֶמשֶלֶת פִּיוּס לְאוּמִי, בּלי תְנָאִים מוּקדָמים
+• צִוותֵי המַשָׂא וּמַתָן של 'יָשר!' ושל הליכּוּד יִיפָּגשוּ היום. לדִברֵי אַיזנקוֹט, הפְּגישה נִקבְּעָה כּבר בּשָבוּעַ שֶעָבַר, ונתניהו מנַסֶה לעַכֵּב את הֲקָמַת המֶמשָלה החדָשה
+• בּדְרִישָה להֲקָמַת מֶמשֶלֶת אַחדוּת: חֲבֵר הכּנֶסת אֱלִישָע מְדָן הֵקִים אוֹהֶל מִחוּץ לכּנֶסת
+• המוֹדִיעִין האָמֵריקָני מַעֲריך: לאִירַאן נִשאֲרוּ 1,500- 2,500 טִילִים
+• אִירַאן: תָקַפנוּ בָּסיס צְבָאִי אָמֵריקָני בּבַּחרֵיין בּתגוּבָה לפְעוּלוֹתֶיהָ של ארה&quot;ב
+• התִַחֲזית: יְרִידה קַלה בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/15-11-26.m4a" length="1531476" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 14.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3596978.html</link>
-      <pubDate>Sun, 15 Nov 2026 00:39:16 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Sun, 15 Nov 2026 07:25:47 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">2236e59b-5fd8-4713-aea6-16b081753cda-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 14 Nov 2026 21:00 IST.
 
@@ -35,36 +68,39 @@ Früherer Arbeitsminister Heil will für SPD-Vorsitz kandidieren, Mecklenburg-Vo
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1114/AU-20261114-2026-4600.mp3" length="14461603" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 02:00): Die Nachrichten vom 15.11.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45936.html</link>
-      <pubDate>Sun, 15 Nov 2026 00:38:16 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">657eb375-d9c9-5569-a7f9-f335431a6c95</guid>
-      <description>Originally published Sun 15 Nov 2026 02:00 IST.
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 09:15): Morgenjournal um 8 (15.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-15112026</link>
+      <pubDate>Sun, 15 Nov 2026 07:24:47 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_824b8df12bb845e683586ff08292538c</guid>
+      <description>Originally published Sun 15 Nov 2026 09:15 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_824b8df12bb845e683586ff08292538c.mp3?etag=dbc14162d471a9334ccd0a26bfd8b509" length="15037799" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 09:00): Die Nachrichten vom 15.11.2026, 08:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45952.html</link>
+      <pubDate>Sun, 15 Nov 2026 07:23:47 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">201a1e68-ac0a-5026-9171-5129b29823f7</guid>
+      <description>Originally published Sun 15 Nov 2026 09:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/15/nachrichten_dlf_20261115_0100_ab80f15d.mp3?refId=nachrichten-108" length="5005667" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/15/nachrichten_dlf_20261115_0800_1701780f.mp3?refId=nachrichten-108" length="9831841" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:11): Mittagsjournal (14.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-14112026</link>
-      <pubDate>Sun, 15 Nov 2026 00:37:16 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_9a8b5a1e2a3b42f99ca23a0159eb60e5</guid>
-      <description>Originally published Sat 14 Nov 2026 14:11 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_9a8b5a1e2a3b42f99ca23a0159eb60e5.mp3?etag=8bb4d0de6622f355e8fae4887a4bb7fc" length="81216612" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: I've put women on the map with Antarctic record</title>
-      <link>http://www.bbc.co.uk/programmes/p0pmw5pp</link>
-      <pubDate>Sun, 15 Nov 2026 00:36:16 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pmw5pp</guid>
-      <description>Originally published Sat 14 Nov 2026 14:00 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:59): SpaceX makes history catching part of returning spacecraft</title>
+      <link>http://www.bbc.co.uk/programmes/p0pn35d7</link>
+      <pubDate>Sun, 15 Nov 2026 07:22:47 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pn35d7</guid>
+      <description>Originally published Sun 15 Nov 2026 06:59 IST.
 
-&lt;p&gt;Before taking on Antarctica's 160 kilometre ultramarathon, Stephanie Case said she wanted to show her daughter what mothers can achieve even in the toughest places on Earth. The Canadian ultra-runner has now made history, becoming the first woman to complete the race. Case says she wanted to prove that ''motherhood isn't the finish line''.&lt;/p&gt;&lt;p&gt;Also: we catch up with a young Sudanese boy who received a surprise message from his favourite footballer, the Real Madrid player Vinícius Júnior. We visit a drama workshop where actors use sound to create theatre for blind and visually impaired people. How robotic kits with chopsticks are inspiring children around the world. The African athletes who have made history at the Youth Olympic Games in Senegal. Plus the chimpanzee in Florida that had his own drone delivery service of bananas.&lt;/p&gt;&lt;p&gt;(Photo: Stephanie Case pictured after completing the Antarctic Ice Ultra 2026. Credit: Reuters)&lt;/p&gt;&lt;p&gt;Presenter: Chantal Hartle. 
-Music composed by Iona Hampson&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmvz62.mp3" length="12880000" type="audio/mpeg"/>
+&lt;p&gt;Part of SpaceX's Starship rocket was caught as it descended back to Earth in Texas. It's the first time the upper section of a reusable rocket has ever been captured. Mechanical arms carried out a &quot;chopstick&quot; manoeuvre to catch the spacecraft. The breakthrough could dramatically cut the cost of space travel and marks a major step towards making Starship suitable for human spaceflight.&lt;/p&gt;&lt;p&gt;Also: Ukraine's president says the US has, for the first time, floated the idea of Ukraine joining NATO in exchange for ceding control of the Donbas region to Russia. We hear from the first black senator of the US state of Mississippi in 145 years. A fierce debate is brewing in Germany over the future of Hitler's Eagle's Nest after the building was destroyed by fire. A leading specialist in detecting digitally manipulated images warns that deepfakes are becoming almost impossible to spot. And a Philippine teenager has won the first-ever Eurovision Asia competition.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: SpaceX Starship 42 returns from orbit to the launch pad on the 15th test flight from the SpaceX launch complex in Starbase, Texas, US, November 14, 2026.  
+Credit: REUTERS/Steve Nesius&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn353v.mp3" length="14688000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
