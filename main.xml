@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 07:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:14:59 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,21 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 05:41): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3597184.html</link>
-      <pubDate>Sun, 15 Nov 2026 07:28:47 +0000</pubDate>
-      <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">de299811-dd29-4ca8-aa53-173979a3a749</guid>
-      <description>Originally published Sun 15 Nov 2026 05:41 IST.
-
-tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1115/AU-20261115-0441-0400.mp3" length="1888272" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|Overview] NPR News Now (Sun 07:09): 12am ET, November 15 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 17:09): 10am ET, November 15 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 15 Nov 2026 07:27:47 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">9a90c3d3-fb93-46af-b850-89844fbb370f</guid>
-      <description>Originally published Sun 15 Nov 2026 07:09 IST.
+      <pubDate>Sun, 15 Nov 2026 15:14:59 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">15d167b5-a11e-458a-a559-fd4eea6102ba</guid>
+      <description>Originally published Sun 15 Nov 2026 17:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/31c7fda4-3483-4303-ae3c-dcc9a9493f52/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=31c7fda4-3483-4303-ae3c-dcc9a9493f52&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261115-0000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Sun 07:00): חדשון בעברית קלה (15/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Sun, 15 Nov 2026 07:26:47 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/15-11-26.m4a</guid>
-      <description>Originally published Sun 15 Nov 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• חַמאס מְאַשֵר: מפַקֵד חֲטִיבַת רָפִיחַ, סַמִיר אַבּוּ-יוּנֵס, חוּסַל הלַילָה בּתקִיפָה של צַה&quot;ל בּאֵזוֹר חַ'אן יוּנֵס. הוא היה בֵּין אֵלה שֶתִכנְנוּ את טֶבַח 7 בּאוֹקטוֹבּר ופִיקדוּ עָלָיו. קוֹדמוֹ בּתַפקִיד חוּסַל לִפנֵי כּחוֹדשַיִים
-• נתניהו קָרא אֶמֶש לאַיזנקוֹט להָקִים מֶמשֶלֶת פִּיוּס לְאוּמִי, בּלי תְנָאִים מוּקדָמים
-• צִוותֵי המַשָׂא וּמַתָן של 'יָשר!' ושל הליכּוּד יִיפָּגשוּ היום. לדִברֵי אַיזנקוֹט, הפְּגישה נִקבְּעָה כּבר בּשָבוּעַ שֶעָבַר, ונתניהו מנַסֶה לעַכֵּב את הֲקָמַת המֶמשָלה החדָשה
-• בּדְרִישָה להֲקָמַת מֶמשֶלֶת אַחדוּת: חֲבֵר הכּנֶסת אֱלִישָע מְדָן הֵקִים אוֹהֶל מִחוּץ לכּנֶסת
-• המוֹדִיעִין האָמֵריקָני מַעֲריך: לאִירַאן נִשאֲרוּ 1,500- 2,500 טִילִים
-• אִירַאן: תָקַפנוּ בָּסיס צְבָאִי אָמֵריקָני בּבַּחרֵיין בּתגוּבָה לפְעוּלוֹתֶיהָ של ארה&quot;ב
-• התִַחֲזית: יְרִידה קַלה בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/15-11-26.m4a" length="1531476" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/05cad7b3-7370-4ee4-8196-f654dd8e015d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=05cad7b3-7370-4ee4-8196-f654dd8e015d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261115-1000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 14.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3596978.html</link>
-      <pubDate>Sun, 15 Nov 2026 07:25:47 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Sun, 15 Nov 2026 15:13:59 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
       <guid isPermaLink="false">2236e59b-5fd8-4713-aea6-16b081753cda-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 14 Nov 2026 21:00 IST.
 
@@ -68,30 +35,41 @@ Früherer Arbeitsminister Heil will für SPD-Vorsitz kandidieren, Mecklenburg-Vo
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1114/AU-20261114-2026-4600.mp3" length="14461603" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 09:15): Morgenjournal um 8 (15.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-15112026</link>
-      <pubDate>Sun, 15 Nov 2026 07:24:47 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_824b8df12bb845e683586ff08292538c</guid>
-      <description>Originally published Sun 15 Nov 2026 09:15 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_824b8df12bb845e683586ff08292538c.mp3?etag=dbc14162d471a9334ccd0a26bfd8b509" length="15037799" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 09:00): Die Nachrichten vom 15.11.2026, 08:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45952.html</link>
-      <pubDate>Sun, 15 Nov 2026 07:23:47 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">201a1e68-ac0a-5026-9171-5129b29823f7</guid>
-      <description>Originally published Sun 15 Nov 2026 09:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 16:00): Die Nachrichten vom 15.11.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-45968.html</link>
+      <pubDate>Sun, 15 Nov 2026 15:12:59 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">bb84cbda-2446-54bd-897d-400c8ce4eece</guid>
+      <description>Originally published Sun 15 Nov 2026 16:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/15/nachrichten_dlf_20261115_0800_1701780f.mp3?refId=nachrichten-108" length="9831841" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/15/nachrichten_dlf_20261115_1500_4b81fdef.mp3?refId=nachrichten-108" length="5014862" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Ö1 Journal um acht (Sun 14:17): Mittagsjournal (15.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-15112026</link>
+      <pubDate>Sun, 15 Nov 2026 15:11:59 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_f4d63c7be21a43158f23ea6bfdcf7b22</guid>
+      <description>Originally published Sun 15 Nov 2026 14:17 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_f4d63c7be21a43158f23ea6bfdcf7b22.mp3?etag=b4703953394670ed08f40c212638c2a5" length="14939777" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 11:30): Das Wichtigste am Sonntagmorgen</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagmorgen-2/2124180</link>
+      <pubDate>Sun, 15 Nov 2026 15:10:59 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">a473070f-93f4-48d0-a170-c82d5e0b2e38</guid>
+      <description>Originally published Sun 15 Nov 2026 11:30 IST.
+
+In der SPD bahnt sich ein Machtkampf um die künftige Führung der Partei an. Der frühere Bundesarbeitsminister Hubertus Heil will Vorsitzender werden.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124180/c/feed/das-wichtigste-am-sonntagmorgen-2.mp3" length="17805357" type="audio/mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:59): SpaceX makes history catching part of returning spacecraft</title>
       <link>http://www.bbc.co.uk/programmes/p0pn35d7</link>
-      <pubDate>Sun, 15 Nov 2026 07:22:47 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sun, 15 Nov 2026 15:09:59 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pn35d7</guid>
       <description>Originally published Sun 15 Nov 2026 06:59 IST.
 
