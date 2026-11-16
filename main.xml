@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:34:40 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 22:25): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3598178.html</link>
-      <pubDate>Mon, 16 Nov 2026 00:39:49 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 09:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3598708.html</link>
+      <pubDate>Mon, 16 Nov 2026 07:34:40 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">55bc9a73-14a0-41e1-860e-2e24ddb0f41f</guid>
-      <description>Originally published Sun 15 Nov 2026 22:25 IST.
+      <guid isPermaLink="false">11d10df2-d71d-4c1d-bec0-f19ecbfc6d76</guid>
+      <description>Originally published Mon 16 Nov 2026 09:05 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1115/AU-20261115-2124-5600.mp3" length="1944331" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1116/AU-20261116-0805-1000.mp3" length="2154379" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 02:09): 7pm ET, November 15 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 09:09): 2am ET, November 16 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 16 Nov 2026 00:38:49 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 07:33:40 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">b690a498-cce0-4193-8133-d6ddcc2ad543</guid>
-      <description>Originally published Mon 16 Nov 2026 02:09 IST.
+      <guid isPermaLink="false">fc819a90-7bf3-4953-8564-58811635878f</guid>
+      <description>Originally published Mon 16 Nov 2026 09:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/d3649954-2131-4929-a49e-68fae841c58f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=d3649954-2131-4929-a49e-68fae841c58f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261115-1900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6dd0163d-65b8-4f7b-a79c-01f9f051a7e8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6dd0163d-65b8-4f7b-a79c-01f9f051a7e8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261116-0200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Mon 07:00): חדשון בעברית קלה (16/11/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Mon, 16 Nov 2026 07:32:40 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/16-11-26.m4a</guid>
+      <description>Originally published Mon 16 Nov 2026 07:00 IST.
+
+• דלג ל
+• משרד החינוך
+• הקַבִּינֵט המְדִיני-בִּיטחוֹני הִתכַּנֵס אמש, בַּפַּעם הרִאשוֹנה אַחרֵי 40 יום, על רֶקַע המְתִיחוּת עִם אִירַאן. הדִיוּן נִמשַך יותר משָלוֹש שעות, והִשתַתֵף בו גם רֹאש המוֹסָד רוֹמָן גוֹפמַן, שֶחָזַר מִסֶבֶב פְּגִישוֹת בּארה&quot;ב
+• צִוותֵי המַשָׂא וּמַתָן של 'יָשר!', 'הליכּוּד' ו'בּיַחַד' נִפגְשוּ אתמול. לא הוּשְׂגָה הִתקַדמוּת של מַמָש
+• חַברֵי הכּנֶסת מִסִיעַת 'יַהֲדוּת התוֹרָה' מַכְחִישִים שֶיֵש הִתקַדמוּת בּמַשָׂא וּמַתָן להֲקָמַת מֶמשֶלה עִם החֲרֵדִים
+• היוֹם, ו' בּכִסלֵו, ישׂראל מצַיֶינת 53 שנה לִפטִירָתו של דוִד בּן-גוּריוֹן, רֹאש המֶמשלה הרִאשון והאִיש שֶהִכרִיז על הֲקָמַת המדִינה
+• בֵּית בֶּן-גוּריוֹן בּתֵל אביב יִיפָּתַח מֵחָדש בּתחִילַת דֶצמבֶּר, אַחרֵי שָנה וחֵצי של עבוֹדוֹת שִיפּוּץ ושִימוּר
+• פּוּרסַם מַדַד המְחִירים לצַרכָן לחוֹדֶש אוֹקטוֹבּר: יְרִידה בָּאִינפְלַציָה ובמְחִירֵי הפֵּירוֹת והתַחבּוּרָה
+• התִַחֲזית: הִתקָרְרוּת קַלה
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/16-11-26.m4a" length="1517320" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 15.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3598158.html</link>
-      <pubDate>Mon, 16 Nov 2026 00:37:49 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Mon, 16 Nov 2026 07:31:40 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">034c7aa3-07c9-4244-85d1-1c8a9abf4fbc-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 15 Nov 2026 21:00 IST.
 
@@ -46,46 +68,50 @@ Hunderttausende demonstrieren gegen Rundfunkreform von Tschechiens rechter Regie
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1115/AU-20261115-2026-0200.mp3" length="14996502" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 02:00): Die Nachrichten vom 16.11.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-45988.html</link>
-      <pubDate>Mon, 16 Nov 2026 00:36:49 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">bc548048-dd07-549d-a55f-535412a55543</guid>
-      <description>Originally published Mon 16 Nov 2026 02:00 IST.
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 09:26): Morgenjournal um 8 (16.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-16112026</link>
+      <pubDate>Mon, 16 Nov 2026 07:30:40 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_341be3e885a7466eae27f5d1bb6ac0c1</guid>
+      <description>Originally published Mon 16 Nov 2026 09:26 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_341be3e885a7466eae27f5d1bb6ac0c1.mp3?etag=9a9cd183c81a85f2aaeafc9531d63e73" length="29303442" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 09:00): Die Nachrichten vom 16.11.2026, 08:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46010.html</link>
+      <pubDate>Mon, 16 Nov 2026 07:29:40 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">b15a83cc-050c-5ca3-866d-54982492431a</guid>
+      <description>Originally published Mon 16 Nov 2026 09:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/16/nachrichten_dlf_20261116_0100_f7a75804.mp3?refId=nachrichten-108" length="4905775" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/16/nachrichten_dlf_20261116_0800_0b27d41c.mp3?refId=nachrichten-108" length="9664240" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:20): Abendjournal um 18 (15.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-15112026</link>
-      <pubDate>Mon, 16 Nov 2026 00:35:49 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_d9f4a03d64a84e3a99f03ab07d4f6cde</guid>
-      <description>Originally published Sun 15 Nov 2026 19:20 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d9f4a03d64a84e3a99f03ab07d4f6cde.mp3?etag=020da2942a35a0eb3a23c01fc05c9eba" length="22101432" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 20:00): Das Wichtigste am Sonntagabend</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagabend-5/2124182</link>
-      <pubDate>Mon, 16 Nov 2026 00:34:49 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">fda358ab-737e-48d8-8402-d5d6f8b79c08</guid>
-      <description>Originally published Sun 15 Nov 2026 20:00 IST.
-
-Eines unserer Themen heute Abend sind die Gesundheitskosten mit der Diskussion über mehr Selbstzahler-Angebote.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124182/c/feed/das-wichtigste-am-sonntagabend-5.mp3" length="14996781" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: How North Korea pulled off a $6bn heist</title>
-      <link>http://www.bbc.co.uk/programmes/p0pmv9b1</link>
-      <pubDate>Mon, 16 Nov 2026 00:33:49 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 09:26): Papstreise auf dem amerikanischen Kontinent: Eine Bilanz</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/papstreise-auf-dem-amerikanischen-kontinent-eine-bilanz/2124198</link>
+      <pubDate>Mon, 16 Nov 2026 07:28:40 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pmv9b1</guid>
-      <description>Originally published Sun 15 Nov 2026 22:00 IST.
+      <guid isPermaLink="false">87d20204-c890-4bbf-855f-a343f36ac210</guid>
+      <description>Originally published Mon 16 Nov 2026 09:26 IST.
 
-&lt;p&gt;Last week saw what could be the biggest heist in history: $6.3bn was stolen from the cryptocurrency exchange Binance. North Korean hackers are suspected of being behind the attack, which saw billions of dollars disappear in just 20 minutes. It’s far from the first time North Korea has been accused of a major cyber-attack. Over the past decade, hackers linked to the country have targeted banks, public institutions and even Sony Pictures. On The Global Story, Asma Khalid speaks with journalist Geoff White, host of the BBC investigative podcast The Lazarus Heist. He explains how this isolated country become a major player in the world of cyber-crime – and where all that money goes. The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmv7s7.mp3" length="12920000" type="audio/mpeg"/>
+In nur zwölf Tagen absolvierte Papst Leo XIV trotz seiner jüngsten Lungenoperation ein dichtes Programm.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124198/c/feed/papstreise-auf-dem-amerikanischen-kontinent-eine-bilanz.mp3" length="9052845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:48): Government forces retreat in Yemen</title>
+      <link>http://www.bbc.co.uk/programmes/p0pn65z8</link>
+      <pubDate>Mon, 16 Nov 2026 07:27:40 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pn65z8</guid>
+      <description>Originally published Mon 16 Nov 2026 07:48 IST.
+
+&lt;p&gt;Yemen's Saudi-backed government has been redeploying its forces to protect its temporary capital, Aden, after advances by the Houthi movement which is backed by Iran. They've withdrawn from an area overlooking the strategic Bab al-Mandeb Strait at the entrance to the Red Sea. It signalled the end of a six-week counter offensive to retake coastal territory from the Houthis, whose control over the Yemeni side of the Strait has further constrained Middle East oil exports. Also: the architect of Mexico's cocaine trade Miguel Ángel Félix Gallardo dies at the age of 80. Guatemala declares 30-day state of emergency amid drug trafficking violence in the eastern districts of Zacapa and Izabal. WHO research published in Lancet Global Health finds one in four teenagers worldwide has not been physically active for at least 60 minutes on any day in the previous week. Taliban authorities ban cricket on Kandahar radio. Prince Harry praises war veterans on surprise visit to Ukraine. Canadian Stephanie Case becomes the first woman to complete the Antarctic Ice Ultra Marathon. And how London-based typewriter poet Olivia Dodd connects with strangers.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Houthi fighters standing on a damaged truck during what the media center described as an offensive against Saudi-backed Yemeni forces in Taiz province, Yemen. 
+Credit:  HOUTHI MILITARY MEDIA CENTER/HANDOUT/EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn65f7.mp3" length="15152000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
