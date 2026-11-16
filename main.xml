@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 07:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:50:40 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 09:05): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3598708.html</link>
-      <pubDate>Mon, 16 Nov 2026 07:34:40 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:39): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3600266.html</link>
+      <pubDate>Mon, 16 Nov 2026 17:50:40 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">11d10df2-d71d-4c1d-bec0-f19ecbfc6d76</guid>
-      <description>Originally published Mon 16 Nov 2026 09:05 IST.
+      <guid isPermaLink="false">3019674a-fc03-4a93-a7eb-aca74cce01b6</guid>
+      <description>Originally published Mon 16 Nov 2026 19:39 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1116/AU-20261116-0805-1000.mp3" length="2154379" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1116/AU-20261116-1838-5700.mp3" length="1785739" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 09:09): 2am ET, November 16 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 19:09): 12pm ET, November 16 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 16 Nov 2026 07:33:40 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 17:49:40 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">fc819a90-7bf3-4953-8564-58811635878f</guid>
-      <description>Originally published Mon 16 Nov 2026 09:09 IST.
+      <guid isPermaLink="false">9e062ef2-9f22-4c69-8dbd-2924dbe37859</guid>
+      <description>Originally published Mon 16 Nov 2026 19:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/6dd0163d-65b8-4f7b-a79c-01f9f051a7e8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=6dd0163d-65b8-4f7b-a79c-01f9f051a7e8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261116-0200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Mon 07:00): חדשון בעברית קלה (16/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Mon, 16 Nov 2026 07:32:40 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/16-11-26.m4a</guid>
-      <description>Originally published Mon 16 Nov 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• הקַבִּינֵט המְדִיני-בִּיטחוֹני הִתכַּנֵס אמש, בַּפַּעם הרִאשוֹנה אַחרֵי 40 יום, על רֶקַע המְתִיחוּת עִם אִירַאן. הדִיוּן נִמשַך יותר משָלוֹש שעות, והִשתַתֵף בו גם רֹאש המוֹסָד רוֹמָן גוֹפמַן, שֶחָזַר מִסֶבֶב פְּגִישוֹת בּארה&quot;ב
-• צִוותֵי המַשָׂא וּמַתָן של 'יָשר!', 'הליכּוּד' ו'בּיַחַד' נִפגְשוּ אתמול. לא הוּשְׂגָה הִתקַדמוּת של מַמָש
-• חַברֵי הכּנֶסת מִסִיעַת 'יַהֲדוּת התוֹרָה' מַכְחִישִים שֶיֵש הִתקַדמוּת בּמַשָׂא וּמַתָן להֲקָמַת מֶמשֶלה עִם החֲרֵדִים
-• היוֹם, ו' בּכִסלֵו, ישׂראל מצַיֶינת 53 שנה לִפטִירָתו של דוִד בּן-גוּריוֹן, רֹאש המֶמשלה הרִאשון והאִיש שֶהִכרִיז על הֲקָמַת המדִינה
-• בֵּית בֶּן-גוּריוֹן בּתֵל אביב יִיפָּתַח מֵחָדש בּתחִילַת דֶצמבֶּר, אַחרֵי שָנה וחֵצי של עבוֹדוֹת שִיפּוּץ ושִימוּר
-• פּוּרסַם מַדַד המְחִירים לצַרכָן לחוֹדֶש אוֹקטוֹבּר: יְרִידה בָּאִינפְלַציָה ובמְחִירֵי הפֵּירוֹת והתַחבּוּרָה
-• התִַחֲזית: הִתקָרְרוּת קַלה
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/16-11-26.m4a" length="1517320" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/74ba6733-013a-4d82-95ae-cd0271ad0434/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=74ba6733-013a-4d82-95ae-cd0271ad0434&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261116-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 15.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3598158.html</link>
-      <pubDate>Mon, 16 Nov 2026 07:31:40 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Mon, 16 Nov 2026 17:48:40 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">034c7aa3-07c9-4244-85d1-1c8a9abf4fbc-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 15 Nov 2026 21:00 IST.
 
@@ -68,50 +46,65 @@ Hunderttausende demonstrieren gegen Rundfunkreform von Tschechiens rechter Regie
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1115/AU-20261115-2026-0200.mp3" length="14996502" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 09:26): Morgenjournal um 8 (16.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-16112026</link>
-      <pubDate>Mon, 16 Nov 2026 07:30:40 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_341be3e885a7466eae27f5d1bb6ac0c1</guid>
-      <description>Originally published Mon 16 Nov 2026 09:26 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_341be3e885a7466eae27f5d1bb6ac0c1.mp3?etag=9a9cd183c81a85f2aaeafc9531d63e73" length="29303442" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:32): Abendjournal um 18 (16.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-16112026</link>
+      <pubDate>Mon, 16 Nov 2026 17:47:40 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_a886a1a3a8cd4fdba1d780b1b56289e8</guid>
+      <description>Originally published Mon 16 Nov 2026 19:32 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_a886a1a3a8cd4fdba1d780b1b56289e8.mp3?etag=ad37607e0b650940df82db95539d9e68" length="36413778" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 09:00): Die Nachrichten vom 16.11.2026, 08:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46010.html</link>
-      <pubDate>Mon, 16 Nov 2026 07:29:40 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">b15a83cc-050c-5ca3-866d-54982492431a</guid>
-      <description>Originally published Mon 16 Nov 2026 09:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 19:00): Die Nachrichten vom 16.11.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46056.html</link>
+      <pubDate>Mon, 16 Nov 2026 17:46:40 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">612b7aec-c376-5a73-be5a-634fef0aee36</guid>
+      <description>Originally published Mon 16 Nov 2026 19:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/16/nachrichten_dlf_20261116_0800_0b27d41c.mp3?refId=nachrichten-108" length="9664240" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/16/nachrichten_dlf_20261116_1800_674d24b6.mp3?refId=nachrichten-108" length="9834767" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 09:26): Papstreise auf dem amerikanischen Kontinent: Eine Bilanz</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/papstreise-auf-dem-amerikanischen-kontinent-eine-bilanz/2124198</link>
-      <pubDate>Mon, 16 Nov 2026 07:28:40 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 19:20): Selbstzahler-Termine beim Arzt: krude Idee oder wahrscheinliches Szenario?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/selbstzahler-termine-beim-arzt-krude-idee-oder-wahrscheinliches-szenario/2124216</link>
+      <pubDate>Mon, 16 Nov 2026 17:45:40 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">457a85fa-ac9a-4a37-b4d8-9ce94cae8a66</guid>
+      <description>Originally published Mon 16 Nov 2026 19:20 IST.
+
+Fachärzte, die Honorarkürzungen mit Selbstzahler-Terminen von Kassenpatienten ausgleichen - und Patienten, die zugreifen, weil die Wartezeiten immer länger werden: Wie wahrscheinlich ist das?</description>
+      <enclosure url="https://media.neuland.br.de/file/2124216/c/feed/selbstzahler-termine-beim-arzt-krude-idee-oder-wahrscheinliches-szenario.mp3" length="10245933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Tesla-Milliarden | Forum Mobilität | Prozess in Cottbus</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/tesla-milliarden-forum-mobilitaet-prozess-in-cottbus.html</link>
+      <pubDate>Mon, 16 Nov 2026 17:44:40 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">87d20204-c890-4bbf-855f-a343f36ac210</guid>
-      <description>Originally published Mon 16 Nov 2026 09:26 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/8b/5e/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb_mp3-256kd.mp3</guid>
+      <description>Originally published Mon 16 Nov 2026 19:17 IST.
 
-In nur zwölf Tagen absolvierte Papst Leo XIV trotz seiner jüngsten Lungenoperation ein dichtes Programm.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124198/c/feed/papstreise-auf-dem-amerikanischen-kontinent-eine-bilanz.mp3" length="9052845" type="audio/mpeg"/>
+Der US-E-Autobauer Tesla will drei Milliarden Euro in den weiteren Ausbau des Werks in Gr&amp;#252;nheide bei Berlin stecken. Au&amp;#223;erdem: Forum Mobilit&amp;#228;t im l&amp;#228;ndlichen Raum; Amtsgericht Cottbus - Prozess gef&amp;#228;hrliche K&amp;#246;rperverletzung; Algen-Zucht in der Saarow-Therme.
+&amp;#160;
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/8b/5e/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb_mp3-256kd.mp3" length="28451870" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:48): Government forces retreat in Yemen</title>
-      <link>http://www.bbc.co.uk/programmes/p0pn65z8</link>
-      <pubDate>Mon, 16 Nov 2026 07:27:40 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:25): Crimea Kerch Bridge hit in a huge Ukrainian drone attack</title>
+      <link>http://www.bbc.co.uk/programmes/p0pn98q4</link>
+      <pubDate>Mon, 16 Nov 2026 17:43:40 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pn65z8</guid>
-      <description>Originally published Mon 16 Nov 2026 07:48 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pn98q4</guid>
+      <description>Originally published Mon 16 Nov 2026 18:25 IST.
 
-&lt;p&gt;Yemen's Saudi-backed government has been redeploying its forces to protect its temporary capital, Aden, after advances by the Houthi movement which is backed by Iran. They've withdrawn from an area overlooking the strategic Bab al-Mandeb Strait at the entrance to the Red Sea. It signalled the end of a six-week counter offensive to retake coastal territory from the Houthis, whose control over the Yemeni side of the Strait has further constrained Middle East oil exports. Also: the architect of Mexico's cocaine trade Miguel Ángel Félix Gallardo dies at the age of 80. Guatemala declares 30-day state of emergency amid drug trafficking violence in the eastern districts of Zacapa and Izabal. WHO research published in Lancet Global Health finds one in four teenagers worldwide has not been physically active for at least 60 minutes on any day in the previous week. Taliban authorities ban cricket on Kandahar radio. Prince Harry praises war veterans on surprise visit to Ukraine. Canadian Stephanie Case becomes the first woman to complete the Antarctic Ice Ultra Marathon. And how London-based typewriter poet Olivia Dodd connects with strangers.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;The Russian defence ministry says a record number of drones were fired from Ukraine overnight and more than 1300 were brought down by its air defences. An oil refinery in the Krasnodar region was targeted and there was damage to the Kerch Bridge which links Russia to occupied Crimea. Western countries call on Israel to allow rapid humanitarian access to Gaza. The Indonesian president apologises to neighbouring countries for the thick haze caused by massive forest fires in his country. The director of the Shakespeare Institute threatens to resign if plans to move the centre from Stratford-upon-Avon to Birmingham go ahead. And could co-founder Jensen Huang make a swift return to the US technology giant, Nvidia?
+ 
+The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Houthi fighters standing on a damaged truck during what the media center described as an offensive against Saudi-backed Yemeni forces in Taiz province, Yemen. 
-Credit:  HOUTHI MILITARY MEDIA CENTER/HANDOUT/EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn65f7.mp3" length="15152000" type="audio/mpeg"/>
+Photo: A view shows the Crimean Bridge as seen from the city of Kerch, Crimea
+Credit: REUTERS/Alexey Pavlishak/File Photo&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn97sf.mp3" length="12456000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
