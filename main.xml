@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 01:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:03:31 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:49): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3600408.html</link>
-      <pubDate>Tue, 17 Nov 2026 01:28:34 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 11:48): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3601318.html</link>
+      <pubDate>Tue, 17 Nov 2026 10:03:31 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">c43f1cbd-44d6-476a-9d03-cde4e77f3442</guid>
-      <description>Originally published Mon 16 Nov 2026 22:49 IST.
+      <guid isPermaLink="false">bfded487-ae17-4128-a9c1-ea45b89682a4</guid>
+      <description>Originally published Tue 17 Nov 2026 11:48 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1116/AU-20261116-2149-2700.mp3" length="1778059" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1117/AU-20261117-1048-1000.mp3" length="2570251" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 03:09): 8pm ET, November 16 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 11:09): 4am ET, November 17 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 17 Nov 2026 01:27:34 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 10:02:31 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">b97cb90f-baac-43de-8964-c5ffd9c6cd71</guid>
-      <description>Originally published Tue 17 Nov 2026 03:09 IST.
+      <guid isPermaLink="false">87671880-341a-4470-97df-6bdb5b23003d</guid>
+      <description>Originally published Tue 17 Nov 2026 11:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0d5415a1-69d8-4e53-96dd-ae4b6aaa77dc/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0d5415a1-69d8-4e53-96dd-ae4b6aaa77dc&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261116-2000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/97130e1b-05aa-4f02-bffd-dbffde7c5de5/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=97130e1b-05aa-4f02-bffd-dbffde7c5de5&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261117-0400-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Tue 07:00): חדשון בעברית קלה (17/11/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Tue, 17 Nov 2026 10:01:31 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/17-11-26.m4a</guid>
+      <description>Originally published Tue 17 Nov 2026 07:00 IST.
+
+• דלג ל
+• משרד החינוך
+• בּפִיגוּעַ דְרִיסָה ותְקִיפָה בּאֵזוֹר ירִיחוֹ נִפצְעוּ הלַילָה שלוֹשָה ישׂראֵלים. מַצָבָם קל
+• היוֹעֶצֶת המִשפָּטית למֶמשָלה ופְרַקלִיט המדינה יִבדְקוּ את הַעֲבָרַת המֵידָע לגַבֵּי ההַצבָּעָה בּחֶברָה העַרבִית מלִשכַּת ראש המֶמשָלה למִשטָרה בּיוֹם הבְּחירוֹת
+• גוֹרמים בְּכִירִים בּ'גוּש השִינוּי' מַעֲרִיכִים: אֵין עוד סִיכּוּי למֶמשֶלת אַחדוּת
+• הנשׂיא הֶרצוֹג בּטֶקֶס האַזכָּרה לבֶן-גוּריוֹן: מוּטֶלֶת על כּוּלָנוּ האַחרָיוּת לָדַעַת לִחיוֹת יחד
+• דִיווּחַ בּ-CNN: אִירַאן מְתַכנֶנֶת לִפגוֹעַ בּבְכִירִים בּמִמשַל טראמפּ בּאֶמצָעוּת פְּצָצָה רַדיוֹאַקטִיבִית או כִימִית
+• מֶחקָר חדש קוֹבֵעַ: זְרִיקַת ההַרזָיָה וִויגוֹבִי הִפחִיתָה הַשמָנָה בּילָדים מִגִיל 6
+• התִַחֲזית: עוד הִתקָרְרוּת קַלה
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/17-11-26.m4a" length="1291117" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 16.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3600388.html</link>
-      <pubDate>Tue, 17 Nov 2026 01:26:34 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Tue, 17 Nov 2026 10:00:31 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">10f63f20-ca09-4d26-a842-226659d549e0-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 16 Nov 2026 21:00 IST.
 
@@ -46,41 +68,41 @@ Deutschland und vier andere EU-Staaten planen Abschiebezentrum in Ruanda, Gegens
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1116/AU-20261116-2027-1700.mp3" length="15459235" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 03:00): Die Nachrichten vom 17.11.2026, 02:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46072.html</link>
-      <pubDate>Tue, 17 Nov 2026 01:25:34 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">e62991ee-c8ac-595d-8dc9-44cf6dcefa37</guid>
-      <description>Originally published Tue 17 Nov 2026 03:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 11:30): Die Nachrichten vom 17.11.2026, 10:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46102.html</link>
+      <pubDate>Tue, 17 Nov 2026 09:59:31 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">61b4e1af-f0f0-55c8-93ae-515d33da4620</guid>
+      <description>Originally published Tue 17 Nov 2026 11:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/17/nachrichten_dlf_20261117_0200_7404978a.mp3?refId=nachrichten-108" length="5011518" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/17/nachrichten_dlf_20261117_1030_a8d783bc.mp3?refId=nachrichten-108" length="4967215" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:32): Abendjournal um 18 (16.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-16112026</link>
-      <pubDate>Tue, 17 Nov 2026 01:24:34 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_a886a1a3a8cd4fdba1d780b1b56289e8</guid>
-      <description>Originally published Mon 16 Nov 2026 19:32 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_a886a1a3a8cd4fdba1d780b1b56289e8.mp3?etag=ad37607e0b650940df82db95539d9e68" length="36413778" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 19:20): Selbstzahler-Termine beim Arzt: krude Idee oder wahrscheinliches Szenario?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/selbstzahler-termine-beim-arzt-krude-idee-oder-wahrscheinliches-szenario/2124216</link>
-      <pubDate>Tue, 17 Nov 2026 01:23:34 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:25): Morgenjournal um 8 (17.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-17112026</link>
+      <pubDate>Tue, 17 Nov 2026 09:58:31 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">457a85fa-ac9a-4a37-b4d8-9ce94cae8a66</guid>
-      <description>Originally published Mon 16 Nov 2026 19:20 IST.
+      <guid isPermaLink="false">di_oe1_journale_da1_337c86ab02d545e4b615244a739f5075</guid>
+      <description>Originally published Tue 17 Nov 2026 09:25 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_337c86ab02d545e4b615244a739f5075.mp3?etag=d54c69db17e0a78226baedb717cf9f23" length="29241192" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 01:00): Koaltionsausschuss: Ein Glaubwürdigkeitstest für Kanzler Merz?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/koaltionsausschuss-ein-glaubwuerdigkeitstest-fuer-kanzler-merz/2124231</link>
+      <pubDate>Tue, 17 Nov 2026 09:57:31 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">1a2ef0e6-bdbd-4fb2-8bfe-948a9584fe1f</guid>
+      <description>Originally published Tue 17 Nov 2026 01:00 IST.
 
-Fachärzte, die Honorarkürzungen mit Selbstzahler-Terminen von Kassenpatienten ausgleichen - und Patienten, die zugreifen, weil die Wartezeiten immer länger werden: Wie wahrscheinlich ist das?</description>
-      <enclosure url="https://media.neuland.br.de/file/2124216/c/feed/selbstzahler-termine-beim-arzt-krude-idee-oder-wahrscheinliches-szenario.mp3" length="10245933" type="audio/mpeg"/>
+Wegen der hohen Energiepreise soll die Stromsteuer für alle gesenkt werden. Bundeskanzler Friedrich Merz hat angekündigt, dass sich der Koalitionsausschuss heute drauf einigen will.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124231/c/feed/koaltionsausschuss-ein-glaubwuerdigkeitstest-fuer-kanzler-merz.mp3" length="9557037" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Tesla-Milliarden | Forum Mobilität | Prozess in Cottbus</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/tesla-milliarden-forum-mobilitaet-prozess-in-cottbus.html</link>
-      <pubDate>Tue, 17 Nov 2026 01:22:34 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 17 Nov 2026 09:56:31 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/8b/5e/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb_mp3-256kd.mp3</guid>
       <description>Originally published Mon 16 Nov 2026 19:17 IST.
 
@@ -90,21 +112,17 @@ Der US-E-Autobauer Tesla will drei Milliarden Euro in den weiteren Ausbau des We
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/8b/5e/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb_mp3-256kd.mp3" length="28451870" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:25): Crimea Kerch Bridge hit in a huge Ukrainian drone attack</title>
-      <link>http://www.bbc.co.uk/programmes/p0pn98q4</link>
-      <pubDate>Tue, 17 Nov 2026 01:21:34 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pn98q4</guid>
-      <description>Originally published Mon 16 Nov 2026 18:25 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:35): OpenAI sued by California over rogue cyber attacks</title>
+      <link>http://www.bbc.co.uk/programmes/p0pnc231</link>
+      <pubDate>Tue, 17 Nov 2026 09:55:31 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pnc231</guid>
+      <description>Originally published Tue 17 Nov 2026 07:35 IST.
 
-&lt;p&gt;The Russian defence ministry says a record number of drones were fired from Ukraine overnight and more than 1300 were brought down by its air defences. An oil refinery in the Krasnodar region was targeted and there was damage to the Kerch Bridge which links Russia to occupied Crimea. Western countries call on Israel to allow rapid humanitarian access to Gaza. The Indonesian president apologises to neighbouring countries for the thick haze caused by massive forest fires in his country. The director of the Shakespeare Institute threatens to resign if plans to move the centre from Stratford-upon-Avon to Birmingham go ahead. And could co-founder Jensen Huang make a swift return to the US technology giant, Nvidia?
- 
-The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;The California Attorney General Rob Bonta is suing OpenAI, alleging the ChatGPT maker misled the public and put people at risk by developing AI models without adequate safeguards. The lawsuit cites the July 2026 attack on the AI platform Hugging Face, in which experimental OpenAI agents accessed the internet and breached the company's internal systems. An OpenAI spokesperson told the BBC that the lawsuit &quot;appears to single out OpenAI over a challenge that's been identified by every major AI lab&quot;.&lt;/p&gt;&lt;p&gt;Also: Five European countries have announced plans to set up immigration &quot;return hubs&quot; in Rwanda. Robert Pattinson has been named as the new James Bond.  Russia and Ukraine have launched major attacks on each other, destroying three key bridges. A forensic expert has told the BBC he believes Jeffrey Epstein's death was the result of a homicide, not suicide. And controversy in South Africa over the removal of wild baboons from Cape Town.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: A view shows the Crimean Bridge as seen from the city of Kerch, Crimea
-Credit: REUTERS/Alexey Pavlishak/File Photo&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn97sf.mp3" length="12456000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: OpenAI CEO Sam Altman speaks at the Semafor &quot;Silicon Valley &amp;amp; The World&quot; Conference in San Francisco, California, US November 16, 2026. REUTERS/Manuel Orbegozo&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnc1vp.mp3" length="13720000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
