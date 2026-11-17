@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 16 Nov 2026 17:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:28:34 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,62 +13,62 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 19:39): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3600266.html</link>
-      <pubDate>Mon, 16 Nov 2026 17:50:40 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:49): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3600408.html</link>
+      <pubDate>Tue, 17 Nov 2026 01:28:34 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">3019674a-fc03-4a93-a7eb-aca74cce01b6</guid>
-      <description>Originally published Mon 16 Nov 2026 19:39 IST.
+      <guid isPermaLink="false">c43f1cbd-44d6-476a-9d03-cde4e77f3442</guid>
+      <description>Originally published Mon 16 Nov 2026 22:49 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1116/AU-20261116-1838-5700.mp3" length="1785739" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1116/AU-20261116-2149-2700.mp3" length="1778059" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 19:09): 12pm ET, November 16 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 03:09): 8pm ET, November 16 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 16 Nov 2026 17:49:40 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:27:34 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">9e062ef2-9f22-4c69-8dbd-2924dbe37859</guid>
-      <description>Originally published Mon 16 Nov 2026 19:09 IST.
+      <guid isPermaLink="false">b97cb90f-baac-43de-8964-c5ffd9c6cd71</guid>
+      <description>Originally published Tue 17 Nov 2026 03:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/74ba6733-013a-4d82-95ae-cd0271ad0434/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=74ba6733-013a-4d82-95ae-cd0271ad0434&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261116-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0d5415a1-69d8-4e53-96dd-ae4b6aaa77dc/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0d5415a1-69d8-4e53-96dd-ae4b6aaa77dc&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261116-2000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 15.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3598158.html</link>
-      <pubDate>Mon, 16 Nov 2026 17:48:40 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 16.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3600388.html</link>
+      <pubDate>Tue, 17 Nov 2026 01:26:34 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">034c7aa3-07c9-4244-85d1-1c8a9abf4fbc-SENDUNGSAUDIO</guid>
-      <description>Originally published Sun 15 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">10f63f20-ca09-4d26-a842-226659d549e0-SENDUNGSAUDIO</guid>
+      <description>Originally published Mon 16 Nov 2026 21:00 IST.
 
-Hunderttausende demonstrieren gegen Rundfunkreform von Tschechiens rechter Regierung, Gedenken zum Volkstrauertag im Bundestag, Ex-Arbeitsminister Heil will als SPD-Parteichef kandidieren, Russland und Ukraine melden gegenseitige Angriffe, Extrem angespannte humanitäre Lage in Kuba, &quot;Starship&quot;-Rakete kehrt nach Flug zur Startrampe zurück, DFB-Team vor Niederlande-Spiel, 600 Schafe durchqueren Nürnberger Altstadt, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1115/AU-20261115-2026-0200.mp3" length="14996502" type="audio/mpeg"/>
+Deutschland und vier andere EU-Staaten planen Abschiebezentrum in Ruanda, Gegenseitige Angriffe zwischen Russland und der Ukraine auf die Energieinfrastruktur, Schwesig erneut zur Ministerpräsidentin von Mecklenburg-Vorpommern gewählt, Beratungen über die Zukunft der Stahlindustrie, Tesla will seine Fabrik im brandenburgischen Grünheide vergrößern, Schauspieler Robert Pattinson wird Nachfolger von Daniel Craig in der Rolle des James Bond, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1116/AU-20261116-2027-1700.mp3" length="15459235" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 03:00): Die Nachrichten vom 17.11.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46072.html</link>
+      <pubDate>Tue, 17 Nov 2026 01:25:34 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">e62991ee-c8ac-595d-8dc9-44cf6dcefa37</guid>
+      <description>Originally published Tue 17 Nov 2026 03:00 IST.
+
+Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/17/nachrichten_dlf_20261117_0200_7404978a.mp3?refId=nachrichten-108" length="5011518" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Mon 19:32): Abendjournal um 18 (16.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-16112026</link>
-      <pubDate>Mon, 16 Nov 2026 17:47:40 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Tue, 17 Nov 2026 01:24:34 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_a886a1a3a8cd4fdba1d780b1b56289e8</guid>
       <description>Originally published Mon 16 Nov 2026 19:32 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_a886a1a3a8cd4fdba1d780b1b56289e8.mp3?etag=ad37607e0b650940df82db95539d9e68" length="36413778" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 19:00): Die Nachrichten vom 16.11.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46056.html</link>
-      <pubDate>Mon, 16 Nov 2026 17:46:40 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">612b7aec-c376-5a73-be5a-634fef0aee36</guid>
-      <description>Originally published Mon 16 Nov 2026 19:00 IST.
-
-Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/16/nachrichten_dlf_20261116_1800_674d24b6.mp3?refId=nachrichten-108" length="9834767" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 19:20): Selbstzahler-Termine beim Arzt: krude Idee oder wahrscheinliches Szenario?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/selbstzahler-termine-beim-arzt-krude-idee-oder-wahrscheinliches-szenario/2124216</link>
-      <pubDate>Mon, 16 Nov 2026 17:45:40 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:23:34 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">457a85fa-ac9a-4a37-b4d8-9ce94cae8a66</guid>
       <description>Originally published Mon 16 Nov 2026 19:20 IST.
@@ -79,7 +79,7 @@ Fachärzte, die Honorarkürzungen mit Selbstzahler-Terminen von Kassenpatienten 
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Tesla-Milliarden | Forum Mobilität | Prozess in Cottbus</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/tesla-milliarden-forum-mobilitaet-prozess-in-cottbus.html</link>
-      <pubDate>Mon, 16 Nov 2026 17:44:40 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:22:34 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/8b/5e/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb/8b5e89bf-8f14-42c1-bbb2-faa05818f7cb_mp3-256kd.mp3</guid>
       <description>Originally published Mon 16 Nov 2026 19:17 IST.
@@ -92,7 +92,7 @@ Der US-E-Autobauer Tesla will drei Milliarden Euro in den weiteren Ausbau des We
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:25): Crimea Kerch Bridge hit in a huge Ukrainian drone attack</title>
       <link>http://www.bbc.co.uk/programmes/p0pn98q4</link>
-      <pubDate>Mon, 16 Nov 2026 17:43:40 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:21:34 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pn98q4</guid>
       <description>Originally published Mon 16 Nov 2026 18:25 IST.
