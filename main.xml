@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:01:34 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,43 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:49): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3602540.html</link>
-      <pubDate>Tue, 17 Nov 2026 19:32:44 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 03:28): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3602938.html</link>
+      <pubDate>Wed, 18 Nov 2026 02:01:34 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f5a5bf7f-09c2-4c19-87c2-f59e537075a8</guid>
-      <description>Originally published Tue 17 Nov 2026 19:49 IST.
+      <guid isPermaLink="false">e63fb3ba-525d-4559-9c36-584c28e84bcc</guid>
+      <description>Originally published Wed 18 Nov 2026 03:28 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1117/AU-20261117-1849-1100.mp3" length="2074891" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1118/AU-20261118-0228-3700.mp3" length="2096037" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 21:09): 2pm ET, November 17 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 03:09): 8pm ET, November 17 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 17 Nov 2026 19:31:44 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 02:00:34 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">dfae1f65-cac7-473a-8307-d15ca687e062</guid>
-      <description>Originally published Tue 17 Nov 2026 21:09 IST.
+      <guid isPermaLink="false">8f9aa60a-492d-45ad-9cce-82686f0b81ee</guid>
+      <description>Originally published Wed 18 Nov 2026 03:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f94f3329-f038-42e8-ba4c-8374f7e1cbdd/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f94f3329-f038-42e8-ba4c-8374f7e1cbdd&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261117-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c7ac85cf-92a6-42a4-9711-3c357edbbcb1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c7ac85cf-92a6-42a4-9711-3c357edbbcb1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261117-2000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 21:00): Die Nachrichten vom 17.11.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46136.html</link>
-      <pubDate>Tue, 17 Nov 2026 19:30:44 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 17.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3602710.html</link>
+      <pubDate>Wed, 18 Nov 2026 01:59:34 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">a471b7ae-be63-5b6d-ac1b-dfe4c3a15c69</guid>
+      <guid isPermaLink="false">d65b1afb-e725-480a-8850-b90e167cbf6e-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 17 Nov 2026 21:00 IST.
 
+Koalitionsausschuss berät über mögliche Senkung der Stromsteuer, Umfangreiches Datenleck bei der Deutschen Bank, Krim-Brücke durch ukrainische Luftangriffe schwer beschädigt, Studentenliste zieht bei konstituierender Sitzung ins serbische Parlament ein, DFB-Team erreicht nach 5:0 gegen die Niederlande Viertelfinale der Nations League, Wetterbild des Jahres gekürt, Das Wetter Hinweis: Der Beitrag zum Thema &quot;Nations League&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden. Korrektur: In der TS20Uhr-Sendung vom 17.11.2027 wurde im Rahmen der Berichterstattung zur Deutschen Bank in der Live-Einschätzung der Korrespondentin von &quot;Ermittlungen&quot; gesprochen. Der Begriff &quot;Ermittlungen&quot; ist nicht korrekt. Wir haben die Sendung nachträglich an der entsprechenden Stelle gekürzt.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1117/AU-20261117-2042-4200.mp3" length="14615213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 03:00): Die Nachrichten vom 18.11.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46148.html</link>
+      <pubDate>Wed, 18 Nov 2026 01:58:34 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">df1511f1-5c64-5015-8718-08706084ff23</guid>
+      <description>Originally published Wed 18 Nov 2026 03:00 IST.
+
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/17/nachrichten_dlf_20261117_2000_54e15e8f.mp3?refId=nachrichten-108" length="5011518" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/18/nachrichten_dlf_20261118_0200_ea2af226.mp3?refId=nachrichten-108" length="4999397" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:33): Abendjournal um 18 (17.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-17112026</link>
-      <pubDate>Tue, 17 Nov 2026 19:29:44 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Wed, 18 Nov 2026 01:57:34 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_46bd052c0a5547d0ab4f6e70fa4097f0</guid>
       <description>Originally published Tue 17 Nov 2026 19:33 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_46bd052c0a5547d0ab4f6e70fa4097f0.mp3?etag=74389668d01de582f002bce012b68cc0" length="34611998" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): No Expo in Brandenburg? | Autonomes Fahren | Ende für Emde?</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/no-expo-brandenburg-autonomes-fahren-ende-fuer-emde-.html</link>
-      <pubDate>Tue, 17 Nov 2026 19:28:44 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Wed, 18 Nov 2026 01:56:34 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/0e/b8/0eb8363d-6735-41c1-89d9-1c8395a40030/0eb8363d-6735-41c1-89d9-1c8395a40030_mp3-256kd.mp3</guid>
       <description>Originally published Tue 17 Nov 2026 19:17 IST.
 
@@ -70,8 +81,8 @@ Brandenburg zieht sich aus Expo-Bewerbung zur&amp;#252;ck. Au&amp;#223;erdem: Au
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 18:21): Glücksatlas: In Bayern leben die glücklichsten Menschen</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/gluecksatlas-in-bayern-leben-die-gluecklichsten-menschen/2124251</link>
-      <pubDate>Tue, 17 Nov 2026 19:27:44 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Wed, 18 Nov 2026 01:55:34 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">1fcbd1ac-9d39-4e1b-bd0b-96638e5b2f57</guid>
       <description>Originally published Tue 17 Nov 2026 18:21 IST.
 
@@ -79,19 +90,20 @@ Das Glück wohnt in Bayern und dort vor allem in der Oberpfalz. Das zeigt der ne
       <enclosure url="https://media.neuland.br.de/file/2124251/c/feed/gluecksatlas-in-bayern-leben-die-gluecklichsten-menschen.mp3" length="7794093" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:10): Red carpet for Trump in Asia</title>
-      <link>http://www.bbc.co.uk/programmes/p0pngj3s</link>
-      <pubDate>Tue, 17 Nov 2026 19:26:44 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pngj3s</guid>
-      <description>Originally published Tue 17 Nov 2026 18:10 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 22:00): Special episode: Trump, Putin and Xi meeting</title>
+      <link>http://www.bbc.co.uk/programmes/p0pnhq1p</link>
+      <pubDate>Wed, 18 Nov 2026 01:54:34 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pnhq1p</guid>
+      <description>Originally published Tue 17 Nov 2026 22:00 IST.
 
-&lt;p&gt;In Manila the US president meets leaders of Japan, India and Australia - a grouping known as the Quad. He will head to China on Wednesday. &lt;/p&gt;&lt;p&gt;Also: Ukrainian airstrikes cause extensive damage to bridge connecting occupied Crimea to Russia. UK announces sanctions on eight Israeli companies involved in building Jewish settlements in the occupied West Bank. BBC World Service launches latest series of its education programme, for girls in Nigeria who cannot go to school. Panel of international judges conducts truth commission into Yazidi genocide in Iraq. And how to watch the Leonid meteor shower - one of the more prolific annual meteor streams - as it reaches its peak. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;This special episode of the Global News Podcast brings together our China specialist, our North America correspondent, and our Russia and Ukraine analyst, to discuss an unprecedented summit taking place this week.
+The US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping are due to meet in Shenzhen, China, for their first-ever trilateral talks. President Trump has said the agenda will include denuclearisation, the war with Iran, and the war in Ukraine. So what could emerge from this meeting? Some analysts are hopeful that China could exert some influence on Tehran, and act as a mediator between Moscow and Kyiv. But Ukrainian President Volodymyr Zelensky has said he's worried that the three leaders could try to reshape the international order as they see fit, without consulting smaller countries. Trump, Putin and Xi are also expected to talk about the economy and AI, particularly after Jensen Huang was ousted as CEO of Nvidia, following allegations that he had an affair with a suspected Chinese spy. But will any big decisions come out of the talks in Shenzhen? Or is this about symbolism: a way for the leaders of China, the US and Russia to give themselves a boost and a distraction from their problems at home? &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: US President Donald Trump walks over a red carpet after disembarking Air Force One in Manila.
-Credit: Eloisa Lopez, EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pngg1l.mp3" length="14768000" type="audio/mpeg"/>
+Photo: Traditional Russian wooden Matryoshka dolls depicting US President Donald J. Trump (L), Russian President Vladimir Putin (C) and Chinese President Xi Jinping (R) are displayed at a gift shop in Moscow, Russia, 16 November 2026
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnhmvc.mp3" length="17088000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
