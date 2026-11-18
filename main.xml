@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:21:06 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,95 +13,83 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 11:51): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3603686.html</link>
-      <pubDate>Wed, 18 Nov 2026 11:00:05 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 20:34): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3604808.html</link>
+      <pubDate>Wed, 18 Nov 2026 19:21:06 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">caa9c366-4560-4686-80e0-6db1ec4849f9</guid>
-      <description>Originally published Wed 18 Nov 2026 11:51 IST.
+      <guid isPermaLink="false">2712db8c-6e5f-42ac-82ee-7f78c1843f2e</guid>
+      <description>Originally published Wed 18 Nov 2026 20:34 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1118/AU-20261118-1051-3200.mp3" length="2057227" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1118/AU-20261118-1934-1000.mp3" length="2125579" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 12:09): 5am ET, November 18 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 21:09): 2pm ET, November 18 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 18 Nov 2026 10:59:05 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 19:20:06 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">2a3622d5-1f9d-4ab6-82bf-5b655bf1a329</guid>
-      <description>Originally published Wed 18 Nov 2026 12:09 IST.
+      <guid isPermaLink="false">81c0fe57-d568-46f1-9598-4f562b5959a5</guid>
+      <description>Originally published Wed 18 Nov 2026 21:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/37c04850-4511-4f33-9879-0cd867bb9b91/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=37c04850-4511-4f33-9879-0cd867bb9b91&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261118-0500-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/25cf14bb-69fe-4c14-9fff-da8acbbf2b39/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=25cf14bb-69fe-4c14-9fff-da8acbbf2b39&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261118-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 17.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3602710.html</link>
-      <pubDate>Wed, 18 Nov 2026 10:58:05 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 21:00): Die Nachrichten vom 18.11.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46210.html</link>
+      <pubDate>Wed, 18 Nov 2026 19:19:06 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">d65b1afb-e725-480a-8850-b90e167cbf6e-SENDUNGSAUDIO</guid>
-      <description>Originally published Tue 17 Nov 2026 21:00 IST.
-
-Koalitionsausschuss berät über mögliche Senkung der Stromsteuer, Umfangreiches Datenleck bei der Deutschen Bank, Krim-Brücke durch ukrainische Luftangriffe schwer beschädigt, Studentenliste zieht bei konstituierender Sitzung ins serbische Parlament ein, DFB-Team erreicht nach 5:0 gegen die Niederlande Viertelfinale der Nations League, Wetterbild des Jahres gekürt, Das Wetter Hinweis: Der Beitrag zum Thema &quot;Nations League&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden. Korrektur: In der TS20Uhr-Sendung vom 17.11.2027 wurde im Rahmen der Berichterstattung zur Deutschen Bank in der Live-Einschätzung der Korrespondentin von &quot;Ermittlungen&quot; gesprochen. Der Begriff &quot;Ermittlungen&quot; ist nicht korrekt. Wir haben die Sendung nachträglich an der entsprechenden Stelle gekürzt.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1117/AU-20261117-2042-4200.mp3" length="14615213" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 12:30): Die Nachrichten vom 18.11.2026, 11:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46180.html</link>
-      <pubDate>Wed, 18 Nov 2026 10:57:05 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">c8545abe-1e8a-5aa2-95d9-78ffd52c9613</guid>
-      <description>Originally published Wed 18 Nov 2026 12:30 IST.
+      <guid isPermaLink="false">7da99413-d052-54ab-8efb-cc4b4d0cc74e</guid>
+      <description>Originally published Wed 18 Nov 2026 21:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/18/nachrichten_dlf_20261118_1130_9934cfff.mp3?refId=nachrichten-108" length="4822601" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/18/nachrichten_dlf_20261118_2000_5b07bb1e.mp3?refId=nachrichten-108" length="9790046" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 09:25): Morgenjournal um 8 (18.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-18112026</link>
-      <pubDate>Wed, 18 Nov 2026 10:56:05 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:35): Abendjournal um 18 (18.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18112026</link>
+      <pubDate>Wed, 18 Nov 2026 19:18:06 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_3df0bf961bee4145a4f8969e66d24e3e</guid>
+      <description>Originally published Wed 18 Nov 2026 19:35 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_3df0bf961bee4145a4f8969e66d24e3e.mp3?etag=88f73bd7f1b81b4dbd331e879f7c5001" length="36438014" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Koalitions-Verhandlungen | Stromsteuersenkung | 20 Jahre Plastinarium</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/koalitions-verhandlungen-stromsteuersenkung-20-jahre-plastinarium.html</link>
+      <pubDate>Wed, 18 Nov 2026 19:17:06 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_b1c64369cbda42bba3d7f6d285fdee33</guid>
-      <description>Originally published Wed 18 Nov 2026 09:25 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_b1c64369cbda42bba3d7f6d285fdee33.mp3?etag=7e9a2cad870d1d9a06520216862caae8" length="29272904" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 09:20): Das freiwillige Handwerksjahr: Mehr Nachwuchs für die Betriebe?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-freiwillige-handwerksjahr-mehr-nachwuchs-fuer-die-betriebe/2124269</link>
-      <pubDate>Wed, 18 Nov 2026 10:55:05 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">7f276eb2-888f-47d1-8a1e-78b0d70b70b7</guid>
-      <description>Originally published Wed 18 Nov 2026 09:20 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b0/5d/b05d37f4-bd4c-4e6b-802f-803be9ab01d0/b05d37f4-bd4c-4e6b-802f-803be9ab01d0_mp3-256kd.mp3</guid>
+      <description>Originally published Wed 18 Nov 2026 19:17 IST.
 
-Vier verschiedene Handwerksberufe in einem Jahr ausprobieren - das können junge Leute derzeit in Oberfranken. Ein Modell für ganz Bayern?</description>
-      <enclosure url="https://media.neuland.br.de/file/2124269/c/feed/das-freiwillige-handwerksjahr-mehr-nachwuchs-fuer-die-betriebe.mp3" length="8845485" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): No Expo in Brandenburg? | Autonomes Fahren | Ende für Emde?</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/no-expo-brandenburg-autonomes-fahren-ende-fuer-emde-.html</link>
-      <pubDate>Wed, 18 Nov 2026 10:54:05 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/0e/b8/0eb8363d-6735-41c1-89d9-1c8395a40030/0eb8363d-6735-41c1-89d9-1c8395a40030_mp3-256kd.mp3</guid>
-      <description>Originally published Tue 17 Nov 2026 19:17 IST.
-
-Brandenburg zieht sich aus Expo-Bewerbung zur&amp;#252;ck. Au&amp;#223;erdem: Autonomes Fahren: Woran wird geforscht in B+BB? Berliner Linke will Emde ausschlie&amp;#223;en; Berliner Linke will Emde ausschlie&amp;#223;en; Bahnstrecke Berlin-Hannover nach M&amp;#228;hdrescher-Zwischenfall wieder frei.
+Im Berliner Abgeordnetenhaus sind zum dritten Mal Verhandlerinnen und Verhandler f&amp;#252;r ein rot-gr&amp;#252;n-rotes Dreierb&amp;#252;ndnis auf Landesebene zusammengekommen. Au&amp;#223;erdem: Stromsteuersenkung kommt - wer profitiert? Tagung St&amp;#228;dte- und Gemeindebund; 20 Jahre Plastinarium Guben.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/0e/b8/0eb8363d-6735-41c1-89d9-1c8395a40030/0eb8363d-6735-41c1-89d9-1c8395a40030_mp3-256kd.mp3" length="30355750" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/b0/5d/b05d37f4-bd4c-4e6b-802f-803be9ab01d0/b05d37f4-bd4c-4e6b-802f-803be9ab01d0_mp3-256kd.mp3" length="30239006" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 07:26): Nvidia rules out return for disgraced boss</title>
-      <link>http://www.bbc.co.uk/programmes/p0pnjy0q</link>
-      <pubDate>Wed, 18 Nov 2026 10:53:05 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pnjy0q</guid>
-      <description>Originally published Wed 18 Nov 2026 07:26 IST.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Stromsteuer und Spritpreisdeckel: Das bedeutet die Einigung im Koalitionsausschuss</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/stromsteuer-und-spritpreisdeckel-das-bedeutet-die-einigung-im-koalitionsausschuss/2124290</link>
+      <pubDate>Wed, 18 Nov 2026 19:16:06 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">7d614a6e-f7d6-496c-9fe1-1cca013567c6</guid>
+      <description>Originally published Wed 18 Nov 2026 19:00 IST.
 
-&lt;p&gt;Jensen Huang fails in his bid to be re-hired as CEO of Nvidia after a scandal over his affair with an alleged Chinese spy. The US Securities and Exchange Commission is reportedly investigating whether the company misled investors. Nvidia has meanwhile reported a doubling of revenues during his last quarter in charge.&lt;/p&gt;&lt;p&gt;Also: President Donald Trump is attending a regional economic summit in China, a day ahead of a historic meeting with his Chinese counterpart, Xi Jinping, and the Russian leader, Vladimir Putin, in the city of Shenzhen. The US has lost its measles-free status and infections are continuing to spread. Researchers have been learning more about humpback whales by using drones to collect their snot. We have a report from the West Bank after a 72-year-old Palestinian woman was shot dead by armed settlers in Jericho. New research has found that genes inherited from Neanderthals can reduce the risk of schizophrenia. A Georgia O'Keefe painting that was hidden in a cupboard for years has sold at auction for 4.8 million dollars. And the spacecraft Voyager 1 will clock up a milestone - reaching a distance of one light day from earth.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Der Kanzler kann sein Versprechen nun also doch noch halten: Die Stromsteuer wird gesenkt - und zwar für alle. Und es kommt eine Spritpreisdeckel. Aber was genau bedeutet das jetzt für die Verbraucherinnen und Verbraucher?</description>
+      <enclosure url="https://media.neuland.br.de/file/2124290/c/feed/stromsteuer-und-spritpreisdeckel-das-bedeutet-die-einigung-im-koalitionsausschuss.mp3" length="9381933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:43): Trump, Xi and Putin meet in China</title>
+      <link>http://www.bbc.co.uk/programmes/p0pnndk4</link>
+      <pubDate>Wed, 18 Nov 2026 19:15:06 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pnndk4</guid>
+      <description>Originally published Wed 18 Nov 2026 17:43 IST.
+
+&lt;p&gt;President Trump was greeted by President Xi Jinping at the airport as he arrived in Shenzhen for a summit of Asia-Pacific leaders, which will culminate in a closely-watched meeting on Thursday between the pair and the Russian president. In a highly choreographed moment, Trump and Xi shook hands on the tarmac. Later the US leader met Mr Putin ahead of a gala dinner. &lt;/p&gt;&lt;p&gt;Also: Thousands of people in Haiti have marched in the capital in support of troops from El Salvador, who've been deployed to confront the island's powerful criminal gangs. The Democrats have taken Alaska from the Republicans in the final senate race of the US midterms, nearly three weeks after election day. We hear from a former child refugee from South Sudan, who has walked the entire length of the UK to draw attention to the war in Sudan. And - after more than 13 years, GTA 6 - the latest instalment of the multi billion dollar video game franchise is released amid huge fanfare and expectation.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Jensen Huang looks on during National Design Studio's launch event for America.gov, a new AI-powered government website, at the Mellon Auditorium in Washington, DC, US, September 29, 2026. 
-Credit: REUTERS/Kylie Cooper&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnjxxc.mp3" length="13896000" type="audio/mpeg"/>
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: US President Donald Trump (L), China's President Xi Jinping (C), and Russian President Vladimir Putin (R) welcome each other at the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting welcome banquet at the Shenzhen International Communication Centre in Shenzhen, Guangdong province, China.&lt;/p&gt;&lt;p&gt;Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnncvn.mp3" length="12848000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
