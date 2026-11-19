@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:48:07 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,54 +13,32 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 11:29): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3605854.html</link>
-      <pubDate>Thu, 19 Nov 2026 09:46:45 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:31): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3607050.html</link>
+      <pubDate>Thu, 19 Nov 2026 18:48:07 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1e8e3adf-b675-49c8-a4fd-aa6969f5a6a6</guid>
-      <description>Originally published Thu 19 Nov 2026 11:29 IST.
+      <guid isPermaLink="false">2bd852d1-ddd9-4f84-a5af-9c0e05f5ee54</guid>
+      <description>Originally published Thu 19 Nov 2026 19:31 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1119/AU-20261119-1029-2000.mp3" length="2041867" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1119/AU-20261119-1830-5600.mp3" length="1847179" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 11:09): 4am ET, November 19 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 20:09): 1pm ET, November 19 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 19 Nov 2026 09:45:45 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 18:47:07 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">cb087e0c-1c55-4082-a27e-c74347af46e9</guid>
-      <description>Originally published Thu 19 Nov 2026 11:09 IST.
+      <guid isPermaLink="false">00961991-e42d-40b0-882f-8a61610b1447</guid>
+      <description>Originally published Thu 19 Nov 2026 20:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c6400dc3-5fcd-41a1-87f5-83f06c43bbf9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c6400dc3-5fcd-41a1-87f5-83f06c43bbf9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261119-0400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Thu 07:00): חדשון בעברית קלה (19/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Thu, 19 Nov 2026 09:44:45 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/19-11-26.m4a</guid>
-      <description>Originally published Thu 19 Nov 2026 07:00 IST.
-
-• דלג ל
-• משרד החינוך
-• דִיווּחַ בּ'נְיוּ יוֹרְק טַיימְס': הנשׂיא טראמפּ שוֹקֵל לִתקוֹף שוּב בּאִירַאן, בּעִקבוֹת לַחַץ מִצַד ישׂראל
-• היום תִתקַיֵים בּסִין פְּגישה בֵּין נשׂיא ארה&quot;ב דוֹנַלד טראמפּ, נשׂיא רוּסיה ולַדִימיר פּוּטין ונשׂיא סין שִי גִ'ינפִּינג
-• הרַמטכַּ&quot;ל אֱיָיל זָמיר ורֹאש המוֹסָד רוֹמָן גוֹפמַן נִפגְשוּ אתמול עִם מפַקֵד פּיקוּד המֶרכָּז האָמֵריקָני, האַדמירָל בּרַאד קוּפֶּר, שֶהִגִיעַ לישׂראל בּמִסגֶרֶת בּיקוּרוֹ בּמִזרַח התִיכוֹן
-• בּעִקבוֹת פּגִישַת בֶּנֶט ונתניהו, מָסר יָאיר לַפִּיד: &quot;בֶּנט ואני מַמשיכים לַעבוֹד להֲקָמַת מֶמשֶלת שינוּי בּרָאשוּת אַיזנקוֹט&quot;
-• הבּוֹקר נִשׂרַף מִסגָד בּכְפָר ליַד עֲפוּלָה, ונִבדָק חֲשָד לפֶשַע שִׂנאָה. השַבַּ&quot;כּ פָּתַח בּחֲקִירָה
-• אִישה כּבַת 30 נִדבְּקה בּמַחֲלַת הכַּלֶבֶת בּכפַר רוּת שֶליַד מוֹדִיעִין. מַצָבָה קָשֶה מאוד
-• דוּ&quot;חַ: בּ-2035 יִהיוּ בּעוֹלָם יותר מוּסלְמִים מִנוֹצְרִים, והֵם יִהיוּ שְלִיש מאוּכלוּסִייַת העוֹלם עד 2070
-• התִַחֲזית: עֲלִייה קַלה בּטמפּרטוּרוֹת
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/19-11-26.m4a" length="1707882" type="audio/mp4"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/95d3da6e-f20d-4d16-8c14-140abfc3016e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=95d3da6e-f20d-4d16-8c14-140abfc3016e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261119-1300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 18.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3604870.html</link>
-      <pubDate>Thu, 19 Nov 2026 09:43:45 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 19 Nov 2026 18:46:07 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">d2c9affd-7f50-4e58-a6f0-4777d1260171-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 18 Nov 2026 21:00 IST.
 
@@ -68,29 +46,42 @@ Union und SPD einigen sich auf Kompromiss bei der Stromsteuer, Bundesverfassungs
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1118/AU-20261118-2028-2600.mp3" length="16209570" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 11:30): Die Nachrichten vom 19.11.2026, 10:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46252.html</link>
-      <pubDate>Thu, 19 Nov 2026 09:42:45 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">78e1e64e-fd0f-59f8-9d23-b0c05018fd94</guid>
-      <description>Originally published Thu 19 Nov 2026 11:30 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 20:00): Die Nachrichten vom 19.11.2026, 19:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46284.html</link>
+      <pubDate>Thu, 19 Nov 2026 18:45:07 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">b792ee27-c350-58eb-9d04-3d14c5579770</guid>
+      <description>Originally published Thu 19 Nov 2026 20:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/19/nachrichten_dlf_20261119_1030_0c245307.mp3?refId=nachrichten-108" length="4917895" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/19/nachrichten_dlf_20261119_1900_97f72843.mp3?refId=nachrichten-108" length="5008593" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 09:30): Morgenjournal um 8 (19.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-19112026</link>
-      <pubDate>Thu, 19 Nov 2026 09:41:45 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:33): Abendjournal um 18 (19.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-19112026</link>
+      <pubDate>Thu, 19 Nov 2026 18:44:07 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_ddcbb26c648f438480876fe192af7be7</guid>
+      <description>Originally published Thu 19 Nov 2026 19:33 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ddcbb26c648f438480876fe192af7be7.mp3?etag=a525b567e585d81e8ad4dcbb4ac9cf1e" length="36425906" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): IT-Lücke an Schulen | Gestapelte Schule | KI-Klagen</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/it-luecke-schulen-gestapelte-schule-ki-klagen.html</link>
+      <pubDate>Thu, 19 Nov 2026 18:43:07 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_bbdcfa68448741af9837036d96b7210c</guid>
-      <description>Originally published Thu 19 Nov 2026 09:30 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_bbdcfa68448741af9837036d96b7210c.mp3?etag=e9af682ef38133ca328f2b00d729392f" length="29570417" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/53/0c/530cca26-aa5f-4faf-91fc-0030923afbe6/530cca26-aa5f-4faf-91fc-0030923afbe6_mp3-256kd.mp3</guid>
+      <description>Originally published Thu 19 Nov 2026 19:17 IST.
+
+Wegen einer Sicherheitsl&amp;#252;cke wurden am Mittwochnachmittag die Systeme der Berliner Schulen wurden vom Netz genommen. Au&amp;#223;erdem: Grundsteinlegung erste Gestapelte Schule in Lichtenberg; KI-generierte Klagen belasten Brandenburgs Gerichte; Riesenwindrad wird in Betrieb genommen.
+&amp;#160;
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/53/0c/530cca26-aa5f-4faf-91fc-0030923afbe6/530cca26-aa5f-4faf-91fc-0030923afbe6_mp3-256kd.mp3" length="31434014" type="audio/x-mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:00): Hohe Ausgaben, gesunkene Einnahmen: Klamme Kassen in bayerischen Städten</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/hohe-ausgaben-gesunkene-einnahmen-klamme-kassen-in-bayerischen-staedten/2124311</link>
-      <pubDate>Thu, 19 Nov 2026 09:40:45 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 18:42:07 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">db4b98b0-c455-4720-be94-d32094949af6</guid>
       <description>Originally published Thu 19 Nov 2026 09:00 IST.
@@ -99,30 +90,18 @@ In Bayerns Kommunen wachsen die Finanzprobleme. Besonders dramatisch ist die Sit
       <enclosure url="https://media.neuland.br.de/file/2124311/c/feed/hohe-ausgaben-gesunkene-einnahmen-klamme-kassen-in-bayerischen-staedten.mp3" length="8609325" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Koalitions-Verhandlungen | Stromsteuersenkung | 20 Jahre Plastinarium</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/koalitions-verhandlungen-stromsteuersenkung-20-jahre-plastinarium.html</link>
-      <pubDate>Thu, 19 Nov 2026 09:39:45 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:03): UN court says Myanmar committed genocide against Rohingyas</title>
+      <link>http://www.bbc.co.uk/programmes/p0pnw5rb</link>
+      <pubDate>Thu, 19 Nov 2026 18:41:07 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b0/5d/b05d37f4-bd4c-4e6b-802f-803be9ab01d0/b05d37f4-bd4c-4e6b-802f-803be9ab01d0_mp3-256kd.mp3</guid>
-      <description>Originally published Wed 18 Nov 2026 19:17 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pnw5rb</guid>
+      <description>Originally published Thu 19 Nov 2026 18:03 IST.
 
-Im Berliner Abgeordnetenhaus sind zum dritten Mal Verhandlerinnen und Verhandler f&amp;#252;r ein rot-gr&amp;#252;n-rotes Dreierb&amp;#252;ndnis auf Landesebene zusammengekommen. Au&amp;#223;erdem: Stromsteuersenkung kommt - wer profitiert? Tagung St&amp;#228;dte- und Gemeindebund; 20 Jahre Plastinarium Guben.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/b0/5d/b05d37f4-bd4c-4e6b-802f-803be9ab01d0/b05d37f4-bd4c-4e6b-802f-803be9ab01d0_mp3-256kd.mp3" length="30239006" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:19): BBC reports from Ukraine's undergound frontier</title>
-      <link>http://www.bbc.co.uk/programmes/p0pnrndj</link>
-      <pubDate>Thu, 19 Nov 2026 09:38:45 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pnrndj</guid>
-      <description>Originally published Thu 19 Nov 2026 07:19 IST.
-
-&lt;p&gt;We go inside the old Soviet-era gas pipeline where Ukraine is fighting an underground war with Russia. The BBC is the first international broadcaster to enter the tunnels where this subterranean battle is taking place. Also: the AI giant Anthropic is set to raise more than 80 billion dollars in its initial public offering, breaking a record set by SpaceX. President Trump pushes back against global regulation of ''Super Intelligence'' - or AI - at the APEC summit in Shenzhen ahead of his meeting with Xi Jinping and Vladimir Putin. The US defence secretary Pete Hegseth signs a military cooperation deal with America's former foe Venezuela. Democrats in the US House of Representatives nominate Hakeem Jeffries as first African American Speaker. A new study suggests a pill that mimics Viagra can slow cognitive decline in people with Alzheimer’s disease by almost a third. Rare footage from Brazil shows about 20 Indigenous men and boys emerging from their self-imposed isolation deep in the Amazon rainforest. And a painting by Vincent Van Gogh sells at auction in New York for over 190 million dollars - a record for work by the artist. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: A member of Ukraine's 13th Khartiia Operational Brigade in an old Soviet gas pipeline in the Kharkiv region
-Credit: Moose Campbell, BBC&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnrnb6.mp3" length="13136000" type="audio/mpeg"/>
+&lt;p&gt;The International Court of Justice finds Myanmar guilty of genocide against its Rohingya Muslim minority. It's the first such ruling against a state by the court. The ICJ rejected Myanmar’s argument that it had responded to insurgent attacks.&lt;/p&gt;&lt;p&gt;Also: the presidents of China, the US and Russia stress the importance of stable energy flows, UN reform and the prevention of nuclear proliferation at a trilateral summit, internet access is cut in South Korean exam halls, amid fears of cheating. And a remarkable discovery reveals that 125,000 years ago hippos roamed what is now the vast Arabian Desert. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: International Court of Justice (ICJ) President, Iwasawa Yuji, presides over a public session during the reading of the court's judgment in the genocide case brought by The Gambia against Myanmar at the Peace Palace in The Hague, Netherlands.
+Credit: Jeroen Jumelet, EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnw2mf.mp3" length="14672000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
