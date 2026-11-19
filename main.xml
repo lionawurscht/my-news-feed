@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 18 Nov 2026 19:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 01:38:36 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,43 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 20:34): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3604808.html</link>
-      <pubDate>Wed, 18 Nov 2026 19:21:06 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 02:53): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3605092.html</link>
+      <pubDate>Thu, 19 Nov 2026 01:38:36 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">2712db8c-6e5f-42ac-82ee-7f78c1843f2e</guid>
-      <description>Originally published Wed 18 Nov 2026 20:34 IST.
+      <guid isPermaLink="false">e2555b61-38fa-4e6e-a6d6-72065640986c</guid>
+      <description>Originally published Thu 19 Nov 2026 02:53 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1118/AU-20261118-1934-1000.mp3" length="2125579" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1119/AU-20261119-0153-2100.mp3" length="2408587" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 21:09): 2pm ET, November 18 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 03:09): 8pm ET, November 18 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 18 Nov 2026 19:20:06 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 01:37:36 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">81c0fe57-d568-46f1-9598-4f562b5959a5</guid>
-      <description>Originally published Wed 18 Nov 2026 21:09 IST.
+      <guid isPermaLink="false">a53641b1-5c03-4f4a-b3d1-f71086e01abb</guid>
+      <description>Originally published Thu 19 Nov 2026 03:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/25cf14bb-69fe-4c14-9fff-da8acbbf2b39/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=25cf14bb-69fe-4c14-9fff-da8acbbf2b39&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261118-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2867e756-f0e5-4b2b-b74c-36a63da8c56f/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2867e756-f0e5-4b2b-b74c-36a63da8c56f&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261118-2000-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 21:00): Die Nachrichten vom 18.11.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46210.html</link>
-      <pubDate>Wed, 18 Nov 2026 19:19:06 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 18.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3604870.html</link>
+      <pubDate>Thu, 19 Nov 2026 01:36:36 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">7da99413-d052-54ab-8efb-cc4b4d0cc74e</guid>
+      <guid isPermaLink="false">d2c9affd-7f50-4e58-a6f0-4777d1260171-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 18 Nov 2026 21:00 IST.
 
+Union und SPD einigen sich auf Kompromiss bei der Stromsteuer, Bundesverfassungsgericht weist Beschwerde des BSW zur Auszählung der Bundestagswahl zurück, Gipfel der Asiatisch-Pazifischen Wirtschaftsgemeinschaft APEC, Demokratin Peltola sichert sich letzten offenen Sitz im US-Senat, Schule in Rodgau will jungen Menschen mehr Finanzbildung vermitteln, Forscher für Entwicklung eines Hochleistungs-Chips mit Zukunftspreis ausgezeichnet, Sonde Voyager 1 genau einen Lichttag von der Erde entfernt, 400-jähriges Jubiläum der Weihung des Petersdom in Rom, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1118/AU-20261118-2028-2600.mp3" length="16209570" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 03:00): Die Nachrichten vom 19.11.2026, 02:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46222.html</link>
+      <pubDate>Thu, 19 Nov 2026 01:35:36 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">eaa7644f-76fe-5c35-8658-5f95a957d368</guid>
+      <description>Originally published Thu 19 Nov 2026 03:00 IST.
+
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/18/nachrichten_dlf_20261118_2000_5b07bb1e.mp3?refId=nachrichten-108" length="9790046" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/19/nachrichten_dlf_20261119_0200_28515148.mp3?refId=nachrichten-108" length="5013190" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:35): Abendjournal um 18 (18.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-18112026</link>
-      <pubDate>Wed, 18 Nov 2026 19:18:06 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 19 Nov 2026 01:34:36 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_3df0bf961bee4145a4f8969e66d24e3e</guid>
       <description>Originally published Wed 18 Nov 2026 19:35 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_3df0bf961bee4145a4f8969e66d24e3e.mp3?etag=88f73bd7f1b81b4dbd331e879f7c5001" length="36438014" type="audio/mpeg"/>
@@ -57,8 +68,8 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Koalitions-Verhandlungen | Stromsteuersenkung | 20 Jahre Plastinarium</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/koalitions-verhandlungen-stromsteuersenkung-20-jahre-plastinarium.html</link>
-      <pubDate>Wed, 18 Nov 2026 19:17:06 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Thu, 19 Nov 2026 01:33:36 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/b0/5d/b05d37f4-bd4c-4e6b-802f-803be9ab01d0/b05d37f4-bd4c-4e6b-802f-803be9ab01d0_mp3-256kd.mp3</guid>
       <description>Originally published Wed 18 Nov 2026 19:17 IST.
 
@@ -70,8 +81,8 @@ Im Berliner Abgeordnetenhaus sind zum dritten Mal Verhandlerinnen und Verhandler
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): Stromsteuer und Spritpreisdeckel: Das bedeutet die Einigung im Koalitionsausschuss</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/stromsteuer-und-spritpreisdeckel-das-bedeutet-die-einigung-im-koalitionsausschuss/2124290</link>
-      <pubDate>Wed, 18 Nov 2026 19:16:06 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 19 Nov 2026 01:32:36 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">7d614a6e-f7d6-496c-9fe1-1cca013567c6</guid>
       <description>Originally published Wed 18 Nov 2026 19:00 IST.
 
@@ -81,8 +92,8 @@ Der Kanzler kann sein Versprechen nun also doch noch halten: Die Stromsteuer wir
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 17:43): Trump, Xi and Putin meet in China</title>
       <link>http://www.bbc.co.uk/programmes/p0pnndk4</link>
-      <pubDate>Wed, 18 Nov 2026 19:15:06 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Thu, 19 Nov 2026 01:31:36 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pnndk4</guid>
       <description>Originally published Wed 18 Nov 2026 17:43 IST.
 
