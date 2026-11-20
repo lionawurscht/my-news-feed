@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:59:39 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,63 +13,74 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 19:31): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3607050.html</link>
-      <pubDate>Thu, 19 Nov 2026 18:48:07 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 02:54): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3607394.html</link>
+      <pubDate>Fri, 20 Nov 2026 00:59:39 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">2bd852d1-ddd9-4f84-a5af-9c0e05f5ee54</guid>
-      <description>Originally published Thu 19 Nov 2026 19:31 IST.
+      <guid isPermaLink="false">ae43fb71-4bc7-489b-85ee-653a09367e6d</guid>
+      <description>Originally published Fri 20 Nov 2026 02:54 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1119/AU-20261119-1830-5600.mp3" length="1847179" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-0153-5400.mp3" length="2263078" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 20:09): 1pm ET, November 19 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 02:09): 7pm ET, November 19 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 19 Nov 2026 18:47:07 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 00:58:39 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">00961991-e42d-40b0-882f-8a61610b1447</guid>
-      <description>Originally published Thu 19 Nov 2026 20:09 IST.
+      <guid isPermaLink="false">80f465c0-44c9-4727-ad98-d9e683918dea</guid>
+      <description>Originally published Fri 20 Nov 2026 02:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/95d3da6e-f20d-4d16-8c14-140abfc3016e/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=95d3da6e-f20d-4d16-8c14-140abfc3016e&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261119-1300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/ff096a9e-3f01-461d-aa33-119c2c7063ec/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=ff096a9e-3f01-461d-aa33-119c2c7063ec&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261119-1900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 18.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3604870.html</link>
-      <pubDate>Thu, 19 Nov 2026 18:46:07 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 19.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3607218.html</link>
+      <pubDate>Fri, 20 Nov 2026 00:57:39 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">d2c9affd-7f50-4e58-a6f0-4777d1260171-SENDUNGSAUDIO</guid>
-      <description>Originally published Wed 18 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">25566e40-a9f8-4453-ba98-de9157bba523-SENDUNGSAUDIO</guid>
+      <description>Originally published Thu 19 Nov 2026 21:00 IST.
 
-Union und SPD einigen sich auf Kompromiss bei der Stromsteuer, Bundesverfassungsgericht weist Beschwerde des BSW zur Auszählung der Bundestagswahl zurück, Gipfel der Asiatisch-Pazifischen Wirtschaftsgemeinschaft APEC, Demokratin Peltola sichert sich letzten offenen Sitz im US-Senat, Schule in Rodgau will jungen Menschen mehr Finanzbildung vermitteln, Forscher für Entwicklung eines Hochleistungs-Chips mit Zukunftspreis ausgezeichnet, Sonde Voyager 1 genau einen Lichttag von der Erde entfernt, 400-jähriges Jubiläum der Weihung des Petersdom in Rom, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1118/AU-20261118-2028-2600.mp3" length="16209570" type="audio/mpeg"/>
+Trump und Xi sowie Putin beenden Dreiergipfel in Shenzhen mit &quot;Friedenserklärung&quot;, Kanzler Merz begrüßt &quot;Koalition der Willingen&quot; für Beratungen zur Ukraine-Unterstützung in Berlin, Internationaler Gerichtshof stuft Verbrechen gegen die Rohingya in Myanmar als Völkermord ein, KI-Unternehmen Anthropic gelingt in den USA Rekord-Börsengang, BSI stuft Gefahrenlage im IT-Bereich als hoch ein, Sechster Teil der Videospielreihe &quot;Grand Theft Auto&quot; in Deutschland erhältlich, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1119/AU-20261119-2029-1000.mp3" length="16878870" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 20:00): Die Nachrichten vom 19.11.2026, 19:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46284.html</link>
-      <pubDate>Thu, 19 Nov 2026 18:45:07 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 02:00): Die Nachrichten vom 20.11.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46294.html</link>
+      <pubDate>Fri, 20 Nov 2026 00:56:39 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">b792ee27-c350-58eb-9d04-3d14c5579770</guid>
-      <description>Originally published Thu 19 Nov 2026 20:00 IST.
+      <guid isPermaLink="false">70a58150-2c87-5d1e-a35a-de744c135828</guid>
+      <description>Originally published Fri 20 Nov 2026 02:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/19/nachrichten_dlf_20261119_1900_97f72843.mp3?refId=nachrichten-108" length="5008593" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/20/nachrichten_dlf_20261120_0100_db40bee3.mp3?refId=nachrichten-108" length="5008593" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Thu 19:33): Abendjournal um 18 (19.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-19112026</link>
-      <pubDate>Thu, 19 Nov 2026 18:44:07 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 00:55:39 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_ddcbb26c648f438480876fe192af7be7</guid>
       <description>Originally published Thu 19 Nov 2026 19:33 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_ddcbb26c648f438480876fe192af7be7.mp3?etag=a525b567e585d81e8ad4dcbb4ac9cf1e" length="36425906" type="audio/mpeg"/>
     </item>
     <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 21:00): Cyberangriffe: BSI warnt vor hohen Bedrohungslage</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/cyberangriffe-bsi-warnt-vor-hohen-bedrohungslage/2124332</link>
+      <pubDate>Fri, 20 Nov 2026 00:54:39 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">485c2247-d8d1-43b5-a25a-8e627f86d088</guid>
+      <description>Originally published Thu 19 Nov 2026 21:00 IST.
+
+Die Sicherheitslage im Cyberraum hat sich dieses Jahr deutlich verschärft - die Bedrohungslage ist hoch, der Ausblick ist kritisch, so Innenminister Dobrindt bei der Vorstellung des BSI-Lageberichts zur Cybersicherheit.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124332/c/feed/cyberangriffe-bsi-warnt-vor-hohen-bedrohungslage.mp3" length="9279789" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): IT-Lücke an Schulen | Gestapelte Schule | KI-Klagen</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/it-luecke-schulen-gestapelte-schule-ki-klagen.html</link>
-      <pubDate>Thu, 19 Nov 2026 18:43:07 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Fri, 20 Nov 2026 00:53:39 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/53/0c/530cca26-aa5f-4faf-91fc-0030923afbe6/530cca26-aa5f-4faf-91fc-0030923afbe6_mp3-256kd.mp3</guid>
       <description>Originally published Thu 19 Nov 2026 19:17 IST.
 
@@ -79,20 +90,9 @@ Wegen einer Sicherheitsl&amp;#252;cke wurden am Mittwochnachmittag die Systeme d
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/53/0c/530cca26-aa5f-4faf-91fc-0030923afbe6/530cca26-aa5f-4faf-91fc-0030923afbe6_mp3-256kd.mp3" length="31434014" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:00): Hohe Ausgaben, gesunkene Einnahmen: Klamme Kassen in bayerischen Städten</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/hohe-ausgaben-gesunkene-einnahmen-klamme-kassen-in-bayerischen-staedten/2124311</link>
-      <pubDate>Thu, 19 Nov 2026 18:42:07 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">db4b98b0-c455-4720-be94-d32094949af6</guid>
-      <description>Originally published Thu 19 Nov 2026 09:00 IST.
-
-In Bayerns Kommunen wachsen die Finanzprobleme. Besonders dramatisch ist die Situation in Nürnberg. Dort muss die Verwaltung allein im kommenden Jahr 70 Millionen Euro einsparen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124311/c/feed/hohe-ausgaben-gesunkene-einnahmen-klamme-kassen-in-bayerischen-staedten.mp3" length="8609325" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:03): UN court says Myanmar committed genocide against Rohingyas</title>
       <link>http://www.bbc.co.uk/programmes/p0pnw5rb</link>
-      <pubDate>Thu, 19 Nov 2026 18:41:07 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 00:52:39 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pnw5rb</guid>
       <description>Originally published Thu 19 Nov 2026 18:03 IST.
