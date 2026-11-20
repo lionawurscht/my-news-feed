@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:29:11 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 10:07): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3607934.html</link>
-      <pubDate>Fri, 20 Nov 2026 08:18:03 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:25): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3608664.html</link>
+      <pubDate>Fri, 20 Nov 2026 17:29:11 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">9500a556-8dfb-4d76-aee2-3c30c537f421</guid>
-      <description>Originally published Fri 20 Nov 2026 10:07 IST.
+      <guid isPermaLink="false">b1553227-379b-4e36-9a72-4b075072050a</guid>
+      <description>Originally published Fri 20 Nov 2026 15:25 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-0907-1800.mp3" length="3467659" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-1425-2400.mp3" length="2142859" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 10:09): 3am ET, November 20 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 19:09): 12pm ET, November 20 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 20 Nov 2026 08:17:03 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 17:28:11 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">899a94ca-06d9-4423-b5b8-f5514ebf9506</guid>
-      <description>Originally published Fri 20 Nov 2026 10:09 IST.
+      <guid isPermaLink="false">dd223be7-dcd7-4163-9207-a1ad1420d052</guid>
+      <description>Originally published Fri 20 Nov 2026 19:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/03ca4ac9-d8be-419d-991c-cf1327c7bfb0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=03ca4ac9-d8be-419d-991c-cf1327c7bfb0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261120-0300-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c57ccf8d-2046-4be2-82cc-47b03a6fd2ec/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c57ccf8d-2046-4be2-82cc-47b03a6fd2ec&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261120-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 19.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3607218.html</link>
-      <pubDate>Fri, 20 Nov 2026 08:16:03 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 17:27:11 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">25566e40-a9f8-4453-ba98-de9157bba523-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 19 Nov 2026 21:00 IST.
@@ -46,29 +46,29 @@ Trump und Xi sowie Putin beenden Dreiergipfel in Shenzhen mit &quot;Friedenserkl
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1119/AU-20261119-2029-1000.mp3" length="16878870" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 10:00): Die Nachrichten vom 20.11.2026, 09:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46320.html</link>
-      <pubDate>Fri, 20 Nov 2026 08:15:03 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 19:00): Die Nachrichten vom 20.11.2026, 18:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46356.html</link>
+      <pubDate>Fri, 20 Nov 2026 17:26:11 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">e15be2ae-c520-53e3-9734-c63646551d06</guid>
-      <description>Originally published Fri 20 Nov 2026 10:00 IST.
+      <guid isPermaLink="false">751966c0-f348-58a9-8580-73ab46ec5c71</guid>
+      <description>Originally published Fri 20 Nov 2026 19:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/20/nachrichten_dlf_20261120_0900_09f83139.mp3?refId=nachrichten-108" length="4942555" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/20/nachrichten_dlf_20261120_1800_0fe695c9.mp3?refId=nachrichten-108" length="9673435" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 09:28): Morgenjournal um 8 (20.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-20112026</link>
-      <pubDate>Fri, 20 Nov 2026 08:14:03 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 18:41): Journal um 5 (20.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-20112026</link>
+      <pubDate>Fri, 20 Nov 2026 17:25:11 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_2a5c499cdc174be987d778229436da30</guid>
-      <description>Originally published Fri 20 Nov 2026 09:28 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2a5c499cdc174be987d778229436da30.mp3?etag=a98a3df31fe9a0e72e3a8dd6ed8e9c7b" length="29154706" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_4ae0e38f84cc4cae805299cb2f19cef4</guid>
+      <description>Originally published Fri 20 Nov 2026 18:41 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4ae0e38f84cc4cae805299cb2f19cef4.mp3?etag=8f6009d63cdc37dcdfb789d4208f4099" length="13226211" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 01:00): Abkehr von der Mitte: Warum wählt die Jugend Linke und AfD?</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/abkehr-von-der-mitte-warum-waehlt-die-jugend-linke-und-afd/2124349</link>
-      <pubDate>Fri, 20 Nov 2026 08:13:03 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 17:24:11 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">ca4e4318-f8f9-4c13-83d6-69d2de569b69</guid>
       <description>Originally published Fri 20 Nov 2026 01:00 IST.
@@ -77,31 +77,17 @@ Die junge Generation entfernt sich immer mehr von der politischen Mitte, wählt 
       <enclosure url="https://media.neuland.br.de/file/2124349/c/feed/abkehr-von-der-mitte-warum-waehlt-die-jugend-linke-und-afd.mp3" length="9580461" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): IT-Lücke an Schulen | Gestapelte Schule | KI-Klagen</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/it-luecke-schulen-gestapelte-schule-ki-klagen.html</link>
-      <pubDate>Fri, 20 Nov 2026 08:12:03 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:29): UK agrees deal on closer cooperation with EU</title>
+      <link>http://www.bbc.co.uk/programmes/p0pp3pln</link>
+      <pubDate>Fri, 20 Nov 2026 17:23:11 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/53/0c/530cca26-aa5f-4faf-91fc-0030923afbe6/530cca26-aa5f-4faf-91fc-0030923afbe6_mp3-256kd.mp3</guid>
-      <description>Originally published Thu 19 Nov 2026 19:17 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pp3pln</guid>
+      <description>Originally published Fri 20 Nov 2026 17:29 IST.
 
-Wegen einer Sicherheitsl&amp;#252;cke wurden am Mittwochnachmittag die Systeme der Berliner Schulen wurden vom Netz genommen. Au&amp;#223;erdem: Grundsteinlegung erste Gestapelte Schule in Lichtenberg; KI-generierte Klagen belasten Brandenburgs Gerichte; Riesenwindrad wird in Betrieb genommen.
-&amp;#160;
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/53/0c/530cca26-aa5f-4faf-91fc-0030923afbe6/530cca26-aa5f-4faf-91fc-0030923afbe6_mp3-256kd.mp3" length="31434014" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:33): Abusers convicted in Joanne Young case echoing Pelicot</title>
-      <link>http://www.bbc.co.uk/programmes/p0pnyk0h</link>
-      <pubDate>Fri, 20 Nov 2026 08:11:03 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pnyk0h</guid>
-      <description>Originally published Fri 20 Nov 2026 07:33 IST.
-
-&lt;p&gt;In the first trial of its kind in England, four men have been convicted of raping and sexually abusing a British woman, in a harrowing case that bears similarities to that of Gisèle Pelicot in France. Like Pelicot, Joanne Young chose to allow her name to be made public, after discovering that her then-husband had advertised her online to strangers for sex, repeatedly drugged her and raped her. British police sought the expertise of French investigators on the Pelicot case to assist them in bringing Young's former husband and her other abusers to justice.&lt;/p&gt;&lt;p&gt;Also: AI tech giant Anthropic becomes one of the world's most valuable public companies after its stock market debut. Meanwhile Meta says it is ''re-evaluating'' its 2030 climate goals as the demand for AI data centres drives up emissions. A spacecraft that has been on an eight year journey through outer space is set to enter orbit around Mercury. We hear the Ukrainian view on the face-to-face meeting between Donald Trump, Vladimir Putin and Xi Jinping. Islam is expected to surpass Christianity as the world’s largest religion by 2035. We meet the winner of the International Children's Peace Prize, 17-year-old Colombian climate activist Francisco Vera Manzanares. And who are the candidates challenging Fifa President Gianni Infantino for the top job in world football? &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Joanne Young looks on outside Winchester Crown Court after a jury returned guilty verdicts in the case of all four men accused of raping or sexually abusing her while she was drugged by her then-husband between 2016 and 2023, in Winchester, Britain, November 19, 2026. 
-Credit: REUTERS/Jack Taylor&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnyjht.mp3" length="14608000" type="audio/mpeg"/>
+&lt;p&gt;UK and EU agree new deal covering food exports, youth mobility and carbon emissions. European Commission President, Ursula von der Leyen, said it marked a &quot;turning point&quot; in relations. Also: BBC speaks to people inside the besieged city of Taiz in Yemen. Why the Malaysian government wants to settle 10,000 Rohingyas in Turkey. A group of eight European and developing countries at the UN climate summit in Turkey says a global call to &quot;accelerate the phase-out of fossil fuels&quot; must be restored to the final agreement. Several people are killed and more than a dozen are injured in Ukraine's capital Kyiv, after Russia fires 100 missiles and 400 drones at the city. A new drug, Daraxonrasib, is described as &quot;the biggest leap forward for pancreatic cancer patients in decades&quot;. And the son of the former Beatle John Lennon, Sean Ono Lennon, makes his directorial debut.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: European Commission President Ursula von der Leyen, British Prime Minister Andy Burnham and European Council President Antonio Costa join hands at the end of a press conference during the second EU-UK summit in Brussels, Belgium, 20 November 2026.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp3ndk.mp3" length="14104000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
