@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:37:05 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,74 +13,87 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 15:25): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3608664.html</link>
-      <pubDate>Fri, 20 Nov 2026 17:29:11 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 22:33): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3609422.html</link>
+      <pubDate>Fri, 20 Nov 2026 23:37:05 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">b1553227-379b-4e36-9a72-4b075072050a</guid>
-      <description>Originally published Fri 20 Nov 2026 15:25 IST.
+      <guid isPermaLink="false">8a6c3542-da1e-4540-a971-de533642c957</guid>
+      <description>Originally published Fri 20 Nov 2026 22:33 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-1425-2400.mp3" length="2142859" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-2133-0900.mp3" length="1813387" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 19:09): 12pm ET, November 20 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 01:09): 6pm ET, November 20 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 20 Nov 2026 17:28:11 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 23:36:05 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">dd223be7-dcd7-4163-9207-a1ad1420d052</guid>
-      <description>Originally published Fri 20 Nov 2026 19:09 IST.
+      <guid isPermaLink="false">e5eb5dc6-1ca4-4d83-9c51-358bc67ca8a3</guid>
+      <description>Originally published Sat 21 Nov 2026 01:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c57ccf8d-2046-4be2-82cc-47b03a6fd2ec/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c57ccf8d-2046-4be2-82cc-47b03a6fd2ec&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261120-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e8bb0866-51f1-4cb5-a6f6-89261eb51af1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e8bb0866-51f1-4cb5-a6f6-89261eb51af1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261120-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 19.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3607218.html</link>
-      <pubDate>Fri, 20 Nov 2026 17:27:11 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 20.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3609390.html</link>
+      <pubDate>Fri, 20 Nov 2026 23:35:05 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">25566e40-a9f8-4453-ba98-de9157bba523-SENDUNGSAUDIO</guid>
-      <description>Originally published Thu 19 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">6754277d-5092-4cee-afc7-76b807a66f46-SENDUNGSAUDIO</guid>
+      <description>Originally published Fri 20 Nov 2026 21:00 IST.
 
-Trump und Xi sowie Putin beenden Dreiergipfel in Shenzhen mit &quot;Friedenserklärung&quot;, Kanzler Merz begrüßt &quot;Koalition der Willingen&quot; für Beratungen zur Ukraine-Unterstützung in Berlin, Internationaler Gerichtshof stuft Verbrechen gegen die Rohingya in Myanmar als Völkermord ein, KI-Unternehmen Anthropic gelingt in den USA Rekord-Börsengang, BSI stuft Gefahrenlage im IT-Bereich als hoch ein, Sechster Teil der Videospielreihe &quot;Grand Theft Auto&quot; in Deutschland erhältlich, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1119/AU-20261119-2029-1000.mp3" length="16878870" type="audio/mpeg"/>
+Warnstreiks bei der Gewerkschaft IG Metall, Verlängerung der Weltklimakonferenz COP31 wegen ungelöster Streitfragen, EU und Großbritannien beschließen engere Zusammenarbeit auf drei Gebieten, Erneut massiver russischer Beschuss auf die Ukraine, Zwei russische Raketen und eine Drohne im Osten Polens eingeschlagen, Jugendliche demonstrieren bundesweit, Kritik an Bildungsministerin Prien wegen Kürzung am Programm „Demokratie leben“, Auslosung zur Fußball-Nations-League: Deutschland trifft im Viertelfinale auf Belgien, Bundesweiter Vorlesetag, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-2026-2200.mp3" length="14981923" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 19:00): Die Nachrichten vom 20.11.2026, 18:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46356.html</link>
-      <pubDate>Fri, 20 Nov 2026 17:26:11 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 01:00): Die Nachrichten vom 21.11.2026, 00:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46368.html</link>
+      <pubDate>Fri, 20 Nov 2026 23:34:05 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">751966c0-f348-58a9-8580-73ab46ec5c71</guid>
-      <description>Originally published Fri 20 Nov 2026 19:00 IST.
+      <guid isPermaLink="false">9db30689-8f81-5cf7-b5cd-3b224d99ccc1</guid>
+      <description>Originally published Sat 21 Nov 2026 01:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/20/nachrichten_dlf_20261120_1800_0fe695c9.mp3?refId=nachrichten-108" length="9673435" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/21/nachrichten_dlf_20261121_0000_00302c7e.mp3?refId=nachrichten-108" length="5006921" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 18:41): Journal um 5 (20.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-20112026</link>
-      <pubDate>Fri, 20 Nov 2026 17:25:11 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:58): Abendjournal um 18 (20.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20112026</link>
+      <pubDate>Fri, 20 Nov 2026 23:33:05 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_4ae0e38f84cc4cae805299cb2f19cef4</guid>
-      <description>Originally published Fri 20 Nov 2026 18:41 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4ae0e38f84cc4cae805299cb2f19cef4.mp3?etag=8f6009d63cdc37dcdfb789d4208f4099" length="13226211" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_8bc1ab37c2f349ceb226930aa2080c47</guid>
+      <description>Originally published Fri 20 Nov 2026 19:58 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8bc1ab37c2f349ceb226930aa2080c47.mp3?etag=2dc634721e18511e79cae4d72f13d9b4" length="36392464" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 01:00): Abkehr von der Mitte: Warum wählt die Jugend Linke und AfD?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/abkehr-von-der-mitte-warum-waehlt-die-jugend-linke-und-afd/2124349</link>
-      <pubDate>Fri, 20 Nov 2026 17:24:11 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 21:00): Heizung rauf, Kosten runter: Richtig heizen und dabei sparen</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/heizung-rauf-kosten-runter-richtig-heizen-und-dabei-sparen/2124390</link>
+      <pubDate>Fri, 20 Nov 2026 23:32:05 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">ca4e4318-f8f9-4c13-83d6-69d2de569b69</guid>
-      <description>Originally published Fri 20 Nov 2026 01:00 IST.
+      <guid isPermaLink="false">91c3c04b-3cd3-4b7c-bfe4-2de1b9700bf4</guid>
+      <description>Originally published Fri 20 Nov 2026 21:00 IST.
 
-Die junge Generation entfernt sich immer mehr von der politischen Mitte, wählt AfD und Linke.  Wir haben die Jugendlichen selbst gefragt: Warum ist das so? Moderation: Katja Strippel, Autorin: Katrin Bohlmann</description>
-      <enclosure url="https://media.neuland.br.de/file/2124349/c/feed/abkehr-von-der-mitte-warum-waehlt-die-jugend-linke-und-afd.mp3" length="9580461" type="audio/mpeg"/>
+Temperaturen unter Null Grad- Die hat es in den vergangenen Wochen in Teilen Bayerns schon gegeben. Spätestens dann heißt es: Heizung an.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124390/c/feed/heizung-rauf-kosten-runter-richtig-heizen-und-dabei-sparen.mp3" length="9093165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Jugendproteste in Berlin | Schulstreik in Cottbus | Gentest in Potsdam</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/jugendproteste-schulstreik-cottbus-gen-test-potsdam-weihnachtsmarkt-schloss-und-gut-liebenberg.html</link>
+      <pubDate>Fri, 20 Nov 2026 23:31:05 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/dd/fc/ddfc85ac-ba87-4934-8075-4f25d824358d/ddfc85ac-ba87-4934-8075-4f25d824358d_mp3-256kd.mp3</guid>
+      <description>Originally published Fri 20 Nov 2026 19:17 IST.
+
+Heute hat es bundesweit wieder Proteste junger Menschen gegeben - auch in Berlin, wo es zwei Demonstrationen gab: eine vom Alexanderplatz nach Kreuzberg von der &quot;Gen Z regelt&quot;-Bewegung, die andere am Brandenburger Tor von der Bundessch&amp;#252;lerkonferenz. Auch in mehreren Brandenburger St&amp;#228;dten gingen Initiativen junger Menschen auf die Stra&amp;#223;e, unter anderem in Cottbus - hier war das Hauptthema der Protest gegen eine m&amp;#246;gliche Wehrpflicht. Weitere Themen: In Potsdam ist am Wochenende Massen-Gentest geplant, um die Mutter eines vor 15 Jahren gestorbenen Babys zu finden und auf Schloss und Gut Liebenberg in Oberhavel laufen die Vorbereitungen f&amp;#252;r einen der sch&amp;#246;nsten Weihnachtsm&amp;#228;rkte in der Region.
+
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/dd/fc/ddfc85ac-ba87-4934-8075-4f25d824358d/ddfc85ac-ba87-4934-8075-4f25d824358d_mp3-256kd.mp3" length="29321295" type="audio/x-mpeg"/>
     </item>
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:29): UK agrees deal on closer cooperation with EU</title>
       <link>http://www.bbc.co.uk/programmes/p0pp3pln</link>
-      <pubDate>Fri, 20 Nov 2026 17:23:11 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Fri, 20 Nov 2026 23:30:05 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pp3pln</guid>
       <description>Originally published Fri 20 Nov 2026 17:29 IST.
 
