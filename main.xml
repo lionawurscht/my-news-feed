@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:22:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 22:33): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3609422.html</link>
-      <pubDate>Fri, 20 Nov 2026 23:37:05 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 05:56): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3609626.html</link>
+      <pubDate>Sat, 21 Nov 2026 05:22:38 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">8a6c3542-da1e-4540-a971-de533642c957</guid>
-      <description>Originally published Fri 20 Nov 2026 22:33 IST.
+      <guid isPermaLink="false">aba90a79-e689-4cee-bb9d-2ac2387f931c</guid>
+      <description>Originally published Sat 21 Nov 2026 05:56 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-2133-0900.mp3" length="1813387" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1121/AU-20261121-0456-3300.mp3" length="1608355" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 01:09): 6pm ET, November 20 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 07:10): 12am ET, November 21 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 20 Nov 2026 23:36:05 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 05:21:38 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">e5eb5dc6-1ca4-4d83-9c51-358bc67ca8a3</guid>
-      <description>Originally published Sat 21 Nov 2026 01:09 IST.
+      <guid isPermaLink="false">a9a60bcd-3226-40d7-bdd7-c6a27724bf2d</guid>
+      <description>Originally published Sat 21 Nov 2026 07:10 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/e8bb0866-51f1-4cb5-a6f6-89261eb51af1/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=e8bb0866-51f1-4cb5-a6f6-89261eb51af1&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261120-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c37fc513-6a14-479b-93ab-6e819c26f585/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c37fc513-6a14-479b-93ab-6e819c26f585&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261121-0000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 20.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3609390.html</link>
-      <pubDate>Fri, 20 Nov 2026 23:35:05 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 05:20:38 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">6754277d-5092-4cee-afc7-76b807a66f46-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 20 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Warnstreiks bei der Gewerkschaft IG Metall, Verlängerung der Weltklimakonferenz
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-2026-2200.mp3" length="14981923" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 01:00): Die Nachrichten vom 21.11.2026, 00:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46368.html</link>
-      <pubDate>Fri, 20 Nov 2026 23:34:05 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 07:00): Die Nachrichten vom 21.11.2026, 06:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46382.html</link>
+      <pubDate>Sat, 21 Nov 2026 05:19:38 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">9db30689-8f81-5cf7-b5cd-3b224d99ccc1</guid>
-      <description>Originally published Sat 21 Nov 2026 01:00 IST.
+      <guid isPermaLink="false">123334df-2700-52fd-8743-f6574d5e5ef9</guid>
+      <description>Originally published Sat 21 Nov 2026 07:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/21/nachrichten_dlf_20261121_0000_00302c7e.mp3?refId=nachrichten-108" length="5006921" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/21/nachrichten_dlf_20261121_0600_5579c31a.mp3?refId=nachrichten-108" length="4879443" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Fri 19:58): Abendjournal um 18 (20.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-20112026</link>
-      <pubDate>Fri, 20 Nov 2026 23:33:05 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 05:18:38 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_8bc1ab37c2f349ceb226930aa2080c47</guid>
       <description>Originally published Fri 20 Nov 2026 19:58 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 21:00): Heizung rauf, Kosten runter: Richtig heizen und dabei sparen</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/heizung-rauf-kosten-runter-richtig-heizen-und-dabei-sparen/2124390</link>
-      <pubDate>Fri, 20 Nov 2026 23:32:05 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 05:17:38 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">91c3c04b-3cd3-4b7c-bfe4-2de1b9700bf4</guid>
       <description>Originally published Fri 20 Nov 2026 21:00 IST.
@@ -79,7 +79,7 @@ Temperaturen unter Null Grad- Die hat es in den vergangenen Wochen in Teilen Bay
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Jugendproteste in Berlin | Schulstreik in Cottbus | Gentest in Potsdam</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/jugendproteste-schulstreik-cottbus-gen-test-potsdam-weihnachtsmarkt-schloss-und-gut-liebenberg.html</link>
-      <pubDate>Fri, 20 Nov 2026 23:31:05 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 05:16:38 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/dd/fc/ddfc85ac-ba87-4934-8075-4f25d824358d/ddfc85ac-ba87-4934-8075-4f25d824358d_mp3-256kd.mp3</guid>
       <description>Originally published Fri 20 Nov 2026 19:17 IST.
@@ -90,17 +90,17 @@ Heute hat es bundesweit wieder Proteste junger Menschen gegeben - auch in Berlin
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/dd/fc/ddfc85ac-ba87-4934-8075-4f25d824358d/ddfc85ac-ba87-4934-8075-4f25d824358d_mp3-256kd.mp3" length="29321295" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 17:29): UK agrees deal on closer cooperation with EU</title>
-      <link>http://www.bbc.co.uk/programmes/p0pp3pln</link>
-      <pubDate>Fri, 20 Nov 2026 23:30:05 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 07:00): Man found guilty of starting deadly LA wildfire</title>
+      <link>http://www.bbc.co.uk/programmes/p0pp66wy</link>
+      <pubDate>Sat, 21 Nov 2026 05:15:38 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pp3pln</guid>
-      <description>Originally published Fri 20 Nov 2026 17:29 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pp66wy</guid>
+      <description>Originally published Sat 21 Nov 2026 07:00 IST.
 
-&lt;p&gt;UK and EU agree new deal covering food exports, youth mobility and carbon emissions. European Commission President, Ursula von der Leyen, said it marked a &quot;turning point&quot; in relations. Also: BBC speaks to people inside the besieged city of Taiz in Yemen. Why the Malaysian government wants to settle 10,000 Rohingyas in Turkey. A group of eight European and developing countries at the UN climate summit in Turkey says a global call to &quot;accelerate the phase-out of fossil fuels&quot; must be restored to the final agreement. Several people are killed and more than a dozen are injured in Ukraine's capital Kyiv, after Russia fires 100 missiles and 400 drones at the city. A new drug, Daraxonrasib, is described as &quot;the biggest leap forward for pancreatic cancer patients in decades&quot;. And the son of the former Beatle John Lennon, Sean Ono Lennon, makes his directorial debut.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: European Commission President Ursula von der Leyen, British Prime Minister Andy Burnham and European Council President Antonio Costa join hands at the end of a press conference during the second EU-UK summit in Brussels, Belgium, 20 November 2026.
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp3ndk.mp3" length="14104000" type="audio/mpeg"/>
+&lt;p&gt;Jonathan Rinderknecht is found guilty of starting the deadly Palisades fire in Los Angeles, which displaced thousands of people and became one of the most destructive fires in the city’s history. Also: Donald Trump describes his relationship with the leaders of Russia and China as “fantastic”, after meeting with them in Shenzhen. The US president also threatens a ban on American firms building AI data centres overseas, saying they must stay in the US. Russian drones continue to attack Ukraine, with Poland caught in the crossfire. Students in more than 20 European countries protest over education, climate change and military conscription. Cyber security experts in the UK conduct a highly secretive operation to protect its fridges and freezers. Cincinnati Zoo announces the death of the beloved hippo, Fiona. The BBC speaks to the stars of the latest The Hunger Games franchise series, and Christmas comes early for residents in an English town in the form of wrapped cars.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Flames and smoke rise from structures as the Palisades fire burns during a windstorm on the west side of Los Angeles, California, U.S. January 8, 2025. Credit: Reuters/Ringo Chiu&lt;/p&gt;&lt;p&gt;Hunger Games Clips Credit: The Hunger Games: Sunrise on the Reaping/Lionsgate/ Directed by Francis Lawrence&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp66mc.mp3" length="11752000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
