@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:44:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,87 +13,63 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 14:16): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3610170.html</link>
-      <pubDate>Sat, 21 Nov 2026 14:05:10 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:05): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3610660.html</link>
+      <pubDate>Sat, 21 Nov 2026 20:44:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">85af0e77-3aad-4d6e-94d7-3550f09644b4</guid>
-      <description>Originally published Sat 21 Nov 2026 14:16 IST.
+      <guid isPermaLink="false">ad405f5c-8103-414a-8d31-61c4d75934f2</guid>
+      <description>Originally published Sat 21 Nov 2026 22:05 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1121/AU-20261121-1316-4200.mp3" length="1921291" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1121/AU-20261121-2105-0000.mp3" length="2105227" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 15:09): 8am ET, November 21 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 22:09): 3pm ET, November 21 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 21 Nov 2026 14:04:10 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 20:43:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">635810cc-36a4-4463-ad0c-22fdc2236b62</guid>
-      <description>Originally published Sat 21 Nov 2026 15:09 IST.
+      <guid isPermaLink="false">66cc06f4-9367-4837-8a91-52b385d00d6c</guid>
+      <description>Originally published Sat 21 Nov 2026 22:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/2f537496-be6c-44e5-b2d7-5b67a9518899/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=2f537496-be6c-44e5-b2d7-5b67a9518899&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261121-0800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5ea4d8e9-ebf4-4389-aa7c-ecb93f22d17d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5ea4d8e9-ebf4-4389-aa7c-ecb93f22d17d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261121-1500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 20.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3609390.html</link>
-      <pubDate>Sat, 21 Nov 2026 14:03:10 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 21.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3610648.html</link>
+      <pubDate>Sat, 21 Nov 2026 20:42:16 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">6754277d-5092-4cee-afc7-76b807a66f46-SENDUNGSAUDIO</guid>
-      <description>Originally published Fri 20 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">914c80a2-cb7c-4970-8e93-24d16226a827-SENDUNGSAUDIO</guid>
+      <description>Originally published Sat 21 Nov 2026 21:00 IST.
 
-Warnstreiks bei der Gewerkschaft IG Metall, Verlängerung der Weltklimakonferenz COP31 wegen ungelöster Streitfragen, EU und Großbritannien beschließen engere Zusammenarbeit auf drei Gebieten, Erneut massiver russischer Beschuss auf die Ukraine, Zwei russische Raketen und eine Drohne im Osten Polens eingeschlagen, Jugendliche demonstrieren bundesweit, Kritik an Bildungsministerin Prien wegen Kürzung am Programm „Demokratie leben“, Auslosung zur Fußball-Nations-League: Deutschland trifft im Viertelfinale auf Belgien, Bundesweiter Vorlesetag, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1120/AU-20261120-2026-2200.mp3" length="14981923" type="audio/mpeg"/>
+Weiter keine Einigung auf der Weltklimakonferenz COP31, Zahl der Schweinehalter in Deutschland sinkt, Altersvorsorgedepot als Nachfolge für Riesterrente, Medienbericht: Gutachten für das Verkehrsministerium hält streckenbasierte Maut für alle für sinnvoll, Sperrung wegen Brückenabriss auf der A99 bei München, Tote und Verletzte bei russischem Raketenangriff auf ukrainische Stadt Krywyj Rih, Bilanz nach einem Jahr Social-Media-Verbot für Jugendliche in Australien, Spiele der Fußball-Bundesliga, Das Wetter Hinweis: Die Beiträge zum Thema „Fußball-Bundesliga“ dürfen auf tagesschau.de aus rechtlichen Gründen nicht gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1121/AU-20261121-2025-2700.mp3" length="14863651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 15:00): Die Nachrichten vom 21.11.2026, 14:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46404.html</link>
-      <pubDate>Sat, 21 Nov 2026 14:02:10 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 21:00): Die Nachrichten vom 21.11.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46416.html</link>
+      <pubDate>Sat, 21 Nov 2026 20:41:16 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">bd069ee5-71b3-5e56-9137-4298c83973bf</guid>
-      <description>Originally published Sat 21 Nov 2026 15:00 IST.
+      <guid isPermaLink="false">7b1b58f8-53fb-533a-ac76-045b1bdb181d</guid>
+      <description>Originally published Sat 21 Nov 2026 21:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/21/nachrichten_dlf_20261121_1400_933134be.mp3?refId=nachrichten-108" length="4959273" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/21/nachrichten_dlf_20261121_2000_a07acbdf.mp3?refId=nachrichten-108" length="5016116" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:38): Mittagsjournal (21.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-21112026</link>
-      <pubDate>Sat, 21 Nov 2026 14:01:10 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 20:40:16 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_d521b2255e754113a03d054c8421c1f3</guid>
       <description>Originally published Sat 21 Nov 2026 14:38 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d521b2255e754113a03d054c8421c1f3.mp3?etag=267a66fc96fb36e9c50eb979b5925d3a" length="81236812" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 21:00): Heizung rauf, Kosten runter: Richtig heizen und dabei sparen</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/heizung-rauf-kosten-runter-richtig-heizen-und-dabei-sparen/2124390</link>
-      <pubDate>Sat, 21 Nov 2026 14:00:10 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">91c3c04b-3cd3-4b7c-bfe4-2de1b9700bf4</guid>
-      <description>Originally published Fri 20 Nov 2026 21:00 IST.
-
-Temperaturen unter Null Grad- Die hat es in den vergangenen Wochen in Teilen Bayerns schon gegeben. Spätestens dann heißt es: Heizung an.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124390/c/feed/heizung-rauf-kosten-runter-richtig-heizen-und-dabei-sparen.mp3" length="9093165" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Jugendproteste in Berlin | Schulstreik in Cottbus | Gentest in Potsdam</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/jugendproteste-schulstreik-cottbus-gen-test-potsdam-weihnachtsmarkt-schloss-und-gut-liebenberg.html</link>
-      <pubDate>Sat, 21 Nov 2026 13:59:10 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/dd/fc/ddfc85ac-ba87-4934-8075-4f25d824358d/ddfc85ac-ba87-4934-8075-4f25d824358d_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 20 Nov 2026 19:17 IST.
-
-Heute hat es bundesweit wieder Proteste junger Menschen gegeben - auch in Berlin, wo es zwei Demonstrationen gab: eine vom Alexanderplatz nach Kreuzberg von der &quot;Gen Z regelt&quot;-Bewegung, die andere am Brandenburger Tor von der Bundessch&amp;#252;lerkonferenz. Auch in mehreren Brandenburger St&amp;#228;dten gingen Initiativen junger Menschen auf die Stra&amp;#223;e, unter anderem in Cottbus - hier war das Hauptthema der Protest gegen eine m&amp;#246;gliche Wehrpflicht. Weitere Themen: In Potsdam ist am Wochenende Massen-Gentest geplant, um die Mutter eines vor 15 Jahren gestorbenen Babys zu finden und auf Schloss und Gut Liebenberg in Oberhavel laufen die Vorbereitungen f&amp;#252;r einen der sch&amp;#246;nsten Weihnachtsm&amp;#228;rkte in der Region.
-
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/dd/fc/ddfc85ac-ba87-4934-8075-4f25d824358d/ddfc85ac-ba87-4934-8075-4f25d824358d_mp3-256kd.mp3" length="29321295" type="audio/x-mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The 'amazing’ device that controls Tourette's</title>
       <link>http://www.bbc.co.uk/programmes/p0pp4d5y</link>
-      <pubDate>Sat, 21 Nov 2026 13:58:10 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
+      <pubDate>Sat, 21 Nov 2026 20:39:16 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pp4d5y</guid>
       <description>Originally published Sat 21 Nov 2026 14:00 IST.
 
