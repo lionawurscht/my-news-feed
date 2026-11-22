@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:42:31 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:05): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3610660.html</link>
-      <pubDate>Sun, 22 Nov 2026 00:52:58 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sun 05:58): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3610838.html</link>
+      <pubDate>Sun, 22 Nov 2026 07:42:31 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">ad405f5c-8103-414a-8d31-61c4d75934f2</guid>
-      <description>Originally published Sat 21 Nov 2026 22:05 IST.
+      <guid isPermaLink="false">1b7c88ea-7fed-46af-8223-ad229d664e0d</guid>
+      <description>Originally published Sun 22 Nov 2026 05:58 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1121/AU-20261121-2105-0000.mp3" length="2105227" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1122/AU-20261122-0457-5100.mp3" length="1880592" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sun 02:09): 7pm ET, November 21 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 09:09): 2am ET, November 22 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sun, 22 Nov 2026 00:51:58 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 07:41:31 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">f94b2119-c6b3-4e75-9954-477fb4afd916</guid>
-      <description>Originally published Sun 22 Nov 2026 02:09 IST.
+      <guid isPermaLink="false">73a88223-6380-4715-9dc7-7a2c38e98ca0</guid>
+      <description>Originally published Sun 22 Nov 2026 09:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8ea53209-980d-4d1d-8cb9-cf6b7b873675/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8ea53209-980d-4d1d-8cb9-cf6b7b873675&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261121-1900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/36d4b3de-ad16-4a65-bfd7-061424bffdd9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=36d4b3de-ad16-4a65-bfd7-061424bffdd9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261122-0200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Sun 07:00): חדשון בעברית קלה (22/11/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Sun, 22 Nov 2026 07:40:31 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/22-11-26.m4a</guid>
+      <description>Originally published Sun 22 Nov 2026 07:00 IST.
+
+• דלג ל
+• משרד החינוך
+• גָדי אַיזֵנקוֹט הִנחָה את צֶוֶות המַשָׂא וּמַתָן של 'יָשר!' להַזמין את צֶוֶות הליכּוּד למָרָתוֹן שִׂיחוֹת, שֶיַתחִיל היום בּפְגישָה בֵּין הצְוָותִים
+• צַהַ&quot;ל מַמשיך לִשמוֹר על רָמַת כּוֹנְנוּת גְבוֹהָה, לִקרַאת האֶפשָרוּת של תְקִיפָה בּאִירַאן
+• תַרגיל צְבָאִי נִרחָב יַתחִיל הבּוֹקֶר בּדָרוֹם: הכּוֹחוֹת יְתַרגְלוּ מִתקֶפֶת פֶּתַע וחֲדִירוֹת מהאֲוִויר, מהַיָם ומהיַבָּשָה
+• כּ-70% מפְּצוּעֵי הלְחִימָה בּשלוֹש השָנים האַחרוֹנוֹת חָזרוּ לשֵירוּת בּצַה&quot;ל
+• בּשַבּת נִרצַח נַער בּן 13 בּדַרכּוֹ לבֵית הסֵפר בּמַחֲנֵה הפְּלִיטִים שוּעַפָט שֶבּצְפוֹן-מִזרַח ירוּשלים, כּנִראֶה בִּגלַל סִכסוּך בֵּין מִשפָּחוֹת. בּשבוּעַ האַחרוֹן נִרצְחוּ 9 בּנֵי אָדם בּחֶברָה העַרבִית
+• פּוֹלִיטִיקָאִית גֶרמָנִייָה תוֹמֶכֶת ישׂראל הוּתקְפָה ונִפצְעָה בּהַפגָנָה פְּרוֹ-פַלסטִינית בּבֶּרלִין
+• התִַחֲזית: יְרידה קַלה בּטמפּרטוּרוֹת
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/22-11-26.m4a" length="1484475" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 21.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3610648.html</link>
-      <pubDate>Sun, 22 Nov 2026 00:50:58 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Sun, 22 Nov 2026 07:39:31 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">914c80a2-cb7c-4970-8e93-24d16226a827-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 21 Nov 2026 21:00 IST.
 
@@ -46,35 +68,38 @@ Weiter keine Einigung auf der Weltklimakonferenz COP31, Zahl der Schweinehalter 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1121/AU-20261121-2025-2700.mp3" length="14863651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 02:00): Die Nachrichten vom 22.11.2026, 01:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46424.html</link>
-      <pubDate>Sun, 22 Nov 2026 00:49:58 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">8418f429-79d0-53a1-9b88-263f0ca8481b</guid>
-      <description>Originally published Sun 22 Nov 2026 02:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 09:00): Die Nachrichten vom 22.11.2026, 08:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46440.html</link>
+      <pubDate>Sun, 22 Nov 2026 07:38:31 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">f131bc85-3f70-5541-a9c3-be1949ebdbc2</guid>
+      <description>Originally published Sun 22 Nov 2026 09:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/22/nachrichten_dlf_20261122_0100_168d7620.mp3?refId=nachrichten-108" length="5025729" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/22/nachrichten_dlf_20261122_0800_fb0df9e4.mp3?refId=nachrichten-108" length="9820975" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:38): Mittagsjournal (21.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-21112026</link>
-      <pubDate>Sun, 22 Nov 2026 00:48:58 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sun, 22 Nov 2026 07:37:31 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_d521b2255e754113a03d054c8421c1f3</guid>
       <description>Originally published Sat 21 Nov 2026 14:38 IST.</description>
       <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d521b2255e754113a03d054c8421c1f3.mp3?etag=267a66fc96fb36e9c50eb979b5925d3a" length="81236812" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The 'amazing’ device that controls Tourette's</title>
-      <link>http://www.bbc.co.uk/programmes/p0pp4d5y</link>
-      <pubDate>Sun, 22 Nov 2026 00:47:58 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pp4d5y</guid>
-      <description>Originally published Sat 21 Nov 2026 14:00 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Sun 06:48): Deadlock at UN climate summit in Turkey</title>
+      <link>http://www.bbc.co.uk/programmes/p0pp9hxv</link>
+      <pubDate>Sun, 22 Nov 2026 07:36:31 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0pp9hxv</guid>
+      <description>Originally published Sun 22 Nov 2026 06:48 IST.
 
-&lt;p&gt;We meet 17-year-old Mylo who's taken part in a trial of the watch-like device that suppresses his Tourette's tics. He can even now go to the cinema without fear of causing a disturbance by constantly moving or clearing his throat. Also: the chef in Japan who's known poverty and illness and now offers free meals to people in the position he was once in; the NASA spacecraft, Voyager One, that's become the first human-made object to reach a point one light day from Earth; the surf school in Senegal that's trying to turn its pupils into world champions; and the children with autism and ADHD who've been helped by alpacas. &lt;/p&gt;&lt;p&gt;Image: 17-year-old Mylo wearing the device. Credit: BBC News.&lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;&lt;p&gt;Presenter:  Holly Gibbs. Music composed by Iona Hampson&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3" length="12712000" type="audio/mpeg"/>
+&lt;p&gt;The COP31 summit has gone into a second day of overtime after talks were suspended for the night. There is no agreement in sight with the European Union and Pacific Island nations threatening to walk away without agreeing to a deal because the draft text makes no mention of reducing global demand for fossil fuels. Also: Croatians take to the streets over the death in hospital of a psychiatric patient who was beaten and smothered. We hear from British endurance athlete Lewis Pugh who swam through the Strait of Hormuz to highlight the environmental cost of the war between the US and Iran. Nepal's Prime Minister Balendra Shah visits India to try to secure much needed financial aid following devastating floods in the Himalayan nation. And has a maths problem that has puzzled humans for 167 years finally been solved?&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: Members of the public visit the free-entry 'Green Zone' during the 31st United Nations Climate Change Conference (COP31) in Antalya, Turkey, 19 November 2026.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp9hr7.mp3" length="13264000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
