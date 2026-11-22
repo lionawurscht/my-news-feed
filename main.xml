@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:52:58 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 22:05): tagesschau in 100 Sekunden</title>
       <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3610660.html</link>
-      <pubDate>Sat, 21 Nov 2026 20:44:16 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 00:52:58 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">ad405f5c-8103-414a-8d31-61c4d75934f2</guid>
       <description>Originally published Sat 21 Nov 2026 22:05 IST.
@@ -24,20 +24,20 @@ tagesschau in 100 Sekunden</description>
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1121/AU-20261121-2105-0000.mp3" length="2105227" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 22:09): 3pm ET, November 21 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sun 02:09): 7pm ET, November 21 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 21 Nov 2026 20:43:16 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 00:51:58 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">66cc06f4-9367-4837-8a91-52b385d00d6c</guid>
-      <description>Originally published Sat 21 Nov 2026 22:09 IST.
+      <guid isPermaLink="false">f94b2119-c6b3-4e75-9954-477fb4afd916</guid>
+      <description>Originally published Sun 22 Nov 2026 02:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/5ea4d8e9-ebf4-4389-aa7c-ecb93f22d17d/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=5ea4d8e9-ebf4-4389-aa7c-ecb93f22d17d&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261121-1500-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8ea53209-980d-4d1d-8cb9-cf6b7b873675/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8ea53209-980d-4d1d-8cb9-cf6b7b873675&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261121-1900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sat 21:00): tagesschau 20:00 Uhr, 21.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3610648.html</link>
-      <pubDate>Sat, 21 Nov 2026 20:42:16 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 00:50:58 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">914c80a2-cb7c-4970-8e93-24d16226a827-SENDUNGSAUDIO</guid>
       <description>Originally published Sat 21 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Weiter keine Einigung auf der Weltklimakonferenz COP31, Zahl der Schweinehalter 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1121/AU-20261121-2025-2700.mp3" length="14863651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 21:00): Die Nachrichten vom 21.11.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46416.html</link>
-      <pubDate>Sat, 21 Nov 2026 20:41:16 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sun 02:00): Die Nachrichten vom 22.11.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46424.html</link>
+      <pubDate>Sun, 22 Nov 2026 00:49:58 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">7b1b58f8-53fb-533a-ac76-045b1bdb181d</guid>
-      <description>Originally published Sat 21 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">8418f429-79d0-53a1-9b88-263f0ca8481b</guid>
+      <description>Originally published Sun 22 Nov 2026 02:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/21/nachrichten_dlf_20261121_2000_a07acbdf.mp3?refId=nachrichten-108" length="5016116" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/22/nachrichten_dlf_20261122_0100_168d7620.mp3?refId=nachrichten-108" length="5025729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Sat 14:38): Mittagsjournal (21.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-21112026</link>
-      <pubDate>Sat, 21 Nov 2026 20:40:16 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 00:48:58 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_d521b2255e754113a03d054c8421c1f3</guid>
       <description>Originally published Sat 21 Nov 2026 14:38 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: The 'amazing’ device that controls Tourette's</title>
       <link>http://www.bbc.co.uk/programmes/p0pp4d5y</link>
-      <pubDate>Sat, 21 Nov 2026 20:39:16 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 00:47:58 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pp4d5y</guid>
       <description>Originally published Sat 21 Nov 2026 14:00 IST.
