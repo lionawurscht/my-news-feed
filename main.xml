@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:41:50 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 02:46): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3611894.html</link>
-      <pubDate>Mon, 23 Nov 2026 02:09:48 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 11:49): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3612676.html</link>
+      <pubDate>Mon, 23 Nov 2026 11:41:50 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">eb56c906-a1e1-4827-9945-663155acfbd9</guid>
-      <description>Originally published Mon 23 Nov 2026 02:46 IST.
+      <guid isPermaLink="false">df79eec3-350e-45ad-a5ab-8de0fb713c2d</guid>
+      <description>Originally published Mon 23 Nov 2026 11:49 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1123/AU-20261123-0146-4500.mp3" length="1772304" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1123/AU-20261123-1049-3100.mp3" length="3100171" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Mon 03:09): 8pm ET, November 22 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Mon 13:09): 6am ET, November 23 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 23 Nov 2026 02:08:48 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 11:40:50 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">3f2deaf9-250b-46fb-bd40-293a3b0b53b0</guid>
-      <description>Originally published Mon 23 Nov 2026 03:09 IST.
+      <guid isPermaLink="false">ea143247-9747-4e97-a60f-7e7f0041e2e6</guid>
+      <description>Originally published Mon 23 Nov 2026 13:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/82c9e486-1c6f-41c4-85c8-8a2f39d1e8ff/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=82c9e486-1c6f-41c4-85c8-8a2f39d1e8ff&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261122-2000-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/8e84ddd0-5fa2-46af-8d23-c5536a8c3ca4/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=8e84ddd0-5fa2-46af-8d23-c5536a8c3ca4&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261123-0600-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Sun 21:00): tagesschau 20:00 Uhr, 22.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3611766.html</link>
-      <pubDate>Mon, 23 Nov 2026 02:07:48 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 11:39:50 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">b648332a-4c38-43b3-8f5f-71ffd1811532-SENDUNGSAUDIO</guid>
       <description>Originally published Sun 22 Nov 2026 21:00 IST.
@@ -46,46 +46,51 @@ Klimakonferenz COP31 im türkischen Antalya endet ohne Einigung auf gemeinsame A
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1122/AU-20261122-2053-0400.mp3" length="15105570" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 02:59): Die Nachrichten vom 23.11.2026, 01:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46478.html</link>
-      <pubDate>Mon, 23 Nov 2026 02:06:48 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Mon 13:00): Die Nachrichten vom 23.11.2026, 12:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46512.html</link>
+      <pubDate>Mon, 23 Nov 2026 11:38:50 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">262399ac-150e-5bc2-a311-dc6599cbeb45</guid>
-      <description>Originally published Mon 23 Nov 2026 02:59 IST.
+      <guid isPermaLink="false">576bf313-e14b-54ce-9c25-ccbc6c81c275</guid>
+      <description>Originally published Mon 23 Nov 2026 13:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/23/nachrichten_dlf_20261123_0159_a6eab04b.mp3?refId=nachrichten-108" length="5068361" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/23/nachrichten_dlf_20261123_1200_8010118b.mp3?refId=nachrichten-108" length="9785448" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sun 19:49): Abendjournal um 18 (22.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-22112026</link>
-      <pubDate>Mon, 23 Nov 2026 02:05:48 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Mon 09:31): Morgenjournal um 8 (23.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-23112026</link>
+      <pubDate>Mon, 23 Nov 2026 11:37:50 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_87d42e469b5146328792d3209fa6779d</guid>
-      <description>Originally published Sun 22 Nov 2026 19:49 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_87d42e469b5146328792d3209fa6779d.mp3?etag=2281bcd9bec3fc66c4ebdc13cd762071" length="22117596" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_9741520b60bc42e691bc0b176d557e18</guid>
+      <description>Originally published Mon 23 Nov 2026 09:31 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_9741520b60bc42e691bc0b176d557e18.mp3?etag=397b33e83cabba18dccac2adb85ab392" length="29256183" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Sun 10:56): Das Wichtigste am Sonntagmorgen</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/das-wichtigste-am-sonntagmorgen-3/2124415</link>
-      <pubDate>Mon, 23 Nov 2026 02:04:48 +0000</pubDate>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 09:07): Klimakonferenz ohne gemeinsame Abschlusserklärung: Was heißt das für den Klimaschutz?</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/klimakonferenz-ohne-gemeinsame-abschlusserklaerung-was-heisst-das-fuer-den-klimaschutz/2124432</link>
+      <pubDate>Mon, 23 Nov 2026 11:36:50 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">502f704f-9e83-4d11-973d-c909f4b1c9d0</guid>
-      <description>Originally published Sun 22 Nov 2026 10:56 IST.
+      <guid isPermaLink="false">248986ad-9fd7-43e2-9610-f6b044b56bba</guid>
+      <description>Originally published Mon 23 Nov 2026 09:07 IST.
 
-Themen: Gepräch zu COP 31 - gutes oder böses Ende? / Geschlechtsspezifische Straftaten / Evangelische Landessynode berät in Amberg über Strukturveränderung / 2. Tag der Landesversammlung der Jungen Union in Bayern mit Gast Markus Söder / Brückenabbrucharbeiten auf A99 sind im Zeitplan / Steinmeier reist nach Côte d'Ivoire, Ghana und Kenia / Kellerduell: FCA vs Mainz / ATP Finals: Zverev im Finale / Max Verstappen gewinnt in Las Vegas</description>
-      <enclosure url="https://media.neuland.br.de/file/2124415/c/feed/das-wichtigste-am-sonntagmorgen-3.mp3" length="16181805" type="audio/mpeg"/>
+Die Staaten der Welt haben in Antalya über den Klimaschutz beraten - doch die COP31 ist gescheitert. Die Teilnehmer der Konferenz konnten sich nicht auf eine gemeinsame Abschlusserklärung einigen. Der Streit um Kohle, Öl und Gas war am Ende entscheidend. Was heißt das für den Klimaschutz?</description>
+      <enclosure url="https://media.neuland.br.de/file/2124432/c/feed/klimakonferenz-ohne-gemeinsame-abschlusserklaerung-was-heisst-das-fuer-den-klimaschutz.mp3" length="9614637" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sun 22:00): The Global Story: AI can imitate a human. But can it think like one?</title>
-      <link>http://www.bbc.co.uk/programmes/p0pp0406</link>
-      <pubDate>Mon, 23 Nov 2026 02:03:48 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Mon 07:48): COP31 in Turkey ends without a deal</title>
+      <link>http://www.bbc.co.uk/programmes/p0ppdfkn</link>
+      <pubDate>Mon, 23 Nov 2026 11:35:50 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pp0406</guid>
-      <description>Originally published Sun 22 Nov 2026 22:00 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0ppdfkn</guid>
+      <description>Originally published Mon 23 Nov 2026 07:48 IST.
 
-&lt;p&gt;For decades, computer scientists have been trying to figure out whether computers can think. But with the advent of highly sophisticated chatbots like Claude and ChatGPT…might we finally have our answer? This week we’re introducing The Global Backstory, the new strand of our show that explores the history behind the news today. We constantly hear stories about artificial intelligence, but most of them are about where AI is going; in this five-episode series we’re looking at where it came from. Beginning with computer scientist Alan Turing’s famous Turing test in 1950, the quest to verify the existence of machine intelligence has taken on many forms – from the rudimentary chatbots of the 1960s, to the 1997 defeat of a chess grand master by a computer, to IBM Watson’s stint on Jeopardy in the 2010s. But large language models have rendered old methods of measuring machine intelligence obsolete. So how smart is AI, anyway? And will it ever be smarter than us? Tristan Redman and Asma Khalid are joined by Thomas Germain, BBC technology columnist and host of the BBC podcast The Interface. The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption. For more episodes, just search 'The Global Story' wherever you get your BBC Podcasts.&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3" length="13760000" type="audio/mpeg"/>
+&lt;p&gt;The UN climate summit in Turkey collapses after the final draft text makes no direct mention of fossil fuels, which proved unacceptable to the European Union and Pacific island countries. Poorer governments had also objected to the lack of clear financial commitments to help them adapt to climate change.
+Also: Russia hits Ukrainian energy facilities, straining power supplies and causing widespread power cuts. There's been a suspected drone attack on a Russian warship docked in Benghazi in Libya. In football, the new Manchester United boss Mauricio Pochettino suffers a brutal debut as Liverpool cruise to a 4–0 win. Britain is starting the world's largest trial of artificial intelligence to help breast cancer screening. Israel’s opposition leader says arson attacks in the West Bank amount to Jewish terrorism. The Italian jeweller Paolo Bulgari has died aged 89.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Participants walk past a Greenpeace sign reading 'Don't fall for fossil fuels!' at the COP31 U.N. Climate Summit in Antalya, Turkey,
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppdf4f.mp3" length="13232000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
