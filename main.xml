@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:53:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,118 +13,96 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 05:48): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3614204.html</link>
-      <pubDate>Tue, 24 Nov 2026 08:05:36 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:31): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3616090.html</link>
+      <pubDate>Tue, 24 Nov 2026 19:53:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">a4d6b1c7-09e9-485b-9cf7-b3a271a62baa</guid>
-      <description>Originally published Tue 24 Nov 2026 05:48 IST.
+      <guid isPermaLink="false">8c1b018a-fe4a-40b0-bec0-54bbfe4ac52e</guid>
+      <description>Originally published Tue 24 Nov 2026 19:31 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1124/AU-20261124-0447-5700.mp3" length="2148643" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1124/AU-20261124-1831-5000.mp3" length="2032651" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 09:09): 2am ET, November 24 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 21:09): 2pm ET, November 24 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 24 Nov 2026 08:04:36 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 19:52:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">e23a6690-868e-46bf-adac-8f3bb9c6e32d</guid>
-      <description>Originally published Tue 24 Nov 2026 09:09 IST.
+      <guid isPermaLink="false">7e53871f-24e9-4086-96e4-7b6d88a3c294</guid>
+      <description>Originally published Tue 24 Nov 2026 21:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/03cbe13f-d416-476a-9ae7-f877d8d4f801/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=03cbe13f-d416-476a-9ae7-f877d8d4f801&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261124-0200-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f869d950-471d-4db4-a0cb-85edcad81d89/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f869d950-471d-4db4-a0cb-85edcad81d89&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261124-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[HE|Overview] חדשון בעברית קלה (Tue 07:00): חדשון בעברית קלה (24/11/2026)</title>
-      <link>https://hadshon.education.gov.il/</link>
-      <pubDate>Tue, 24 Nov 2026 08:03:36 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 24.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3616288.html</link>
+      <pubDate>Tue, 24 Nov 2026 19:51:16 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/24-11-26.m4a</guid>
-      <description>Originally published Tue 24 Nov 2026 07:00 IST.
+      <guid isPermaLink="false">63bb3c91-2eb6-471a-ae5f-c105f2ac3dd6-SENDUNGSAUDIO</guid>
+      <description>Originally published Tue 24 Nov 2026 21:00 IST.
 
-• דלג ל
-• משרד החינוך
-• רֹאש עִירִייַת נְיוּ יוֹרְק מַמדָאני קוֹרֵא לדֵמוֹקרָטִים בּקוֹנגְרֶס: הַטָלַת עִיצוּמִים על ההִתנַחֲלוּיוֹת היא צַעַד נָכוֹן, וצָריך לַעֲשׂוֹת יוֹתֵר מִזֶה. ארה&quot;ב אֵינָה צְרִיכָה למַמֵן את רֶצַח הָעָם שֶישׂראל מבַצַעַת בּעַזה
-• גַ'ארד קוּשנֶר, שְלִיחוֹ המיוּחָד של הנשׂיא טראמפּ, מַזהִיר: ישׂראל צְרִיכָה להַחלִיט אִם היא רוֹצָה להַמשִיך לִהיוֹת חֵלֶק מהקְהִילָה הבֵּין-לְאוּמִית או לַהֲפוֹך למְדִינה מְנוּדָה
-• רֹאש מֶמשֶלת קַטַאר אֶל-תַ'אני נִפגַש אתמול בּווֹשִינגְטוֹן עִם שַׂר החוּץ האָמֵריקָני מַרקוֹ רוּבּיוֹ. לאַחַר מִכֵּן אמר בּרֵיאָיוֹן כי אַרצוֹ פּוֹעֶלֶת לחִידוּש המַגָעִים הדִיפּלוֹמָטִיִים בֵּין ארה&quot;ב לאִירַאן
-• הכּנֶסֶת אִישרָה אֶמש את ההַצָעָה להָקִים וַעֲדָה מְיוּחֶדֶת שֶתָדוּן בּבִיטוּל חוֹק היוֹעֵץ המִשפָּטִי למֶמשָלָה
-• מִשׂרַד התַחבּוּרָה אִישֵר לחֶברַת 'פְלַיי דוּבַּאי' לחַדֵש את הטִיסוֹת לישׂראל ומִמֶנָה כּבר בּשָבוּעַ הבּא
-• חִידוּש בּדוּ&quot;חוֹת התְנוּעָה: ההוֹדָעה על הקְנָס תַגִיעַ יְשִירוֹת לטֵלֵפוֹן של בַּעַל הרֶכֶב
-• התִַחֲזית: הִתקָרְרוּת קַלה
-• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
-• צבא ובטחון
-• חג ומועד</description>
-      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/24-11-26.m4a" length="1600522" type="audio/mp4"/>
+Zahl der erfassten Straftaten gegen Frauen erneut gestiegen, Beginn der Haushaltswoche im Bundestag, Frostiger Auftakt der ersten Tarifrunde bei Autobauer Volkswagen, Berliner Linke stimmt für Fraktionsausschluss von Abgeordneter Emde, Bundespräsident Steinmeier bei der Eröffnung des Deutsch-Afrikanischen Wirtschaftsgipfels in Ghana, ARD-Doku &quot;Der talentierte Mr. F.&quot; mit International Emmy Award ausgezeichnet, Vollmond besonders groß wegen seiner Nähe zur Erde, Das Wetter Hinweis: Der Beitrag zum Thema &quot;Emmy Awards&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1124/AU-20261124-2026-5800.mp3" length="14906278" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 23.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3613974.html</link>
-      <pubDate>Tue, 24 Nov 2026 08:02:36 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 21:00): Die Nachrichten vom 24.11.2026, 20:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46616.html</link>
+      <pubDate>Tue, 24 Nov 2026 19:50:16 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">d10c49e4-c17d-429e-8f0c-a1accf9a1fd4-SENDUNGSAUDIO</guid>
-      <description>Originally published Mon 23 Nov 2026 21:00 IST.
-
-Nvidia holt Jensen Huang zurück an die Firmenspitze, NATO-Beratungen in Berlin über russische Marschflugkörper in Polen, Ukrainische Armee versenkt russisches Kriegsschiff vor Küste Libyens, Dokumentation &quot;Krieg im Weltraum – Wie verwundbar ist Deutschland?“, Wie der Klimaschutz bei erdölexportierenden Ländern wie Saudi Arabien funktioniert, IG Metall setzt Warnstreiks in der Metall- und Elektroindustrie fort, DB Regio meldet weniger Übergriffe auf Zugbegleiter durch neue Schutzmaßnahmen, Zverev verliert ATP Final, Das Wetter</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1123/AU-20261123-2041-3400.mp3" length="15964182" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:35): Morgenjournal um 8 (24.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-24112026</link>
-      <pubDate>Tue, 24 Nov 2026 08:01:36 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_083429b8fbe14b029222589810b6ca5d</guid>
-      <description>Originally published Tue 24 Nov 2026 09:35 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_083429b8fbe14b029222589810b6ca5d.mp3?etag=ee2cbcc5cd3f0546cfa386aedb99261b" length="29244075" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 09:30): Die Nachrichten vom 24.11.2026, 08:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46574.html</link>
-      <pubDate>Tue, 24 Nov 2026 08:00:36 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">8e4ec997-6ce9-592c-9a2e-fb9097b8ea54</guid>
-      <description>Originally published Tue 24 Nov 2026 09:30 IST.
+      <guid isPermaLink="false">e2ab8544-52f1-5f08-acda-ed84e0b4e541</guid>
+      <description>Originally published Tue 24 Nov 2026 21:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/24/nachrichten_dlf_20261124_0830_1b762b1e.mp3?refId=nachrichten-108" length="4973484" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/24/nachrichten_dlf_20261124_2000_01ede37e.mp3?refId=nachrichten-108" length="4983933" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 09:18): Glasfaser-Probleme: Das schnelle Netz kommt nur sehr langsam</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/glasfaser-probleme-das-schnelle-netz-kommt-nur-sehr-langsam/2124471</link>
-      <pubDate>Tue, 24 Nov 2026 07:59:36 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 19:34): Abendjournal um 18 (24.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-24112026</link>
+      <pubDate>Tue, 24 Nov 2026 19:49:16 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_8873a4d5b07b4d36b7be44f435e07d90</guid>
+      <description>Originally published Tue 24 Nov 2026 19:34 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_8873a4d5b07b4d36b7be44f435e07d90.mp3?etag=8dccf7c0f51c80dca3fe8b1de94b579b" length="36413798" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:30): Trump, Nvidia und die Folgen</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/trump-nvidia-und-die-folgen/2124488</link>
+      <pubDate>Tue, 24 Nov 2026 19:48:16 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">e0dfeaf1-e8aa-4ca4-848d-431d99d14e9d</guid>
+      <description>Originally published Tue 24 Nov 2026 19:30 IST.
+
+US-Präsident Trump hat Jenssen Huang zurück an die Spitze von Nvidia gebracht - und ist selbt Großaktionär der Firma. Was sagt die US-Politik dazu?</description>
+      <enclosure url="https://media.neuland.br.de/file/2124488/c/feed/trump-nvidia-und-die-folgen.mp3" length="9382701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Emde-Rauswurf | Autodiebstähle | Windplan</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/emde-rauswurf-autodiebstaehle-windplan.html</link>
+      <pubDate>Tue, 24 Nov 2026 19:47:16 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">e9f6b52c-d626-432e-84f3-176ee1663d2c</guid>
-      <description>Originally published Tue 24 Nov 2026 09:18 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/cc/db/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0_mp3-256kd.mp3</guid>
+      <description>Originally published Tue 24 Nov 2026 19:17 IST.
 
-Schnelles, stabiles Internet - überall und per Glasfaserkabel. Bis 2030 soll ganz Deutschland versorgt sein - eigentlich. Denn der Ausbau erfolgt viel zu langsam, die Kunden sind genervt. Wir sprechen über die Gründe - und über mögliche Lösungen.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124471/c/feed/glasfaser-probleme-das-schnelle-netz-kommt-nur-sehr-langsam.mp3" length="9032877" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Bombendrohungen | Klinikbrand | Cottbuser Weihnachtsmarkt</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/bombendrohungen-klinikbrand-cottbuser-weihnachtsmarkt.html</link>
-      <pubDate>Tue, 24 Nov 2026 07:58:36 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/60/80/6080da6e-d548-4e3f-a1d6-d7b47fe90365/6080da6e-d548-4e3f-a1d6-d7b47fe90365_mp3-256kd.mp3</guid>
-      <description>Originally published Mon 23 Nov 2026 19:17 IST.
-
-Hunderte Schulen haben Bombendrohungen erhalten, auch in Berlin und Brandenburg. Die Polizei geht nicht von einer Gefahr aus. Weitere Themen: 15 Verletzte bei Brand in Klinik in Berlin-Lichtenberg, Strom-Spar-Check vom Bundesumweltministerium und Weihnachtsmarkt in Cottbus.
+Die Linken-Fraktion im Berliner Abgeordnetenhaus hat die Parlamentarierin Vanessa Emde ausgeschlossen. Hintergrund ist ein Streit &amp;#252;ber Emdes Position zu Israel. Weitere Themen: Berlin bleibt die Hauptstadt des Autodiebstahls, Brandenburg liegt bundesweit auf Rang drei. Die Koalition aus SPD und CDU im Brandenburger Landtag will konsequenter gegen Jugendgewalt vorgehen und hat einen entsprechenden Antrag vorgelegt. Und: Windplan Prignitz-Oberhavel beschlossen.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/60/80/6080da6e-d548-4e3f-a1d6-d7b47fe90365/6080da6e-d548-4e3f-a1d6-d7b47fe90365_mp3-256kd.mp3" length="30651461" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/cc/db/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0_mp3-256kd.mp3" length="30782015" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:48): Stock markets jump after Nvidia boss reinstated</title>
-      <link>http://www.bbc.co.uk/programmes/p0ppkqn5</link>
-      <pubDate>Tue, 24 Nov 2026 07:57:36 +0000</pubDate>
-      <itunes:episode>9</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0ppkqn5</guid>
-      <description>Originally published Tue 24 Nov 2026 07:48 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:47): Is Jensen Huang's reinstatement good news for China?</title>
+      <link>http://www.bbc.co.uk/programmes/p0ppp111</link>
+      <pubDate>Tue, 24 Nov 2026 19:46:16 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0ppp111</guid>
+      <description>Originally published Tue 24 Nov 2026 18:47 IST.
 
-&lt;p&gt;Global stock markets surge after the US chipmaker Nvidia reinstates its chief executive Jensen Huang.  Shares in the firm close sharply higher in New York following the news. Nvidia has come under heavy pressure from President Trump to allow the return of Mr Huang, who resigned earlier this month after admitting having an affair with an alleged Chinese spy. &lt;/p&gt;&lt;p&gt;Also: The head of NATO says the alliance will defend against threats in space following German media reports that Russia may be preparing to launch a satellite armed with nuclear weapons.&lt;/p&gt;&lt;p&gt;We hear of the dangers women face in South Africa, which has one of the highest rates of gender-based violence in the world.  &lt;/p&gt;&lt;p&gt;Astronomers believe they may be closer than ever to finding another planet in our solar system.&lt;/p&gt;&lt;p&gt;Greece repeats its demand that Britain should return the Parthenon sculptures. &lt;/p&gt;&lt;p&gt;And FIFA confirms that England, Northern Ireland, Scotland and Wales will jointly host the 2035 Women's Football World Cup.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;The surprise reinstatement of Jensen Huang as head of the US chipmaker, Nvidia, has seen mixed reactions worldwide -- but what do people in China make of it all? Also: Malaysia is criticised by human rights groups after saying it will send more migrants back to Myanmar - around two thirds of migrants living in Malaysia are Muslim Rohingyas. The security services in the UK are warning that British companies that provide military supplies to Ukraine could become a military target for Russia. The Bangladeshi government dismisses a demand from the ousted prime minister, Sheikh Hasina, that she be allowed to return from exile. Gisèle Pelicot, the French woman whose husband arranged for dozens of men to rape her while she was unconscious, says she feels humiliated after nude photos were sent to the media to promote a book. The best-selling writer and environmentalist, Robert Macfarlane, on the human superiority complex - the topic he explores in this year's BBC Reith Lectures. And the Booker Prize Foundation announces the contenders for the first Children's Booker Prize. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Silhouettes of US President Donald Trump and Jensen Huang, the NVIDIA logo and a rising stock graph in this illustration created on November 23, 2026. 
-REUTERS/Dado Ruvic/Illustration&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppkq65.mp3" length="13768000" type="audio/mpeg"/>
+Photo: The Nvidia logo
+Credit: Reuters&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppnzlx.mp3" length="13744000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
