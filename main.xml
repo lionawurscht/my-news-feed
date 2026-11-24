@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:05:36 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,54 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Mon 22:35): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3613994.html</link>
-      <pubDate>Mon, 23 Nov 2026 23:17:19 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 05:48): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3614204.html</link>
+      <pubDate>Tue, 24 Nov 2026 08:05:36 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">cb78d895-0698-4d23-bf42-40609dd45122</guid>
-      <description>Originally published Mon 23 Nov 2026 22:35 IST.
+      <guid isPermaLink="false">a4d6b1c7-09e9-485b-9cf7-b3a271a62baa</guid>
+      <description>Originally published Tue 24 Nov 2026 05:48 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1123/AU-20261123-2135-4400.mp3" length="1968139" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1124/AU-20261124-0447-5700.mp3" length="2148643" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 01:09): 6pm ET, November 23 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Tue 09:09): 2am ET, November 24 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Mon, 23 Nov 2026 23:16:19 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 08:04:36 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">e37f2545-a0d4-43eb-a467-c8b0dc0ad947</guid>
-      <description>Originally published Tue 24 Nov 2026 01:09 IST.
+      <guid isPermaLink="false">e23a6690-868e-46bf-adac-8f3bb9c6e32d</guid>
+      <description>Originally published Tue 24 Nov 2026 09:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/33e90204-bad3-4624-b413-4fde38bed4e6/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=33e90204-bad3-4624-b413-4fde38bed4e6&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261123-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/03cbe13f-d416-476a-9ae7-f877d8d4f801/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=03cbe13f-d416-476a-9ae7-f877d8d4f801&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261124-0200-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[HE|Overview] חדשון בעברית קלה (Tue 07:00): חדשון בעברית קלה (24/11/2026)</title>
+      <link>https://hadshon.education.gov.il/</link>
+      <pubDate>Tue, 24 Nov 2026 08:03:36 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">https://tum-files.education.gov.il/hadshon/2026/11/24-11-26.m4a</guid>
+      <description>Originally published Tue 24 Nov 2026 07:00 IST.
+
+• דלג ל
+• משרד החינוך
+• רֹאש עִירִייַת נְיוּ יוֹרְק מַמדָאני קוֹרֵא לדֵמוֹקרָטִים בּקוֹנגְרֶס: הַטָלַת עִיצוּמִים על ההִתנַחֲלוּיוֹת היא צַעַד נָכוֹן, וצָריך לַעֲשׂוֹת יוֹתֵר מִזֶה. ארה&quot;ב אֵינָה צְרִיכָה למַמֵן את רֶצַח הָעָם שֶישׂראל מבַצַעַת בּעַזה
+• גַ'ארד קוּשנֶר, שְלִיחוֹ המיוּחָד של הנשׂיא טראמפּ, מַזהִיר: ישׂראל צְרִיכָה להַחלִיט אִם היא רוֹצָה להַמשִיך לִהיוֹת חֵלֶק מהקְהִילָה הבֵּין-לְאוּמִית או לַהֲפוֹך למְדִינה מְנוּדָה
+• רֹאש מֶמשֶלת קַטַאר אֶל-תַ'אני נִפגַש אתמול בּווֹשִינגְטוֹן עִם שַׂר החוּץ האָמֵריקָני מַרקוֹ רוּבּיוֹ. לאַחַר מִכֵּן אמר בּרֵיאָיוֹן כי אַרצוֹ פּוֹעֶלֶת לחִידוּש המַגָעִים הדִיפּלוֹמָטִיִים בֵּין ארה&quot;ב לאִירַאן
+• הכּנֶסֶת אִישרָה אֶמש את ההַצָעָה להָקִים וַעֲדָה מְיוּחֶדֶת שֶתָדוּן בּבִיטוּל חוֹק היוֹעֵץ המִשפָּטִי למֶמשָלָה
+• מִשׂרַד התַחבּוּרָה אִישֵר לחֶברַת 'פְלַיי דוּבַּאי' לחַדֵש את הטִיסוֹת לישׂראל ומִמֶנָה כּבר בּשָבוּעַ הבּא
+• חִידוּש בּדוּ&quot;חוֹת התְנוּעָה: ההוֹדָעה על הקְנָס תַגִיעַ יְשִירוֹת לטֵלֵפוֹן של בַּעַל הרֶכֶב
+• התִַחֲזית: הִתקָרְרוּת קַלה
+• אִם יש לכם תְגוּבוֹת, הֶעָרוֹת והַצָעוֹת לחַדשוֹן - נִשׂמַח לִשמוֹעַ מִכֶּם!
+• צבא ובטחון
+• חג ומועד</description>
+      <enclosure url="https://tum-files.education.gov.il/hadshon/2026/11/24-11-26.m4a" length="1600522" type="audio/mp4"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Mon 21:00): tagesschau 20:00 Uhr, 23.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3613974.html</link>
-      <pubDate>Mon, 23 Nov 2026 23:15:19 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Tue, 24 Nov 2026 08:02:36 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">d10c49e4-c17d-429e-8f0c-a1accf9a1fd4-SENDUNGSAUDIO</guid>
       <description>Originally published Mon 23 Nov 2026 21:00 IST.
 
@@ -46,41 +68,41 @@ Nvidia holt Jensen Huang zurück an die Firmenspitze, NATO-Beratungen in Berlin 
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1123/AU-20261123-2041-3400.mp3" length="15964182" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 01:00): Die Nachrichten vom 24.11.2026, 00:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46548.html</link>
-      <pubDate>Mon, 23 Nov 2026 23:14:19 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">1ef81212-a647-5ee3-9eb1-02c2b422863d</guid>
-      <description>Originally published Tue 24 Nov 2026 01:00 IST.
+      <title>[DE|Primary] Ö1 Journal um acht (Tue 09:35): Morgenjournal um 8 (24.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-24112026</link>
+      <pubDate>Tue, 24 Nov 2026 08:01:36 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_083429b8fbe14b029222589810b6ca5d</guid>
+      <description>Originally published Tue 24 Nov 2026 09:35 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_083429b8fbe14b029222589810b6ca5d.mp3?etag=ee2cbcc5cd3f0546cfa386aedb99261b" length="29244075" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 09:30): Die Nachrichten vom 24.11.2026, 08:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46574.html</link>
+      <pubDate>Tue, 24 Nov 2026 08:00:36 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">8e4ec997-6ce9-592c-9a2e-fb9097b8ea54</guid>
+      <description>Originally published Tue 24 Nov 2026 09:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/24/nachrichten_dlf_20261124_0000_73a33eeb.mp3?refId=nachrichten-108" length="4999397" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/24/nachrichten_dlf_20261124_0830_1b762b1e.mp3?refId=nachrichten-108" length="4973484" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Mon 19:33): Abendjournal um 18 (23.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-23112026</link>
-      <pubDate>Mon, 23 Nov 2026 23:13:19 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_6b2af6c1a6e543ee9a663a702b22ceb4</guid>
-      <description>Originally published Mon 23 Nov 2026 19:33 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_6b2af6c1a6e543ee9a663a702b22ceb4.mp3?etag=78c34b1dd0a56c37c661b8739c30144e" length="36402266" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Mon 20:20): Die Lücke nach dem Tod von Hubert Aiwanger: Wie gehts weiter bei den Freien Wählern?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/die-luecke-nach-dem-tod-von-hubert-aiwanger-wie-gehts-weiter-bei-den-freien-waehlern/2124453</link>
-      <pubDate>Mon, 23 Nov 2026 23:12:19 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">1ace500e-e733-484b-af61-25b863b8775e</guid>
-      <description>Originally published Mon 23 Nov 2026 20:20 IST.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 09:18): Glasfaser-Probleme: Das schnelle Netz kommt nur sehr langsam</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/glasfaser-probleme-das-schnelle-netz-kommt-nur-sehr-langsam/2124471</link>
+      <pubDate>Tue, 24 Nov 2026 07:59:36 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">e9f6b52c-d626-432e-84f3-176ee1663d2c</guid>
+      <description>Originally published Tue 24 Nov 2026 09:18 IST.
 
-Nach dem Tod von Hubert Aiwanger geht nun der politische Betrieb weiter: Die Freien Wähler geben erste Entscheidungen für ihre Neuausrichtung bekannt. Tobias Gotthardt übernimmt das Wirtschaftsministerium.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124453/c/feed/die-luecke-nach-dem-tod-von-hubert-aiwanger-wie-gehts-weiter-bei-den-freien-waehlern.mp3" length="8671533" type="audio/mpeg"/>
+Schnelles, stabiles Internet - überall und per Glasfaserkabel. Bis 2030 soll ganz Deutschland versorgt sein - eigentlich. Denn der Ausbau erfolgt viel zu langsam, die Kunden sind genervt. Wir sprechen über die Gründe - und über mögliche Lösungen.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124471/c/feed/glasfaser-probleme-das-schnelle-netz-kommt-nur-sehr-langsam.mp3" length="9032877" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Mon 19:17): Bombendrohungen | Klinikbrand | Cottbuser Weihnachtsmarkt</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/bombendrohungen-klinikbrand-cottbuser-weihnachtsmarkt.html</link>
-      <pubDate>Mon, 23 Nov 2026 23:11:19 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Tue, 24 Nov 2026 07:58:36 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/60/80/6080da6e-d548-4e3f-a1d6-d7b47fe90365/6080da6e-d548-4e3f-a1d6-d7b47fe90365_mp3-256kd.mp3</guid>
       <description>Originally published Mon 23 Nov 2026 19:17 IST.
 
@@ -90,19 +112,19 @@ Hunderte Schulen haben Bombendrohungen erhalten, auch in Berlin und Brandenburg.
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/60/80/6080da6e-d548-4e3f-a1d6-d7b47fe90365/6080da6e-d548-4e3f-a1d6-d7b47fe90365_mp3-256kd.mp3" length="30651461" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Mon 18:08): Jensen Huang reinstated as Nvidia CEO</title>
-      <link>http://www.bbc.co.uk/programmes/p0pphgd5</link>
-      <pubDate>Mon, 23 Nov 2026 23:10:19 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pphgd5</guid>
-      <description>Originally published Mon 23 Nov 2026 18:08 IST.
+      <title>[EN|In-Depth] BBC Global News Podcast (Tue 07:48): Stock markets jump after Nvidia boss reinstated</title>
+      <link>http://www.bbc.co.uk/programmes/p0ppkqn5</link>
+      <pubDate>Tue, 24 Nov 2026 07:57:36 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0ppkqn5</guid>
+      <description>Originally published Tue 24 Nov 2026 07:48 IST.
 
-&lt;p&gt;Shares in the tech giant Nvidia soar as its board votes unanimously to reappoint Huang as CEO and President, less than two weeks after he was forced to resign over reports of an affair with a suspected Chinese spy.  President Trump welcomed his return, calling him a great patriot.  Also: President Zelensky confirms that Ukrainian drones attacked two Russian ships off Libya's coast, sinking one of them; a BBC exclusive report on the radical far-left movement in France that President Emmanuel Macron says is trying to bring down the French Republic; how Chile is reducing methane emissions by using food scraps and other organic waste to generate electricity; and we remember Ian &quot;Molly&quot; Meldrum, Australia's host of Countdown and music personality, who helped introduce ABBA, Blondie and Elton John to an Australian audience. &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Global stock markets surge after the US chipmaker Nvidia reinstates its chief executive Jensen Huang.  Shares in the firm close sharply higher in New York following the news. Nvidia has come under heavy pressure from President Trump to allow the return of Mr Huang, who resigned earlier this month after admitting having an affair with an alleged Chinese spy. &lt;/p&gt;&lt;p&gt;Also: The head of NATO says the alliance will defend against threats in space following German media reports that Russia may be preparing to launch a satellite armed with nuclear weapons.&lt;/p&gt;&lt;p&gt;We hear of the dangers women face in South Africa, which has one of the highest rates of gender-based violence in the world.  &lt;/p&gt;&lt;p&gt;Astronomers believe they may be closer than ever to finding another planet in our solar system.&lt;/p&gt;&lt;p&gt;Greece repeats its demand that Britain should return the Parthenon sculptures. &lt;/p&gt;&lt;p&gt;And FIFA confirms that England, Northern Ireland, Scotland and Wales will jointly host the 2035 Women's Football World Cup.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo:  Jensen Huang at microphone
-Credit:  PA&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pphdx7.mp3" length="15168000" type="audio/mpeg"/>
+Photo: Silhouettes of US President Donald Trump and Jensen Huang, the NVIDIA logo and a rising stock graph in this illustration created on November 23, 2026. 
+REUTERS/Dado Ruvic/Illustration&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppkq65.mp3" length="13768000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
