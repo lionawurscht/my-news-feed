@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Nov 2026 19:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:19:13 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Tue 19:31): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3616090.html</link>
-      <pubDate>Tue, 24 Nov 2026 19:53:16 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 03:22): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3616508.html</link>
+      <pubDate>Wed, 25 Nov 2026 03:19:13 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">8c1b018a-fe4a-40b0-bec0-54bbfe4ac52e</guid>
-      <description>Originally published Tue 24 Nov 2026 19:31 IST.
+      <guid isPermaLink="false">7d8b4ec7-86ba-4623-9d6a-a00e45d1f9fb</guid>
+      <description>Originally published Wed 25 Nov 2026 03:22 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1124/AU-20261124-1831-5000.mp3" length="2032651" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1125/AU-20261125-0222-2600.mp3" length="2227365" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Tue 21:09): 2pm ET, November 24 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Wed 05:09): 10pm ET, November 24 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Tue, 24 Nov 2026 19:52:16 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 03:18:13 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">7e53871f-24e9-4086-96e4-7b6d88a3c294</guid>
-      <description>Originally published Tue 24 Nov 2026 21:09 IST.
+      <guid isPermaLink="false">2c71cb87-5860-41a6-91ed-31396b90f564</guid>
+      <description>Originally published Wed 25 Nov 2026 05:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f869d950-471d-4db4-a0cb-85edcad81d89/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f869d950-471d-4db4-a0cb-85edcad81d89&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261124-1400-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/471452ff-d168-4f18-b319-17abb078f287/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=471452ff-d168-4f18-b319-17abb078f287&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261124-2200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 24.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3616288.html</link>
-      <pubDate>Tue, 24 Nov 2026 19:51:16 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 03:17:13 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">63bb3c91-2eb6-471a-ae5f-c105f2ac3dd6-SENDUNGSAUDIO</guid>
       <description>Originally published Tue 24 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Zahl der erfassten Straftaten gegen Frauen erneut gestiegen, Beginn der Haushalt
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1124/AU-20261124-2026-5800.mp3" length="14906278" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Tue 21:00): Die Nachrichten vom 24.11.2026, 20:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46616.html</link>
-      <pubDate>Tue, 24 Nov 2026 19:50:16 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 05:00): Die Nachrichten vom 25.11.2026, 04:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46630.html</link>
+      <pubDate>Wed, 25 Nov 2026 03:16:13 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">e2ab8544-52f1-5f08-acda-ed84e0b4e541</guid>
-      <description>Originally published Tue 24 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">2e335436-4668-555c-9823-fdc57f9625f4</guid>
+      <description>Originally published Wed 25 Nov 2026 05:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/24/nachrichten_dlf_20261124_2000_01ede37e.mp3?refId=nachrichten-108" length="4983933" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/25/nachrichten_dlf_20261125_0400_9ba5548f.mp3?refId=nachrichten-108" length="5002323" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Tue 19:34): Abendjournal um 18 (24.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-24112026</link>
-      <pubDate>Tue, 24 Nov 2026 19:49:16 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 03:15:13 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_8873a4d5b07b4d36b7be44f435e07d90</guid>
       <description>Originally published Tue 24 Nov 2026 19:34 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Tue 19:30): Trump, Nvidia und die Folgen</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/trump-nvidia-und-die-folgen/2124488</link>
-      <pubDate>Tue, 24 Nov 2026 19:48:16 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 03:14:13 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">e0dfeaf1-e8aa-4ca4-848d-431d99d14e9d</guid>
       <description>Originally published Tue 24 Nov 2026 19:30 IST.
@@ -79,7 +79,7 @@ US-Präsident Trump hat Jenssen Huang zurück an die Spitze von Nvidia gebracht 
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Emde-Rauswurf | Autodiebstähle | Windplan</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/emde-rauswurf-autodiebstaehle-windplan.html</link>
-      <pubDate>Tue, 24 Nov 2026 19:47:16 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 03:13:13 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/cc/db/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0_mp3-256kd.mp3</guid>
       <description>Originally published Tue 24 Nov 2026 19:17 IST.
@@ -92,7 +92,7 @@ Die Linken-Fraktion im Berliner Abgeordnetenhaus hat die Parlamentarierin Vaness
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Tue 18:47): Is Jensen Huang's reinstatement good news for China?</title>
       <link>http://www.bbc.co.uk/programmes/p0ppp111</link>
-      <pubDate>Tue, 24 Nov 2026 19:46:16 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 03:12:13 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0ppp111</guid>
       <description>Originally published Tue 24 Nov 2026 18:47 IST.
