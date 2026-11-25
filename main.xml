@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:54:37 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,96 +13,96 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 11:40): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3617312.html</link>
-      <pubDate>Wed, 25 Nov 2026 13:50:02 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 22:26): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3618668.html</link>
+      <pubDate>Wed, 25 Nov 2026 22:54:37 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4a54e27a-c839-439c-acd2-4a1455eaa803</guid>
-      <description>Originally published Wed 25 Nov 2026 11:40 IST.
+      <guid isPermaLink="false">09325b34-d6bd-423d-b1cf-5db369d1f005</guid>
+      <description>Originally published Wed 25 Nov 2026 22:26 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1125/AU-20261125-1040-2300.mp3" length="1974667" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1125/AU-20261125-2126-3200.mp3" length="2114831" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Wed 15:09): 8am ET, November 25 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 00:09): 5pm ET, November 25 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 25 Nov 2026 13:49:02 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 22:53:37 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">135daa2d-cdf3-4046-930b-4d5f9879f7f4</guid>
-      <description>Originally published Wed 25 Nov 2026 15:09 IST.
+      <guid isPermaLink="false">d08c15c4-119b-4dbb-964b-54d1155a8512</guid>
+      <description>Originally published Thu 26 Nov 2026 00:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/17cc52f9-3ed7-4876-930d-0d256f757a12/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=17cc52f9-3ed7-4876-930d-0d256f757a12&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261125-0800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/12ec00ac-c95e-4832-a68a-896be769f2bf/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=12ec00ac-c95e-4832-a68a-896be769f2bf&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261125-1700-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Tue 21:00): tagesschau 20:00 Uhr, 24.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3616288.html</link>
-      <pubDate>Wed, 25 Nov 2026 13:48:02 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 25.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3618638.html</link>
+      <pubDate>Wed, 25 Nov 2026 22:52:37 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">63bb3c91-2eb6-471a-ae5f-c105f2ac3dd6-SENDUNGSAUDIO</guid>
-      <description>Originally published Tue 24 Nov 2026 21:00 IST.
+      <guid isPermaLink="false">09100f6f-aa30-4e7b-b459-40c1ef824d80-SENDUNGSAUDIO</guid>
+      <description>Originally published Wed 25 Nov 2026 21:00 IST.
 
-Zahl der erfassten Straftaten gegen Frauen erneut gestiegen, Beginn der Haushaltswoche im Bundestag, Frostiger Auftakt der ersten Tarifrunde bei Autobauer Volkswagen, Berliner Linke stimmt für Fraktionsausschluss von Abgeordneter Emde, Bundespräsident Steinmeier bei der Eröffnung des Deutsch-Afrikanischen Wirtschaftsgipfels in Ghana, ARD-Doku &quot;Der talentierte Mr. F.&quot; mit International Emmy Award ausgezeichnet, Vollmond besonders groß wegen seiner Nähe zur Erde, Das Wetter Hinweis: Der Beitrag zum Thema &quot;Emmy Awards&quot; darf aus rechtlichen Gründen nicht auf tagesschau.de gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1124/AU-20261124-2026-5800.mp3" length="14906278" type="audio/mpeg"/>
+Bundeskanzler Merz verteidigt in Generaldebatte im Bundestag seine Haushaltspolitik, Union schlägt im Koalitionsstreit über die Rentenreform einen Kompromiss vor, Hoffnung auf Durchbruch in der vierten Verhandlungsrunde in Tarifkonflikt der Metall- und Elektroindustrie, &quot;Orange Day&quot; der Vereinten Nationen setzt Zeichen gegen Gewalt an Frauen, Abschlussbericht zu sexualisierter Gewalt und Missbrauch im Bistum Trier, Razzia gegen rechtsextremistische Gruppe &quot;Terror 18&quot;, Erstes Endlager weltweit für Brennstäbe aus Finnland auf Insel Olkiluoto, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1125/AU-20261125-2027-0900.mp3" length="15462690" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Wed 15:30): Die Nachrichten vom 25.11.2026, 14:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46672.html</link>
-      <pubDate>Wed, 25 Nov 2026 13:47:02 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 00:00): Die Nachrichten vom 25.11.2026, 23:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46698.html</link>
+      <pubDate>Wed, 25 Nov 2026 22:51:37 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">134bfc2f-8a8c-5be9-919a-e58239f87717</guid>
-      <description>Originally published Wed 25 Nov 2026 15:30 IST.
+      <guid isPermaLink="false">c95c8d28-3fbc-5f02-857f-c0d141782355</guid>
+      <description>Originally published Thu 26 Nov 2026 00:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/25/nachrichten_dlf_20261125_1430_53e61edd.mp3?refId=nachrichten-108" length="5003995" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/25/nachrichten_dlf_20261125_2300_42b909c8.mp3?refId=nachrichten-108" length="9833095" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 14:22): Mittagsjournal (25.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-25112026</link>
-      <pubDate>Wed, 25 Nov 2026 13:46:02 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:35): Abendjournal um 18 (25.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-25112026</link>
+      <pubDate>Wed, 25 Nov 2026 22:50:37 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_aed46442dac8445a98aad3154cf783a7</guid>
-      <description>Originally published Wed 25 Nov 2026 14:22 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_aed46442dac8445a98aad3154cf783a7.mp3?etag=4024f2181ad32f13814767a076c65b9e" length="86879185" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_7e50805969b64ea2bf6011edfa799efe</guid>
+      <description>Originally published Wed 25 Nov 2026 19:35 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_7e50805969b64ea2bf6011edfa799efe.mp3?etag=d01e5579d3b389d26cd444933c62d777" length="36462807" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 09:28): Orange Day: Was tun gegen Gewalt an Frauen?</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/orange-day-was-tun-gegen-gewalt-an-frauen/2124508</link>
-      <pubDate>Wed, 25 Nov 2026 13:45:02 +0000</pubDate>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Jugendliche festgenommen | Schuldenschwelle gerissen | Krankenhauszukunft</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/terror-18-gruppe-festnahme-schuldenuhr-berlin-brandenburg-krankenhaus-landtag-orande-day-gewalt-gegen-frauen.html</link>
+      <pubDate>Wed, 25 Nov 2026 22:49:37 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">a83449c0-aae7-49b7-b5b1-4a4eb2348151</guid>
-      <description>Originally published Wed 25 Nov 2026 09:28 IST.
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/2b/b0/2bb087e2-e5d5-4457-aad0-e70b929c1436/2bb087e2-e5d5-4457-aad0-e70b929c1436_mp3-256kd.mp3</guid>
+      <description>Originally published Wed 25 Nov 2026 19:17 IST.
 
-In Deutschland wird im Schnitt alle drei Tage eine Frau von ihrem Partner oder ihrem Ex umgebracht. Heute, am &quot;Orange Day&quot;, wird Gewalt an Frauen weltweit zur Sprache gebracht.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124508/c/feed/orange-day-was-tun-gegen-gewalt-an-frauen.mp3" length="9333549" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Tue 19:17): Emde-Rauswurf | Autodiebstähle | Windplan</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/emde-rauswurf-autodiebstaehle-windplan.html</link>
-      <pubDate>Wed, 25 Nov 2026 13:44:02 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/cc/db/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0_mp3-256kd.mp3</guid>
-      <description>Originally published Tue 24 Nov 2026 19:17 IST.
-
-Die Linken-Fraktion im Berliner Abgeordnetenhaus hat die Parlamentarierin Vanessa Emde ausgeschlossen. Hintergrund ist ein Streit &amp;#252;ber Emdes Position zu Israel. Weitere Themen: Berlin bleibt die Hauptstadt des Autodiebstahls, Brandenburg liegt bundesweit auf Rang drei. Die Koalition aus SPD und CDU im Brandenburger Landtag will konsequenter gegen Jugendgewalt vorgehen und hat einen entsprechenden Antrag vorgelegt. Und: Windplan Prignitz-Oberhavel beschlossen.
+Drei jugendliche Mitglieder der rechtsextremen Gruppe &quot;Terror 18&quot; wurden festgenommen - einer davon in Teltow-Fl&amp;#228;ming. In Berlin ist die Schuldenuhr des Steuerzahlerbunds zum ersten Mal &amp;#252;ber 70 Milliarden Euro gesprungen. In Brandenburg hat der Landtag &amp;#252;ber die Zukunft der Krankenh&amp;#228;user debattiert. Und in Berlin und Brandenburg wurde bei zahlreichen Aktionen zum Orange Day auf die Gewalt gegen Frauen aufmerksam gemacht.
 &amp;#160;
 &quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/cc/db/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0/ccdbdec5-fa0f-4aa6-bd57-3a811fa41de0_mp3-256kd.mp3" length="30782015" type="audio/x-mpeg"/>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/2b/b0/2bb087e2-e5d5-4457-aad0-e70b929c1436/2bb087e2-e5d5-4457-aad0-e70b929c1436_mp3-256kd.mp3" length="30033941" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 08:05): Huawei has been found guilty of bank fraud in the US</title>
-      <link>http://www.bbc.co.uk/programmes/p0pprc4x</link>
-      <pubDate>Wed, 25 Nov 2026 13:43:02 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pprc4x</guid>
-      <description>Originally published Wed 25 Nov 2026 08:05 IST.
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): So hat sich Merz bei der Generaldebatte geschlagen</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/so-hat-sich-merz-bei-der-generaldebatte-geschlagen/2124532</link>
+      <pubDate>Wed, 25 Nov 2026 22:48:37 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">385de3fb-e86c-4e09-a912-9ee500951b5e</guid>
+      <description>Originally published Wed 25 Nov 2026 19:00 IST.
 
-&lt;p&gt;The Chinese telecoms company, which has rejected its convictions in the United States, said the allegations were baseless and has threatened to take legal action. The jury in the landmark trial in New York cleared the firm of a more serious charge of racketeering. Also, a hostage crisis is underway in Colombia where gunmen are holding more than a dozen people captive at a supermarket. Senegal have been reinstated as African football champions almost ten months after they beat Morocco. The victims of a brutal conflict in Cameroon's Anglophone regions speak to the BBC. A leader of India's Cockroach movement is prevented from boarding a flight to the UK to speak about the movement. And a Pakistani air force pilot becomes the first astronaut who isn't from China to take part in a Chinese mission in space.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Im Bundestag hat Kanzler Merz den größten Haushalt in der Geschichte der Bundesrepublik verteidigt. Die AfD warf ihm eine &quot;Schuldenorgie&quot; vor, Die Linke &quot;soziale Kälte&quot;. Im &quot;Thema des Tages&quot; schauen wir auf die wichtigste Debatte in der Haushaltswoche.                                                            Moderation: Stefan EinöderGesprächspartner: Jakob Mayr, Korrespondent im ARD-HauptstadtstudioAutor: Jasper Riemann                                                                                                                                                          Unser Podcast-Tipp: 11KM - der tagesschau-Podcast https://www.ardsounds.de/sendung/11km-der-tagesschau-podcast/urn:ard:show:4549910994dc2464/</description>
+      <enclosure url="https://media.neuland.br.de/file/2124532/c/feed/so-hat-sich-merz-bei-der-generaldebatte-geschlagen.mp3" length="9057837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:47): US announces new tariffs on China and other countries</title>
+      <link>http://www.bbc.co.uk/programmes/p0ppwqrn</link>
+      <pubDate>Wed, 25 Nov 2026 22:47:37 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">urn:bbc:podcast:p0ppwqrn</guid>
+      <description>Originally published Wed 25 Nov 2026 18:47 IST.
+
+&lt;p&gt;The US has announced a fresh raft of tariffs as Donald Trump pushes ahead with his signature trade policy. The new taxes charged on imports to America are set to hit many of the country's biggest trading partners, including China, the EU, India, and Japan. China is facing the highest rate of up to 40%, followed by Vietnam at up to 35%. The new duties are not expected to take effect until next year.&lt;/p&gt;&lt;p&gt;Also: A hostage crisis involving dozens of people in Colombia has come to a dramatic end. South Africa's president, Cyril Ramaphosa, has won a court battle that has thwarted attempts to impeach him. Leaked data shows that nearly half a million Russian soldiers have been killed since the start of the invasion of Ukraine. And one of Africa's most celebrated film stars, the Nigerian actor Pete Edochie, has died.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Defence lawyer Brian Heberlig makes closing arguments at the Huawei Technologies trial.
-Credit: Jane Rosenberg/Reuters&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppr6k6.mp3" length="14392000" type="audio/mpeg"/>
+Photo: Donald Trump leaving the White House, 24th November.
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppwplz.mp3" length="14248000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
