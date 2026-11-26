@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:39:54 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Wed 22:26): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3618668.html</link>
-      <pubDate>Wed, 25 Nov 2026 22:54:37 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 06:03): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3618888.html</link>
+      <pubDate>Thu, 26 Nov 2026 04:39:54 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">09325b34-d6bd-423d-b1cf-5db369d1f005</guid>
-      <description>Originally published Wed 25 Nov 2026 22:26 IST.
+      <guid isPermaLink="false">0bb48e2c-e47b-48e2-8dfe-84e5141bb7f2</guid>
+      <description>Originally published Thu 26 Nov 2026 06:03 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1125/AU-20261125-2126-3200.mp3" length="2114831" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1126/AU-20261126-0503-3300.mp3" length="2120615" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 00:09): 5pm ET, November 25 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 06:09): 11pm ET, November 25 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Wed, 25 Nov 2026 22:53:37 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 04:38:54 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">d08c15c4-119b-4dbb-964b-54d1155a8512</guid>
-      <description>Originally published Thu 26 Nov 2026 00:09 IST.
+      <guid isPermaLink="false">5f4d4d62-4258-4424-bba5-4a2588ba7665</guid>
+      <description>Originally published Thu 26 Nov 2026 06:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/12ec00ac-c95e-4832-a68a-896be769f2bf/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=12ec00ac-c95e-4832-a68a-896be769f2bf&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261125-1700-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f5139d92-3459-44af-85bd-1a6c0bc7eea0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f5139d92-3459-44af-85bd-1a6c0bc7eea0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261125-2300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 25.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3618638.html</link>
-      <pubDate>Wed, 25 Nov 2026 22:52:37 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 04:37:54 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">09100f6f-aa30-4e7b-b459-40c1ef824d80-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 25 Nov 2026 21:00 IST.
@@ -46,20 +46,20 @@ Bundeskanzler Merz verteidigt in Generaldebatte im Bundestag seine Haushaltspoli
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1125/AU-20261125-2027-0900.mp3" length="15462690" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 00:00): Die Nachrichten vom 25.11.2026, 23:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46698.html</link>
-      <pubDate>Wed, 25 Nov 2026 22:51:37 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 06:00): Die Nachrichten vom 26.11.2026, 05:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46712.html</link>
+      <pubDate>Thu, 26 Nov 2026 04:36:54 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">c95c8d28-3fbc-5f02-857f-c0d141782355</guid>
-      <description>Originally published Thu 26 Nov 2026 00:00 IST.
+      <guid isPermaLink="false">f4e6759b-60dc-5cff-acb9-7cd8c4c88e07</guid>
+      <description>Originally published Thu 26 Nov 2026 06:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/25/nachrichten_dlf_20261125_2300_42b909c8.mp3?refId=nachrichten-108" length="9833095" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/26/nachrichten_dlf_20261126_0500_b602a03e.mp3?refId=nachrichten-108" length="5053314" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Ö1 Journal um acht (Wed 19:35): Abendjournal um 18 (25.11.2026)</title>
       <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-25112026</link>
-      <pubDate>Wed, 25 Nov 2026 22:50:37 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 04:35:54 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">di_oe1_journale_da1_7e50805969b64ea2bf6011edfa799efe</guid>
       <description>Originally published Wed 25 Nov 2026 19:35 IST.</description>
@@ -68,7 +68,7 @@ Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktual
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Jugendliche festgenommen | Schuldenschwelle gerissen | Krankenhauszukunft</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/terror-18-gruppe-festnahme-schuldenuhr-berlin-brandenburg-krankenhaus-landtag-orande-day-gewalt-gegen-frauen.html</link>
-      <pubDate>Wed, 25 Nov 2026 22:49:37 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 04:34:54 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/2b/b0/2bb087e2-e5d5-4457-aad0-e70b929c1436/2bb087e2-e5d5-4457-aad0-e70b929c1436_mp3-256kd.mp3</guid>
       <description>Originally published Wed 25 Nov 2026 19:17 IST.
@@ -81,7 +81,7 @@ Drei jugendliche Mitglieder der rechtsextremen Gruppe &quot;Terror 18&quot; wurd
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): So hat sich Merz bei der Generaldebatte geschlagen</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/so-hat-sich-merz-bei-der-generaldebatte-geschlagen/2124532</link>
-      <pubDate>Wed, 25 Nov 2026 22:48:37 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 04:33:54 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">385de3fb-e86c-4e09-a912-9ee500951b5e</guid>
       <description>Originally published Wed 25 Nov 2026 19:00 IST.
@@ -92,7 +92,7 @@ Im Bundestag hat Kanzler Merz den größten Haushalt in der Geschichte der Bunde
     <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:47): US announces new tariffs on China and other countries</title>
       <link>http://www.bbc.co.uk/programmes/p0ppwqrn</link>
-      <pubDate>Wed, 25 Nov 2026 22:47:37 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 04:32:54 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0ppwqrn</guid>
       <description>Originally published Wed 25 Nov 2026 18:47 IST.
