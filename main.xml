@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:40:27 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 06:03): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3618888.html</link>
-      <pubDate>Thu, 26 Nov 2026 04:39:54 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Thu 16:39): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3620436.html</link>
+      <pubDate>Thu, 26 Nov 2026 14:40:27 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">0bb48e2c-e47b-48e2-8dfe-84e5141bb7f2</guid>
-      <description>Originally published Thu 26 Nov 2026 06:03 IST.
+      <guid isPermaLink="false">b0c7c7ab-83e3-4ca7-81cd-ad10e08ddbbf</guid>
+      <description>Originally published Thu 26 Nov 2026 16:39 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1126/AU-20261126-0503-3300.mp3" length="2120615" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1126/AU-20261126-1539-0300.mp3" length="2173579" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Thu 06:09): 11pm ET, November 25 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Thu 16:09): 9am ET, November 26 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 26 Nov 2026 04:38:54 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:39:27 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">5f4d4d62-4258-4424-bba5-4a2588ba7665</guid>
-      <description>Originally published Thu 26 Nov 2026 06:09 IST.
+      <guid isPermaLink="false">6b21ed1a-1cd2-45cf-9335-23caadb03219</guid>
+      <description>Originally published Thu 26 Nov 2026 16:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/f5139d92-3459-44af-85bd-1a6c0bc7eea0/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=f5139d92-3459-44af-85bd-1a6c0bc7eea0&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261125-2300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1db203a5-cbc8-42a9-9588-3d7acd9e1f3c/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1db203a5-cbc8-42a9-9588-3d7acd9e1f3c&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261126-0900-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Wed 21:00): tagesschau 20:00 Uhr, 25.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3618638.html</link>
-      <pubDate>Thu, 26 Nov 2026 04:37:54 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:38:27 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">09100f6f-aa30-4e7b-b459-40c1ef824d80-SENDUNGSAUDIO</guid>
       <description>Originally published Wed 25 Nov 2026 21:00 IST.
@@ -46,30 +46,41 @@ Bundeskanzler Merz verteidigt in Generaldebatte im Bundestag seine Haushaltspoli
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1125/AU-20261125-2027-0900.mp3" length="15462690" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 06:00): Die Nachrichten vom 26.11.2026, 05:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46712.html</link>
-      <pubDate>Thu, 26 Nov 2026 04:36:54 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Thu 16:00): Die Nachrichten vom 26.11.2026, 15:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46752.html</link>
+      <pubDate>Thu, 26 Nov 2026 14:37:27 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">f4e6759b-60dc-5cff-acb9-7cd8c4c88e07</guid>
-      <description>Originally published Thu 26 Nov 2026 06:00 IST.
+      <guid isPermaLink="false">a348959d-5593-5bd1-987f-ec2f7ea1f92f</guid>
+      <description>Originally published Thu 26 Nov 2026 16:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/26/nachrichten_dlf_20261126_0500_b602a03e.mp3?refId=nachrichten-108" length="5053314" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/26/nachrichten_dlf_20261126_1500_ba27f006.mp3?refId=nachrichten-108" length="5033252" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Wed 19:35): Abendjournal um 18 (25.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-25112026</link>
-      <pubDate>Thu, 26 Nov 2026 04:35:54 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Thu 14:14): Mittagsjournal (26.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-26112026</link>
+      <pubDate>Thu, 26 Nov 2026 14:36:27 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_7e50805969b64ea2bf6011edfa799efe</guid>
-      <description>Originally published Wed 25 Nov 2026 19:35 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_7e50805969b64ea2bf6011edfa799efe.mp3?etag=d01e5579d3b389d26cd444933c62d777" length="36462807" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_c6c3dbb91d9d44fa9716e83acfd03efd</guid>
+      <description>Originally published Thu 26 Nov 2026 14:14 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_c6c3dbb91d9d44fa9716e83acfd03efd.mp3?etag=c298184a453fc8c497ca32d2db94a96d" length="87207833" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 09:15): EU streitet über Geld – Sondergipfel in Brüssel</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/eu-streitet-ueber-geld-sondergipfel-in-bruessel/2124555</link>
+      <pubDate>Thu, 26 Nov 2026 14:35:27 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">49aef473-c3c1-4b11-9285-daae731e0e1d</guid>
+      <description>Originally published Thu 26 Nov 2026 09:15 IST.
+
+Die Staats- und Regierungschefs der 27 EU-Länder beraten zwei Tage lang über den jüngsten Kompromissvorschlag zum langfristigen Haushalt der Europäischen Union.</description>
+      <enclosure url="https://media.neuland.br.de/file/2124555/c/feed/eu-streitet-ueber-geld-sondergipfel-in-bruessel.mp3" length="9111597" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Wed 19:17): Jugendliche festgenommen | Schuldenschwelle gerissen | Krankenhauszukunft</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/terror-18-gruppe-festnahme-schuldenuhr-berlin-brandenburg-krankenhaus-landtag-orande-day-gewalt-gegen-frauen.html</link>
-      <pubDate>Thu, 26 Nov 2026 04:34:54 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
+      <pubDate>Thu, 26 Nov 2026 14:34:27 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/2b/b0/2bb087e2-e5d5-4457-aad0-e70b929c1436/2bb087e2-e5d5-4457-aad0-e70b929c1436_mp3-256kd.mp3</guid>
       <description>Originally published Wed 25 Nov 2026 19:17 IST.
 
@@ -79,30 +90,18 @@ Drei jugendliche Mitglieder der rechtsextremen Gruppe &quot;Terror 18&quot; wurd
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/2b/b0/2bb087e2-e5d5-4457-aad0-e70b929c1436/2bb087e2-e5d5-4457-aad0-e70b929c1436_mp3-256kd.mp3" length="30033941" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Wed 19:00): So hat sich Merz bei der Generaldebatte geschlagen</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/so-hat-sich-merz-bei-der-generaldebatte-geschlagen/2124532</link>
-      <pubDate>Thu, 26 Nov 2026 04:33:54 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">385de3fb-e86c-4e09-a912-9ee500951b5e</guid>
-      <description>Originally published Wed 25 Nov 2026 19:00 IST.
-
-Im Bundestag hat Kanzler Merz den größten Haushalt in der Geschichte der Bundesrepublik verteidigt. Die AfD warf ihm eine &quot;Schuldenorgie&quot; vor, Die Linke &quot;soziale Kälte&quot;. Im &quot;Thema des Tages&quot; schauen wir auf die wichtigste Debatte in der Haushaltswoche.                                                            Moderation: Stefan EinöderGesprächspartner: Jakob Mayr, Korrespondent im ARD-HauptstadtstudioAutor: Jasper Riemann                                                                                                                                                          Unser Podcast-Tipp: 11KM - der tagesschau-Podcast https://www.ardsounds.de/sendung/11km-der-tagesschau-podcast/urn:ard:show:4549910994dc2464/</description>
-      <enclosure url="https://media.neuland.br.de/file/2124532/c/feed/so-hat-sich-merz-bei-der-generaldebatte-geschlagen.mp3" length="9057837" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Wed 18:47): US announces new tariffs on China and other countries</title>
-      <link>http://www.bbc.co.uk/programmes/p0ppwqrn</link>
-      <pubDate>Thu, 26 Nov 2026 04:32:54 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Thu 07:34): Trump approves Elon Musk's plan for data centres in space</title>
+      <link>http://www.bbc.co.uk/programmes/p0ppz1kd</link>
+      <pubDate>Thu, 26 Nov 2026 14:33:27 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0ppwqrn</guid>
-      <description>Originally published Wed 25 Nov 2026 18:47 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0ppz1kd</guid>
+      <description>Originally published Thu 26 Nov 2026 07:34 IST.
 
-&lt;p&gt;The US has announced a fresh raft of tariffs as Donald Trump pushes ahead with his signature trade policy. The new taxes charged on imports to America are set to hit many of the country's biggest trading partners, including China, the EU, India, and Japan. China is facing the highest rate of up to 40%, followed by Vietnam at up to 35%. The new duties are not expected to take effect until next year.&lt;/p&gt;&lt;p&gt;Also: A hostage crisis involving dozens of people in Colombia has come to a dramatic end. South Africa's president, Cyril Ramaphosa, has won a court battle that has thwarted attempts to impeach him. Leaked data shows that nearly half a million Russian soldiers have been killed since the start of the invasion of Ukraine. And one of Africa's most celebrated film stars, the Nigerian actor Pete Edochie, has died.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;The Trump Administration has approved Elon Musk's plan to launch one million SpaceX satellites into space for AI data centres which will function using solar power. Also: At least thirty people have been killed in the Egyptian capital, Cairo, after a petrol tanker overturned and caught fire on a major ring road. We have a special report on the German boat dealer suspected of being a key supplier to migrant smugglers operating in the English Channel. A new survey suggests that young people in Britain are having less sex, drinking less alcohol and living with their parents for longer. The US army blows up five tonnes of toxic explosives at a military base in Iowa. Why tiny licence-free cars like the Citroën Ami are gaining in popularity. And the former Duran Duran guitarist, Andy Taylor, has died after a long fight with prostate cancer.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Donald Trump leaving the White House, 24th November.
-Credit: EPA/Shutterstock&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppwplz.mp3" length="14248000" type="audio/mpeg"/>
+Photo: SpaceX launch site from BBC TV headline&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppz1cj.mp3" length="14528000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
