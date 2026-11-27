@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:25:38 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 01:26): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3621214.html</link>
-      <pubDate>Thu, 26 Nov 2026 23:26:59 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 06:09): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3621346.html</link>
+      <pubDate>Fri, 27 Nov 2026 06:25:38 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">133e5417-d434-4549-b60e-35436ae53c89</guid>
-      <description>Originally published Fri 27 Nov 2026 01:26 IST.
+      <guid isPermaLink="false">f4690a91-a8e5-47ad-8c77-1648a8974db3</guid>
+      <description>Originally published Fri 27 Nov 2026 06:09 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1127/AU-20261127-0026-1100.mp3" length="1902091" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1127/AU-20261127-0508-5800.mp3" length="2250406" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 01:09): 6pm ET, November 26 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 08:09): 1am ET, November 27 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Thu, 26 Nov 2026 23:25:59 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 06:24:38 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">4f9be061-265b-4fbf-a443-fb0d5e5b0765</guid>
-      <description>Originally published Fri 27 Nov 2026 01:09 IST.
+      <guid isPermaLink="false">84f0ed76-ded3-45de-aa1e-17f44f26fdca</guid>
+      <description>Originally published Fri 27 Nov 2026 08:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b4688332-655c-4b8c-b873-a7f8d63824b3/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b4688332-655c-4b8c-b873-a7f8d63824b3&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261126-1800-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1fc09782-665e-4c2d-8e2a-4cbd757577dc/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1fc09782-665e-4c2d-8e2a-4cbd757577dc&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261127-0100-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 26.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3621090.html</link>
-      <pubDate>Thu, 26 Nov 2026 23:24:59 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 06:23:38 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">1ef4b345-bfc1-452a-ac54-48be98b12311-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 26 Nov 2026 21:00 IST.
@@ -46,29 +46,29 @@ Einigung im Tarifstreit der Metall- und Elektroindustrie, Staats- und Regierungs
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1126/AU-20261126-2027-0900.mp3" length="15172001" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 00:59): Die Nachrichten vom 26.11.2026, 23:59 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46776.html</link>
-      <pubDate>Thu, 26 Nov 2026 23:23:59 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 08:00): Die Nachrichten vom 27.11.2026, 07:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46796.html</link>
+      <pubDate>Fri, 27 Nov 2026 06:22:38 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">1e1386a1-4afd-5fe4-b300-42e0428420cc</guid>
-      <description>Originally published Fri 27 Nov 2026 00:59 IST.
+      <guid isPermaLink="false">18a5c9f0-e1c1-5a60-88c8-1c9392c67a7e</guid>
+      <description>Originally published Fri 27 Nov 2026 08:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/26/nachrichten_dlf_20261126_2359_bc164d12.mp3?refId=nachrichten-108" length="5003995" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/27/nachrichten_dlf_20261127_0700_9896d7e2.mp3?refId=nachrichten-108" length="5014862" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Thu 19:35): Abendjournal um 18 (26.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-26112026</link>
-      <pubDate>Thu, 26 Nov 2026 23:22:59 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 07:19): Frühjournal um 6 (27.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-27112026</link>
+      <pubDate>Fri, 27 Nov 2026 06:21:38 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_4be615f77a1a4a62962837d3aeed1ede</guid>
-      <description>Originally published Thu 26 Nov 2026 19:35 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4be615f77a1a4a62962837d3aeed1ede.mp3?etag=c5036123d3ea4869a297008f0ae9df4c" length="36451275" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_239c6d4895d949569a01204fe570d9fa</guid>
+      <description>Originally published Fri 27 Nov 2026 07:19 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_239c6d4895d949569a01204fe570d9fa.mp3?etag=e99d0be82bd05223ebf56f9f2423139e" length="14972087" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Debatte über Jugendgewalt | Protest an TU Berlin | Weihnachtspostamt geöffnet</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/jugendgewalt-landtag-potsdam-protest-tu-konsolen-ausverkauft-weihnachtspostamt-himmelpfort.html</link>
-      <pubDate>Thu, 26 Nov 2026 23:21:59 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 06:20:38 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/53/90/53907dbb-e7fa-4147-85ab-9d494f7cf5b9/53907dbb-e7fa-4147-85ab-9d494f7cf5b9_mp3-256kd.mp3</guid>
       <description>Originally published Thu 26 Nov 2026 19:17 IST.
@@ -81,7 +81,7 @@ Jugendliche werden ausgeraubt und zusammengeschlagen, Partys gest&amp;#252;rmt u
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:30): Blackout: Eine Gemeinde probt den Ernstfall</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/blackout-eine-gemeinde-probt-den-ernstfall/2124577</link>
-      <pubDate>Thu, 26 Nov 2026 23:20:59 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 06:19:38 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">d5b911eb-d5d1-47af-96f3-347e0b18274c</guid>
       <description>Originally published Thu 26 Nov 2026 18:30 IST.
@@ -90,15 +90,19 @@ Fuchstal in Oberbayern hat sich vom Stromnetz abgetrennt. Doch der Versuch musst
       <enclosure url="https://media.neuland.br.de/file/2124577/c/feed/blackout-eine-gemeinde-probt-den-ernstfall.mp3" length="8855853" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Thu 18:09): Net migration to UK at lowest level since 1997</title>
-      <link>http://www.bbc.co.uk/programmes/p0pq2ymt</link>
-      <pubDate>Thu, 26 Nov 2026 23:19:59 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:20): President Zelensky voices his frustration with the US</title>
+      <link>http://www.bbc.co.uk/programmes/p0pq5lhm</link>
+      <pubDate>Fri, 27 Nov 2026 06:18:38 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pq2ymt</guid>
-      <description>Originally published Thu 26 Nov 2026 18:09 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pq5lhm</guid>
+      <description>Originally published Fri 27 Nov 2026 07:20 IST.
 
-&lt;p&gt;Net migration to Britain has fallen to the lowest level this century, excluding the Covid pandemic. Official data shows the number was 77,000 in the year ending in June - down about 90% from a peak in 2023. Tougher rules introduced in response to public concern have made it harder for people to come to work or study in the UK.  Asylum claims are also down. &lt;/p&gt;&lt;p&gt;Also: Israel has carried out more deadly airstrikes in the Gaza Strip, despite the ceasefire. A court in Kenya rules that the government breached the constitution by permitting the construction of an Ebola quarantine facility at a military base. US and South Korean researchers have created tiny robots which they hope could be used to treat patients with brain tumours. The BBC hears desperate appeals from women on death row in Iran. The Egyptian authorities say they have arrested a man on suspicion of causing a huge fire that killed 31 people when a fuel tanker overturned on a busy road in Cairo. The Norwegian low-cost airline, Norse Atlantic Airways, cancels all its flights, saying it faces a critical financial situation. And the British actress Helen Mirren launches a campaign to protect ancient olive groves in Italy which are threatened by an insect-borne bacterium.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.&lt;/p&gt;&lt;p&gt;Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.&lt;/p&gt;&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Photo: International arrivals sign at Heathrow airport (file picture)&lt;/p&gt;&lt;p&gt;Credit: BBC&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq2tz0.mp3" length="13320000" type="audio/mpeg"/>
+&lt;p&gt;Volodymyr Zelensky tells the BBC that it's up to Donald Trump to decide his own actions and opinions but it was clear that President Putin was an &quot;aggressor and a killer&quot; and therefore could not be a friend. The Ukrainian president also says the United States is too focused on the Middle East and it's not pushing Russia hard enough during peace talks. Also: the French actor, Gérard Depardieu, will stand trial for the alleged rape of the actress Charlotte Arnould; he denies wrongdoing. Thanksgiving celebrations in the US have been disrupted because of huge storms which have left homes on the east coast without power. We have an exclusive report from Saudi Arabia to hear how people there feel about the renewed war against the Houthis in Yemen. And the museum in Germany which has installed gym equipment in the galleries to try to get more people interested in art.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
+Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
+Photo: Ukraine's president Volodymyr Zelensky speaks to the BBC in Kyiv.
+Credit: BBC&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq5lc7.mp3" length="12584000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
