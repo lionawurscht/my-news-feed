@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:10:02 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,32 +13,21 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 06:09): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3621346.html</link>
-      <pubDate>Fri, 27 Nov 2026 06:25:38 +0000</pubDate>
-      <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">f4690a91-a8e5-47ad-8c77-1648a8974db3</guid>
-      <description>Originally published Fri 27 Nov 2026 06:09 IST.
-
-tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1127/AU-20261127-0508-5800.mp3" length="2250406" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|Overview] NPR News Now (Fri 08:09): 1am ET, November 27 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Fri 19:09): 12pm ET, November 27 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Fri, 27 Nov 2026 06:24:38 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">84f0ed76-ded3-45de-aa1e-17f44f26fdca</guid>
-      <description>Originally published Fri 27 Nov 2026 08:09 IST.
+      <pubDate>Fri, 27 Nov 2026 17:10:02 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">1d79a731-3d1a-435e-aeb1-6ff0e4d89c16</guid>
+      <description>Originally published Fri 27 Nov 2026 19:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/1fc09782-665e-4c2d-8e2a-4cbd757577dc/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=1fc09782-665e-4c2d-8e2a-4cbd757577dc&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261127-0100-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/84788479-ee7a-4bbd-b1b3-dff72ef45068/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=84788479-ee7a-4bbd-b1b3-dff72ef45068&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261127-1200-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 26.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3621090.html</link>
-      <pubDate>Fri, 27 Nov 2026 06:23:38 +0000</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Fri, 27 Nov 2026 17:09:02 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
       <guid isPermaLink="false">1ef4b345-bfc1-452a-ac54-48be98b12311-SENDUNGSAUDIO</guid>
       <description>Originally published Thu 26 Nov 2026 21:00 IST.
 
@@ -46,29 +35,40 @@ Einigung im Tarifstreit der Metall- und Elektroindustrie, Staats- und Regierungs
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1126/AU-20261126-2027-0900.mp3" length="15172001" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 08:00): Die Nachrichten vom 27.11.2026, 07:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46796.html</link>
-      <pubDate>Fri, 27 Nov 2026 06:22:38 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">18a5c9f0-e1c1-5a60-88c8-1c9392c67a7e</guid>
-      <description>Originally published Fri 27 Nov 2026 08:00 IST.
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 18:30): Die Nachrichten vom 27.11.2026, 17:30 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46838.html</link>
+      <pubDate>Fri, 27 Nov 2026 17:08:02 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">c65a988e-b38d-5484-9fec-8001c5b8ac5f</guid>
+      <description>Originally published Fri 27 Nov 2026 18:30 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/27/nachrichten_dlf_20261127_0700_9896d7e2.mp3?refId=nachrichten-108" length="5014862" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/27/nachrichten_dlf_20261127_1730_27d7a035.mp3?refId=nachrichten-108" length="4954676" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 07:19): Frühjournal um 6 (27.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/fruehjournal-um-6-27112026</link>
-      <pubDate>Fri, 27 Nov 2026 06:21:38 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 18:16): Journal um 5 (27.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-27112026</link>
+      <pubDate>Fri, 27 Nov 2026 17:07:02 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_2217c5eddeac49699bd0f4a263ed490b</guid>
+      <description>Originally published Fri 27 Nov 2026 18:16 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2217c5eddeac49699bd0f4a263ed490b.mp3?etag=a6cc76503474c39e3b5b5123aeefe25b" length="13403797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Lösung im Rentenstreit in Sicht? Arbeitsministerium präsentiert Gesetzentwurf</title>
+      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/loesung-im-rentenstreit-in-sicht-arbeitsministerium-praesentiert-gesetzentwurf/2124620</link>
+      <pubDate>Fri, 27 Nov 2026 17:06:02 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_239c6d4895d949569a01204fe570d9fa</guid>
-      <description>Originally published Fri 27 Nov 2026 07:19 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_239c6d4895d949569a01204fe570d9fa.mp3?etag=e99d0be82bd05223ebf56f9f2423139e" length="14972087" type="audio/mpeg"/>
+      <guid isPermaLink="false">4992f8e9-482f-4ae9-87c2-723c3e446640</guid>
+      <description>Originally published Fri 27 Nov 2026 19:00 IST.
+
+Monatelang hat die Bundesregierung gerungen, diskutiert und gestritten. Nun gibt es erste konkrete Lösungsansätze im Rentenstreit: Arbeits- und Sozialminister Schweitzer von der SPD hat heute einen ersten Gesetzentwurf vorgestellt. Grundlage hierfür waren auch die 33 Vorschläge der Rentenkommission. Das Gremium hatte die im Sommer vorgelegt. Seither gabs Zoff in der Regierung um die Umsetzung der Rentenreform. Der Gesetzentwurf soll nun final von der Koalition beraten und das Gesetz dann bald auf den Weg gebracht werden. Darauf schauen wir im BR24 Thema des Tages und ordnen die Pläne gemeinsam mit unserem Hauptstadtkorrespondenten, Tim Aßmann, ein. Moderation: Holger RomannAutor: Veit SchmelterGesprächspartner: Tim Aßmann, Hauptstadtkorrespondent</description>
+      <enclosure url="https://media.neuland.br.de/file/2124620/c/feed/loesung-im-rentenstreit-in-sicht-arbeitsministerium-praesentiert-gesetzentwurf.mp3" length="8161197" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Debatte über Jugendgewalt | Protest an TU Berlin | Weihnachtspostamt geöffnet</title>
       <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/jugendgewalt-landtag-potsdam-protest-tu-konsolen-ausverkauft-weihnachtspostamt-himmelpfort.html</link>
-      <pubDate>Fri, 27 Nov 2026 06:20:38 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 17:05:02 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/53/90/53907dbb-e7fa-4147-85ab-9d494f7cf5b9/53907dbb-e7fa-4147-85ab-9d494f7cf5b9_mp3-256kd.mp3</guid>
       <description>Originally published Thu 26 Nov 2026 19:17 IST.
@@ -79,30 +79,19 @@ Jugendliche werden ausgeraubt und zusammengeschlagen, Partys gest&amp;#252;rmt u
       <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/53/90/53907dbb-e7fa-4147-85ab-9d494f7cf5b9/53907dbb-e7fa-4147-85ab-9d494f7cf5b9_mp3-256kd.mp3" length="29218379" type="audio/x-mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Thu 18:30): Blackout: Eine Gemeinde probt den Ernstfall</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/blackout-eine-gemeinde-probt-den-ernstfall/2124577</link>
-      <pubDate>Fri, 27 Nov 2026 06:19:38 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:13): Can Pedro Sanchez hold on to Spain?</title>
+      <link>http://www.bbc.co.uk/programmes/p0pq8vbc</link>
+      <pubDate>Fri, 27 Nov 2026 17:04:02 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">d5b911eb-d5d1-47af-96f3-347e0b18274c</guid>
-      <description>Originally published Thu 26 Nov 2026 18:30 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pq8vbc</guid>
+      <description>Originally published Fri 27 Nov 2026 18:13 IST.
 
-Fuchstal in Oberbayern hat sich vom Stromnetz abgetrennt. Doch der Versuch musste vorzeitig abgebrochen werden. Was das bedeutet und wie gut bayerische Kommunen auf Katastrophen vorbereitet sind, besprechen wir im &quot;Thema des Tages&quot;.</description>
-      <enclosure url="https://media.neuland.br.de/file/2124577/c/feed/blackout-eine-gemeinde-probt-den-ernstfall.mp3" length="8855853" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Fri 07:20): President Zelensky voices his frustration with the US</title>
-      <link>http://www.bbc.co.uk/programmes/p0pq5lhm</link>
-      <pubDate>Fri, 27 Nov 2026 06:18:38 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pq5lhm</guid>
-      <description>Originally published Fri 27 Nov 2026 07:20 IST.
-
-&lt;p&gt;Volodymyr Zelensky tells the BBC that it's up to Donald Trump to decide his own actions and opinions but it was clear that President Putin was an &quot;aggressor and a killer&quot; and therefore could not be a friend. The Ukrainian president also says the United States is too focused on the Middle East and it's not pushing Russia hard enough during peace talks. Also: the French actor, Gérard Depardieu, will stand trial for the alleged rape of the actress Charlotte Arnould; he denies wrongdoing. Thanksgiving celebrations in the US have been disrupted because of huge storms which have left homes on the east coast without power. We have an exclusive report from Saudi Arabia to hear how people there feel about the renewed war against the Houthis in Yemen. And the museum in Germany which has installed gym equipment in the galleries to try to get more people interested in art.&lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
+&lt;p&gt;Polls tip Spain's Prime Minister, Pedro Sanchez, to lose Sunday's general election. The far-right Vox party is predicted to be part of a new coalition government led by the centre-right People's Party's Alberto Núñez Feijóo.&lt;/p&gt;&lt;p&gt;Also: Mathematicians warn that AI could crack encryption in the banking system. Turkish officials say they've arrested nine people from one of the last pro-opposition broadcasters in the country. The World Health Organisation says nearly 700 suspected cases of meningitis have been reported in Gaza since October. A Kenyan woodcutter who was wrongly sentenced to death over an attack on a British couple is suing London's Metropolitan Police force. Italy debates the biggest overhaul of animal hunting legislation in 30 years. And is Black Friday too good to be true? &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
 Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
 Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: Ukraine's president Volodymyr Zelensky speaks to the BBC in Kyiv.
-Credit: BBC&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq5lc7.mp3" length="12584000" type="audio/mpeg"/>
+Photo: Spanish Prime Minister Pedro Sanchez attends a campaign event in Plasencia, Spain. 
+Credit: EPA/Shutterstock&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq8rz2.mp3" length="14544000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
