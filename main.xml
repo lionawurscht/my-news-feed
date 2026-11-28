@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Sat, 28 Nov 2026 08:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:19:16 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,31 +13,31 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 10:41): tagesschau in 100 Sekunden</title>
-      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3623844.html</link>
-      <pubDate>Sat, 28 Nov 2026 08:47:10 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Sat 17:34): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3624362.html</link>
+      <pubDate>Sat, 28 Nov 2026 17:19:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">4495f230-0ca8-4e2f-b1c6-cd930e71df8d</guid>
-      <description>Originally published Sat 28 Nov 2026 10:41 IST.
+      <guid isPermaLink="false">6669002b-3f5c-4a9c-b8c6-f19463d93104</guid>
+      <description>Originally published Sat 28 Nov 2026 17:34 IST.
 
 tagesschau in 100 Sekunden</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1128/AU-20261128-0941-3000.mp3" length="1967371" type="audio/mpeg"/>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1128/AU-20261128-1633-5500.mp3" length="1875979" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[EN|Overview] NPR News Now (Sat 10:09): 3am ET, November 28 | The latest headlines from NPR</title>
+      <title>[EN|Overview] NPR News Now (Sat 19:09): 12pm ET, November 28 | The latest headlines from NPR</title>
       <link/>
-      <pubDate>Sat, 28 Nov 2026 08:46:10 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 17:18:16 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">b551d76a-4950-43dd-8bf8-535d372de5a2</guid>
-      <description>Originally published Sat 28 Nov 2026 10:09 IST.
+      <guid isPermaLink="false">586ec5bc-b7f5-4ead-8c97-727ee1ebd103</guid>
+      <description>Originally published Sat 28 Nov 2026 19:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/b0fbc0a3-23b9-4a6f-833c-9e923cb29e90/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=b0fbc0a3-23b9-4a6f-833c-9e923cb29e90&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261128-0300-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/c01aeb13-30f2-40a0-82fd-c5ee40e21ce9/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=c01aeb13-30f2-40a0-82fd-c5ee40e21ce9&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261128-1200-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
       <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 27.11.2026</title>
       <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3623348.html</link>
-      <pubDate>Sat, 28 Nov 2026 08:45:10 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 17:17:16 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">31b9f9eb-39c7-4061-b09f-48533d385c52-SENDUNGSAUDIO</guid>
       <description>Originally published Fri 27 Nov 2026 21:00 IST.
@@ -46,62 +46,35 @@ Kompromissvorschlag zur Rentenreform aus dem Arbeits- und Sozialministerium, Rea
       <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1127/AU-20261127-2027-0300.mp3" length="15383203" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 10:00): Die Nachrichten vom 28.11.2026, 09:00 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46878.html</link>
-      <pubDate>Sat, 28 Nov 2026 08:44:10 +0000</pubDate>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 18:00): Die Nachrichten vom 28.11.2026, 17:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46894.html</link>
+      <pubDate>Sat, 28 Nov 2026 17:16:16 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">b7a65d8b-64a4-5d27-85d9-210ca7854eb6</guid>
-      <description>Originally published Sat 28 Nov 2026 10:00 IST.
+      <guid isPermaLink="false">d04cf797-a2a7-58c8-b422-ebd674d43830</guid>
+      <description>Originally published Sat 28 Nov 2026 18:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/28/nachrichten_dlf_20261128_0900_012b1361.mp3?refId=nachrichten-108" length="4939629" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/28/nachrichten_dlf_20261128_1700_43e287b1.mp3?refId=nachrichten-108" length="4981007" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Sat 09:22): Morgenjournal um 8 (28.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/morgenjournal-um-8-28112026</link>
-      <pubDate>Sat, 28 Nov 2026 08:43:10 +0000</pubDate>
+      <title>[DE|Primary] Ö1 Journal um acht (Sat 14:11): Mittagsjournal (28.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/mittagsjournal-28112026</link>
+      <pubDate>Sat, 28 Nov 2026 17:15:16 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_4e99bce3f8be414c950ce855b218835d</guid>
-      <description>Originally published Sat 28 Nov 2026 09:22 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_4e99bce3f8be414c950ce855b218835d.mp3?etag=5674b49d557f7db95e9c991372815d13" length="22153920" type="audio/mpeg"/>
+      <guid isPermaLink="false">di_oe1_journale_da1_d318225fe9ae4d0487dbb96534bce265</guid>
+      <description>Originally published Sat 28 Nov 2026 14:11 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_d318225fe9ae4d0487dbb96534bce265.mp3?etag=24ab95f50da7be60c8bafe5a738f8c69" length="81193569" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Arbeitslosenzahlen | Problemkind Quartier 206 | TU-Besetzung</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/arbeitslosenzahlen-quartier-206-tu-besetzung.html</link>
-      <pubDate>Sat, 28 Nov 2026 08:42:10 +0000</pubDate>
+      <title>[EN|In-Depth] BBC Global News Podcast (Sat 14:00): The Happy Pod: Why birdwatching is good for the brain</title>
+      <link>http://www.bbc.co.uk/programmes/p0pq8mwm</link>
+      <pubDate>Sat, 28 Nov 2026 17:14:16 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/cf/17/cf178b7e-4965-473d-aef7-0484eecef2ca/cf178b7e-4965-473d-aef7-0484eecef2ca_mp3-256kd.mp3</guid>
-      <description>Originally published Fri 27 Nov 2026 19:17 IST.
+      <guid isPermaLink="false">urn:bbc:podcast:p0pq8mwm</guid>
+      <description>Originally published Sat 28 Nov 2026 14:00 IST.
 
-Die Arbeitsmarkt-Zahlen f&amp;#252;r November liegen vor - auch f&amp;#252;r Berlin und Brandenburg. Ein Beispiel aus Frankfurt (Oder) macht trotz schwieriger Zahlen auch Hoffnung. Weitere Themen sind die Versteigerung des Shopping-Areals Quartier 206 in der Berliner Friedrichstra&amp;#223;e und die &quot;Instandbesetzung&quot; an der Technischen Universit&amp;#228;t Berlin.
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/cf/17/cf178b7e-4965-473d-aef7-0484eecef2ca/cf178b7e-4965-473d-aef7-0484eecef2ca_mp3-256kd.mp3" length="29311247" type="audio/x-mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Lösung im Rentenstreit in Sicht? Arbeitsministerium präsentiert Gesetzentwurf</title>
-      <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/loesung-im-rentenstreit-in-sicht-arbeitsministerium-praesentiert-gesetzentwurf/2124620</link>
-      <pubDate>Sat, 28 Nov 2026 08:41:10 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
-      <guid isPermaLink="false">4992f8e9-482f-4ae9-87c2-723c3e446640</guid>
-      <description>Originally published Fri 27 Nov 2026 19:00 IST.
-
-Monatelang hat die Bundesregierung gerungen, diskutiert und gestritten. Nun gibt es erste konkrete Lösungsansätze im Rentenstreit: Arbeits- und Sozialminister Schweitzer von der SPD hat heute einen ersten Gesetzentwurf vorgestellt. Grundlage hierfür waren auch die 33 Vorschläge der Rentenkommission. Das Gremium hatte die im Sommer vorgelegt. Seither gabs Zoff in der Regierung um die Umsetzung der Rentenreform. Der Gesetzentwurf soll nun final von der Koalition beraten und das Gesetz dann bald auf den Weg gebracht werden. Darauf schauen wir im BR24 Thema des Tages und ordnen die Pläne gemeinsam mit unserem Hauptstadtkorrespondenten, Tim Aßmann, ein. Moderation: Holger RomannAutor: Veit SchmelterGesprächspartner: Tim Aßmann, Hauptstadtkorrespondent</description>
-      <enclosure url="https://media.neuland.br.de/file/2124620/c/feed/loesung-im-rentenstreit-in-sicht-arbeitsministerium-praesentiert-gesetzentwurf.mp3" length="8161197" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[EN|In-Depth] BBC Global News Podcast (Sat 06:16): US asks Mexicans to contact cartel tip line</title>
-      <link>http://www.bbc.co.uk/programmes/p0pqbs0c</link>
-      <pubDate>Sat, 28 Nov 2026 08:40:10 +0000</pubDate>
-      <itunes:episode>8</itunes:episode>
-      <guid isPermaLink="false">urn:bbc:podcast:p0pqbs0c</guid>
-      <description>Originally published Sat 28 Nov 2026 06:16 IST.
-
-&lt;p&gt;A diplomatic row has broken out between Mexico and the United States after the US Drug Enforcement Administration, the DEA, set up a drug cartel hotline. Mexicans can anonymously report cartel members and corrupt officials. Mexico's president, Claudia Sheinbaum, has described the hotline as interference.  &lt;/p&gt;&lt;p&gt;Also: the medical charity, MSF, says two employees have been killed in an Israeli strike on one of its clinics in Gaza. The IDF says the pair were Hamas terrorists. Canada's Supreme Court upholds a controversial ban on wearing religious symbols at work. And why are African coastal cities sinking? &lt;/p&gt;&lt;p&gt;The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.
-Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.
-Get in touch: &lt;a href=&quot;mailto:globalpodcast@bbc.co.uk&quot;&gt;globalpodcast@bbc.co.uk&lt;/a&gt;
-Photo: apps displayed on a mobile phone screen
-Credit: Yui Mok/PA Wire&lt;/p&gt;</description>
-      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pqbrz8.mp3" length="11984000" type="audio/mpeg"/>
+&lt;p&gt;A new study reveals the simple act of birdwatching is good news for our brains and slows down signs of ageing. We hear from a professor who recently discovered that the activity of spotting and identifying birds can help slow down cognitive decline, and from a young birdwatcher who is passionate about it. &lt;/p&gt;&lt;p&gt;Also in this edition, the six rubbish collectors who saved a man's life. Jack was taking out his trash when he accidentally cut his wrist on the lid of a tin. &lt;/p&gt;&lt;p&gt;We meet the 15-year-old who has been described as 'the wonder kid of cricket'. Batter Vaibhav Sooryavanshi hit the most sixes ever recorded in a senior men's innings - scoring 204 runs from 53 balls while playing for India's A team against the United Arab Emirates. Plus, hear about the woman who has made history for Puerto Rico by becoming the first married woman and mother to win Miss Universe. &lt;/p&gt;&lt;p&gt;Image: Two Variegated Fairywren birds sat on a tree branch. Credit: Rosie Morley. &lt;/p&gt;&lt;p&gt;Our weekly collection of inspiring, uplifting and happy news from around the world.&lt;/p&gt;</description>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pq8lhl.mp3" length="12712000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
