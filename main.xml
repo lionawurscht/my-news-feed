@@ -5,7 +5,7 @@
     <description>Audio news bulletins, ordered overview -&gt; primary -&gt; local -&gt; in-depth.</description>
     <link>https://lionawurscht.github.io/my-news-feed/</link>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:59:07 +0000</lastBuildDate>
     <image>
       <url>https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png</url>
       <title>My Daily News Digest</title>
@@ -13,52 +13,75 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/lionawurscht/my-news-feed/main/cover.png"/>
     <item>
-      <title>[EN|Overview] NPR News Now (Fri 19:09): 12pm ET, November 27 | The latest headlines from NPR</title>
-      <link/>
-      <pubDate>Fri, 27 Nov 2026 17:10:02 +0000</pubDate>
+      <title>[DE|Overview] Tagesschau in 100 Sekunden (Fri 22:33): tagesschau in 100 Sekunden</title>
+      <link>https://www.tagesschau.de/tagesschau_in_100_sekunden/audio-3623372.html</link>
+      <pubDate>Sat, 28 Nov 2026 00:59:07 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">1d79a731-3d1a-435e-aeb1-6ff0e4d89c16</guid>
-      <description>Originally published Fri 27 Nov 2026 19:09 IST.
+      <guid isPermaLink="false">80f509a5-fb43-4ad1-9522-57b466730989</guid>
+      <description>Originally published Fri 27 Nov 2026 22:33 IST.
+
+tagesschau in 100 Sekunden</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1127/AU-20261127-2132-5400.mp3" length="1863307" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[EN|Overview] NPR News Now (Sat 02:09): 7pm ET, November 27 | The latest headlines from NPR</title>
+      <link/>
+      <pubDate>Sat, 28 Nov 2026 00:58:07 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">cfe2ae33-3727-49d7-9dae-69f812d91c17</guid>
+      <description>Originally published Sat 28 Nov 2026 02:09 IST.
 
 The latest headlines from NPR at the top of this hour. &lt;br /&gt;&lt;br /&gt;The stories you hear are written, reported and fact-checked by NPR journalists.  Learn more about the standards of our journalism at&lt;a href=&quot;http://npr.org/ethics&quot; target=&quot;_blank&quot;&gt; npr.org/ethics&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at &lt;a href=&quot;http://plus.npr.org/&quot; target=&quot;_blank&quot;&gt;plus.npr.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://pcm.adswizz.com&quot;&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.npr.org/about-npr/179878450/privacy-policy&quot;&gt;NPR Privacy Policy&lt;/a&gt;</description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/84788479-ee7a-4bbd-b1b3-dff72ef45068/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=84788479-ee7a-4bbd-b1b3-dff72ef45068&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261127-1200-long&amp;p=500005&amp;d=280&amp;size=4586729" length="4586729" type="audio/mpeg"/>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/npr.simplecastaudio.com/368f8510-314e-46f1-8d26-5b87ed6ab6eb/episodes/0f7d131c-1c35-44b7-9985-9431dddcf4e8/audio/128/default.mp3?awCollectionId=368f8510-314e-46f1-8d26-5b87ed6ab6eb&amp;awEpisodeId=0f7d131c-1c35-44b7-9985-9431dddcf4e8&amp;feed=O9WlY7a5&amp;t=podcast&amp;e=nx-s1-20261127-1900-long&amp;p=500005&amp;d=280&amp;size=4586728" length="4586728" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Tagesschau 20 Uhr (Thu 21:00): tagesschau 20:00 Uhr, 26.11.2026</title>
-      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3621090.html</link>
-      <pubDate>Fri, 27 Nov 2026 17:09:02 +0000</pubDate>
-      <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">1ef4b345-bfc1-452a-ac54-48be98b12311-SENDUNGSAUDIO</guid>
-      <description>Originally published Thu 26 Nov 2026 21:00 IST.
-
-Einigung im Tarifstreit der Metall- und Elektroindustrie, Staats- und Regierungschefs der 27 EU-Länder beraten bei Sondergipfel über EU-Haushalt, Pablo Hernández de Cos soll neuer Präsident der Europäischen Zentralbank werden, AfD-Richtungsstreit über Migration, Zwei Iraker nach Razzia wegen Terrorverdacht festgenommen, Opfer sexualisierter Gewalt erhält 550.000 Euro vom Erzbistum Köln, FC-Bayern-Kapitän Joshua Kimmich verteidigt Jamal Musiala in Diskussion um Leistungsminderung aufgrund neurologischer Erkrankung, Das Wetter Hinweis: Der Beitrag zum Thema &quot;Jamal Musiala&quot; darf auf tagesschau.de aus rechtlichen Grünen nicht gezeigt werden.</description>
-      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1126/AU-20261126-2027-0900.mp3" length="15172001" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Fri 18:30): Die Nachrichten vom 27.11.2026, 17:30 Uhr</title>
-      <link>https://www.deutschlandfunk.de/nachrichten-46838.html</link>
-      <pubDate>Fri, 27 Nov 2026 17:08:02 +0000</pubDate>
+      <title>[DE|Primary] Tagesschau 20 Uhr (Fri 21:00): tagesschau 20:00 Uhr, 27.11.2026</title>
+      <link>https://www.tagesschau.de/tagesschau_20_uhr/audio-3623348.html</link>
+      <pubDate>Sat, 28 Nov 2026 00:57:07 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">c65a988e-b38d-5484-9fec-8001c5b8ac5f</guid>
-      <description>Originally published Fri 27 Nov 2026 18:30 IST.
+      <guid isPermaLink="false">31b9f9eb-39c7-4061-b09f-48533d385c52-SENDUNGSAUDIO</guid>
+      <description>Originally published Fri 27 Nov 2026 21:00 IST.
+
+Kompromissvorschlag zur Rentenreform aus dem Arbeits- und Sozialministerium, Reaktionen auf den Entwurf über Rentenreform von Arbeitsminister Schweitzer, Bundestag verabschiedet Haushalt für 2027, Keine Einigung auf EU-Haushalt, Black Friday lockt mit Angeboten, Wahlkampf-Endspurt vor Parlamentswahl in Spanien, Zugspitze startet in die Wintersaison, Das Wetter</description>
+      <enclosure url="https://tagesschau-podcast.ard-mcdn.de/audio/2026/1127/AU-20261127-2027-0300.mp3" length="15383203" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Primary] Deutschlandfunk - Die Nachrichten (Sat 02:00): Die Nachrichten vom 28.11.2026, 01:00 Uhr</title>
+      <link>https://www.deutschlandfunk.de/nachrichten-46854.html</link>
+      <pubDate>Sat, 28 Nov 2026 00:56:07 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">345770a5-103c-518b-a474-057b84962595</guid>
+      <description>Originally published Sat 28 Nov 2026 02:00 IST.
 
 Die wichtigsten Nachrichten aus Deutschland und der Welt. Rund um die Uhr aktualisiert. Aus der Deutschlandfunk-Nachrichtenredaktion. Deutschlandfunk-Nachrichtenredaktion www.deutschlandfunk.de, Die Nachrichten</description>
-      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/27/nachrichten_dlf_20261127_1730_27d7a035.mp3?refId=nachrichten-108" length="4954676" type="audio/mpeg"/>
+      <enclosure url="https://podcast-mp3.dradio.de/podcast/2026/11/28/nachrichten_dlf_20261128_0100_23739c2c.mp3?refId=nachrichten-108" length="5054568" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Primary] Ö1 Journal um acht (Fri 18:16): Journal um 5 (27.11.2026)</title>
-      <link>https://sound.orf.at/podcast/oe1/oe1-journale/journal-um-5-27112026</link>
-      <pubDate>Fri, 27 Nov 2026 17:07:02 +0000</pubDate>
-      <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">di_oe1_journale_da1_2217c5eddeac49699bd0f4a263ed490b</guid>
-      <description>Originally published Fri 27 Nov 2026 18:16 IST.</description>
-      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_2217c5eddeac49699bd0f4a263ed490b.mp3?etag=a6cc76503474c39e3b5b5123aeefe25b" length="13403797" type="audio/mpeg"/>
+      <title>[DE|Primary] Ö1 Journal um acht (Fri 19:33): Abendjournal um 18 (27.11.2026)</title>
+      <link>https://sound.orf.at/podcast/oe1/oe1-journale/abendjournal-um-18-27112026</link>
+      <pubDate>Sat, 28 Nov 2026 00:55:07 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">di_oe1_journale_da1_0b17b80985e0476bb2943b00c05471a2</guid>
+      <description>Originally published Fri 27 Nov 2026 19:33 IST.</description>
+      <enclosure url="https://podcast.orf.at/podcast/oe1/oe1_journale/items/di_oe1_journale_da1_0b17b80985e0476bb2943b00c05471a2.mp3?etag=4950a9e7b70ab563ea85325d3b725085" length="36534879" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Fri 19:17): Arbeitslosenzahlen | Problemkind Quartier 206 | TU-Besetzung</title>
+      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/arbeitslosenzahlen-quartier-206-tu-besetzung.html</link>
+      <pubDate>Sat, 28 Nov 2026 00:54:07 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/cf/17/cf178b7e-4965-473d-aef7-0484eecef2ca/cf178b7e-4965-473d-aef7-0484eecef2ca_mp3-256kd.mp3</guid>
+      <description>Originally published Fri 27 Nov 2026 19:17 IST.
+
+Die Arbeitsmarkt-Zahlen f&amp;#252;r November liegen vor - auch f&amp;#252;r Berlin und Brandenburg. Ein Beispiel aus Frankfurt (Oder) macht trotz schwieriger Zahlen auch Hoffnung. Weitere Themen sind die Versteigerung des Shopping-Areals Quartier 206 in der Berliner Friedrichstra&amp;#223;e und die &quot;Instandbesetzung&quot; an der Technischen Universit&amp;#228;t Berlin.
+&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
+      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/cf/17/cf178b7e-4965-473d-aef7-0484eecef2ca/cf178b7e-4965-473d-aef7-0484eecef2ca_mp3-256kd.mp3" length="29311247" type="audio/x-mpeg"/>
     </item>
     <item>
       <title>[DE|Local] BR24 Thema des Tages (Bayern) (Fri 19:00): Lösung im Rentenstreit in Sicht? Arbeitsministerium präsentiert Gesetzentwurf</title>
       <link>https://www.br.de/mediathek/podcast/br24-thema-des-tages/loesung-im-rentenstreit-in-sicht-arbeitsministerium-praesentiert-gesetzentwurf/2124620</link>
-      <pubDate>Fri, 27 Nov 2026 17:06:02 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <pubDate>Sat, 28 Nov 2026 00:53:07 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">4992f8e9-482f-4ae9-87c2-723c3e446640</guid>
       <description>Originally published Fri 27 Nov 2026 19:00 IST.
 
@@ -66,23 +89,10 @@ Monatelang hat die Bundesregierung gerungen, diskutiert und gestritten. Nun gibt
       <enclosure url="https://media.neuland.br.de/file/2124620/c/feed/loesung-im-rentenstreit-in-sicht-arbeitsministerium-praesentiert-gesetzentwurf.mp3" length="8161197" type="audio/mpeg"/>
     </item>
     <item>
-      <title>[DE|Local] rbb24 Der Tag in Berlin und Brandenburg (Berlin) (Thu 19:17): Debatte über Jugendgewalt | Protest an TU Berlin | Weihnachtspostamt geöffnet</title>
-      <link>https://www.inforadio.de/rubriken/der-tag-in-berlin-und-brandenburg/2026/11/jugendgewalt-landtag-potsdam-protest-tu-konsolen-ausverkauft-weihnachtspostamt-himmelpfort.html</link>
-      <pubDate>Fri, 27 Nov 2026 17:05:02 +0000</pubDate>
-      <itunes:episode>6</itunes:episode>
-      <guid isPermaLink="false">https://rbbmediapmdp-a.akamaihd.net/content/53/90/53907dbb-e7fa-4147-85ab-9d494f7cf5b9/53907dbb-e7fa-4147-85ab-9d494f7cf5b9_mp3-256kd.mp3</guid>
-      <description>Originally published Thu 26 Nov 2026 19:17 IST.
-
-Jugendliche werden ausgeraubt und zusammengeschlagen, Partys gest&amp;#252;rmt und Schulh&amp;#246;fe tyrannisiert - all das haben wir zuletzt mehrfach aus St&amp;#228;dten in Brandenburg geh&amp;#246;rt. Heute hat der Landtag in Potsdam &amp;#252;ber das Thema Jugendgewalt debattiert. Weitere Themen: An der Technischen Universit&amp;#228;t Berlin herrscht Sanierungsstau bei Baum&amp;#228;ngeln - heute haben sich die Studierenden zu einer Vollversammlung am Campus in Charlottenburg getroffen. In der Region ist die beliebteste Konsole zum Spiel &quot;GTA 6&quot; ausverkauft - und in Himmelpfort hat das Weihnachtspostamt ge&amp;#246;ffnet.
-
-&quot;DER TAG in Berlin und Brandenburg&quot; &amp;#8211; kompakt und informativ mit dem Neuesten aus Ihrer Region. Abonnieren und h&amp;#246;ren k&amp;#246;nnen Sie den Podcast in ARD Sounds. &quot;DER TAG&quot; gibt es auch im Vorabendprogramm im rbb-Fernsehen, immer montags bis freitags 18 Uhr.</description>
-      <enclosure url="https://rbbmediapmdp-a.akamaihd.net/content/53/90/53907dbb-e7fa-4147-85ab-9d494f7cf5b9/53907dbb-e7fa-4147-85ab-9d494f7cf5b9_mp3-256kd.mp3" length="29218379" type="audio/x-mpeg"/>
-    </item>
-    <item>
       <title>[EN|In-Depth] BBC Global News Podcast (Fri 18:13): Can Pedro Sanchez hold on to Spain?</title>
       <link>http://www.bbc.co.uk/programmes/p0pq8vbc</link>
-      <pubDate>Fri, 27 Nov 2026 17:04:02 +0000</pubDate>
-      <itunes:episode>7</itunes:episode>
+      <pubDate>Sat, 28 Nov 2026 00:52:07 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">urn:bbc:podcast:p0pq8vbc</guid>
       <description>Originally published Fri 27 Nov 2026 18:13 IST.
 
